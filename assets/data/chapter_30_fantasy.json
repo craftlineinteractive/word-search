@@ -1,0 +1,2144 @@
+{
+  "id": 30,
+  "key": "fantasy",
+  "title": "Fantasy",
+  "iconAsset": "assets/chapter_images/fantasy.png",
+  "themeColor": 4288423856,
+  "levels": [
+    {
+      "levelNumber": 1,
+      "title": "Fantasy Level 1",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "GITHYANKI",
+          "meaning": "Astral-dwelling martial humanoid race wielding silver greatswords and riding red dragons",
+          "example": "Clad in ornate segmented plate, the githyanki warrior dimension-doored directly behind the mind flayer."
+        },
+        {
+          "word": "NECROMANCER",
+          "meaning": "Spellcaster who practices dark magic to communicate with and animate the dead",
+          "example": "A bone crown rested on the brow of the necromancer as he raised skeletal legions from graves."
+        },
+        {
+          "word": "PHLEGETHON",
+          "meaning": "River of boiling fire and molten pitch in Greek mythology flowing through Tartarus",
+          "example": "Streams of liquid fire surged through the rocky chasm where the river Phlegethon plunged downward."
+        },
+        {
+          "word": "BLADEMASTER",
+          "meaning": "Supreme warrior possessing peerless mastery of edged weapons and fencing katas",
+          "example": "A solitary blademaster held the mountain bridge against an entire vanguard of orcs."
+        },
+        {
+          "word": "UNDERWORLD",
+          "meaning": "Mythological or supernatural realm of the dead situated beneath the surface of the earth",
+          "example": "Charon rowed his spectral wooden boat across the black waters of the Underworld."
+        },
+        {
+          "word": "BROADSWORD",
+          "meaning": "Sword with a wide, double-edged straight blade designed for slashing and cutting",
+          "example": "The knight drew his heavy steel broadsword from its scabbard, bracing for the cavalry clash."
+        },
+        {
+          "word": "JESTER",
+          "meaning": "Professional entertainer or fool employed by medieval nobility to provide witty amusement",
+          "example": "Juggling colorful bells, the witty court jester teased the pompous duke without consequence."
+        },
+        {
+          "word": "TIEFLING",
+          "meaning": "Humanoid bearing infernal heritage marked by curved horns, tail, and supernatural resistance",
+          "example": "Casting a sulfurous rebuke, the horned tiefling deflected the incoming fireball with hellish flame."
+        }
+      ]
+    },
+    {
+      "levelNumber": 2,
+      "title": "Fantasy Level 2",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "HALFLING",
+          "meaning": "Small, peace-loving folk known for cheerful disposition, nimble feet, and pastoral homelands",
+          "example": "The barefoot halfling enjoyed second breakfast in the sunny garden before the unexpected quest began."
+        },
+        {
+          "word": "FORTRESS",
+          "meaning": "Large, permanent military building or complex fortified against heavy siege attack",
+          "example": "Siege catapults hurled burning rocks against the massive stone bastions of the border fortress."
+        },
+        {
+          "word": "GEOMANCY",
+          "meaning": "Divination or magical manipulation of the earth, stones, minerals, and soil",
+          "example": "The geomancer slammed his staff into the ground, causing stone spikes to erupt under the trolls."
+        },
+        {
+          "word": "VAMPIRE",
+          "meaning": "Immortal undead predator that drinks the blood of the living and shuns bright sunlight",
+          "example": "The nocturnal count retreated to his velvet-lined sarcophagus before dawn light touched the castle."
+        },
+        {
+          "word": "HUMANOID",
+          "meaning": "Creature having human appearance, anatomy, and cognitive characteristics",
+          "example": "The treaty recognized equal trading rights for all peaceful humanoid races within the realm."
+        },
+        {
+          "word": "COSMOS",
+          "meaning": "The universe seen as a well-ordered and harmonious system encompassing all planes",
+          "example": "Ancient philosophers mapped the interlocking spheres of the cosmos using crystal orreries."
+        },
+        {
+          "word": "TABAXI",
+          "meaning": "Feline humanoid race driven by boundless curiosity, agile reflexes, and love of lore",
+          "example": "With retractable claws and spotted fur, the agile tabaxi leaped thirty feet across the chasm."
+        },
+        {
+          "word": "SVARTALFHEIM",
+          "meaning": "Subterranean cavern world of the master craftsman Dark Elves and dwarves in Norse lore",
+          "example": "Dwarven forges roared night and day within the vast underground chambers of Svartalfheim."
+        }
+      ]
+    },
+    {
+      "levelNumber": 3,
+      "title": "Fantasy Level 3",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "BLUDGEON",
+          "meaning": "Thick heavy stick with a solid head used as a blunt concussive weapon",
+          "example": "A hefty oak bludgeon was the preferred weapon of the hulking mountain bridge troll."
+        },
+        {
+          "word": "OUBLIETTE",
+          "meaning": "Secret dungeon cell accessed only by a trapdoor in the ceiling into which prisoners are forgotten",
+          "example": "The tyrant lowered enemies into the dark oubliette, never to see daylight again."
+        },
+        {
+          "word": "DUCHESS",
+          "meaning": "Wife or widow of a duke, or a woman holding the high rank of a duchy in her own right",
+          "example": "The duchess hosted an extravagant masquerade ball in her marble coastal pavilion."
+        },
+        {
+          "word": "CROSSBOW",
+          "meaning": "Mechanism consisting of a bow mounted horizontally on a stock that shoots quarrels",
+          "example": "Pulling the steel lever cocked the heavy crossbow string, ready to fire at the approaching ogre."
+        },
+        {
+          "word": "EARLDOM",
+          "meaning": "Status, jurisdiction, territory, or estate belonging to a British earl",
+          "example": "Ancient oak forests and fertile river valleys formed the historic lands of the earldom."
+        },
+        {
+          "word": "BYTOPIA",
+          "meaning": "Twin-layered peaceful celestial plane of pastoral beauty and idyllic pastoral craftsmanship",
+          "example": "Two mountain ranges faced each other across the sky in the pastoral paradise of Bytopia."
+        },
+        {
+          "word": "HALBERD",
+          "meaning": "Combined spear and battleaxe consisting of an axe blade topped with a spike on a long pole",
+          "example": "Castle guards crossed their ornate halberds to bar the entrance to the throne room."
+        },
+        {
+          "word": "HYDROMANCY",
+          "meaning": "Divination or magical control over water, tides, rivers, and oceanic currents",
+          "example": "Practicing hydromancy, the priestess calmed the churning tempest by touching the seawater."
+        }
+      ]
+    },
+    {
+      "levelNumber": 4,
+      "title": "Fantasy Level 4",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "MEPHIT",
+          "meaning": "Small, winged elemental creature composed of smoke, steam, dust, or magma",
+          "example": "Sparks popped as a mischievous steam mephit hissed from the boiling alchemical beaker."
+        },
+        {
+          "word": "DRYAD",
+          "meaning": "Tree nymph or female spirit in folklore bound inextricably to the life of a specific oak tree",
+          "example": "The shy green-haired dryad stepped gracefully from the hollow trunk of the ancient sacred oak."
+        },
+        {
+          "word": "DOPPELGANGER",
+          "meaning": "Sinister shapeshifter able to perfectly mimic the appearance, voice, and memories of another",
+          "example": "The guard realized too late that the king giving orders was a cunning, deceitful doppelganger."
+        },
+        {
+          "word": "LEPRECHAUN",
+          "meaning": "Diminutive fairy cobbler in Irish folklore who hides a pot of gold at the end of the rainbow",
+          "example": "The clever leprechaun bartered for his freedom by pointing toward his hidden pot of gold shamrocks."
+        },
+        {
+          "word": "EVOCATION",
+          "meaning": "School of magic dealing with channeling raw elemental energy into damaging effects",
+          "example": "A devastating evocation spell ignited a column of roaring solar fire across the battlefield."
+        },
+        {
+          "word": "ELECTROMANCY",
+          "meaning": "Magical channeling and generation of lightning, static sparks, and electric arcs",
+          "example": "Blue sparks arced between his fingertips as the electromancer energized the copper rod."
+        },
+        {
+          "word": "VASSAL",
+          "meaning": "Holder of land by feudal tenure on conditions of homage, allegiance, and military service",
+          "example": "The loyal vassal answered the call to arms, bringing fifty armored men-at-arms to the king."
+        },
+        {
+          "word": "KELPIE",
+          "meaning": "Shapeshifting aquatic spirit of Scottish folklore appearing as a horse to drown riders in lochs",
+          "example": "The weary traveler almost mounted the white pony before noticing seaweed tangled in the kelpie mane."
+        }
+      ]
+    },
+    {
+      "levelNumber": 5,
+      "title": "Fantasy Level 5",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "WITCH",
+          "meaning": "Practitioner of folk magic, potion brewing, herbalism, and nature communion",
+          "example": "Stirring a bubbling cauldron of mandrake root, the woodland witch brewed a balm to cure the plague."
+        },
+        {
+          "word": "KING",
+          "meaning": "Male sovereign ruler of an independent kingdom, typically holding hereditary title",
+          "example": "The valiant king led his royal knights in person, wielding his ancestral broadsword."
+        },
+        {
+          "word": "COUNT",
+          "meaning": "European nobleman whose rank corresponds to that of a British earl",
+          "example": "The Italian count displayed an exquisite gallery of Renaissance paintings in his villa."
+        },
+        {
+          "word": "KOBOLD",
+          "meaning": "Small, subterranean reptilian or goblin-like humanoid skilled at mining, trapping, and trickery",
+          "example": "Sneaky kobold skirmishers lured the adventurers into an underground chamber rigged with dart traps."
+        },
+        {
+          "word": "STONEGOLEM",
+          "meaning": "Monolithic guardian animated from carved granite or marble by ancient spellcraft",
+          "example": "Ancient ruins were guarded by a colossal stone golem wielding an intact pillar like a club."
+        },
+        {
+          "word": "WYRM",
+          "meaning": "Ancient, wingless, serpentine dragon burrowing deep beneath roots and hoarding treasures",
+          "example": "Deep within the roots of the world slept the ancient blind wyrm, brooding over cursed gold."
+        },
+        {
+          "word": "DRAKE",
+          "meaning": "Smaller, quadrupedal or wingless relative of dragons possessing sharp fangs and elemental breath",
+          "example": "Hunters trained hunting drakes to track escaped fugitives through the volcanic badlands."
+        },
+        {
+          "word": "POTION",
+          "meaning": "Liquid with magical or poisonous properties brewed from herbs, crystals, and reagents",
+          "example": "A glowing vial of crimson healing potion knit the knight sword wound in seconds."
+        }
+      ]
+    },
+    {
+      "levelNumber": 6,
+      "title": "Fantasy Level 6",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CHEVALIER",
+          "meaning": "Knight, horseman, or member of certain orders of knighthood in France",
+          "example": "The brave chevalier lowered his lance as he charged across the tournament grounds."
+        },
+        {
+          "word": "KITESHIELD",
+          "meaning": "Large, almond-shaped shield with a rounded top and tapering bottom used by Normans",
+          "example": "Norman cavalry carried long kite shields that protected their bodies from shoulder to shin."
+        },
+        {
+          "word": "AMAZON",
+          "meaning": "Member of a legendary race of female warriors renowned for horse riding and archery",
+          "example": "The queen of the Amazons led her fierce mounted archers across the Anatolian plains."
+        },
+        {
+          "word": "ORICHALCUM",
+          "meaning": "Legendary reddish-golden metal described by Plato as mined and used in lost Atlantis",
+          "example": "Atlantean pillars gleamed with the warm, iridescent copper-gold luster of refined orichalcum."
+        },
+        {
+          "word": "MACE",
+          "meaning": "Heavy blunt weapon with a spiked or fluted metal head mounted on a reinforced handle",
+          "example": "The cleric swung his fluted iron mace, smashing through the bone armor of the skeleton."
+        },
+        {
+          "word": "FAMILIAR",
+          "meaning": "Supernatural animal spirit or imp acting as a companion and assistant to a spellcaster",
+          "example": "A sleek black raven perched on the wizard shoulder, serving as his loyal magical familiar."
+        },
+        {
+          "word": "ESQUIRE",
+          "meaning": "Landed gentleman ranking just below a knight, or an attendant to a knight",
+          "example": "The young esquire cared for the warhorse and polished the knight armor before the battle."
+        },
+        {
+          "word": "WARFORGED",
+          "meaning": "Sentient mechanical humanoid forged from living wood and metal imbued with artificial life",
+          "example": "Constructed for an ancient empire war, the thoughtful warforged pondered the purpose of his soul."
+        }
+      ]
+    },
+    {
+      "levelNumber": 7,
+      "title": "Fantasy Level 7",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "VISCOUNTESS",
+          "meaning": "Wife or widow of a viscount, or a woman holding the noble rank in her own right",
+          "example": "The viscountess arrived at court in a carriage drawn by six matched bay horses."
+        },
+        {
+          "word": "SPELLCASTING",
+          "meaning": "Act or skill of performing rituals, chants, and somatic gestures to manifest magic",
+          "example": "Rigorous training in spellcasting allowed the young acolyte to conjure light in dark dungeons."
+        },
+        {
+          "word": "THIEF",
+          "meaning": "Cunning rogue specializing in picking locks, stealth, and liberating treasures",
+          "example": "The nimble cat burglar thief scaled the palace drainpipe and slipped through the window."
+        },
+        {
+          "word": "GOLEM",
+          "meaning": "Animated anthropomorphic being created entirely from inanimate matter through mystical rituals",
+          "example": "The holy rabbi inscribed sacred Hebrew letters upon the clay forehead of the protective golem."
+        },
+        {
+          "word": "CANTRIP",
+          "meaning": "Simple, basic magic spell requiring minimal effort that can be cast at will",
+          "example": "The apprentice cast a cantrip to light his candle flame without needing flint or steel."
+        },
+        {
+          "word": "TSARINA",
+          "meaning": "Empress or wife of a tsar ruling the Russian Empire before the revolution",
+          "example": "The tsarina inspected the imperial guard in a sleigh lined with ermine and sable fur."
+        },
+        {
+          "word": "COCKATRICE",
+          "meaning": "Monstrous two-legged creature with a rooster head and dragon wings turning victims to stone",
+          "example": "Adventurers carried brass mirrors to protect themselves from the petrifying gaze of the cockatrice."
+        },
+        {
+          "word": "PIXIE",
+          "meaning": "Small, mischievous humanoid creature with pointed ears and fairy wings fond of practical jokes",
+          "example": "A giggle echoed through the hollow stump as a tiny pixie sprinkled sparkling pollen over the hiker."
+        }
+      ]
+    },
+    {
+      "levelNumber": 8,
+      "title": "Fantasy Level 8",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CRYSTALBALL",
+          "meaning": "Spherical crystal orb used by seers and fortune tellers to scry distant events",
+          "example": "Mists parted inside the polished crystal ball, revealing the assassin climbing the garden wall."
+        },
+        {
+          "word": "PHLEGETHOS",
+          "meaning": "Fourth layer of the Nine Hells dominated by active volcanoes and rivers of liquid fire",
+          "example": "Geysers of roaring magma erupted continually across the jagged volcanic crags of Phlegethos."
+        },
+        {
+          "word": "GENASI",
+          "meaning": "Humanoid beings infused with elemental heritage tracing lineage to fire, earth, water, or air",
+          "example": "Embers drifted from the fiery hair of the fire genasi whenever her temper flared in debate."
+        },
+        {
+          "word": "INCANTATION",
+          "meaning": "Series of rhymed words chanted as a magic spell to produce supernatural effects",
+          "example": "Muttering a rhythmic Latin incantation, the scholar dispelled the magical barrier across the door."
+        },
+        {
+          "word": "PYROMANCY",
+          "meaning": "Divination or magical manipulation of fire and flames to attack or foresee events",
+          "example": "Sparks swirled into the shape of soaring falcons as the pyromancer commanded the bonfire."
+        },
+        {
+          "word": "REALM",
+          "meaning": "Kingdom, domain, or sphere of rule governed by a monarch or supernatural sovereign",
+          "example": "Peace reigned throughout the elven realm as ancient treaties protected its forest borders."
+        },
+        {
+          "word": "CLAYMORE",
+          "meaning": "Large Scottish two-handed broadsword or a basket-hilted broadsword used by highlanders",
+          "example": "With both hands gripping the leather hilt of his massive claymore, the chief swept through foes."
+        },
+        {
+          "word": "ALEMBIC",
+          "meaning": "Apparatus consisting of two vessels connected by a tube used for distilling alchemical potions",
+          "example": "Condensed steam dripped from the curved beak of the glass alembic into a crystal receiver."
+        }
+      ]
+    },
+    {
+      "levelNumber": 9,
+      "title": "Fantasy Level 9",
+      "gridRows": 10,
+      "gridCols": 10,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "ELF",
+          "meaning": "Graceful, long-lived humanoid race blessed with keen senses, magical affinity, and archery skill",
+          "example": "The high elf scout moved silently across the forest canopy without disturbing a single autumn leaf."
+        },
+        {
+          "word": "OCCULT",
+          "meaning": "Supernatural, mystical, or magical beliefs and practices hidden from ordinary view",
+          "example": "Tallow candles illuminated the chalk circles of the secret occult society gathering in the cellar."
+        },
+        {
+          "word": "COUNTESS",
+          "meaning": "Wife or widow of a count or earl, or a woman holding the title in her own right",
+          "example": "The countess was celebrated across Europe for her patronages of poets and musicians."
+        },
+        {
+          "word": "LEVIATHAN",
+          "meaning": "Enormous sea monster or primordial serpent ruling the depths of the ocean abyss",
+          "example": "Gigantic coils of the Leviathan churned the ocean waves into a tempestuous whirlpool."
+        },
+        {
+          "word": "GNOME",
+          "meaning": "Small humanoid creature characterized by inventiveness, magical curiosity, and burrow homes",
+          "example": "The excitable forest gnome demonstrated his steam-powered clockwork bird to the curious wizard."
+        },
+        {
+          "word": "MAHARAJA",
+          "meaning": "Great king or high prince of India ranking above an ordinary rajah",
+          "example": "The lavish palace of the maharaja boasted fountains filled with scented rosewater."
+        },
+        {
+          "word": "PRINCE",
+          "meaning": "Son of a monarch, or a male member of a royal family holding high status",
+          "example": "The brave prince rode through the dragon territory to rescue the captive villagers."
+        },
+        {
+          "word": "TIARA",
+          "meaning": "Jeweled ornamental coronet worn by women on formal ceremonial occasions",
+          "example": "A delicate platinum tiara set with pear-shaped pearls adorned the forehead of the bride."
+        }
+      ]
+    },
+    {
+      "levelNumber": 10,
+      "title": "Fantasy Level 10",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "URUK",
+          "meaning": "Elite, towering breed of orc bred for supreme physical stamina, discipline, and daylight combat",
+          "example": "Clad in black iron cuirasses, the towering uruks pressed forward without slowing their march."
+        },
+        {
+          "word": "FEYWILD",
+          "meaning": "Echo plane of the mortal world steeped in vibrant nature, capricious emotions, and raw magic",
+          "example": "Colors were blindingly bright and flowers sang sweet harmonies within the twilight Feywild."
+        },
+        {
+          "word": "NEMEAN",
+          "meaning": "Invulnerable mythical lion slain by Heracles whose golden pelt could not be pierced by weapons",
+          "example": "Heracles choked the ferocious Nemean beast with bare hands, donning its skin as protective armor."
+        },
+        {
+          "word": "HEATER",
+          "meaning": "Classic triangular medieval knight shield with a flat top and pointed base",
+          "example": "Painted with a scarlet griffin on gold, the knight wooden heater shield absorbed arrow fire."
+        },
+        {
+          "word": "HAUBERK",
+          "meaning": "Tunic of chainmail reaching to the knees with long sleeves protecting the body",
+          "example": "Under his velvet surcoat, the crusader wore a flexible riveted iron hauberk."
+        },
+        {
+          "word": "CHIVALRY",
+          "meaning": "Medieval knightly system with its religious, moral, and social code of honor",
+          "example": "The code of chivalry demanded that knights protect the defenseless and speak the truth."
+        },
+        {
+          "word": "CROSSBOWMAN",
+          "meaning": "Soldier armed with a mechanical crossbow firing deadly steel-tipped bolts",
+          "example": "The Genoese crossbowman winched his steel weapon and aimed through the castle arrow slit."
+        },
+        {
+          "word": "CENTURION",
+          "meaning": "Commander of a century in the ancient Roman army renowned for discipline and valor",
+          "example": "The decorated centurion held his ground, rallying his tired legionnaires against the barbarian charge."
+        },
+        {
+          "word": "JORMUNGANDR",
+          "meaning": "Midgard Serpent of Norse myth so immense that its coils circle the entirety of the world",
+          "example": "The ocean churned with boiling poison as the titanic Midgard serpent raised its towering horned head."
+        }
+      ]
+    },
+    {
+      "levelNumber": 11,
+      "title": "Fantasy Level 11",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "VORPAL",
+          "meaning": "Weapon or blade capable of decapitating foes with supernatural sharpness",
+          "example": "With a swift snicker-snack, the vorpal blade cleanly severed the head of the jabberwock."
+        },
+        {
+          "word": "SORCERY",
+          "meaning": "Art and practice of magic channeled from innate supernatural or demonic bloodlines",
+          "example": "Crackling arcs of azure lightning danced across her fingertips as she unleashed wild sorcery."
+        },
+        {
+          "word": "NIXIE",
+          "meaning": "Water sprite of Germanic folklore often playing magical music to lure mortals into deep water",
+          "example": "Silver harp music floated over the misty lake, played by a mischievous webbed-fingered nixie."
+        },
+        {
+          "word": "CHANT",
+          "meaning": "Rhythmic recitation of magical prayers or words of power during sacred rituals",
+          "example": "A low Gregorian chant echoed through the cathedral vaulted cloisters as candles flickered."
+        },
+        {
+          "word": "RUKH",
+          "meaning": "Gigantic legendary bird of Arabic and Persian folklore renowned for monumental wingspan",
+          "example": "Sinbad tied himself to the leg of the sleeping rukh to escape the valley of diamonds."
+        },
+        {
+          "word": "CALIBURN",
+          "meaning": "Alternate Celtic and romance name for Excalibur, the miraculous sword of King Arthur",
+          "example": "The Lady of the Lake raised her arm from the misty water, offering Caliburn to the king."
+        },
+        {
+          "word": "ARCHDUKE",
+          "meaning": "Chief duke or prince of the imperial family of Austria ranking just below an emperor",
+          "example": "The young archduke commanded the imperial vanguard during the defense of the Danube."
+        },
+        {
+          "word": "CLAIRVOYANCE",
+          "meaning": "Supposed faculty of perceiving things or events in the future or beyond normal sensory range",
+          "example": "Using clairvoyance, the blind oracle described the secret movement of enemy cavalry miles away."
+        },
+        {
+          "word": "GOLIATH",
+          "meaning": "Towering, mountain-dwelling humanoid race possessing stone-like skin markings and fierce honor",
+          "example": "The eight-foot goliath warrior hoisted a granite boulder over his head to hurl at the invading giants."
+        }
+      ]
+    },
+    {
+      "levelNumber": 12,
+      "title": "Fantasy Level 12",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "SABER",
+          "meaning": "Heavy curved sword with one cutting edge traditionally used by cavalry troops",
+          "example": "Cavalrymen drew their polished steel sabers as they galloped toward the enemy flank."
+        },
+        {
+          "word": "MIDGARD",
+          "meaning": "Name for the human realm of Earth in Norse cosmology situated in the middle of Yggdrasil",
+          "example": "Viking ships sailed across the stormy seas of Midgard under the watchful eyes of the Aesir."
+        },
+        {
+          "word": "NETHER",
+          "meaning": "Situated down or below pertaining to subterranean or underworld realms of darkness",
+          "example": "The dark necromancer channeled nether energies to tear open a portal to the shadow plane."
+        },
+        {
+          "word": "THAUMATURGY",
+          "meaning": "Performance of miracles or working of magic often manifesting as divine wonders",
+          "example": "With simple thaumaturgy, the cleric caused his voice to boom across the cathedral like thunder."
+        },
+        {
+          "word": "GLYPH",
+          "meaning": "Inscribed or carved hieroglyphic character imbued with magical trigger wards",
+          "example": "Stepping on the concealed stone glyph detonated a blinding burst of concussive force."
+        },
+        {
+          "word": "LIEGE",
+          "meaning": "Feudal superior or sovereign to whom a vassal owes allegiance and military service",
+          "example": "Bowing low on one knee, the knight swore eternal fidelity to his rightful liege lord."
+        },
+        {
+          "word": "MINAUROS",
+          "meaning": "Third layer of the Nine Hells consisting of a foul, sinking swamp of acidic mud",
+          "example": "Gilded palaces of the fallen archdevil slowly sank into the bubbling green slime of Minauros."
+        },
+        {
+          "word": "ABJURATION",
+          "meaning": "School of protective magic focused on creating barriers, banishing spirits, and nullifying spells",
+          "example": "Specializing in abjuration, the wizard shielded his companions from the breath of the red dragon."
+        },
+        {
+          "word": "MINOTAUR",
+          "meaning": "Monstrous creature with the head of a bull and the muscular body of a man dwelling in labyrinths",
+          "example": "Deep within the twisting Cretan labyrinth echoed the bone-chilling roar of the Minotaur."
+        }
+      ]
+    },
+    {
+      "levelNumber": 13,
+      "title": "Fantasy Level 13",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "KINGDOM",
+          "meaning": "Country, state, or territory ruled by a king or queen with sovereign authority",
+          "example": "Lush wheat fields and prosperous towns flourished across the length of the peaceful kingdom."
+        },
+        {
+          "word": "ANIMATE",
+          "meaning": "To endow inanimate matter with life, motion, or spiritual energy through magic",
+          "example": "With a word of power, the wizard caused three broomsticks to animate and sweep the tower floor."
+        },
+        {
+          "word": "VISCOUNT",
+          "meaning": "British nobleman ranking above a baron and below an earl in the peerage",
+          "example": "The viscount attended royal parliament to represent the interests of the rural shires."
+        },
+        {
+          "word": "DURENDAL",
+          "meaning": "Variant name for the enchanted and unbreakable sword borne by the hero Roland",
+          "example": "According to legend, Durendal was so sharp that it cleft an entire canyon in the limestone cliffs."
+        },
+        {
+          "word": "UNIVERSE",
+          "meaning": "All existing matter, space, and time considered as an integrated whole",
+          "example": "Astronomers marveled at the infinite tapestry of spinning galaxies scattered throughout the universe."
+        },
+        {
+          "word": "QUEEN",
+          "meaning": "Female sovereign ruler of a kingdom, or the consort of an anointed king",
+          "example": "The beloved queen opened the royal granaries to feed peasants during the harsh winter."
+        },
+        {
+          "word": "PSEUDODRAGON",
+          "meaning": "Tiny, cat-sized dragon possessing playful disposition and a stinging tail",
+          "example": "The affectionate pseudodragon curled around the young mage neck, purring like a warm kitten."
+        },
+        {
+          "word": "BUGBEAR",
+          "meaning": "Large, hairy, and stealthy goblinoid known for ambush tactics and surprising agility",
+          "example": "Despite his hulking seven-foot frame, the bugbear stalker slipped through shadows without a sound."
+        },
+        {
+          "word": "KRAKEN",
+          "meaning": "Gigantic legendary cephalopod sea monster dwelling off coasts capable of dragging entire ships down",
+          "example": "Colossal rubbery tentacles of the Kraken wrapped around the wooden hull of the doomed galleon."
+        }
+      ]
+    },
+    {
+      "levelNumber": 14,
+      "title": "Fantasy Level 14",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "MYSTICAL",
+          "meaning": "Inspiring a sense of spiritual mystery, awe, and fascination beyond mundane reality",
+          "example": "A mystical lavender radiance emanated from the sacred pond deep in the heart of the forest."
+        },
+        {
+          "word": "BUCKLER",
+          "meaning": "Small, round, lightweight shield gripped in the fist used for parrying in duels",
+          "example": "Fencing with rapier and buckler allowed the swordsman to deflect blades while delivering thrusts."
+        },
+        {
+          "word": "SATYR",
+          "meaning": "Mythological woodland creature with the upper body of a man and the legs and horns of a goat",
+          "example": "Piping sweet melodies on his pan flute, the mischievous satyr danced with nymphs beneath grapevines."
+        },
+        {
+          "word": "BRIGANDINE",
+          "meaning": "Cloth or leather garment lined with small oblong steel plates riveted to the fabric",
+          "example": "Rich red velvet covered the exterior of his flexible, rivet-studded brigandine armor."
+        },
+        {
+          "word": "MANTICORE",
+          "meaning": "Terrifying beast with a human head, lion body, bat wings, and a scorpion tail firing deadly spikes",
+          "example": "Venomous quills rained down as the howling manticore hovered over the royal wagon train."
+        },
+        {
+          "word": "MYTHOLOGY",
+          "meaning": "Collection of myths, legends, and divine folklore belonging to a particular culture",
+          "example": "Studying Norse mythology revealed the epic struggles between gods, giants, and monstrous beasts."
+        },
+        {
+          "word": "INFERNAL",
+          "meaning": "Relating to or characteristic of hell, the underworld, or demonic planar depths",
+          "example": "Flames of infernal brimstone roared around the obsidian gates of the nine hells."
+        },
+        {
+          "word": "ENCHANTRESS",
+          "meaning": "Woman who uses magical charms and spells to captivate or influence others",
+          "example": "The sorcerous enchantress sang a spellbinding melody that halted the advancing hostile knights."
+        },
+        {
+          "word": "MJOLNIR",
+          "meaning": "Enchanted divine hammer of Thor that returns to the thrower and commands thunder",
+          "example": "Thor raised the divine hammer Mjolnir, calling down cracking bolts of blinding blue lightning."
+        }
+      ]
+    },
+    {
+      "levelNumber": 15,
+      "title": "Fantasy Level 15",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "MALADOMINI",
+          "meaning": "Seventh layer of the Nine Hells filled with ruins of unfinished monumental cities",
+          "example": "Thousands of indentured spirits carved marble monuments across the sprawling ruined cities of Maladomini."
+        },
+        {
+          "word": "DUNGEON",
+          "meaning": "Dark, subterranean prison cell beneath a castle where captives are confined",
+          "example": "Rats scurried through damp straw in the gloomy dungeon where the captured traitor was chained."
+        },
+        {
+          "word": "BEHEMOTH",
+          "meaning": "Colossal and primordial beast of immense strength mentioned in ancient biblical lore",
+          "example": "The ancient earth trembled with each thunderous step of the primeval behemoth across the plains."
+        },
+        {
+          "word": "TRANSMUTATION",
+          "meaning": "School of magic focused on changing the physical properties and form of matter",
+          "example": "With a wave of his wand, the transmutation specialist turned the iron bars of his cage into wood."
+        },
+        {
+          "word": "FIEF",
+          "meaning": "Estate of land, especially one held on condition of feudal military service",
+          "example": "The king granted a prosperous river valley fief to the victorious captain of the guard."
+        },
+        {
+          "word": "SHIELDGUARDIAN",
+          "meaning": "Magically bound construct created to protect and deflect damage from its attuned master",
+          "example": "The bronze shield guardian stepped between the evil necromancer and the incoming volley of arrows."
+        },
+        {
+          "word": "EFREET",
+          "meaning": "Supernatural creature of fire and smoke renowned for malice, strength, and cunning",
+          "example": "The efreet bargained with deceptive words, seeking to twist the mortal wish into a deadly curse."
+        },
+        {
+          "word": "PENTAGRAM",
+          "meaning": "Five-pointed star symbol enclosed in a circle used in magical rituals and protection wards",
+          "example": "A chalk pentagram on the flagstones prevented the summoned shadow demon from escaping."
+        },
+        {
+          "word": "BALMUNG",
+          "meaning": "Legendary dragon-slaying sword wielded by Siegfried in Germanic heroic epic poetry",
+          "example": "Siegfried drew the keen blade Balmung to confront the venomous dragon Fafnir in its cave."
+        }
+      ]
+    },
+    {
+      "levelNumber": 16,
+      "title": "Fantasy Level 16",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "TELEKINESIS",
+          "meaning": "Supposed ability to move objects at a distance using only mental power",
+          "example": "Without lifting a finger, the telepath used telekinesis to slide the iron key across the floor."
+        },
+        {
+          "word": "TYRFING",
+          "meaning": "Cursed magical sword of Norse mythology that must kill someone whenever it is drawn",
+          "example": "Bound by a terrible dwarf curse, the gleaming blade Tyrfing never missed a stroke but brought ruin."
+        },
+        {
+          "word": "WORMHOLE",
+          "meaning": "Hypothetical or magical passage through spacetime connecting distant points in the cosmos",
+          "example": "The dimensional navigator plotted a course through the spatial wormhole to reach the outer galaxy."
+        },
+        {
+          "word": "PRINCESS",
+          "meaning": "Daughter of a monarch, or a female member of a royal family holding noble birth",
+          "example": "Trained in court diplomacy and falconry, the young princess spoke five foreign languages."
+        },
+        {
+          "word": "NIFLHEIM",
+          "meaning": "Primordial realm of mist, ice, and eternal cold in Norse mythology",
+          "example": "Freezing mists and poisoned rivers bubbled forth from the primordial darkness of Niflheim."
+        },
+        {
+          "word": "QUASIT",
+          "meaning": "Diminutive, wicked demon able to assume shapes of bats or toads serving chaotic masters",
+          "example": "The warlock disguised his demonic quasit as a harmless green frog to spy on the royal court."
+        },
+        {
+          "word": "ARCHDUCHY",
+          "meaning": "Territory, domain, or realm governed by an archduke or archduchess",
+          "example": "Iron mines in the southern mountains provided steady tax revenues for the archduchy."
+        },
+        {
+          "word": "CRENELLATION",
+          "meaning": "Pattern along the top of a parapet consisting of alternating solid parts and openings",
+          "example": "Stone crenellations along the castle roof provided excellent cover for archers returning fire."
+        },
+        {
+          "word": "SORCEROUS",
+          "meaning": "Possessing, exhibiting, or resulting from magical sorcery and arcane enchantments",
+          "example": "A sorcerous hum vibrated through the chamber as the floating basalt monument rotated on its axis."
+        }
+      ]
+    },
+    {
+      "levelNumber": 17,
+      "title": "Fantasy Level 17",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "ARCANE",
+          "meaning": "Mysterious, secret, and understood by few pertaining to academic study of magic",
+          "example": "The university library contained forbidden shelves of ancient arcane treatises on portal gates."
+        },
+        {
+          "word": "GARGOYLE",
+          "meaning": "Grotesque carved stone monster perched on cathedrals capable of coming to life by moonlight",
+          "example": "At the midnight bell, the weathered stone gargoyle spread its bat-like wings and took flight."
+        },
+        {
+          "word": "CELESTIA",
+          "meaning": "Seven-tiered divine mountain of pure goodness, holy light, and absolute cosmic justice",
+          "example": "Holy angels with wings of pure solar radiance guarded the gleaming pearlescent steps of Celestia."
+        },
+        {
+          "word": "CORNUCOPIA",
+          "meaning": "Mythical horn of plenty overflowing with flowers, corn, and abundant fruits",
+          "example": "The magical cornucopia poured forth an endless harvest of ripe pomegranates and golden grapes."
+        },
+        {
+          "word": "WARLOCKRY",
+          "meaning": "Practices and rituals associated with warlocks and otherworldly pact magic",
+          "example": "Dark grimoires detailing the forbidden arts of warlockry were locked inside the obsidian vault."
+        },
+        {
+          "word": "SHADOWWEAVE",
+          "meaning": "Mystical magical fabric woven from ethereal shadows rendering wearers invisible in gloom",
+          "example": "Draped in a cloak of shimmering shadowweave, the rogue melted into the midnight gloom."
+        },
+        {
+          "word": "FIRBOLG",
+          "meaning": "Gentle, giant-kin woodland race blessed with nature magic and disguise abilities",
+          "example": "The wise firbolg druid whispered an ancient charm to soothe the wounded grizzly bear in the glade."
+        },
+        {
+          "word": "PURGATORY",
+          "meaning": "Intermediate state or realm after physical death for purifying expiation of venial sins",
+          "example": "Souls climbed the terraced mountain of Purgatory, shedding worldly burdens as they ascended."
+        },
+        {
+          "word": "HEX",
+          "meaning": "Curse, malicious spell, or jinx cast to bring misfortune, sickness, or doom upon someone",
+          "example": "The vindictive crone laid a terrible hex upon the village wells, turning water into vinegar."
+        }
+      ]
+    },
+    {
+      "levelNumber": 18,
+      "title": "Fantasy Level 18",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "MYRMIDON",
+          "meaning": "Member of a warlike Thessalian people who were fiercely loyal followers of Achilles",
+          "example": "The disciplined Myrmidon phalanx marched steadily forward, their bronze shields interlocked."
+        },
+        {
+          "word": "PHANTOM",
+          "meaning": "Apparition or ghost appearing in deceptive illusory form to haunt and confuse the living",
+          "example": "Music played from an empty organ loft as the masked phantom vanished into the opera shadows."
+        },
+        {
+          "word": "WIZARDRY",
+          "meaning": "Art and practice of casting spells learned through rigorous scholarly study of arcana",
+          "example": "Decades of tireless research in high towers made the archmage the greatest master of wizardry."
+        },
+        {
+          "word": "WARDS",
+          "meaning": "Magical protective barriers erected around an area to keep out intruders or harm",
+          "example": "Inscribed glowing runes formed impenetrable wards that turned aside incoming siege fireballs."
+        },
+        {
+          "word": "OGRE",
+          "meaning": "Large, hideous, and voracious humanoid giant infamous in folklore for devouring travelers",
+          "example": "The gluttonous ogre leaned against his massive wooden club, smelling roasted mutton over the pit."
+        },
+        {
+          "word": "SENESCHAL",
+          "meaning": "Governor or steward in a medieval noble household managing domestic ceremonies and justice",
+          "example": "The seneschal tapped his silver staff on the flagstones to announce the arrival of the king."
+        },
+        {
+          "word": "BOON",
+          "meaning": "Supernatural favor, blessing, or gift bestowed by a deity, fairy, or royal benefactor",
+          "example": "In gratitude for rescuing her cub, the forest queen granted the ranger a miraculous healing boon."
+        },
+        {
+          "word": "CURSE",
+          "meaning": "Solemn utterance or dark spell intended to invoke supernatural harm upon a person or place",
+          "example": "The sealed tomb bore a terrifying curse warning all desecrators of agonizing madness."
+        },
+        {
+          "word": "FLAIL",
+          "meaning": "Weapon consisting of a spiked metal ball connected by a chain to a wooden handle",
+          "example": "Whirling the chain of his heavy flail overhead, the knight swung past the defender parry."
+        },
+        {
+          "word": "BARONY",
+          "meaning": "Domain or land owned and ruled by a feudal baron or baroness",
+          "example": "Ten farming hamlets and a stone quarry comprised the wealth of the noble barony."
+        },
+        {
+          "word": "DUCHY",
+          "meaning": "Territory, fief, or domain ruled over by a duke or duchess",
+          "example": "The coastal duchy commanded a powerful fleet of merchant galleys and naval caravels."
+        }
+      ]
+    },
+    {
+      "levelNumber": 19,
+      "title": "Fantasy Level 19",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "EMPRESS",
+          "meaning": "Female ruler of an empire, or the wife of an emperor holding imperial rank",
+          "example": "The empress governed the court with keen political intellect while the emperor was abroad."
+        },
+        {
+          "word": "NESSUS",
+          "meaning": "Ninth and deepest layer of the Nine Hells where the supreme Archdevil resides in his palace",
+          "example": "Deep within the fathomless gorge of Malsheem lay the bronze throne room of the king of Nessus."
+        },
+        {
+          "word": "HOBGOBLIN",
+          "meaning": "Larger, disciplined, and militaristic cousin of goblins organized into ruthless war legions",
+          "example": "Rank upon rank of armored hobgoblin legionnaires marched in locked formation behind iron shields."
+        },
+        {
+          "word": "PERIAPT",
+          "meaning": "Charm, pendant, or amulet worn as a magical protection against disease or misfortune",
+          "example": "The royal physician hung a silver periapt around the sick king neck to halt the wasting illness."
+        },
+        {
+          "word": "JOTUNHEIM",
+          "meaning": "Rugged and frosty realm of the frost and mountain giants in Norse cosmology",
+          "example": "Glaciers and granite precipices towered miles high over the frozen wilderness of Jotunheim."
+        },
+        {
+          "word": "WILLOWISP",
+          "meaning": "Atmospheric ghostly light hovering over bogs that lures travelers off safe paths to their doom",
+          "example": "A bobbing pale blue will-o-wisp misled the lost knights deep into the treacherous peat quagmire."
+        },
+        {
+          "word": "CERBERUS",
+          "meaning": "Monstrous three-headed hound guarding the bronze gates of the Underworld to prevent dead escaping",
+          "example": "Hercules wrestled the snarling three-headed Cerberus to complete his twelfth and final labor."
+        },
+        {
+          "word": "YEOMAN",
+          "meaning": "Free man holding and cultivating a small landed estate, often serving as a longbowman",
+          "example": "English yeomen were renowned throughout Europe for their formidable archery in battle."
+        },
+        {
+          "word": "SCRYING",
+          "meaning": "Practice of gazing into a crystal ball, mirror, or pool to divine future or distant events",
+          "example": "Gazing into the silver scrying bowl, the queen observed the enemy fleet setting sail."
+        },
+        {
+          "word": "CARCERI",
+          "meaning": "Desolate prison plane of six nested concentric globes designed to hold immortal inmates",
+          "example": "Iron chains bound the fallen gods inside the desolate swamp sphere of the prison plane Carceri."
+        },
+        {
+          "word": "TRIDENT",
+          "meaning": "Three-pronged spear used for spearfishing and as a mythical weapon of Neptune",
+          "example": "Poseidon struck the sea floor with his bronze trident, summoning tidal waves and earthquakes."
+        }
+      ]
+    },
+    {
+      "levelNumber": 20,
+      "title": "Fantasy Level 20",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "ROC",
+          "meaning": "Enormous mythical bird of prey legendary in Arabian lore capable of carrying off elephants",
+          "example": "The shadow of the gigantic roc darkened the island valley as it returned to its clifftop nest."
+        },
+        {
+          "word": "WYVERN",
+          "meaning": "Winged two-legged reptilian beast with a barbed venomous stinger on its tail",
+          "example": "The mountain scout spotted a fierce green wyvern circling the jagged mountain pass."
+        },
+        {
+          "word": "GLADIATOR",
+          "meaning": "Person trained to fight with weapons against other people or wild animals in an arena",
+          "example": "The victorious gladiator raised his trident as sixty thousand spectators roared in the Colosseum."
+        },
+        {
+          "word": "HELHEIM",
+          "meaning": "Dark, cold subterranean underworld in Norse myth ruled by the goddess Hel for the sick and aged",
+          "example": "Shades who died of old age or sickness journeyed to the silent frozen halls of Helheim."
+        },
+        {
+          "word": "POSTERN",
+          "meaning": "Back door or private secondary gate in a castle or city fortification",
+          "example": "Under cover of darkness, the spy slipped out through the concealed postern gate in the moat wall."
+        },
+        {
+          "word": "AETHER",
+          "meaning": "Mystical fifth element believed to fill the cosmos beyond the terrestrial sphere",
+          "example": "Airships powered by condensed aether engines glided silently through the upper clouds."
+        },
+        {
+          "word": "SHADOWFELL",
+          "meaning": "Bleak, monochrome mirror plane of shadows, sorrow, and decayed echoes of the world",
+          "example": "Ash fell softly like black snow upon the crumbling tombstones of the somber Shadowfell."
+        },
+        {
+          "word": "VAMBRACE",
+          "meaning": "Piece of armor designed to protect the forearm from sword slashes",
+          "example": "He strapped a pair of embossed leather vambraces over his forearms before practicing swordplay."
+        },
+        {
+          "word": "ZOMBIE",
+          "meaning": "Reanimated corpse devoid of consciousness or soul controlled by necromantic enchantments",
+          "example": "The shambling zombie moaned hollowly as it obeyed the dark command of the graveyard master."
+        },
+        {
+          "word": "TOMAHAWK",
+          "meaning": "Light axe used as a tool or thrown weapon by indigenous peoples of North America",
+          "example": "The scout hurled his balanced steel tomahawk, embedding it deep into the target stump."
+        },
+        {
+          "word": "DOMINION",
+          "meaning": "Sovereignty or control over territory, or an independent realm under a crown",
+          "example": "The ancient high king held dominion over five coastal provinces and three island archipelagos."
+        }
+      ]
+    },
+    {
+      "levelNumber": 21,
+      "title": "Fantasy Level 21",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "ETHEREAL",
+          "meaning": "Extremely delicate, ghostly, and translucent existing on border planes between worlds",
+          "example": "Ghostly towers of the ethereal citadel shimmered through the mist, just out of physical reach."
+        },
+        {
+          "word": "FLESHGOLEM",
+          "meaning": "Construct assembled from stitched corporeal remains and animated by lightning and alchemy",
+          "example": "Stitched together with wire and copper rods, the flesh golem surged to life under lightning bolts."
+        },
+        {
+          "word": "NECROMANTIC",
+          "meaning": "Relating to or involving the magical manipulation of death, corpses, and undead energy",
+          "example": "A foul necromantic miasma hung over the desecrated crypt, withering the surrounding grass."
+        },
+        {
+          "word": "ELIXIR",
+          "meaning": "Magical liquid or potion capable of prolonging life, curing sickness, or transmuting metals",
+          "example": "Drinking a single vial of the golden elixir restored vigor and youth to the elderly monarch."
+        },
+        {
+          "word": "RAPIER",
+          "meaning": "Slender, sharply pointed sword used for thrusting popular in Renaissance Europe",
+          "example": "Fencing with lightning agility, the duelist pierced his opponent shoulder with a quick rapier thrust."
+        },
+        {
+          "word": "SUZERAIN",
+          "meaning": "Sovereign or state having control over another state that is internally autonomous",
+          "example": "The mountain kingdom paid annual tribute in silver to its imperial suzerain."
+        },
+        {
+          "word": "BODKIN",
+          "meaning": "Narrow, armor-piercing arrowhead designed to penetrate chainmail and plate armor",
+          "example": "A sharp four-sided bodkin point punched directly through the knight hardened iron cuirass."
+        },
+        {
+          "word": "DWEOMER",
+          "meaning": "Archaic term for magical illusion, spellcraft, or the aura of enchantment around relics",
+          "example": "An unmistakable dweomer of protection clung to the ancient dwarven mail shirt."
+        },
+        {
+          "word": "SORCERESS",
+          "meaning": "Female spellcaster gifted with natural inborn magical ability and arcane affinity",
+          "example": "The silver-cloaked sorceress raised her crystal staff, parting the torrential thunderstorm."
+        },
+        {
+          "word": "LIMBO",
+          "meaning": "Intermediate state or region between heaven and hell characterized by swirling primal chaos",
+          "example": "Islands of fractured stone floated through the colorful, swirling sea of matter inside Limbo."
+        },
+        {
+          "word": "AUGURY",
+          "meaning": "Divination omen or practice of interpreting signs, bird flights, or entrails to foretell events",
+          "example": "Observing two eagles fighting above the camp was taken as a favorable augury of victory."
+        }
+      ]
+    },
+    {
+      "levelNumber": 22,
+      "title": "Fantasy Level 22",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "AEGIS",
+          "meaning": "Mythological divine shield or breastplate associated with Zeus and Athena bearing Medusa head",
+          "example": "Athena held forth the golden Aegis, striking terror into the hearts of mortals with its gaze."
+        },
+        {
+          "word": "ALFHEIM",
+          "meaning": "Mythological celestial realm of the Light Elves situated high within the World Tree",
+          "example": "Radiant crystal palaces bathed in perpetual dawn populated the serene realm of Alfheim."
+        },
+        {
+          "word": "SCABBARD",
+          "meaning": "Sheath for the blade of a sword, dagger, or bayonet typically made of leather or metal",
+          "example": "The hero slid his glowing enchanted blade back into its velvet-lined dragonhide scabbard."
+        },
+        {
+          "word": "HERALD",
+          "meaning": "Official employed to oversee state ceremonies, deliver proclamations, and record armorial bearings",
+          "example": "A blare of trumpets sounded as the royal herald read the royal proclamation from the balcony."
+        },
+        {
+          "word": "LYCANTHROPE",
+          "meaning": "Human cursed or afflicted with the ability to transform into a beast, especially a wolf",
+          "example": "The full moon triggered the agonized transformation of the cursed lycanthrope in the forest."
+        },
+        {
+          "word": "LANCE",
+          "meaning": "Long weapon with a wooden shaft and pointed steel head used by mounted knights in charges",
+          "example": "Couched securely under his arm, the knight thirteen-foot ash lance shattered on impact."
+        },
+        {
+          "word": "MARQUIS",
+          "meaning": "Nobleman ranking above an earl or count and below a duke in the peerage",
+          "example": "The marquis oversaw the fortification of the restless border territory against raiders."
+        },
+        {
+          "word": "LADY",
+          "meaning": "Woman of noble rank, household mistress, or title corresponding to that of a lord",
+          "example": "The gracious lady managed the daily affairs of the castle household with poise."
+        },
+        {
+          "word": "CASTLESTEWARD",
+          "meaning": "Manager responsible for supervising all castle staff, provisions, and maintenance",
+          "example": "The diligent castlesteward took inventory of grain, salted meat, and firewood for winter."
+        },
+        {
+          "word": "BOGGART",
+          "meaning": "Household or woodland spirit in folklore that turns sour, causing mischief and terror",
+          "example": "Pots clattered and sour milk spilled whenever the angry boggart haunted the stone farmhouse."
+        },
+        {
+          "word": "CHRONO",
+          "meaning": "Pertaining to time, temporal flow, or the chronological distortion of magic",
+          "example": "The chronomancer activated his chrono-compass to restore the fractured flow of the timeline."
+        }
+      ]
+    },
+    {
+      "levelNumber": 23,
+      "title": "Fantasy Level 23",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "INVOCATION",
+          "meaning": "Act of calling upon deities, ancestral spirits, or otherworldly entities for aid or power",
+          "example": "The high druid raised his oak staff in solemn invocation of the elemental spirits of the storm."
+        },
+        {
+          "word": "ELDRITCH",
+          "meaning": "Weird, sinister, and ghostly appearing beyond human comprehension from outer planes",
+          "example": "Bizarre green flames burned with an eldritch chill upon the altar of the void god."
+        },
+        {
+          "word": "GLAIVE",
+          "meaning": "European pole weapon consisting of a single-edged blade on the end of a pole",
+          "example": "The imperial guardsmen swept their curved glaives in coordinated arcs to keep back the mob."
+        },
+        {
+          "word": "WARRIOR",
+          "meaning": "Brave or experienced soldier or fighter renowned for prowess in combat",
+          "example": "The seasoned warrior bore scars from a dozen campaigns across the burning southern sands."
+        },
+        {
+          "word": "SULTANATE",
+          "meaning": "State or territory governed by a sovereign sultan in Islamic medieval lands",
+          "example": "Magnificent minarets and domed palaces adorned the capital of the maritime sultanate."
+        },
+        {
+          "word": "BEASTLANDS",
+          "meaning": "Plane of untamed natural wilderness bathed in perpetual layers of day, dusk, and night",
+          "example": "Great herds of prehistoric mammoths roamed free beneath the perpetual twilight of the Beastlands."
+        },
+        {
+          "word": "CHAINMAIL",
+          "meaning": "Armor made of small interlocking metal rings riveted together into protective garments",
+          "example": "The interlocking steel links of his chainmail hauberk turned aside the bandit dagger thrust."
+        },
+        {
+          "word": "CYCLOPS",
+          "meaning": "Gigantic one-eyed humanoid monster dwelling in caves and forging divine lightning bolts",
+          "example": "The blinding of the roaring Cyclops Polyphemus allowed Odysseus and his crew to escape."
+        },
+        {
+          "word": "GRIMOIRE",
+          "meaning": "Textbook of magic containing instructions for summoning spirits and casting rituals",
+          "example": "Dusty pages of the leather-bound grimoire held forbidden sigils etched in gold leaf."
+        },
+        {
+          "word": "BANISHMENT",
+          "meaning": "Spell or act of expelling an extraplanar creature back to its native plane of existence",
+          "example": "A blinding burst of white light accompanied the banishment of the fiery fiend back to the Abyss."
+        },
+        {
+          "word": "OUROBOROS",
+          "meaning": "Ancient mystical emblem depicting a serpent or dragon eating its own tail symbolizing eternity",
+          "example": "The bronze amulet depicted the ouroboros, symbolizing the endless cycle of birth and rebirth."
+        }
+      ]
+    },
+    {
+      "levelNumber": 24,
+      "title": "Fantasy Level 24",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "THUNDERBIRD",
+          "meaning": "Supernatural avian creature of North American indigenous lore producing lightning from its eyes",
+          "example": "The majestic Thunderbird beat its mighty wings, rolling thunder across the dark mountain sky."
+        },
+        {
+          "word": "JINX",
+          "meaning": "Minor spell or condition causing bad luck, clumsy mishaps, or mild misfortune",
+          "example": "A playful pixie placed a minor jinx on the guard boots, causing him to trip on his own feet."
+        },
+        {
+          "word": "CANIA",
+          "meaning": "Eighth layer of the Nine Hells characterized by intense, freezing cold and towering glaciers",
+          "example": "Glacial spires rising miles high scraped against the black iron skies of freezing Cania."
+        },
+        {
+          "word": "HARPY",
+          "meaning": "Fierce, voracious monster with the body of a bird and the head and torso of a predatory woman",
+          "example": "Screeching harpies swooped down from coastal crags to snatch provisions from the camp."
+        },
+        {
+          "word": "TROLL",
+          "meaning": "Brutish, hulking mythical monster dwelling under bridges and in caves possessing regenerative flesh",
+          "example": "Torchlight exposed the rubbery grey hide of the cave troll as its severed limb began reattaching."
+        },
+        {
+          "word": "LONGBOWMAN",
+          "meaning": "Archer armed with a powerful tall wooden bow capable of piercing knight plate armor",
+          "example": "Drawing his yew bow to the ear, the longbowman released an arrow that struck a distant target."
+        },
+        {
+          "word": "OVERLORD",
+          "meaning": "Ruler or lord who holds supreme authority and power over other lords and vassals",
+          "example": "The dark overlord governed three conquered kingdoms through fear and iron discipline."
+        },
+        {
+          "word": "DUKE",
+          "meaning": "Nobleman of the highest hereditary rank immediately below a prince or sovereign",
+          "example": "The duke commanded his personal regiment of pikemen to defend the northern border."
+        },
+        {
+          "word": "CHANGELING",
+          "meaning": "Humanoid race possessing natural shapeshifting ability to alter face and voice at will",
+          "example": "The master spy was a changeling who adopted a dozen different aristocratic personas in the capital."
+        },
+        {
+          "word": "LONGBOW",
+          "meaning": "Tall hand-drawn wooden bow traditionally made of yew capable of powerful long-range shots",
+          "example": "English archers showered thousands of iron-tipped arrows from their towering yew longbows."
+        },
+        {
+          "word": "HYDRA",
+          "meaning": "Serpentine water monster possessing multiple heads that grow two more when one is severed",
+          "example": "Heracles cauterized each severed neck with a flaming torch to defeat the immortal Lernaean hydra."
+        }
+      ]
+    },
+    {
+      "levelNumber": 25,
+      "title": "Fantasy Level 25",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "PAULDRON",
+          "meaning": "Piece of plate armor designed to protect the shoulder and armpit area",
+          "example": "Overlapping steel lames of the curved pauldron protected the knight shoulder without hindering mobility."
+        },
+        {
+          "word": "TARRASQUE",
+          "meaning": "Legendary primordial engine of destruction possessing impenetrable armor and endless appetite",
+          "example": "Cities crumbled to dust as the titanic tarrasque rampaged across the kingdom, shrugging off spells."
+        },
+        {
+          "word": "CHANNELING",
+          "meaning": "Directing supernatural, divine, or elemental energy through one body or wand to cast spells",
+          "example": "Sweat beaded on the paladin brow as he channeled radiant solar energy to smite the vampire."
+        },
+        {
+          "word": "GUILDMASTER",
+          "meaning": "Elected leader or master craftsman governing a medieval craft or trade guild",
+          "example": "The guildmaster inspected the newly woven wool cloth to ensure it met official guild standards."
+        },
+        {
+          "word": "DIRK",
+          "meaning": "Short dagger formerly carried by Scottish highlanders and naval officers",
+          "example": "Tucked into the top of his wool stocking, the ceremonial highland dirk had a carved bog oak hilt."
+        },
+        {
+          "word": "DRAWBRIDGE",
+          "meaning": "Bridge hinged at one end so as to be lifted up to prevent crossing over a moat",
+          "example": "Chains groaned as the castle drawbridge was lowered to welcome the returning knights."
+        },
+        {
+          "word": "CHAOS",
+          "meaning": "State of complete disorder, formlessness, and unpredictable potential before creation",
+          "example": "Primal chaos boiled with unformed matter, spawning monsters and stars in equal measure."
+        },
+        {
+          "word": "SYLPH",
+          "meaning": "Elemental spirit inhabiting the air and clouds characterized by slender beauty and swift flight",
+          "example": "Whirling in the high mountain breeze, the airy sylph whispered prophecies to the summit climber."
+        },
+        {
+          "word": "PEASANT",
+          "meaning": "Poor farmer of low social status who owns or rents a small plot of land for cultivation",
+          "example": "Peasants gathered in the village square to celebrate the autumn harvest with cider and dancing."
+        },
+        {
+          "word": "GITHZERAI",
+          "meaning": "Ascetic monastic humanoid race dwelling in the shifting chaos of Limbo utilizing psychic discipline",
+          "example": "Through intense mental discipline, the githzerai monk stabilized an island of stone amid Limbo chaos."
+        },
+        {
+          "word": "SPRITE",
+          "meaning": "Supernatural, playful fairy or elemental spirit associated with air, water, or woods",
+          "example": "Darting between sunbeams, the luminous blue sprite guided the lost child out of the marsh."
+        },
+        {
+          "word": "GHOUL",
+          "meaning": "Demonic or undead monster feeding on dead corpses in graveyards and ancient necropolises",
+          "example": "Foul ghouls with rotting claws dug through the loose soil of the forgotten cemetery at midnight."
+        },
+        {
+          "word": "TELEPATHY",
+          "meaning": "Direct communication of thoughts or feelings from one mind to another without speech",
+          "example": "Hearing a gentle telepathic voice in his mind, the knight realized the silver unicorn spoke to him."
+        }
+      ]
+    },
+    {
+      "levelNumber": 26,
+      "title": "Fantasy Level 26",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "MARCHIONESS",
+          "meaning": "Wife or widow of a marquis, or a woman holding the noble rank in her own right",
+          "example": "The marchioness donated an extensive library of antique manuscripts to the university."
+        },
+        {
+          "word": "CHRONOMANCY",
+          "meaning": "Magical manipulation, acceleration, slowing, or traversing of the flow of time",
+          "example": "Practitioners of chronomancy warned that altering past timelines could unravel reality."
+        },
+        {
+          "word": "BARONESS",
+          "meaning": "Wife or widow of a baron, or a woman holding a baronial title in her own right",
+          "example": "The compassionate baroness established an abbey hospital for injured traveling pilgrims."
+        },
+        {
+          "word": "LAMIA",
+          "meaning": "Monstrous female creature possessing a serpent lower body that preys on unsuspecting mortals",
+          "example": "Behind her beautiful veiled face lurked the predatory fangs and scaly coils of the desert lamia."
+        },
+        {
+          "word": "AEROMANCY",
+          "meaning": "Divination or magical control of the air, wind currents, and weather phenomena",
+          "example": "Whistling into the sky, the aeromancer summoned a gentle tailwind to fill the sails of the ship."
+        },
+        {
+          "word": "EARL",
+          "meaning": "British nobleman of high hereditary rank corresponding to a European count",
+          "example": "The earl raised a thousand archers to repel the invading sea raiders from his coast."
+        },
+        {
+          "word": "CLAYGOLEM",
+          "meaning": "Construct magically shaped from damp riverbed clay and brought to life through divine inscription",
+          "example": "Immune to slashing blades, the lumbering clay golem blocked the entrance to the inner vault."
+        },
+        {
+          "word": "EMIRA",
+          "meaning": "Wife of an emir, or a female noble leader in an Islamic medieval principality",
+          "example": "The emira sponsored the construction of an exquisite stone caravanserai along the Silk Road."
+        },
+        {
+          "word": "SIGIL",
+          "meaning": "Inscribed symbol or seal believed to hold magical potency and summon specific spirits",
+          "example": "Carved into the lintel, a protective warding sigil repelled restless cemetery specters."
+        },
+        {
+          "word": "BANSHEE",
+          "meaning": "Female wailing spirit in Irish folklore whose mournful shrieking foretells impending death",
+          "example": "A bone-chilling midnight wail across the misty peat bog signaled the arrival of the banshee."
+        },
+        {
+          "word": "CUTTHROAT",
+          "meaning": "Ruthless murderer, assassin, or rogue operating in shadows and taverns",
+          "example": "A hooded cutthroat lurked in the foggy alleyway, clutching a serrated copper dagger."
+        },
+        {
+          "word": "SWORDSMAN",
+          "meaning": "Person skilled in swordplay, fencing, or combat using swords",
+          "example": "The master swordsman parried the bandit blade with effortless grace and disarmed him."
+        },
+        {
+          "word": "HOBBIT",
+          "meaning": "Diminutive peaceful humanoid dwelling in cozy underground turf burrows with round doors",
+          "example": "Smoke curled from the clay pipe of the content hobbit sitting outside his rounded hill burrow."
+        }
+      ]
+    },
+    {
+      "levelNumber": 27,
+      "title": "Fantasy Level 27",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SERF",
+          "meaning": "Agricultural laborer bound under the feudal system to work on his lord estate",
+          "example": "Generations of serfs tilled the heavy clay soils of the manor, paying rents in barley."
+        },
+        {
+          "word": "LORD",
+          "meaning": "Person of noble rank or title having power and authority over others",
+          "example": "The benevolent lord reduced farm rents to assist his tenants after the devastating flood."
+        },
+        {
+          "word": "BANE",
+          "meaning": "Cause of great distress or annoyance, or a spell that weakens and curses foes",
+          "example": "The paladin holy radiance was the deadly bane of every vampire and shadow wraith."
+        },
+        {
+          "word": "DAME",
+          "meaning": "Title of honor corresponding to that of a knight granted to a woman of distinction",
+          "example": "Dame Eleanor was knighted by the queen for her courageous defense of the border fortress."
+        },
+        {
+          "word": "DRAGON",
+          "meaning": "Legendary winged reptilian beast possessing immense magical breath and hoarding gold",
+          "example": "The ancient red dragon breathed a torrent of fire across the castle ramparts."
+        },
+        {
+          "word": "JOYEUSE",
+          "meaning": "Famous personal sword of Emperor Charlemagne legendarily forged from celestial steel",
+          "example": "The gilded hilt of Joyeuse contained the tip of the holy lance that pierced the side of Christ."
+        },
+        {
+          "word": "ELECTRUM",
+          "meaning": "Natural or artificial alloy of gold and silver prized in ancient antiquity for coinage",
+          "example": "The temple treasury contained fifty urns filled with gleaming coins stamped from pale electrum."
+        },
+        {
+          "word": "ARCADIA",
+          "meaning": "Plane of pristine, geometric harmony, perpetual orchards, and ordered pastoral peace",
+          "example": "Every apple tree grew in immaculate parallel rows bearing perfect fruit throughout Arcadia."
+        },
+        {
+          "word": "DRAGONBONE",
+          "meaning": "Extremely dense and lightweight skeletal material harvested from dragons used for bows",
+          "example": "Recurve bows crafted from flexible dragonbone launched arrows twice as far as ordinary yew."
+        },
+        {
+          "word": "LEGENDARY",
+          "meaning": "Remarkable, famous, and celebrated in folklore and historic heroic tales",
+          "example": "The brave knight set forth on a perilous quest to recover the legendary dragon-forged shield."
+        },
+        {
+          "word": "ACHERON",
+          "meaning": "River of woe in Greek mythology forming the boundary over which souls enter the Underworld",
+          "example": "The grim ferryman steered his barge across the stagnant, sorrowful waters of the river Acheron."
+        },
+        {
+          "word": "BARDING",
+          "meaning": "Complete suit of defensive armor fashioned to protect a warhorse in combat",
+          "example": "Plate barding covered the charger chest and flanks, turning the horse into an armored juggernaut."
+        },
+        {
+          "word": "GENIE",
+          "meaning": "Magical spirit imprisoned in a bottle or lamp capable of granting wishes to whoever summons it",
+          "example": "Rubbing the dusty copper urn released a smiling genie who offered three miraculous wishes."
+        }
+      ]
+    },
+    {
+      "levelNumber": 28,
+      "title": "Fantasy Level 28",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "HIPPOGRIFF",
+          "meaning": "Legendary creature born of a griffin and a mare with the foreparts of an eagle and body of a horse",
+          "example": "The young sorcerer mounted the regal hippogriff and soared into the storm clouds."
+        },
+        {
+          "word": "PENTACLE",
+          "meaning": "Disk engraved with a pentagram used as an altar tool or talisman in magical ceremonies",
+          "example": "The sorcerer placed a consecrated silver pentacle on the altar to ground the magical energy."
+        },
+        {
+          "word": "ARCHDUCHESS",
+          "meaning": "Wife of an archduke, or a female member of the Austrian imperial family",
+          "example": "The archduchess spoke four languages fluently and was renowned for her botanical gardens."
+        },
+        {
+          "word": "EMIRATE",
+          "meaning": "Territory, realm, or jurisdiction ruled over by an Islamic monarch or emir",
+          "example": "The desert emirate flourished as trading caravans converged on its glittering oasis markets."
+        },
+        {
+          "word": "STRONGHOLD",
+          "meaning": "Heavily fortified place or castle serving as a military defensive refuge",
+          "example": "Perched atop sheer sea cliffs, the pirate stronghold was deemed utterly impregnable."
+        },
+        {
+          "word": "HOMUNCULUS",
+          "meaning": "Artificially created miniature humanoid creature brought into being through alchemical means",
+          "example": "The alchemist fed drops of his own blood to the obedient homunculus fluttering in the laboratory."
+        },
+        {
+          "word": "LETHE",
+          "meaning": "River of forgetfulness and oblivion in Hades whose waters erase all mortal memories",
+          "example": "Drinking a single draft from the river Lethe wiped away all earthly sorrow and memory of life."
+        },
+        {
+          "word": "COCYTUS",
+          "meaning": "River of lamentation and wailing in the underworld flowing into the lake of ice",
+          "example": "Mournful cries of unburied shades drifted across the freezing grey waters of the river Cocytus."
+        },
+        {
+          "word": "LINDWORM",
+          "meaning": "Mythical two-legged wingless dragon or serpent featured in northern European folklore",
+          "example": "The Danish prince battled a venom-spewing lindworm that nested atop the royal burial barrow."
+        },
+        {
+          "word": "DJINN",
+          "meaning": "Intelligent spirit of smokeless fire in Arabian mythology possessing extraordinary wish-granting magic",
+          "example": "Swirling purple smoke billowed from the brass lamp as the colossal djinn bowed before his master."
+        },
+        {
+          "word": "SASQUATCH",
+          "meaning": "Large, hairy, bipedal humanoid creature reputed to inhabit remote wilderness forests",
+          "example": "Campers stared into the dark pine woods where a nine-foot sasquatch vanished behind cedar trunks."
+        },
+        {
+          "word": "WRAITH",
+          "meaning": "Ghostly, incorporeal spirit or shadow being possessing chilling life-draining touch",
+          "example": "The sinister shadow wraith drifted through solid stone walls, draining warmth from the air."
+        },
+        {
+          "word": "JOURNEYMAN",
+          "meaning": "Trained worker employed by a master craftsman after completing an apprenticeship",
+          "example": "Having completed his masterwork, the ambitious journeyman traveled abroad to study techniques."
+        }
+      ]
+    },
+    {
+      "levelNumber": 29,
+      "title": "Fantasy Level 29",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "WATCHTOWER",
+          "meaning": "Tower built to create a high vantage point for sentries watching for enemies",
+          "example": "Smoke puffed from the beacon atop the border watchtower, warning of approaching horsemen."
+        },
+        {
+          "word": "FAUN",
+          "meaning": "Gentle half-human, half-goat rural deity of Roman mythology inhabiting peaceful wild pastures",
+          "example": "The curly-haired faun offered a basket of wild figs to travelers resting beside the mossy fountain."
+        },
+        {
+          "word": "GREAVES",
+          "meaning": "Pieces of armor worn to protect the lower legs from knee to ankle",
+          "example": "Fluted steel greaves strapped securely over his leather boots protected his shins from blade strikes."
+        },
+        {
+          "word": "ADAMANTINE",
+          "meaning": "Mythical diamond-hard metal virtually impossible to shatter, pierce, or dent",
+          "example": "The vault door was forged from a six-inch slab of black adamantine that resisted all siege blows."
+        },
+        {
+          "word": "CROWN",
+          "meaning": "Circular ornamental headdress worn by a king, queen, or emperor as a symbol of power",
+          "example": "The gold imperial crown was encrusted with sapphires, rubies, and seventy flawless pearls."
+        },
+        {
+          "word": "VISCOUNTY",
+          "meaning": "Domain, estate, or jurisdiction belonging to or governed by a viscount",
+          "example": "Prosperous sheep farms across the rolling hills generated abundant wealth for the viscounty."
+        },
+        {
+          "word": "PHILTRE",
+          "meaning": "Magical potion or drink formulated to induce romantic love or desire in the drinker",
+          "example": "A mischievous woodland fairy slipped a love philtre into the sleeping prince goblet."
+        },
+        {
+          "word": "BERSERKER",
+          "meaning": "Ancient Norse warrior who fought in a wild, uncontrollable, trance-like fury",
+          "example": "Howling like a wild bear, the bare-chested berserker charged through the shield wall."
+        },
+        {
+          "word": "PHYLACTERY",
+          "meaning": "Vessel or receptacle containing the preserved soul and life force of an immortal lich",
+          "example": "Destroying the jewel-encrusted iron phylactery was the only way to permanently slay the lich."
+        },
+        {
+          "word": "METEOR",
+          "meaning": "Streaking streak of light produced by a meteoroid burning through atmospheric entry",
+          "example": "A blazing white meteor streaked across the midnight constellation, crashing into the cursed crater."
+        },
+        {
+          "word": "TARTARUS",
+          "meaning": "Deepest abyss of the underworld in Greek mythology used as a dungeon of torment for Titans",
+          "example": "Zeus banished the defeated rebellious Titans into the fathomless black pit of Tartarus."
+        },
+        {
+          "word": "FENRIR",
+          "meaning": "Monstrous colossal wolf of Norse mythology prophesied to slay the god Odin during Ragnarok",
+          "example": "Gods forged the unbreakable ribbon Gleipnir to bind the snapping jaws of the colossal wolf Fenrir."
+        },
+        {
+          "word": "CALIPH",
+          "meaning": "Chief Muslim civil and religious ruler regarded as the successor of Muhammad",
+          "example": "Scholars from all known lands gathered in Baghdad under the patronage of the caliph."
+        }
+      ]
+    },
+    {
+      "levelNumber": 30,
+      "title": "Fantasy Level 30",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "THRONE",
+          "meaning": "Ceremonial seat of a king, queen, or sovereign signifying majesty and authority",
+          "example": "Carved from a single tusk of a mammoth, the royal throne gleamed with inlaid emeralds."
+        },
+        {
+          "word": "DOMAIN",
+          "meaning": "Area of territory owned or controlled by a ruler, lord, or sovereign power",
+          "example": "No monster dared encroach upon the enchanted domain of the silver dragon."
+        },
+        {
+          "word": "MORNINGSTAR",
+          "meaning": "Medieval club with a heavy spiked metal ball mounted on a wooden shaft",
+          "example": "Spikes on the heavy morningstar splintered the oak shield of the charging goblin raider."
+        },
+        {
+          "word": "TRANSFORMATION",
+          "meaning": "Complete metamorphosis or dramatic change in form, appearance, or character through magic",
+          "example": "A swirl of sparkling violet smoke accompanied the transformation of the toad into a prince."
+        },
+        {
+          "word": "WARHAMMER",
+          "meaning": "Weapon of war consisting of a hammerhead with a reverse spike designed to pierce armor",
+          "example": "The crushing impact of the steel warhammer caved in the knight breastplate with ease."
+        },
+        {
+          "word": "ENCHANTMENT",
+          "meaning": "Magic spell that alters the properties of an object or mind of a creature",
+          "example": "A powerful sleeping enchantment overcame all guards stationed at the palace watchtower."
+        },
+        {
+          "word": "TREANT",
+          "meaning": "Sentient, ambulatory tree-like guardian dedicated to protecting sacred ancient forests",
+          "example": "The ancient mossy treant swung a massive bough, crushing the invading goblin siege engines."
+        },
+        {
+          "word": "BREW",
+          "meaning": "Liquid concoction made by boiling, fermenting, or steeping magical herbal ingredients",
+          "example": "The witch bubbling black brew emitted sweet vapors that smelled of cinnamon and nightshade."
+        },
+        {
+          "word": "SOVEREIGN",
+          "meaning": "Supreme ruler possessing ultimate political power, authority, and independence",
+          "example": "The coins minted in the capital bore the regal profile of the reigning sovereign."
+        },
+        {
+          "word": "CRYOMANCY",
+          "meaning": "Magical control and generation of extreme cold, frost, rime, and glaciers",
+          "example": "Blizzards erupted from the cryomancer outstretched palms, freezing the rushing river solid."
+        },
+        {
+          "word": "GEHENNA",
+          "meaning": "Bleak plane consisting of four colossal volcanic mountains suspended in a void without base",
+          "example": "Fiery vents spewed noxious ash down the sheer sixty-degree cliffs of the volcanic plane of Gehenna."
+        },
+        {
+          "word": "ALCHEMY",
+          "meaning": "Medieval magical chemistry seeking the philosopher stone and universal panacea",
+          "example": "Ancient treatises on alchemy revealed secret formulas for transmuting lead into radiant gold."
+        },
+        {
+          "word": "IRONGOLEM",
+          "meaning": "Towering construct forged from wrought iron plates and infused with bound elemental spirits",
+          "example": "The deafening clank of iron joints heralded the advance of the impenetrable iron golem."
+        }
+      ]
+    },
+    {
+      "levelNumber": 31,
+      "title": "Fantasy Level 31",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SUPERNATURAL",
+          "meaning": "Manifestations attributed to some force beyond scientific understanding or the laws of nature",
+          "example": "The sudden chilling drop in room temperature accompanied the supernatural presence of spirits."
+        },
+        {
+          "word": "STYGIA",
+          "meaning": "Fifth layer of the Nine Hells consisting of an immense, freezing sea of crushing ice",
+          "example": "Shattered wooden hulks of trapped ships were locked forever inside the titanic ice floes of Stygia."
+        },
+        {
+          "word": "POLEAXE",
+          "meaning": "Medieval weapon consisting of an axe head, hammer, and spike mounted on a long shaft",
+          "example": "Knights fighting on foot favored the versatile poleaxe for crushing and piercing plate armor."
+        },
+        {
+          "word": "CAULDRON",
+          "meaning": "Large metal pot with a lid and handle used for boiling liquids over campfires and hearths",
+          "example": "Flames licked the iron belly of the three-legged cauldron as herbs simmered into medicine."
+        },
+        {
+          "word": "GUNGNIR",
+          "meaning": "Legendary spear of the Norse god Odin crafted by dwarves that never misses its target",
+          "example": "Odin hurled the rune-carved spear Gungnir over the heads of the opposing army to claim them."
+        },
+        {
+          "word": "RAJAH",
+          "meaning": "Indian king or prince governing a historic princely state or territory",
+          "example": "Riding a festively decorated elephant, the rajah greeted his cheering subjects in the square."
+        },
+        {
+          "word": "PAVISE",
+          "meaning": "Large convex shield used by archers and crossbowmen to provide cover while reloading",
+          "example": "Crossbowmen propped heavy wooden pavise shields on the ground to form a temporary firing wall."
+        },
+        {
+          "word": "NEXUS",
+          "meaning": "Central and most important connection point or focal convergence of magical ley lines",
+          "example": "The high tower was erected directly atop the planetary nexus where six magical ley lines met."
+        },
+        {
+          "word": "DUELIST",
+          "meaning": "Person skilled at fighting formal duels with rapiers or pistols according to honor codes",
+          "example": "The dashing duelist flicked his rapier blade, neatly slicing the feather from his rival hat."
+        },
+        {
+          "word": "KENKU",
+          "meaning": "Flightless avian humanoid race that speaks entirely through perfect mimicry of heard sounds",
+          "example": "The feathered kenku rogue repeated the password in the exact voice of the royal dungeon guard."
+        },
+        {
+          "word": "NAIAD",
+          "meaning": "Freshwater nymph presiding over rivers, bubbling streams, brooks, and sacred natural springs",
+          "example": "The thirsty knight was refreshed by the sweet waters blessed by the resident stream naiad."
+        },
+        {
+          "word": "TINCTURE",
+          "meaning": "Medicine or magical solution made by dissolving active plant substances in alcohol",
+          "example": "Three drops of the belladonna tincture relieved the aching wizard toothache without side effects."
+        },
+        {
+          "word": "WITCHCRAFT",
+          "meaning": "Practice of magical abilities using spells, charms, familiars, and spirit communion",
+          "example": "Accusations of witchcraft spread through the village after strange lights danced over the bog."
+        }
+      ]
+    },
+    {
+      "levelNumber": 32,
+      "title": "Fantasy Level 32",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "POLYMORPH",
+          "meaning": "Magical spell or effect that transforms a creature or object into a completely different form",
+          "example": "The sorcerer cast polymorph, turning the charging warrior into a bewildered fleece-bearing sheep."
+        },
+        {
+          "word": "EMPIRE",
+          "meaning": "Extensive group of states, territories, or nations ruled over by a single supreme emperor",
+          "example": "Legions of the imperial army marched along stone highways spanning the expanse of the empire."
+        },
+        {
+          "word": "WIGHT",
+          "meaning": "Undead spirit or animated barrow corpse retaining dark intelligence and icy malice",
+          "example": "A bone-chilling wight arose from the ancient stone tomb, clutching a rusted bronze broadsword."
+        },
+        {
+          "word": "COUNTERSPELL",
+          "meaning": "Spell cast as an immediate reaction to interrupt and neutralize an opponent magic",
+          "example": "The archmage cast a lightning-quick counterspell, shattering the enemy summoning ritual."
+        },
+        {
+          "word": "SULTANA",
+          "meaning": "Wife, mother, or daughter of a sultan, or a female sovereign ruler of a sultanate",
+          "example": "The influential sultana held private council with foreign ambassadors in the rose garden."
+        },
+        {
+          "word": "PANDEMONIUM",
+          "meaning": "Wild, noisy disorder or the capital of hell described in John Milton Paradise Lost",
+          "example": "A deafening cacophony of howling winds and demonic roars echoed through Pandemonium."
+        },
+        {
+          "word": "MUSPELHEIM",
+          "meaning": "Primordial realm of fire, embers, and burning heat ruled by the giant Surtr",
+          "example": "Surtr the black giant stood guard at the blazing border of Muspelheim, brandishing a sword of fire."
+        },
+        {
+          "word": "REVENANT",
+          "meaning": "Animated corpse that has returned from the grave to terrorize the living or seek vengeance",
+          "example": "Burning with an unquenchable desire for revenge, the relentless revenant tracked his murderer."
+        },
+        {
+          "word": "ARBOREA",
+          "meaning": "Plane of boundless passions, untamed primeval forests, and joyous Dionysian revels",
+          "example": "Colossal redwood trees ten miles high formed the living canopy of the wild plane of Arborea."
+        },
+        {
+          "word": "ELVENCHAIN",
+          "meaning": "Supernaturally fine, lightweight chainmail knitted by elven smiths wearable under clothing",
+          "example": "Hidden beneath his tunic, the flexible elven chain turned aside the assassin poisoned dagger."
+        },
+        {
+          "word": "CHARM",
+          "meaning": "Object, act, or words believed to possess magical power to protect or entrance someone",
+          "example": "She carried a silver clover charm in her pouch to bring good fortune on her journeys."
+        },
+        {
+          "word": "ALCHEMIST",
+          "meaning": "Philosopher and practitioner seeking to transmute base metals, brew elixirs, and find the Stone",
+          "example": "The studious alchemist measured sulfur and quicksilver to synthesize the elixir of life."
+        },
+        {
+          "word": "YETI",
+          "meaning": "Ape-like cryptid or snowy monster reported to dwell in the high snow peaks of the Himalayas",
+          "example": "Deep footprints pressed into the virgin snow ridge convinced the sherpas that a yeti walked nearby."
+        }
+      ]
+    },
+    {
+      "levelNumber": 33,
+      "title": "Fantasy Level 33",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "NYMPH",
+          "meaning": "Nature deity appearing as a beautiful maiden inhabiting rivers, trees, and meadows",
+          "example": "Sunlight danced on the crystalline pool where a laughing water nymph plaited water lilies into her hair."
+        },
+        {
+          "word": "AASIMAR",
+          "meaning": "Humanoid blessed with celestial heritage radiating inner light and divine righteous power",
+          "example": "Feathered wings of radiant starlight burst from the back of the aasimar paladin during battle."
+        },
+        {
+          "word": "BATTLEAXE",
+          "meaning": "Heavy axe designed specifically as a formidable weapon in medieval combat",
+          "example": "Forged by dwarven smiths, the double-bitten steel battleaxe cleaved through iron shields."
+        },
+        {
+          "word": "DISPEL",
+          "meaning": "To magically remove, cancel, or unravel an active spell, curse, or enchantment",
+          "example": "Raising her silver staff, the abjurer cast a counter-charm to dispel the wall of fire."
+        },
+        {
+          "word": "BALDRIC",
+          "meaning": "Belt worn over one shoulder and across the chest to support a sword or bugle",
+          "example": "An embroidered leather baldric crossed his chest, supporting the heavy rapier at his left hip."
+        },
+        {
+          "word": "DURANDAL",
+          "meaning": "Legendary indestructible sword of the paladin Roland containing sacred relics in its hilt",
+          "example": "Roland wielded the peerless blade Durandal, cleaving through mountain passes in the Pyrenees."
+        },
+        {
+          "word": "WARDING",
+          "meaning": "Act or spellcraft of erecting magical defenses and protective shields over places",
+          "example": "The archmage spent three days chanting warding spells across the perimeter of the sanctuary."
+        },
+        {
+          "word": "DAGGER",
+          "meaning": "Short knife with a pointed and edged blade, used as an assassin weapon",
+          "example": "A gem-encrusted silver dagger was concealed inside the velvet lining of the noble sleeve."
+        },
+        {
+          "word": "FAIRY",
+          "meaning": "Mythical humanoid being possessing magical powers and translucent wings dwelling in realms of wonder",
+          "example": "The fairy godmother waved her sparkling silver wand, transforming rags into radiant ballgowns."
+        },
+        {
+          "word": "PRINCIPALITY",
+          "meaning": "State or territory ruled over by a prince or princess",
+          "example": "Surrounded by snow-capped mountains, the wealthy principality prospered on silver mining."
+        },
+        {
+          "word": "ORC",
+          "meaning": "Fierce, warlike humanoid race with greenish skin and prominent tusks renowned for martial brutality",
+          "example": "War horns echoed through the canyon as hundreds of battle-ready orc warriors brandished scythes."
+        },
+        {
+          "word": "SQUIRE",
+          "meaning": "Young nobleman acting as an attendant to a knight before achieving knighthood himself",
+          "example": "The dedicated squire buckled the greaves onto the knight legs before the tournament began."
+        },
+        {
+          "word": "SHAH",
+          "meaning": "Title of the former monarch or emperor of Iran and ancient Persia",
+          "example": "The peacock throne of the Persian shah sparkled with diamonds and spun gold thread."
+        }
+      ]
+    },
+    {
+      "levelNumber": 34,
+      "title": "Fantasy Level 34",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "WENDIGO",
+          "meaning": "Cannibalistic malevolent winter spirit or beast born of greed in Algonquian indigenous lore",
+          "example": "Haunting wails of the starving wendigo echoed through the freezing birch forest during the blizzard."
+        },
+        {
+          "word": "CONCOCTION",
+          "meaning": "Mixture of various ingredients brewed together to produce medicine or magical potions",
+          "example": "The herbalist stirred a steaming green concoction that cleared chest congestion immediately."
+        },
+        {
+          "word": "BASINET",
+          "meaning": "Open-faced medieval helmet with a conical skull and attached chainmail aventail",
+          "example": "A pointed pig-faced visor swung down to protect the knight visage within his steel basinet."
+        },
+        {
+          "word": "IMP",
+          "meaning": "Small, mischievous devil or demon often serving evil sorcerers as a cunning familiar",
+          "example": "The leathery-winged imp cackled as it snatched the sealed letter and vanished in a puff of sulfur."
+        },
+        {
+          "word": "PREMONITION",
+          "meaning": "Strong intuitive feeling or supernatural vision that something is about to happen",
+          "example": "A sudden chilling premonition warned the ranger to dodge before the poisoned arrow struck."
+        },
+        {
+          "word": "POLTERGEIST",
+          "meaning": "Noisy, mischievous ghost or supernatural entity responsible for hurling objects and slamming doors",
+          "example": "Chairs levitated and teacups shattered against the hearth during the violent poltergeist manifestation."
+        },
+        {
+          "word": "FIEFDOM",
+          "meaning": "Estate of land held on condition of feudal service, ruled by a vassal or lord",
+          "example": "The baron administered his inherited fiefdom with justice, rebuilding mills and bridges."
+        },
+        {
+          "word": "YSGARD",
+          "meaning": "Heroic plane of rugged mountains, floating earth islands, and joyous eternal combat",
+          "example": "Warriors fought gloriously all day and feasted together in roaring longhouses all night in Ysgard."
+        },
+        {
+          "word": "COMET",
+          "meaning": "Celestial body of ice and dust with a glowing coma and tail traveling across constellations",
+          "example": "The appearance of the great green comet was interpreted by the royal astrologer as a sign of change."
+        },
+        {
+          "word": "GEAS",
+          "meaning": "Magical command or obligation imposed upon a person compelling specific action on pain of death",
+          "example": "The king laid a binding geas upon the knight, forbidding him from returning without the grail."
+        },
+        {
+          "word": "CONJURATION",
+          "meaning": "School of magic dealing with summoning creatures, materials, or transporting objects",
+          "example": "Tracing a glowing circle on the floor, the summoner completed a conjuration of celestial lions."
+        },
+        {
+          "word": "NAGA",
+          "meaning": "Divine or semi-divine race of half-human, half-cobra beings inhabiting subterranean palaces",
+          "example": "Multi-hooded cobras flared above the jeweled crown of the wise naga king guarding the sacred temple."
+        },
+        {
+          "word": "AVERNUS",
+          "meaning": "First layer of the Nine Hells characterized by scorched battlefields and copper skies",
+          "example": "Legions of armored devils clashed with swarms of demons upon the burning plains of Avernus."
+        }
+      ]
+    },
+    {
+      "levelNumber": 35,
+      "title": "Fantasy Level 35",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "RITUAL",
+          "meaning": "Complex ceremony consisting of ordered actions, symbols, and words used for powerful magic",
+          "example": "Performing the midnight harvest ritual required three priests chanting under the full moon."
+        },
+        {
+          "word": "MECHANUS",
+          "meaning": "Plane of absolute law composed of interlocking, rotating clockwork cog gears miles wide",
+          "example": "Ticking rhythmically in perfect harmony, the colossal brass gears of Mechanus stretched into infinity."
+        },
+        {
+          "word": "ONI",
+          "meaning": "Ogre or demon of Japanese folklore depicted with horns, red skin, and an iron kanabo club",
+          "example": "Thundering through the temple gates, the horned red oni raised his spiked iron club to smash the shrine."
+        },
+        {
+          "word": "CHIMERA",
+          "meaning": "Monstrous fire-breathing beast with the heads of a lion, goat, and serpent",
+          "example": "The Grecian hero aimed an arrow at the bronze-horned goat head of the charging chimera."
+        },
+        {
+          "word": "QUINTESSENCE",
+          "meaning": "Purest and most concentrated essence of a substance or the celestial fifth element",
+          "example": "The alchemist isolated the luminous quintessence of starlight inside a lead crystal phial."
+        },
+        {
+          "word": "CUIRASS",
+          "meaning": "Piece of armor consisting of breastplate and backplate fastened together",
+          "example": "Polished until it shone like a mirror, the knight fluted steel cuirass bore his family crest."
+        },
+        {
+          "word": "SKALD",
+          "meaning": "Ancient Scandinavian poet and bard reciting epic verse celebrating heroic deeds",
+          "example": "The bearded skald plucked his harp, singing the saga of the dragon slayer to the Viking chiefs."
+        },
+        {
+          "word": "DIVINATORY",
+          "meaning": "Pertaining to or used in the magical practice of foretelling future events",
+          "example": "The seer entered a deep trance, interpreting divinatory visions flickering within the holy flame."
+        },
+        {
+          "word": "BARON",
+          "meaning": "Member of the lowest order of the British nobility or a major feudal landlord",
+          "example": "The wealthy baron taxed merchants passing through his river tolls to fund his private army."
+        },
+        {
+          "word": "VOID",
+          "meaning": "Completely empty space or boundless vacuum existing between created celestial planes",
+          "example": "The starship navigated through the silent black void that separated the crystal orbital spheres."
+        },
+        {
+          "word": "MALBOLGE",
+          "meaning": "Sixth layer of the Nine Hells consisting of an endless sixty-degree avalanche of tumbling boulders",
+          "example": "Boulders the size of castles rolled down the colossal copper slope of Malbolge with deafening roars."
+        },
+        {
+          "word": "DRAGONSCALE",
+          "meaning": "Hard, fire-retardant scale shed from a dragon used to forge supreme protective armor",
+          "example": "Overlapping iridescent plates of red dragonscale rendered the wearer completely immune to fire."
+        },
+        {
+          "word": "SORCERER",
+          "meaning": "Spellcaster who commands formidable magical powers through innate birthright or bloodline",
+          "example": "Born with the blood of red dragons in his veins, the young sorcerer cast fireballs without study."
+        }
+      ]
+    }
+  ]
+}

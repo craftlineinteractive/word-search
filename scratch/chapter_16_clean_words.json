@@ -1,0 +1,1892 @@
+[
+  {
+    "word": "ACADEMIA",
+    "definition": "Environment concerned with research and education",
+    "example": "Scholars in academia published research papers."
+  },
+  {
+    "word": "CURRICULUM",
+    "definition": "Subjects comprising a course of study in school",
+    "example": "The updated STEM curriculum included robotics."
+  },
+  {
+    "word": "PEDAGOGY",
+    "definition": "Method and practice of teaching as subject",
+    "example": "Innovative pedagogy engaged students in active learning."
+  },
+  {
+    "word": "UNIVERSITY",
+    "definition": "High-level educational institution giving degrees",
+    "example": "The historic university celebrated its centennial."
+  },
+  {
+    "word": "COLLEGE",
+    "definition": "Educational institution offering higher education",
+    "example": "Graduates applied to liberal arts colleges."
+  },
+  {
+    "word": "ACADEMY",
+    "definition": "Place of study or training in special field",
+    "example": "The science academy hosted regional physics fairs."
+  },
+  {
+    "word": "FACULTY",
+    "definition": "Teaching staff of a university or department",
+    "example": "Faculty members convened for annual research reviews."
+  },
+  {
+    "word": "SEMINARY",
+    "definition": "College preparing candidates for ministry",
+    "example": "Seminary scholars studied biblical languages."
+  },
+  {
+    "word": "POLYTECHNIC",
+    "definition": "Institution offering higher education in technical fields",
+    "example": "Polytechnic institutes trained network engineers."
+  },
+  {
+    "word": "SYLLABUS",
+    "definition": "Outline of the subjects in a course of study",
+    "example": "The professor distributed the semester syllabus."
+  },
+  {
+    "word": "GRADUATION",
+    "definition": "Conferring of an academic degree or diploma",
+    "example": "Graduation ceremony honored senior class achievements."
+  },
+  {
+    "word": "DIPLOMA",
+    "definition": "Certificate awarded by educational establishment",
+    "example": "He proudly framed his high school diploma."
+  },
+  {
+    "word": "DEGREE",
+    "definition": "Academic rank conferred by a college",
+    "example": "She completed her master's degree in economics."
+  },
+  {
+    "word": "DOCTORATE",
+    "definition": "Highest degree awarded by university faculty",
+    "example": "Defending dissertation earned him a doctorate."
+  },
+  {
+    "word": "LECTURE",
+    "definition": "Educational talk delivered to a class",
+    "example": "Students took notes during the physics lecture."
+  },
+  {
+    "word": "TUTORIAL",
+    "definition": "Period of tuition given to individual or group",
+    "example": "Weekly tutorial sessions reinforced math concepts."
+  },
+  {
+    "word": "COLLOQUIUM",
+    "definition": "Academic conference on a specific topic",
+    "example": "The biology department hosted a genetics colloquium."
+  },
+  {
+    "word": "SYMPOSIA",
+    "definition": "Academic conferences for discussion of topics",
+    "example": "International symposia brought top astronomers together."
+  },
+  {
+    "word": "SEMINARIAN",
+    "definition": "Student preparing for ministry at seminary",
+    "example": "The seminarian delivered an insightful homily."
+  },
+  {
+    "word": "VALEDICTORIAN",
+    "definition": "Student delivering closing address at commencement",
+    "example": "The valedictorian inspired classmates with her speech."
+  },
+  {
+    "word": "SALUTATORIAN",
+    "definition": "Student delivering opening address at graduation",
+    "example": "The salutatorian welcomed guests to commencement."
+  },
+  {
+    "word": "ALUMNUS",
+    "definition": "Male graduate or former student of institution",
+    "example": "The distinguished alumnus funded a new library wing."
+  },
+  {
+    "word": "ALUMNA",
+    "definition": "Female graduate or former student of institution",
+    "example": "The alumna returned to lecture on environmental law."
+  },
+  {
+    "word": "MATRICULATION",
+    "definition": "Formal process of entering a university",
+    "example": "Matriculation ceremony welcomed the freshman class."
+  },
+  {
+    "word": "CONVOCATION",
+    "definition": "Large formal assembly of university members",
+    "example": "The autumn convocation opened the academic year."
+  },
+  {
+    "word": "BIOLOGY",
+    "definition": "Study of living organisms and life processes",
+    "example": "Cellular biology examined DNA replication steps."
+  },
+  {
+    "word": "GENETICS",
+    "definition": "Study of heredity and variation of organisms",
+    "example": "Genetics labs mapped plant genome sequences."
+  },
+  {
+    "word": "NEUROSCIENCE",
+    "definition": "Scientific study of the nervous system and brain",
+    "example": "Neuroscience explored memory formation mechanisms."
+  },
+  {
+    "word": "BIOCHEMISTRY",
+    "definition": "Study of chemical processes within organisms",
+    "example": "Biochemistry lab tested enzyme reaction rates."
+  },
+  {
+    "word": "CHEMISTRY",
+    "definition": "Branch of science dealing with substances",
+    "example": "Organic chemistry analyzed carbon molecule bonds."
+  },
+  {
+    "word": "ALGEBRA",
+    "definition": "Branch of mathematics using letters for numbers",
+    "example": "Solving linear equations is fundamental in algebra."
+  },
+  {
+    "word": "GEOMETRY",
+    "definition": "Branch of mathematics concerned with shapes",
+    "example": "Geometry proofs calculated triangle angles."
+  },
+  {
+    "word": "CALCULUS",
+    "definition": "Branch of mathematics dealing with rates of change",
+    "example": "Differential calculus modeled acceleration curves."
+  },
+  {
+    "word": "TRIGONOMETRY",
+    "definition": "Branch of mathematics studying triangles",
+    "example": "Trigonometry functions calculated sine waves."
+  },
+  {
+    "word": "SOCIOLOGY",
+    "definition": "Study of development and structure of society",
+    "example": "Sociology research analyzed urban population trends."
+  },
+  {
+    "word": "PSYCHOLOGY",
+    "definition": "Scientific study of human mind and functions",
+    "example": "Cognitive psychology studied visual perception patterns."
+  },
+  {
+    "word": "ANTHROPOLOGY",
+    "definition": "Study of human societies and development",
+    "example": "Cultural anthropology documented oral traditions."
+  },
+  {
+    "word": "PHILOSOPHY",
+    "definition": "Study of fundamental nature of knowledge",
+    "example": "Ethics and logic form core branches of philosophy."
+  },
+  {
+    "word": "EPISTEMOLOGY",
+    "definition": "Branch of philosophy concerned with knowledge",
+    "example": "Epistemology questioned the nature of empirical truth."
+  },
+  {
+    "word": "ETHICS",
+    "definition": "Moral principles governing person's behavior",
+    "example": "Medical ethics guided clinical trial regulations."
+  },
+  {
+    "word": "LOGIC",
+    "definition": "Reasoning conducted according to strict principles",
+    "example": "Formal logic evaluated argument validity."
+  },
+  {
+    "word": "LINGUISTICS",
+    "definition": "Scientific study of language and structure",
+    "example": "Phonetics is a subfield of structural linguistics."
+  },
+  {
+    "word": "GEOGRAPHY",
+    "definition": "Study of physical features of earth and human activity",
+    "example": "Cartography is an essential skill in physical geography."
+  },
+  {
+    "word": "METEOROLOGY",
+    "definition": "Science concerned with atmosphere and weather",
+    "example": "Meteorology models predicted severe storm paths."
+  },
+  {
+    "word": "OCEANOGRAPHY",
+    "definition": "Science studying physical aspects of ocean",
+    "example": "Deep sea oceanography mapped subterranean ridges."
+  },
+  {
+    "word": "EPIGRAPHY",
+    "definition": "Study and interpretation of ancient inscriptions",
+    "example": "Epigraphy decoded stone tablet carvings."
+  },
+  {
+    "word": "DEMOGRAPHY",
+    "definition": "Study of statistics such as births and deaths",
+    "example": "Demography mapped population growth patterns."
+  },
+  {
+    "word": "CRIMINOLOGY",
+    "definition": "Scientific study of crime and criminals",
+    "example": "Criminology research analyzed rehabilitation success."
+  },
+  {
+    "word": "CARTOGRAPHY",
+    "definition": "Science or practice of drawing maps",
+    "example": "Digital cartography rendered terrain elevation maps."
+  },
+  {
+    "word": "DERMATOLOGY",
+    "definition": "Branch of medicine concerned with skin",
+    "example": "Dermatology research studied skin cell renewal."
+  },
+  {
+    "word": "TOXICOLOGY",
+    "definition": "Branch of science concerned with poisons",
+    "example": "Environmental toxicology tested river water samples."
+  },
+  {
+    "word": "VIROLOGY",
+    "definition": "Branch of science dealing with viruses",
+    "example": "Molecular virology researched viral replication."
+  },
+  {
+    "word": "CYTOLOGY",
+    "definition": "Branch of biology concerned with structure of cells",
+    "example": "Clinical cytology examined cellular tissue samples."
+  },
+  {
+    "word": "HISTOLOGY",
+    "definition": "Study of microscopic anatomy of biological tissues",
+    "example": "Histology slides showed cell membrane structures."
+  },
+  {
+    "word": "PHYSIOLOGY",
+    "definition": "Branch of biology dealing with functions of organisms",
+    "example": "Exercise physiology measured heart rate recovery."
+  },
+  {
+    "word": "ANATOMY",
+    "definition": "Branch of science concerned with bodily structure",
+    "example": "Human anatomy lab examined skeletal joints."
+  },
+  {
+    "word": "ASTRONAUTICS",
+    "definition": "Science and technology of space flight",
+    "example": "Astronautics engineering designed orbital probes."
+  },
+  {
+    "word": "HYDROLOGY",
+    "definition": "Branch of science concerned with water properties",
+    "example": "Basin hydrology calculated river runoff volumes."
+  },
+  {
+    "word": "GEOLOGY",
+    "definition": "Science dealing with physical structure of earth",
+    "example": "Structural geology analyzed fault line shifts."
+  },
+  {
+    "word": "SEISMOLOGY",
+    "definition": "Branch of science concerned with earthquakes",
+    "example": "Seismology stations detected tectonic vibrations."
+  },
+  {
+    "word": "VOLCANOLOGY",
+    "definition": "Study of volcanoes and volcanic phenomena",
+    "example": "Volcanology sensor recorded magma chamber pressure."
+  },
+  {
+    "word": "GLACIOLOGY",
+    "definition": "Study of glaciers and ice sheets",
+    "example": "Glaciology core samples measured paleoclimate ice."
+  },
+  {
+    "word": "CRYSTALLOGRAPHY",
+    "definition": "Branch of science concerned with crystal structure",
+    "example": "X-ray crystallography determined protein structures."
+  },
+  {
+    "word": "STRATIGRAPHY",
+    "definition": "Branch of geology concerned with rock layers",
+    "example": "Stratigraphy mapping dated sedimentary rock beds."
+  },
+  {
+    "word": "CYBERNETICS",
+    "definition": "Science of communications and automatic control",
+    "example": "Cybernetics models simulated neural feedback loops."
+  },
+  {
+    "word": "PROFESSOR",
+    "definition": "High-ranking academic teacher at university",
+    "example": "The tenure professor published a groundbreaking textbook."
+  },
+  {
+    "word": "LECTURER",
+    "definition": "Person who gives lectures at university",
+    "example": "The senior lecturer led introductory history modules."
+  },
+  {
+    "word": "RESEARCHER",
+    "definition": "Person who carries out academic research",
+    "example": "Postdoctoral researchers conducted gene editing trials."
+  },
+  {
+    "word": "HEADMASTER",
+    "definition": "Male headteacher of private school",
+    "example": "The headmaster addressed student assembly in morning."
+  },
+  {
+    "word": "HEADMISTRESS",
+    "definition": "Female headteacher of private school",
+    "example": "The headmistress commended academic excellence awards."
+  },
+  {
+    "word": "DEAN",
+    "definition": "Head of university faculty or department",
+    "example": "The dean of engineering approved new research labs."
+  },
+  {
+    "word": "PROVOST",
+    "definition": "Senior administrative officer in university",
+    "example": "The university provost oversaw faculty appointments."
+  },
+  {
+    "word": "CHANCELLOR",
+    "definition": "President or chief administrative officer of university",
+    "example": "The university chancellor conferred degrees."
+  },
+  {
+    "word": "RECTOR",
+    "definition": "Head of certain university colleges",
+    "example": "The university rector delivered the inaugural address."
+  },
+  {
+    "word": "TUTOR",
+    "definition": "Teacher giving individual instruction",
+    "example": "Math tutor helped student master calculus integrals."
+  },
+  {
+    "word": "PEDAGOGUE",
+    "definition": "Teacher who is strict or pedantic",
+    "example": "The pedagogue insisted on precise Latin declensions."
+  },
+  {
+    "word": "UNDERGRADUATE",
+    "definition": "Student at university who has not taken degree",
+    "example": "Undergraduate students lived in campus dormitories."
+  },
+  {
+    "word": "POSTGRADUATE",
+    "definition": "Student who obtained degree and continues study",
+    "example": "Postgraduate researchers published in peer-reviewed journals."
+  },
+  {
+    "word": "FRESHMAN",
+    "definition": "First-year student at university",
+    "example": "Freshman orientation introduced campus tools."
+  },
+  {
+    "word": "SOPHOMORE",
+    "definition": "Second-year student at university",
+    "example": "Sophomore students selected their major fields."
+  },
+  {
+    "word": "JUNIOR",
+    "definition": "Third-year student at high school or university",
+    "example": "Junior year students prepared for college entrance exams."
+  },
+  {
+    "word": "SENIOR",
+    "definition": "Student in final year of school or college",
+    "example": "Senior thesis defense was scheduled for May."
+  },
+  {
+    "word": "REGISTRAR",
+    "definition": "Official responsible for keeping student records",
+    "example": "The university registrar issued official transcripts."
+  },
+  {
+    "word": "PROCTOR",
+    "definition": "Person who supervises students during examination",
+    "example": "The exam proctor checked student identification cards."
+  },
+  {
+    "word": "PRECEPTOR",
+    "definition": "Teacher or instructor giving guidance",
+    "example": "Clinical preceptor supervised medical student rounds."
+  },
+  {
+    "word": "BURSAR",
+    "definition": "Person who manages financial affairs of college",
+    "example": "The college bursar managed tuition fee payments."
+  },
+  {
+    "word": "COMPTROLLER",
+    "definition": "Financial controller in university administration",
+    "example": "University comptroller audited department budgets."
+  },
+  {
+    "word": "PREFECT",
+    "definition": "Senior pupil authorized to enforce discipline",
+    "example": "School prefect maintained order in hallway corridors."
+  },
+  {
+    "word": "INVIGILATOR",
+    "definition": "Person supervising students during exam",
+    "example": "Exam invigilator distributed sealed test papers."
+  },
+  {
+    "word": "DEBATER",
+    "definition": "Person who takes part in formal debate",
+    "example": "Varsity debater presented rebuttal arguments."
+  },
+  {
+    "word": "FELLOW",
+    "definition": "Member of learned society or university college",
+    "example": "Research fellow published findings in science journal."
+  },
+  {
+    "word": "LECTOR",
+    "definition": "Lecturer in university language department",
+    "example": "Language lector conducted oral fluency practice."
+  },
+  {
+    "word": "TRAINEE",
+    "definition": "Person undergoing training for job or profession",
+    "example": "Teacher trainee completed classroom student teaching."
+  },
+  {
+    "word": "CAMPUS",
+    "definition": "Grounds and buildings of a university or college",
+    "example": "Students walked across the sunny campus green."
+  },
+  {
+    "word": "DORMITORY",
+    "definition": "Building providing sleeping quarters for students",
+    "example": "Freshmen lived in the newly renovated dormitory."
+  },
+  {
+    "word": "LECTUREHALL",
+    "definition": "Large room used for instruction at university",
+    "example": "The tiered lecturehall seated three hundred students."
+  },
+  {
+    "word": "GYMNASIUM",
+    "definition": "Room or building equipped for physical exercise",
+    "example": "Physical education classes met in the gymnasium."
+  },
+  {
+    "word": "RECTORY",
+    "definition": "Residence of rector or head administrator",
+    "example": "The historical rectory stood near campus chapel."
+  },
+  {
+    "word": "DEANERY",
+    "definition": "Official residence or office of university dean",
+    "example": "Faculty meeting convened in the deanery conference room."
+  },
+  {
+    "word": "AMPHITHEATER",
+    "definition": "Open-air or tiered venue with seats",
+    "example": "Medical students watched surgery in the amphitheater."
+  },
+  {
+    "word": "QUADRANGLE",
+    "definition": "Square courtyard surrounded by university buildings",
+    "example": "Students gathered on the quadrangle lawn to study."
+  },
+  {
+    "word": "PLANETARIUM",
+    "definition": "Building in which images of stars are projected",
+    "example": "Astronomy class visited local planetarium show."
+  },
+  {
+    "word": "OBSERVATORY",
+    "definition": "Building containing telescopes for star observation",
+    "example": "Mountain observatory tracked distant galaxy movements."
+  },
+  {
+    "word": "SCRIPTORTIUM",
+    "definition": "Room set apart for writing in monastery or college",
+    "example": "Medieval scriptorium produced handwritten illuminated texts."
+  },
+  {
+    "word": "ROTUNDA",
+    "definition": "Round building or room with a dome",
+    "example": "Central campus library featured a grand rotunda dome."
+  },
+  {
+    "word": "CONSERVATORY",
+    "definition": "College for the study of classical music or art",
+    "example": "Talented violinist attended prestigious music conservatory."
+  },
+  {
+    "word": "INFIRMARY",
+    "definition": "Place for care of sick students on campus",
+    "example": "Students with flu visited campus infirmary."
+  },
+  {
+    "word": "CLASSROOM",
+    "definition": "Room in which class of pupils is taught",
+    "example": "Interactive smartboards upgraded every campus classroom."
+  },
+  {
+    "word": "EMPIRICISM",
+    "definition": "Theory that knowledge comes from experience",
+    "example": "Scientific empiricism relies on observational data."
+  },
+  {
+    "word": "THEOREM",
+    "definition": "General proposition proved by chain of reasoning",
+    "example": "Pythagorean theorem calculates right triangle sides."
+  },
+  {
+    "word": "POSTULATE",
+    "definition": "Thing suggested as truth for basis of reasoning",
+    "example": "Euclid postulate established geometry foundational axioms."
+  },
+  {
+    "word": "COROLLARY",
+    "definition": "Proposition that follows from one already proved",
+    "example": "Corollary directly derived from previous geometric theorem."
+  },
+  {
+    "word": "LEMMA",
+    "definition": "Subsidiary proposition used to prove larger theorem",
+    "example": "Mathematical proof required solving technical lemma first."
+  },
+  {
+    "word": "PRAXIS",
+    "definition": "Practice as distinguished from theory",
+    "example": "Educational praxis translated learning theory to practice."
+  },
+  {
+    "word": "PEDAGOGICS",
+    "definition": "Science and art of education and teaching",
+    "example": "University course covered progressive pedagogics history."
+  },
+  {
+    "word": "DIDACTICS",
+    "definition": "Art or science of teaching instruction",
+    "example": "Effective didactics improved student retention rates."
+  },
+  {
+    "word": "ERUDITION",
+    "definition": "Quality of having or showing great knowledge",
+    "example": "Professor erudition impressed conference attendees."
+  },
+  {
+    "word": "NUMERACY",
+    "definition": "Ability to understand and work with numbers",
+    "example": "Basic numeracy is essential for STEM education."
+  },
+  {
+    "word": "DISCIPLINE",
+    "definition": "Branch of knowledge typically studied in higher education",
+    "example": "Interdisciplinary studies crossed traditional science disciplines."
+  },
+  {
+    "word": "TUITION",
+    "definition": "Sum of money charged for teaching at college",
+    "example": "Merit scholarship covered full annual tuition fees."
+  },
+  {
+    "word": "MATRICULATE",
+    "definition": "Enrol as student at a university",
+    "example": "Freshmen will matriculate during formal ceremony."
+  },
+  {
+    "word": "GRADUATE",
+    "definition": "Person who has successfully completed course",
+    "example": "University graduate accepted research position."
+  },
+  {
+    "word": "CONFER",
+    "definition": "Grant or bestow title, degree, or benefit",
+    "example": "Chancellor will confer degrees at commencement."
+  },
+  {
+    "word": "COMMENCE",
+    "definition": "Begin or start formal proceedings",
+    "example": "Commencement exercises celebrate academic completion."
+  },
+  {
+    "word": "INAUGURATE",
+    "definition": "Begin or introduce system, policy, or period",
+    "example": "University inaugurated new nanotechnology laboratory."
+  },
+  {
+    "word": "DEFEND",
+    "definition": "Conduct oral defense of academic thesis",
+    "example": "PhD candidate will defend dissertation on Monday."
+  },
+  {
+    "word": "VIVA",
+    "definition": "Oral examination for higher academic degree",
+    "example": "Doctoral viva tested candidate deep subject knowledge."
+  },
+  {
+    "word": "REFERENCE",
+    "definition": "Mention or source of information in work",
+    "example": "Bibliography listed every reference cited in text."
+  },
+  {
+    "word": "PRECIS",
+    "definition": "Summary or abstract of text or speech",
+    "example": "Students wrote concise precis of lengthy essay."
+  },
+  {
+    "word": "TREATISE",
+    "definition": "Written work dealing formally with subject",
+    "example": "Newton wrote groundbreaking treatise on optics."
+  },
+  {
+    "word": "ONOMASTICS",
+    "definition": "Study of history and origin of proper names",
+    "example": "Onomastics research traced surname geographical origins."
+  },
+  {
+    "word": "PROSODY",
+    "definition": "Patterns of rhythm and sound used in poetry",
+    "example": "Poetry module analyzed meter and prosody forms."
+  },
+  {
+    "word": "EXAMINATION",
+    "definition": "Formal test of person's knowledge or proficiency",
+    "example": "Final examination covered all semester course material."
+  },
+  {
+    "word": "CERTIFICATION",
+    "definition": "Providing agent with official document attesting status",
+    "example": "Teacher certification required passing state board exams."
+  },
+  {
+    "word": "QUALIFICATION",
+    "definition": "Quality or accomplishment making someone suitable",
+    "example": "Higher academic qualification opened advanced career paths."
+  },
+  {
+    "word": "CAPSTONE",
+    "definition": "Culminating project integrating academic learning",
+    "example": "Engineering seniors presented capstone design project."
+  },
+  {
+    "word": "PREREQUISITE",
+    "definition": "Thing required as prior condition for something else",
+    "example": "Calculus I is prerequisite for advanced physics."
+  },
+  {
+    "word": "ASSIGNMENT",
+    "definition": "Task allocated to someone as part of course",
+    "example": "Weekly homework assignment was submitted online."
+  },
+  {
+    "word": "QUIZ",
+    "definition": "Brief test of knowledge given to students",
+    "example": "Pop quiz checked reading comprehension of assignment."
+  },
+  {
+    "word": "MIDTERM",
+    "definition": "Exam taken near middle of academic term",
+    "example": "Midterm exam covered first six lecture topics."
+  },
+  {
+    "word": "VIVAVOCE",
+    "definition": "By word of mouth, oral examination",
+    "example": "Medical students completed vivavoce anatomy testing."
+  },
+  {
+    "word": "GRADING",
+    "definition": "Process of assessing work against set scale",
+    "example": "Professors spent weekend grading term research papers."
+  },
+  {
+    "word": "RUBRIC",
+    "definition": "Scoring guide used to evaluate performance",
+    "example": "Grading rubric specified criteria for essay scoring."
+  },
+  {
+    "word": "PERCENTILE",
+    "definition": "Metric showing relative score standing",
+    "example": "Standardized test score ranked in top percentile."
+  },
+  {
+    "word": "STANINE",
+    "definition": "Method of scaling test scores on nine-point standard",
+    "example": "Reading assessment reported results in stanine scores."
+  },
+  {
+    "word": "CURVING",
+    "definition": "Adjusting student test grades on bell curve",
+    "example": "Professor applied grade curving to tough exam."
+  },
+  {
+    "word": "PROCTORING",
+    "definition": "Supervising exam takers to prevent cheating",
+    "example": "Online proctoring verified remote test integrity."
+  },
+  {
+    "word": "CREDITS",
+    "definition": "Units of value given for completing course",
+    "example": "Student needed 120 credits to earn degree."
+  },
+  {
+    "word": "DEGREES",
+    "definition": "Academic ranks conferred by college",
+    "example": "University conferred undergraduate and master degrees."
+  },
+  {
+    "word": "SEMESTERS",
+    "definition": "Half-year terms into which academic year is divided",
+    "example": "Academic year divided into fall and spring semesters."
+  },
+  {
+    "word": "TRIMESTERS",
+    "definition": "Period of three months forming academic term",
+    "example": "Medical school structured curriculum into three trimesters."
+  },
+  {
+    "word": "INSTRUCTION",
+    "definition": "Detailed information telling how something should be done",
+    "example": "Direct instruction provided step-by-step problem solving."
+  },
+  {
+    "word": "APPRENTICESHIP",
+    "definition": "Position of apprentice learning trade",
+    "example": "Technical apprenticeship combined study with lab work."
+  },
+  {
+    "word": "INTERNSHIP",
+    "definition": "Period of work experience offered by organization",
+    "example": "Summer internship gave practical industry experience."
+  },
+  {
+    "word": "PRACTICUM",
+    "definition": "Practical section of course of study",
+    "example": "Student teaching practicum lasted twelve full weeks."
+  },
+  {
+    "word": "ANDRAGOGY",
+    "definition": "Method and practice of teaching adult learners",
+    "example": "Andragogy principles guided adult continuing education."
+  },
+  {
+    "word": "BEHAVIORISM",
+    "definition": "Theory that learning comes through conditioning",
+    "example": "Behaviorism research studied positive reinforcement rewards."
+  },
+  {
+    "word": "COGNITIVISM",
+    "definition": "Theory focusing on how mind processes information",
+    "example": "Cognitivism studied memory retention and retrieval strategies."
+  },
+  {
+    "word": "FORMATIVE",
+    "definition": "Assessment intended to monitor student learning",
+    "example": "Formative quizzes helped identify topics needing review."
+  },
+  {
+    "word": "SUMMATIVE",
+    "definition": "Assessment evaluating student learning at end of unit",
+    "example": "Summative final exam measured overall course mastery."
+  },
+  {
+    "word": "PEDAGOGICAL",
+    "definition": "Relating to teaching or pedagogy methods",
+    "example": "Professors adopted pedagogical tools for digital classes."
+  },
+  {
+    "word": "MULTIDISCIPLINARY",
+    "definition": "Combining several academic disciplines",
+    "example": "Multidisciplinary team studied climate change impact."
+  },
+  {
+    "word": "INTERDISCIPLINARY",
+    "definition": "Relating to more than one branch of knowledge",
+    "example": "Interdisciplinary research merged biology with computing."
+  },
+  {
+    "word": "TRANSDISCIPLINARY",
+    "definition": "Integrating fields to transcend traditional boundaries",
+    "example": "Transdisciplinary initiative tackled global energy challenges."
+  },
+  {
+    "word": "HOLISTIC",
+    "definition": "Characterized by comprehension of parts as interconnected",
+    "example": "Holistic education nurtured academic and personal growth."
+  },
+  {
+    "word": "EXTRACURRICULAR",
+    "definition": "Activities pursued in addition to normal study",
+    "example": "Extracurricular clubs included chess, debate, and drama."
+  },
+  {
+    "word": "COCURRICULAR",
+    "definition": "Activities complementing academic curriculum",
+    "example": "Cocurricular science fairs reinforced lab course concepts."
+  },
+  {
+    "word": "ADVANCED",
+    "definition": "Far on or ahead in development or progress",
+    "example": "Advanced placement calculus challenged gifted high schoolers."
+  },
+  {
+    "word": "ABACUS",
+    "definition": "Simple device for calculating consisting of frame",
+    "example": "Children learned arithmetic using wooden abacus beads."
+  },
+  {
+    "word": "PROTRACTOR",
+    "definition": "Instrument for measuring angles in degrees",
+    "example": "Student measured triangle angles using transparent protractor."
+  },
+  {
+    "word": "MICROSCOPE",
+    "definition": "Optical instrument used for viewing very small objects",
+    "example": "Biology lab examined plant cells under microscope."
+  },
+  {
+    "word": "TELESCOPE",
+    "definition": "Optical instrument for viewing distant objects",
+    "example": "Astronomy students observed Saturn rings through telescope."
+  },
+  {
+    "word": "SPECTROMETER",
+    "definition": "Apparatus used for recording and measuring spectra",
+    "example": "Physics lab used spectrometer to measure light wavelengths."
+  },
+  {
+    "word": "CENTRIFUGE",
+    "definition": "Machine with rapidly rotating container to separate fluids",
+    "example": "Lab technician placed test tubes inside centrifuge."
+  },
+  {
+    "word": "SCALPEL",
+    "definition": "Small and extremely sharp bladed instrument",
+    "example": "Dissection class handled scalpel with care."
+  },
+  {
+    "word": "BEAKER",
+    "definition": "Lipped cylindrical glass container for laboratory use",
+    "example": "Student poured chemical reagent into glass beaker."
+  },
+  {
+    "word": "RETORT",
+    "definition": "Glass vessel with bent neck used for distilling",
+    "example": "Chemistry exhibit displayed antique glass distillation retort."
+  },
+  {
+    "word": "FLASK",
+    "definition": "Container with narrow neck used in laboratory",
+    "example": "Erlenmeyer flask held green chemical solution."
+  },
+  {
+    "word": "PIPETTE",
+    "definition": "Laboratory tool used to transport measured volume of liquid",
+    "example": "Researcher used micropipette to transfer liquid samples."
+  },
+  {
+    "word": "BURETTE",
+    "definition": "Graduated glass tube with tap for liquid delivery",
+    "example": "Titration experiment required precise liquid burette readings."
+  },
+  {
+    "word": "CALCULATOR",
+    "definition": "Something used for making mathematical calculations",
+    "example": "Graphing calculator plotted complex trigonometric functions."
+  },
+  {
+    "word": "PEDAGOGIST",
+    "definition": "Specialist in pedagogy and teaching theory",
+    "example": "Pedagogist designed effective learning assessment tools."
+  },
+  {
+    "word": "DIDACTICIAN",
+    "definition": "Expert in educational methodology and teaching",
+    "example": "Didactician presented workshop on active learning."
+  },
+  {
+    "word": "LEARNER",
+    "definition": "Person who is learning a subject or skill",
+    "example": "Lifelong learner enrolled in adult evening courses."
+  },
+  {
+    "word": "SCHOLASTICISM",
+    "definition": "System of theology and philosophy taught in medieval universities",
+    "example": "Scholasticism combined Aristotelian logic with theology."
+  },
+  {
+    "word": "DISCIPLINARIAN",
+    "definition": "Person who believes in strict adherence to rules",
+    "example": "School headmaster was known as strict disciplinarian."
+  },
+  {
+    "word": "AUTODIDACT",
+    "definition": "Self-taught person",
+    "example": "Famous inventor was brilliant autodidact who taught himself math."
+  },
+  {
+    "word": "POLYMATH",
+    "definition": "Person of wide-ranging knowledge or learning",
+    "example": "Leonardo da Vinci was famous Renaissance polymath."
+  },
+  {
+    "word": "COGNITION",
+    "definition": "Mental action or process of acquiring knowledge",
+    "example": "Cognition research explored visual memory retrieval."
+  },
+  {
+    "word": "SCHOLARSHIPS",
+    "definition": "Financial awards granted to support student education",
+    "example": "University awarded merit scholarships to top applicants."
+  },
+  {
+    "word": "FELLOWSHIPS",
+    "definition": "Financial grants supporting graduate study or research",
+    "example": "Postdoctoral fellowships funded independent scientific research."
+  },
+  {
+    "word": "ASSISTANTSHIP",
+    "definition": "Paid job given to graduate student involving teaching",
+    "example": "Graduate assistantship provided tuition stipend and lab experience."
+  },
+  {
+    "word": "COMMENCEMENTS",
+    "definition": "Graduation ceremonies where degrees are conferred",
+    "example": "Spring commencements celebrated thousands of university graduates."
+  },
+  {
+    "word": "INDEPENDENT",
+    "definition": "Not depending on another authority or government",
+    "example": "Independent study project allowed student self-directed research."
+  },
+  {
+    "word": "EXPERIMENTATION",
+    "definition": "Process of performing scientific tests",
+    "example": "Laboratory experimentation validated physics hypothesis."
+  },
+  {
+    "word": "QUALITATIVE",
+    "definition": "Relating to or measuring quality rather than quantity",
+    "example": "Qualitative research analyzed student interview transcripts."
+  },
+  {
+    "word": "QUANTITATIVE",
+    "definition": "Relating to or measuring quantity and numbers",
+    "example": "Quantitative study analyzed statistical survey results."
+  },
+  {
+    "word": "PERUSE",
+    "definition": "Read something, typically in thorough or careful way",
+    "example": "Scholars perused original manuscripts in special collections."
+  },
+  {
+    "word": "INSTRUCTIONAL",
+    "definition": "Relating to or intended for teaching",
+    "example": "Instructional design enhanced online course engagement."
+  },
+  {
+    "word": "LECTURESHIP",
+    "definition": "Position or office of university lecturer",
+    "example": "He was appointed to prestigious physics lectureship."
+  },
+  {
+    "word": "TUTORSHIP",
+    "definition": "Position or office of academic tutor",
+    "example": "Tutorship position allowed senior student to mentor peers."
+  },
+  {
+    "word": "PROFESSORSHIP",
+    "definition": "Position or chair of university professor",
+    "example": "Endowed professorship supported groundbreaking medical research."
+  },
+  {
+    "word": "DEANSHIP",
+    "definition": "Position or office of university dean",
+    "example": "During her deanship, university opened two new research centers."
+  },
+  {
+    "word": "PROVOSTSHIP",
+    "definition": "Office or term of office of provost",
+    "example": "Provostship focused on expanding international academic exchanges."
+  },
+  {
+    "word": "RECTORSHIP",
+    "definition": "Office or position of university rector",
+    "example": "His rectorship modernized historic university governance."
+  },
+  {
+    "word": "CHANCELLORSHIP",
+    "definition": "Office or position of university chancellor",
+    "example": "Chancellorship established global academic partnerships."
+  },
+  {
+    "word": "ACADEMICIAN",
+    "definition": "Member of an academy of art or science",
+    "example": "Renowned academician presented keynote lecture at summit."
+  },
+  {
+    "word": "DIDACTICISM",
+    "definition": "Didactic nature, practice, or doctrine",
+    "example": "Literary critique noted underlying didacticism in novel."
+  },
+  {
+    "word": "ANDRAGOGIST",
+    "definition": "Specialist in teaching adult learners",
+    "example": "Andragist created professional development workshops."
+  },
+  {
+    "word": "MICROTEACHING",
+    "definition": "Teacher training technique using short lessons",
+    "example": "Student teachers practiced skills using microteaching videos."
+  },
+  {
+    "word": "PRACTICUMS",
+    "definition": "Practical application courses in study field",
+    "example": "Nursing practicums provided clinical hospital experience."
+  },
+  {
+    "word": "INTERNSHIPS",
+    "definition": "Professional learning experiences in work settings",
+    "example": "Summer internships connected students with engineering firms."
+  },
+  {
+    "word": "EXAMINATIONS",
+    "definition": "Formal tests evaluating knowledge",
+    "example": "Comprehensive examinations tested doctoral candidate mastery."
+  },
+  {
+    "word": "ASSESSMENTS",
+    "definition": "Evaluations of student progress and learning",
+    "example": "Continuous assessments provided immediate feedback to learners."
+  },
+  {
+    "word": "ACCREDITATIONS",
+    "definition": "Official recognitions of academic standards",
+    "example": "Regional accreditations validated college degree quality."
+  },
+  {
+    "word": "CERTIFICATIONS",
+    "definition": "Official credentials verifying professional skills",
+    "example": "Technical certifications enhanced graduate employment prospects."
+  },
+  {
+    "word": "CREDENTIALS",
+    "definition": "Qualifications or achievements verifying background",
+    "example": "Academic credentials verified international candidate degrees."
+  },
+  {
+    "word": "QUALIFICATIONS",
+    "definition": "Attainments making candidate suitable for position",
+    "example": "Advanced qualifications qualified candidate for faculty post."
+  },
+  {
+    "word": "TRANSCRIPTS",
+    "definition": "Official records of academic performance",
+    "example": "Registrar sent official transcripts to prospective employers."
+  },
+  {
+    "word": "PREREQUISITES",
+    "definition": "Required preparatory courses or conditions",
+    "example": "Math prerequisites ensured students were prepared for physics."
+  },
+  {
+    "word": "CAPSTONES",
+    "definition": "Culminating academic projects demonstrating mastery",
+    "example": "Senior capstones integrated four years of engineering study."
+  },
+  {
+    "word": "MATRICULANTS",
+    "definition": "Students who have formally entered university",
+    "example": "Incoming matriculants attended campus orientation week."
+  },
+  {
+    "word": "CONVOCATIONS",
+    "definition": "Formal assemblies of university community",
+    "example": "Annual convocations marked start of academic year."
+  },
+  {
+    "word": "VALEDICTORIANS",
+    "definition": "Highest achieving graduates delivering farewell addresses",
+    "example": "Valedictorians across districts were honored at ceremony."
+  },
+  {
+    "word": "SALUTATORIANS",
+    "definition": "Second-highest achieving graduates opening ceremonies",
+    "example": "Salutatorians welcomed families to commencement events."
+  },
+  {
+    "word": "POSTDOCTORALS",
+    "definition": "Scholars engaged in research after completing PhD",
+    "example": "Postdoctorals conducted advanced gene sequencing in lab."
+  },
+  {
+    "word": "EMERITI",
+    "definition": "Retired faculty members retaining honorary titles",
+    "example": "Professors emeriti advised department steering committee."
+  },
+  {
+    "word": "REGISTRARS",
+    "definition": "University officials managing academic records",
+    "example": "Registrars supervised student course registration process."
+  },
+  {
+    "word": "DISCIPLINARIANS",
+    "definition": "Educators enforcing strict academic conduct",
+    "example": "Disciplinarians maintained quiet order in study halls."
+  },
+  {
+    "word": "AUTODIDACTS",
+    "definition": "Self-taught scholars gaining mastery independently",
+    "example": "Autodidacts mastered computer programming through online courses."
+  },
+  {
+    "word": "POLYMATHS",
+    "definition": "Individuals possessing extensive knowledge across fields",
+    "example": "Historical polymaths contributed to astronomy, math, and art."
+  },
+  {
+    "word": "SEMIOTICIANS",
+    "definition": "Scholars analyzing sign systems and communication",
+    "example": "Semioticians interpreted visual symbols in media studies."
+  },
+  {
+    "word": "PALEONTOLOGISTS",
+    "definition": "Scientists studying fossils and ancient life forms",
+    "example": "Paleontologists excavated dinosaur fossils in desert rock."
+  },
+  {
+    "word": "ANTHROPOLOGISTS",
+    "definition": "Scientists studying human cultures and societies",
+    "example": "Cultural anthropologists conducted fieldwork in remote villages."
+  },
+  {
+    "word": "SOCIOLOGISTS",
+    "definition": "Scientists studying social behavior and institutions",
+    "example": "Sociologists analyzed urban demographic migration patterns."
+  },
+  {
+    "word": "PSYCHOLOGISTS",
+    "definition": "Scientists studying mental processes and behaviors",
+    "example": "Cognitive psychologists conducted memory recall experiments."
+  },
+  {
+    "word": "NEUROSCIENTISTS",
+    "definition": "Scientists studying structure and function of brain",
+    "example": "Neuroscientists mapped brain activity during problem solving."
+  },
+  {
+    "word": "BIOCHEMISTS",
+    "definition": "Scientists studying chemical processes in living things",
+    "example": "Biochemists isolated enzyme structures in laboratory."
+  },
+  {
+    "word": "ASTROPHYSICISTS",
+    "definition": "Scientists studying physical properties of universe",
+    "example": "Astrophysicists analyzed radiation emissions from distant stars."
+  },
+  {
+    "word": "OCEANOGRAPHERS",
+    "definition": "Scientists studying ocean dynamics and marine life",
+    "example": "Oceanographers measured deep sea current temperature trends."
+  },
+  {
+    "word": "METEOROLOGISTS",
+    "definition": "Scientists studying atmospheric phenomena and weather",
+    "example": "Meteorologists forecasted severe weather tracking paths."
+  },
+  {
+    "word": "GLACIOLOGISTS",
+    "definition": "Scientists studying ice sheets and glacier dynamics",
+    "example": "Glaciologists drilled core ice samples in Antarctic."
+  },
+  {
+    "word": "VOLCANOLOGISTS",
+    "definition": "Scientists studying magma chambers and volcanic eruptions",
+    "example": "Volcanologists monitored gas emissions at active crater."
+  },
+  {
+    "word": "SEISMOLOGISTS",
+    "definition": "Scientists studying earthquake activity and fault lines",
+    "example": "Seismologists recorded shockwaves from deep quake event."
+  },
+  {
+    "word": "CRYSTALLOGRAPHERS",
+    "definition": "Scientists studying crystal structures using X-rays",
+    "example": "Crystallographers determined molecular structure of proteins."
+  },
+  {
+    "word": "STRATIGRAPHERS",
+    "definition": "Scientists studying rock strata and geological timelines",
+    "example": "Stratigraphers mapped sedimentary layers across canyon wall."
+  },
+  {
+    "word": "CYBERNETICISTS",
+    "definition": "Scientists studying control systems in machines and organisms",
+    "example": "Cyberneticists designed neural feedback algorithms for prosthetics."
+  },
+  {
+    "word": "MECHATRONICISTS",
+    "definition": "Engineers integrating mechanics and electronics",
+    "example": "Mechatronicists developed precise sensor-actuator control units."
+  },
+  {
+    "word": "PATHOLOGY",
+    "definition": "Study of causes and effects of disease",
+    "example": "General pathology course analyzed disease tissue samples."
+  },
+  {
+    "word": "IMMUNOLOGY",
+    "definition": "Branch of medicine studying immune system",
+    "example": "Immunology research focused on antibody production."
+  },
+  {
+    "word": "PHARMACOLOGY",
+    "definition": "Branch of medicine concerned with uses of drugs",
+    "example": "Pharmacology lab tested drug receptor binding rates."
+  },
+  {
+    "word": "ENDOCRINOLOGY",
+    "definition": "Study of hormones and endocrine glands",
+    "example": "Endocrinology research examined insulin secretion pathways."
+  },
+  {
+    "word": "EPIDEMIOLOGY",
+    "definition": "Study of incidence and control of diseases",
+    "example": "Epidemiology models tracked viral transmission vectors."
+  },
+  {
+    "word": "EMBRYOLOGY",
+    "definition": "Branch of biology studying embryos and development",
+    "example": "Embryology slides showed early blastocyst cell stages."
+  },
+  {
+    "word": "KINESIOLOGY",
+    "definition": "Study of mechanics of body movements",
+    "example": "Kinesiology majors studied human muscle biomechanics."
+  },
+  {
+    "word": "ETHNOGRAPHY",
+    "definition": "Scientific description of individual cultures",
+    "example": "Field ethnography documented indigenous oral traditions."
+  },
+  {
+    "word": "PALEOGRAPHY",
+    "definition": "Study of ancient and historical handwriting styles",
+    "example": "Paleography expert transcribed 14th century Latin scripts."
+  },
+  {
+    "word": "ARCHAEOMETRY",
+    "definition": "Application of scientific techniques to archaeology",
+    "example": "Archaeometry dated ceramic shards via radiocarbon testing."
+  },
+  {
+    "word": "STYLISTICS",
+    "definition": "Study of distinctive styles in literary text",
+    "example": "Literary stylistics examined prose rhythm and diction."
+  },
+  {
+    "word": "CRYPTOGRAPHY",
+    "definition": "Art of writing or solving codes",
+    "example": "Mathematical cryptography studied public key encryption."
+  },
+  {
+    "word": "BIOMEDICINE",
+    "definition": "Branch of medical science applying biological principles",
+    "example": "Biomedicine lab engineered tissue scaffolding matrix."
+  },
+  {
+    "word": "ECOTOXICOLOGY",
+    "definition": "Study of effects of toxic chemicals on ecosystems",
+    "example": "Ecotoxicology survey tested pesticide impacts on bees."
+  },
+  {
+    "word": "DOCUMENTALIST",
+    "definition": "Person who collects and categorizes documents",
+    "example": "Senior documentalist indexed university archive holdings."
+  },
+  {
+    "word": "METHODOLOGIST",
+    "definition": "Expert in methods of research and enquiry",
+    "example": "Survey methodologist eliminated questionnaire design bias."
+  },
+  {
+    "word": "THEORETICIAN",
+    "definition": "Person who formulates or deals with theoretical concepts",
+    "example": "Theoretical physics research was led by renowned theoretician."
+  },
+  {
+    "word": "COEXAMINER",
+    "definition": "Second examiner reviewing candidate performance",
+    "example": "Coexaminer verified scoring of oral thesis defense."
+  },
+  {
+    "word": "HEADMASTERS",
+    "definition": "Male headteachers in charge of schools",
+    "example": "Regional association convened headmasters for conference."
+  },
+  {
+    "word": "HEADMISTRESSES",
+    "definition": "Female headteachers in charge of schools",
+    "example": "Annual conference welcomed headmistresses from private schools."
+  },
+  {
+    "word": "BURSARIES",
+    "definition": "Monetary grants given to students for study",
+    "example": "University awarded financial bursaries to low-income scholars."
+  },
+  {
+    "word": "STUDENTSHIPS",
+    "definition": "Grants enabling students to undertake study",
+    "example": "Doctoral studentships funded four years of tuition."
+  },
+  {
+    "word": "STIPENDS",
+    "definition": "Fixed regular payment made to student or scholar",
+    "example": "Graduate teaching assistant received monthly stipend."
+  },
+  {
+    "word": "ENDOWMENTS",
+    "definition": "Income or property given to university",
+    "example": "Alumni endowments funded new science department chairs."
+  },
+  {
+    "word": "REACCREDITATIONS",
+    "definition": "Renewals of official accreditation status",
+    "example": "Medical school completed successful reaccreditations review."
+  },
+  {
+    "word": "MASTERATE",
+    "definition": "Degree or rank of master at university",
+    "example": "Candidate completed coursework for masterate in literature."
+  },
+  {
+    "word": "BACCALAUREATE",
+    "definition": "Bachelor degree awarded by college",
+    "example": "International Baccalaureate program prepared high school seniors."
+  },
+  {
+    "word": "HABILITATION",
+    "definition": "Highest university examination in several European countries",
+    "example": "Dr. Mueller completed habilitation to qualify for professorship."
+  },
+  {
+    "word": "PREPRINTS",
+    "definition": "Early versions of academic papers shared before review",
+    "example": "Physicists published preprints on open access repository."
+  },
+  {
+    "word": "REPRINTS",
+    "definition": "Separate copies of printed articles from journal",
+    "example": "Author ordered reprints of published journal article."
+  },
+  {
+    "word": "OFFPRINTS",
+    "definition": "Separate prints of articles originally published in journal",
+    "example": "Professor sent offprints of paper to international colleagues."
+  },
+  {
+    "word": "SOURCEBOOKS",
+    "definition": "Books providing collection of primary source documents",
+    "example": "History sourcebook contained translated medieval charters."
+  },
+  {
+    "word": "CASEBOOKS",
+    "definition": "Books containing reports of selected legal or medical cases",
+    "example": "Law students studied precedence in constitutional casebooks."
+  },
+  {
+    "word": "TESTBANKS",
+    "definition": "Collections of exam questions and answers for course",
+    "example": "Publisher provided testbanks to introductory psychology instructors."
+  },
+  {
+    "word": "CURRICULA",
+    "definition": "Plural form of curriculum, courses of study",
+    "example": "Academic committee revised undergraduate STEM curricula."
+  },
+  {
+    "word": "AUDITORIA",
+    "definition": "Plural of auditorium, hall venues",
+    "example": "Campus master plan included two modern auditoria."
+  },
+  {
+    "word": "LABORATORIES",
+    "definition": "Plural of laboratory, research facilities",
+    "example": "University constructed state-of-the-art research laboratories."
+  },
+  {
+    "word": "CONSERVATORIES",
+    "definition": "Plural of conservatory, music colleges",
+    "example": "Graduates of top music conservatories joined symphony orchestra."
+  },
+  {
+    "word": "SEMINARIES",
+    "definition": "Plural of seminary, theological colleges",
+    "example": "Historical seminaries trained scholars in ancient languages."
+  },
+  {
+    "word": "RECTORIES",
+    "definition": "Plural of rectory, campus administrator residences",
+    "example": "Campus tour visited historic stone rectories."
+  },
+  {
+    "word": "DEANERIES",
+    "definition": "Plural of deanery, university administrative offices",
+    "example": "Faculty held quarterly meetings in departmental deaneries."
+  },
+  {
+    "word": "PLANETARIUMS",
+    "definition": "Plural of planetarium, star projection theaters",
+    "example": "Science museum hosted visitors in twin planetariums."
+  },
+  {
+    "word": "OBSERVATORIES",
+    "definition": "Plural of observatory, astronomical facilities",
+    "example": "High-altitude observatories captured deep space images."
+  },
+  {
+    "word": "SCRIPTATORIUMS",
+    "definition": "Plural of scriptorium, historical writing rooms",
+    "example": "Monastic scriptatoriums preserved classical literature texts."
+  },
+  {
+    "word": "PREKINDERGARTEN",
+    "definition": "Early childhood education program prior to kindergarten",
+    "example": "Prekindergarten program introduced social play and counting skills."
+  },
+  {
+    "word": "KINDERGARTEN",
+    "definition": "Class or school for young children before primary school",
+    "example": "Kindergarten students learned basic letters and numbers."
+  },
+  {
+    "word": "ELEMENTARY",
+    "definition": "Relating to basic primary school education",
+    "example": "Elementary school curriculum emphasized reading and arithmetic."
+  },
+  {
+    "word": "INTERMEDIATE",
+    "definition": "Middle school level of education between primary and high school",
+    "example": "Intermediate school students participated in regional science fairs."
+  },
+  {
+    "word": "SCHOOLING",
+    "definition": "Education received at school",
+    "example": "Formal schooling prepared students for future careers."
+  },
+  {
+    "word": "MATRICULATES",
+    "definition": "Students who enroll at a college or university",
+    "example": "New matriculates registered for autumn term courses."
+  },
+  {
+    "word": "PEDAGOGIES",
+    "definition": "Diverse methods and practices of teaching",
+    "example": "Modern pedagogies embrace interactive project-based learning."
+  },
+  {
+    "word": "CLASSMATES",
+    "definition": "Fellow students in the same class",
+    "example": "Classmates collaborated on group science project presentation."
+  },
+  {
+    "word": "SCHOOLMATES",
+    "definition": "Fellow students attending the same school",
+    "example": "Schoolmates organized charity drive for local hospital."
+  },
+  {
+    "word": "PLAYMATES",
+    "definition": "Children who play together in early learning settings",
+    "example": "Preschool playmates shared building blocks during recess."
+  },
+  {
+    "word": "HEADTEACHER",
+    "definition": "Principal teacher in charge of a school",
+    "example": "Headteacher addressed school assembly regarding safety rules."
+  },
+  {
+    "word": "INSTRUCTORS",
+    "definition": "Teachers who impart knowledge or skills",
+    "example": "University instructors guided laboratory experiments."
+  },
+  {
+    "word": "PROFESSORS",
+    "definition": "Senior academic faculty members at university",
+    "example": "Professors led advanced research seminars."
+  },
+  {
+    "word": "LECTURERS",
+    "definition": "Teachers delivering university lectures",
+    "example": "Visiting lecturers presented papers on modern history."
+  },
+  {
+    "word": "EDUCATORS",
+    "definition": "Persons involved in teaching or education",
+    "example": "Dedicated educators gathered at national teaching conference."
+  },
+  {
+    "word": "MENTORS",
+    "definition": "Experienced advisors guiding students",
+    "example": "Faculty mentors provided academic career advice."
+  },
+  {
+    "word": "ADVISERS",
+    "definition": "Persons giving academic guidance to students",
+    "example": "Academic advisers assisted students with course selection."
+  },
+  {
+    "word": "TUTORS",
+    "definition": "Private teachers giving individual instruction",
+    "example": "Peer tutors helped students prepare for midterms."
+  },
+  {
+    "word": "PRECEPTORS",
+    "definition": "Instructors supervising clinical or practical work",
+    "example": "Clinical preceptors evaluated medical student bedside skills."
+  },
+  {
+    "word": "PROCTORS",
+    "definition": "Supervisors overseeing formal examinations",
+    "example": "Exam proctors checked student identification at entrance."
+  },
+  {
+    "word": "INVIGILATORS",
+    "definition": "Proctors enforcing examination rules",
+    "example": "Exam invigilators distributed question booklets."
+  },
+  {
+    "word": "DEANS",
+    "definition": "Heads of university faculties or divisions",
+    "example": "Deans of academic departments met to plan budget."
+  },
+  {
+    "word": "PROVOSTS",
+    "definition": "Senior administrative officials at university",
+    "example": "Provosts coordinated university-wide research initiatives."
+  },
+  {
+    "word": "CHANCELLORS",
+    "definition": "Chief academic officers of university systems",
+    "example": "University chancellors presided over commencement."
+  },
+  {
+    "word": "RECTORS",
+    "definition": "Heads of specific academic colleges",
+    "example": "College rectors welcomed international visiting scholars."
+  },
+  {
+    "word": "PEDAGOGUES",
+    "definition": "Strict or pedantic teachers",
+    "example": "Traditional pedagogues insisted on memorizing grammar rules."
+  },
+  {
+    "word": "TRAINEES",
+    "definition": "Persons undergoing professional training",
+    "example": "Teacher trainees completed student teaching rotations."
+  },
+  {
+    "word": "SCHOLARS",
+    "definition": "Specialized academic researchers",
+    "example": "Visiting scholars conducted archival research in library."
+  },
+  {
+    "word": "ALUMNI",
+    "definition": "Graduates of a particular institution",
+    "example": "Alumni association raised funds for new campus building."
+  },
+  {
+    "word": "ALUMNAE",
+    "definition": "Female graduates of an educational institution",
+    "example": "Alumnae network offered mentorship to female undergraduates."
+  },
+  {
+    "word": "FELLOWS",
+    "definition": "Appointed members of academic institutions",
+    "example": "Research fellows published groundbreaking discovery."
+  },
+  {
+    "word": "GRADUATES",
+    "definition": "Persons who have received academic degrees",
+    "example": "Proud graduates celebrated commencement with family."
+  },
+  {
+    "word": "VALEDICTORIES",
+    "definition": "Farewell speeches delivered at graduation ceremonies",
+    "example": "Valedictories reflected on shared memories and future goals."
+  },
+  {
+    "word": "SALUTATORIES",
+    "definition": "Welcoming addresses delivered at commencement",
+    "example": "Salutatories welcomed families to graduation ceremonies."
+  },
+  {
+    "word": "BACCALAUREATES",
+    "definition": "Bachelor degrees awarded by colleges",
+    "example": "College conferred baccalaureates in arts and sciences."
+  },
+  {
+    "word": "NEUROPATHOLOGY",
+    "definition": "Study of diseases of nervous system tissue",
+    "example": "Neuropathology lab examined brain tissue specimens."
+  },
+  {
+    "word": "PSYCHOPATHOLOGY",
+    "definition": "Study of mental disorders and abnormal behavior",
+    "example": "Clinical psychopathology course examined diagnostic criteria."
+  },
+  {
+    "word": "CARDIOLOGY",
+    "definition": "Branch of medicine dealing with heart disorders",
+    "example": "Cardiology fellows studied cardiac imaging techniques."
+  },
+  {
+    "word": "GASTROENTEROLOGY",
+    "definition": "Branch of medicine dealing with digestive system",
+    "example": "Gastroenterology lab researched gut microbiome dynamics."
+  },
+  {
+    "word": "NEPHROLOGY",
+    "definition": "Branch of medicine dealing with kidney diseases",
+    "example": "Nephrology clinical rounds evaluated dialysis patients."
+  },
+  {
+    "word": "PULMONOLOGY",
+    "definition": "Branch of medicine dealing with respiratory system",
+    "example": "Pulmonology department tested lung capacity function."
+  },
+  {
+    "word": "RHEUMATOLOGY",
+    "definition": "Branch of medicine dealing with joint disorders",
+    "example": "Rheumatology research evaluated autoimmune treatments."
+  },
+  {
+    "word": "ONCOLOGY",
+    "definition": "Branch of medicine dealing with cancer research",
+    "example": "Medical oncology lab tested novel immunotherapy agents."
+  },
+  {
+    "word": "RADIOLOGY",
+    "definition": "Branch of medicine using imaging to diagnose disease",
+    "example": "Diagnostic radiology residency included MRI and CT interpretation."
+  },
+  {
+    "word": "ANESTHESIOLOGY",
+    "definition": "Branch of medicine dealing with anesthesia during surgery",
+    "example": "Anesthesiology training covered perioperative patient monitoring."
+  },
+  {
+    "word": "OTOLARYNGOLOGY",
+    "definition": "Medical specialty dealing with ear, nose, and throat",
+    "example": "Otolaryngology clinic treated hearing and speech conditions."
+  },
+  {
+    "word": "OPHTHALMOLOGY",
+    "definition": "Branch of medicine dealing with eye disorders",
+    "example": "Ophthalmology lab researched retinal gene therapy."
+  },
+  {
+    "word": "UROLOGY",
+    "definition": "Branch of medicine dealing with urinary tract system",
+    "example": "Urology department performed minimally invasive surgeries."
+  },
+  {
+    "word": "GYNECOLOGY",
+    "definition": "Branch of medicine dealing with female reproductive system",
+    "example": "Gynecology clinic provided preventive healthcare screening."
+  },
+  {
+    "word": "OBSTETRICS",
+    "definition": "Branch of medicine dealing with pregnancy and childbirth",
+    "example": "Obstetrics residency trained physicians in maternal care."
+  },
+  {
+    "word": "PEDIATRICS",
+    "definition": "Branch of medicine dealing with children and diseases",
+    "example": "Pediatrics department provided specialized child healthcare."
+  },
+  {
+    "word": "GERIATRICS",
+    "definition": "Branch of medicine dealing with health of elderly",
+    "example": "Geriatrics specialty focused on age-related cognitive health."
+  },
+  {
+    "word": "ORTHOPEDICS",
+    "definition": "Branch of medicine dealing with bones and muscles",
+    "example": "Orthopedics clinic treated sports injury joint fractures."
+  },
+  {
+    "word": "PSYCHIATRY",
+    "definition": "Branch of medicine dealing with mental health treatment",
+    "example": "Psychiatry residency focused on clinical psychotherapy."
+  },
+  {
+    "word": "NEUROLOGY",
+    "definition": "Branch of medicine dealing with nervous system disorders",
+    "example": "Neurology clinic evaluated memory disorder patients."
+  },
+  {
+    "word": "COLLOQUIA",
+    "definition": "Academic conferences or seminars for discussion",
+    "example": "Departmental colloquia featured invited guest speakers."
+  },
+  {
+    "word": "DISSERTATING",
+    "definition": "Writing or defending an academic dissertation",
+    "example": "Doctoral candidate spent final year dissertating on history topic."
+  },
+  {
+    "word": "MATRICULATING",
+    "definition": "Formally enrolling in a university course",
+    "example": "Incoming freshmen enjoyed matriculating week festivities."
+  },
+  {
+    "word": "ACCREDITING",
+    "definition": "Granting official approval to educational program",
+    "example": "National board was responsible for accrediting nursing programs."
+  },
+  {
+    "word": "REACCREDITNG",
+    "definition": "Re-evaluating and renewing institutional accreditation",
+    "example": "Committee prepared documentation for reaccrediting college."
+  },
+  {
+    "word": "ENROLLMENT",
+    "definition": "Act of enrolling or registering for courses",
+    "example": "Spring term enrollment increased significantly in computer science."
+  },
+  {
+    "word": "ENROLMENT",
+    "definition": "Act of registering for academic study",
+    "example": "Total student enrolment reached ten thousand this semester."
+  },
+  {
+    "word": "ADMISSION",
+    "definition": "Process of being accepted into educational institution",
+    "example": "University admissions office reviewed thousands of applications."
+  },
+  {
+    "word": "ADMISSIONS",
+    "definition": "Department handling student applications and acceptance",
+    "example": "Admissions officers hosted campus tours for prospective families."
+  },
+  {
+    "word": "TUITIONS",
+    "definition": "Fees paid for educational instruction",
+    "example": "University kept tuitions stable for incoming fresh class."
+  },
+  {
+    "word": "DIPLOMAS",
+    "definition": "Certificates issued by educational institutions",
+    "example": "Graduates received official printed diplomas during ceremony."
+  },
+  {
+    "word": "DOCTORATES",
+    "definition": "Highest academic degrees awarded by universities",
+    "example": "Faculty members held doctorates from top research universities."
+  },
+  {
+    "word": "COMMENCEMENT",
+    "definition": "Graduation ceremony for granting degrees",
+    "example": "Commencement address inspired graduates to serve society."
+  },
+  {
+    "word": "VALEDICTORY",
+    "definition": "Farewell address delivered at commencement",
+    "example": "Valedictory address highlighted resilience of graduating class."
+  },
+  {
+    "word": "SALUTATORY",
+    "definition": "Opening address welcoming guests at commencement",
+    "example": "Salutatory address set uplifting tone for graduation."
+  },
+  {
+    "word": "RECITATION",
+    "definition": "Classroom session spent reviewing coursework and answering questions",
+    "example": "Weekly physics recitation helped students solve difficult problems."
+  },
+  {
+    "word": "HOMEWORK",
+    "definition": "School tasks assigned to be completed at home",
+    "example": "Teacher assigned daily math homework to reinforce algebra concepts."
+  },
+  {
+    "word": "CLASSWORK",
+    "definition": "Tasks and exercises performed by students in classroom",
+    "example": "Classwork involved group discussion and problem solving."
+  },
+  {
+    "word": "COURSEWORK",
+    "definition": "Written or practical work done by student during course",
+    "example": "Final grade was calculated from coursework and final exam."
+  },
+  {
+    "word": "READINGS",
+    "definition": "Assigned literary texts or papers for course study",
+    "example": "Professors required weekly readings from academic journals."
+  },
+  {
+    "word": "LECTURING",
+    "definition": "Act of giving an educational speech or talk",
+    "example": "Professor enjoyed lecturing on ancient Greek philosophy."
+  },
+  {
+    "word": "EXAMINING",
+    "definition": "Inspecting or testing candidate knowledge thoroughly",
+    "example": "Faculty panel spent afternoon examining doctoral thesis."
+  },
+  {
+    "word": "EVALUATING",
+    "definition": "Assessing student performance against academic criteria",
+    "example": "Instructors spent evening evaluating lab project submissions."
+  },
+  {
+    "word": "ASSESSING",
+    "definition": "Evaluating quality, skill, or learning progress",
+    "example": "Standardized testing assisted in assessing school district performance."
+  },
+  {
+    "word": "INVIGILATING",
+    "definition": "Supervising candidates during written examination",
+    "example": "Senior faculty member spent morning invigilating national board exam."
+  },
+  {
+    "word": "CURRICULAR",
+    "definition": "Relating to course of study in school",
+    "example": "Curricular enhancements added coding to elementary school."
+  },
+  {
+    "word": "PEDAGOGIC",
+    "definition": "Relating to teaching or instructional methods",
+    "example": "Teacher implemented pedagogic strategies for diverse learners."
+  },
+  {
+    "word": "DIDACTICAL",
+    "definition": "Designed or intended to teach educational lessons",
+    "example": "Book offered didactical guidance for young science students."
+  },
+  {
+    "word": "ACADEMICAL",
+    "definition": "Relating to educational institutions or scholarship",
+    "example": "Formal academical robes were worn at commencement ceremony."
+  },
+  {
+    "word": "INTELLECTUAL",
+    "definition": "Relating to intellect and high-level reasoning",
+    "example": "Seminar fostered stimulating intellectual debate among scholars."
+  },
+  {
+    "word": "DISCIPLINARY",
+    "definition": "Relating to specific branch of academic knowledge",
+    "example": "Disciplinary expertise enriched collaborative research project."
+  }
+]

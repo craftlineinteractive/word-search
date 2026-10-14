@@ -1,0 +1,1822 @@
+[
+  {
+    "word": "POTTERY",
+    "meaning": "Crafting ceramic vessels and art out of clay",
+    "example": "Spinning clay on the potter's wheel created smooth vases."
+  },
+  {
+    "word": "CERAMICS",
+    "meaning": "Art of making objects from clay hardened by heat",
+    "example": "Glazing ceramics produced vibrant glossy tableware."
+  },
+  {
+    "word": "SCULPTING",
+    "meaning": "Art of shaping figures from stone, clay, or wood",
+    "example": "Sculpting marble required precision and patience."
+  },
+  {
+    "word": "ORIGAMI",
+    "meaning": "Japanese art of folding paper into decorative shapes",
+    "example": "Folding paper cranes is a famous origami tradition."
+  },
+  {
+    "word": "STENCILING",
+    "meaning": "Applying design to surface by brushing through cutout",
+    "example": "Stenciling border patterns decorated bedroom walls."
+  },
+  {
+    "word": "PYROGRAPHY",
+    "meaning": "Art of decorating wood with heated burn marks",
+    "example": "Pyrography artists burn intricate wildlife portraits."
+  },
+  {
+    "word": "MOSAIC",
+    "meaning": "Art of creating images with small colored tiles",
+    "example": "Arranging glass tesserae formed a colorful mosaic."
+  },
+  {
+    "word": "SCRAPBOOKING",
+    "meaning": "Preserving personal history in photo albums",
+    "example": "Scrapbooking preserved family travel memories."
+  },
+  {
+    "word": "COLLAGE",
+    "meaning": "Art composition made by gluing materials on backing",
+    "example": "Pasting magazine clippings created an abstract collage."
+  },
+  {
+    "word": "WOODCARVING",
+    "meaning": "Shaping wood figures using knives and chisels",
+    "example": "Whittling cedar blocks was a peaceful woodcarving pastime."
+  },
+  {
+    "word": "GLASSBLOWING",
+    "meaning": "Art of shaping molten glass by blowing air",
+    "example": "Glassblowing produced colorful hand-blown vases."
+  },
+  {
+    "word": "JEWELRYMAKING",
+    "meaning": "Craft of designing and assembling wearable ornaments",
+    "example": "Beading silver wires was her favorite jewelrymaking hobby."
+  },
+  {
+    "word": "BEADWORK",
+    "meaning": "Art of attaching beads to fabric or cord",
+    "example": "Intricate beadwork decorated handmade pouches."
+  },
+  {
+    "word": "EMBROIDERY",
+    "meaning": "Art of decorating fabric using needle and thread",
+    "example": "Stitching colorful floral embroidery decorated the pillow."
+  },
+  {
+    "word": "NEEDLEPOINT",
+    "meaning": "Form of counted thread embroidery on canvas",
+    "example": "Needlepoint cushions featured detailed tapestry designs."
+  },
+  {
+    "word": "CROSSSTITCH",
+    "meaning": "Form of sewing using X-shaped stitches in a tiled pattern",
+    "example": "Crossstitch samplers displayed alphabet designs."
+  },
+  {
+    "word": "KNITTING",
+    "meaning": "Craft of interlocking loops of yarn with long needles",
+    "example": "Knitting wool socks kept her hands busy in winter."
+  },
+  {
+    "word": "CROCHETING",
+    "meaning": "Craft of creating fabric using yarn and a single hook",
+    "example": "Crocheting blankets provided cozy handmade gifts."
+  },
+  {
+    "word": "WEAVING",
+    "meaning": "Forming fabric by interlacing warp and weft threads",
+    "example": "Operating the table loom was a satisfying weaving craft."
+  },
+  {
+    "word": "MACRAME",
+    "meaning": "Craft of knotting cord into decorative patterns",
+    "example": "Hanging plant holders were crafted using cotton macrame."
+  },
+  {
+    "word": "QUILTING",
+    "meaning": "Sewing two layers of fabric with padding between",
+    "example": "Stitching geometric patch patterns created a warm quilt."
+  },
+  {
+    "word": "SEWING",
+    "meaning": "Joining fabrics together using needle and thread",
+    "example": "Sewing custom dresses allowed tailored fitting."
+  },
+  {
+    "word": "FELTING",
+    "meaning": "Matting wool fibers together using moisture or needles",
+    "example": "Needle felting shaped wool roving into cute animal figures."
+  },
+  {
+    "word": "PAPERCRAFT",
+    "meaning": "Art of creating three-dimensional objects from paper",
+    "example": "Building papercraft architectural models required care."
+  },
+  {
+    "word": "DECOUPAGE",
+    "meaning": "Art of decorating objects with paper cutouts and varnish",
+    "example": "Decoupage boxes featured vintage botanical prints."
+  },
+  {
+    "word": "STAINEDGLASS",
+    "meaning": "Art of joining colored glass pieces with lead strips",
+    "example": "Sunlight illuminated the vibrant stainedglass panel."
+  },
+  {
+    "word": "CREWELWORK",
+    "meaning": "Form of embroidery using thick wool yarn",
+    "example": "Crewelwork cushions featured raised Jacobean floral patterns."
+  },
+  {
+    "word": "LACEMAKING",
+    "meaning": "Craft of weaving delicate decorative thread lace",
+    "example": "Bobbin lacemaking required intricate pins and bobbins."
+  },
+  {
+    "word": "TATTING",
+    "meaning": "Handcraft of constructing durable lace using shuttle",
+    "example": "Tatting shuttle loops produced delicate lace collars."
+  },
+  {
+    "word": "SPINNING",
+    "meaning": "Art of twisting raw wool fibers into continuous yarn",
+    "example": "Spinning fleece on the wooden wheel produced soft yarn."
+  },
+  {
+    "word": "CARDING",
+    "meaning": "Preparing raw fleece for spinning by combing fibers",
+    "example": "Hand carding wool aligned fibers before spinning."
+  },
+  {
+    "word": "SMOCKING",
+    "meaning": "Embroidery technique gathering fabric into tight pleats",
+    "example": "Smocking adorned traditional children's cotton dresses."
+  },
+  {
+    "word": "APPLIQUE",
+    "meaning": "Needlework technique sewing fabric shapes onto backing",
+    "example": "Applique quilts featured bold floral patches."
+  },
+  {
+    "word": "TRAPUNTO",
+    "meaning": "Quilting technique producing raised padded designs",
+    "example": "Trapunto stitching created raised dimensional motifs."
+  },
+  {
+    "word": "PATCHWORK",
+    "meaning": "Needlework sewing together small pieces of fabric",
+    "example": "Patchwork blankets combined colorful scrap fabrics."
+  },
+  {
+    "word": "BATIK",
+    "meaning": "Indonesian technique of wax-resist dyeing on fabric",
+    "example": "Batik banners displayed intricate wax-dyed patterns."
+  },
+  {
+    "word": "TIEDYEING",
+    "meaning": "Process of tying fabric before immersion in dye",
+    "example": "Tiedyeing shirts produced vibrant spiral color bursts."
+  },
+  {
+    "word": "QUILLING",
+    "meaning": "Art of rolling thin paper strips into decorative shapes",
+    "example": "Quilling paper coils formed delicate floral greeting cards."
+  },
+  {
+    "word": "KIRIGAMI",
+    "meaning": "Variation of origami that includes cutting paper",
+    "example": "Kirigami pop-up cards unfolded detailed paper buildings."
+  },
+  {
+    "word": "CARTONNAGE",
+    "meaning": "Art of making decorative boxes from heavy cardboard",
+    "example": "Cartonnage projects covered cardboard frames in fabric."
+  },
+  {
+    "word": "AIRBRUSHING",
+    "meaning": "Art of applying liquid paint using atomized spray",
+    "example": "Airbrushing custom graphics decorated motorcycle helmets."
+  },
+  {
+    "word": "WOODWORKING",
+    "meaning": "Activity of making items from wood using hand tools",
+    "example": "Woodworking projects included crafting oak tables."
+  },
+  {
+    "word": "CARPENTRY",
+    "meaning": "Trade or craft of constructing wooden structures",
+    "example": "Basic carpentry skills helped build garden pergolas."
+  },
+  {
+    "word": "WHITTLING",
+    "meaning": "Carving wood by repeatedly slicing small shavings off",
+    "example": "Whittling pine sticks by the campfire relaxed the mind."
+  },
+  {
+    "word": "JOINERY",
+    "meaning": "Art of joining pieces of timber to construct woodwork",
+    "example": "Dovetail joinery provided strong drawer corners."
+  },
+  {
+    "word": "CABINETMAKING",
+    "meaning": "Craft of building high quality wooden furniture",
+    "example": "Cabinetmaking required precise joinery and wood finishing."
+  },
+  {
+    "word": "MARQUETRY",
+    "meaning": "Art of applying wood veneers to create patterns",
+    "example": "Marquetry tabletops featured intricate wooden inlays."
+  },
+  {
+    "word": "PARQUETRY",
+    "meaning": "Geometric mosaic of wood pieces used for flooring",
+    "example": "Parquetry flooring featured herringbone wood patterns."
+  },
+  {
+    "word": "INTARSIA",
+    "meaning": "Woodworking technique inserting contrasting wood shapes",
+    "example": "Intarsia murals depicted wooden mountain landscapes."
+  },
+  {
+    "word": "SCROLLSAWING",
+    "meaning": "Cutting intricate curves in wood using fine saw blade",
+    "example": "Scrollsawing crafted delicate wooden fretwork ornaments."
+  },
+  {
+    "word": "METALWORKING",
+    "meaning": "Craft of shaping metal into useful structures",
+    "example": "Metalworking included forging steel brackets."
+  },
+  {
+    "word": "BLACKSMITHING",
+    "meaning": "Forging iron objects using anvil and hammer heat",
+    "example": "The blacksmith forged custom iron gate hinges."
+  },
+  {
+    "word": "LATHING",
+    "meaning": "Shaping wood or metal using a rotating lathe tool",
+    "example": "Turning wooden bowls on the lathe yielded smooth curves."
+  },
+  {
+    "word": "LEATHERCRAFT",
+    "meaning": "Craft of tooling, stamping, and sewing leather",
+    "example": "Carving floral designs into belt straps was leathercraft."
+  },
+  {
+    "word": "UPCYCLING",
+    "meaning": "Reusing discarded objects to create higher value items",
+    "example": "Upcycling old pallets created rustic garden benches."
+  },
+  {
+    "word": "CANDLEMAKING",
+    "meaning": "Craft of pouring melted wax around wicks",
+    "example": "Scented soy candlemaking filled the home with lavender."
+  },
+  {
+    "word": "SOAPMAKING",
+    "meaning": "Process of saponifying oils to create handmade soap",
+    "example": "Cold process soapmaking added oatmeal and essential oils."
+  },
+  {
+    "word": "PERFUMERY",
+    "meaning": "Art of blending essential oils and aromatic compounds",
+    "example": "Perfumery involved balancing top, heart, and base notes."
+  },
+  {
+    "word": "BREWING",
+    "meaning": "Craft of fermenting malted grains into craft beer",
+    "example": "Home brewing yielded amber ales and hoppy IPAs."
+  },
+  {
+    "word": "WINEMAKING",
+    "meaning": "Fermenting crushed grapes or berries into wine",
+    "example": "Fruit winemaking utilized backyard blackberry harvests."
+  },
+  {
+    "word": "TAXIDERMY",
+    "meaning": "Art of preparing, stuffing, and mounting animal skins",
+    "example": "Taxidermy preserved museum natural history specimens."
+  },
+  {
+    "word": "SCRIMSHAW",
+    "meaning": "Engraving designs into whalebone or walrus ivory",
+    "example": "Nautical scrimshaw depicted sailing ships on bone."
+  },
+  {
+    "word": "MOLDMAKING",
+    "meaning": "Creating flexible silicone molds for casting objects",
+    "example": "Silicone moldmaking allowed duplicate resin reproductions."
+  },
+  {
+    "word": "WIREWRAPPING",
+    "meaning": "Craft of wrapping wire around gemstones without solder",
+    "example": "Wirewrapping silver wire created handmade pendant wirework."
+  },
+  {
+    "word": "LAPIDARY",
+    "meaning": "Art of cutting, shaping, and polishing gemstones",
+    "example": "Lapidary artists turned rough agate into polished gems."
+  },
+  {
+    "word": "FACETING",
+    "meaning": "Cutting flat faces onto transparent gemstones",
+    "example": "Faceting raw quartz created brilliant sparkling gems."
+  },
+  {
+    "word": "PHILATELY",
+    "meaning": "Collection and study of postage stamps",
+    "example": "Philately enthusiasts cataloged rare historical stamps."
+  },
+  {
+    "word": "NUMISMATICS",
+    "meaning": "Study and collection of coins and currency",
+    "example": "Numismatics collectors organized silver coins by mint mark."
+  },
+  {
+    "word": "DELTIOLOGY",
+    "meaning": "Collection and study of vintage postcards",
+    "example": "Deltiology collections featured historic city views."
+  },
+  {
+    "word": "METROLOGY",
+    "meaning": "Study of weights, measures, and precision gauges",
+    "example": "Collecting antique brass scales fell under metrology."
+  },
+  {
+    "word": "ANTIQUING",
+    "meaning": "Shopping or hunting for valuable vintage antiques",
+    "example": "Weekend antiquing uncovered mid-century modern clocks."
+  },
+  {
+    "word": "HERBALISM",
+    "meaning": "Study and collection of medicinal plants and herbs",
+    "example": "Herbalism involved drying mint, chamomile, and sage."
+  },
+  {
+    "word": "THRIFTING",
+    "meaning": "Shopping at secondhand stores for unique finds",
+    "example": "Thrifting yielded vintage record albums and coats."
+  },
+  {
+    "word": "MEMORABILIA",
+    "meaning": "Collecting objects kept for historical interest",
+    "example": "Sports memorabilia included signed baseball gloves."
+  },
+  {
+    "word": "AUTOGRAPHS",
+    "meaning": "Collecting written signatures of famous individuals",
+    "example": "His autograph album featured signatures of astronauts."
+  },
+  {
+    "word": "COMICS",
+    "meaning": "Collecting printed comic books and graphic novels",
+    "example": "Preserving vintage superhero comics required acid-free sleeves."
+  },
+  {
+    "word": "VINYLCOLLECTING",
+    "meaning": "Acquiring original vinyl phonograph records",
+    "example": "Vinylcollecting brought warm analog album listening."
+  },
+  {
+    "word": "POSTCARDS",
+    "meaning": "Collecting illustrated mailing cards from around the world",
+    "example": "Organizing vintage travel postcards in binder sleeves."
+  },
+  {
+    "word": "STAMPS",
+    "meaning": "Collecting commemorative postage stamps",
+    "example": "Sorting international stamps by country and issue year."
+  },
+  {
+    "word": "MINERALS",
+    "meaning": "Collecting polished gemstones and mineral crystals",
+    "example": "Displaying quartz crystals and pyrite mineral specimens."
+  },
+  {
+    "word": "FOSSILS",
+    "meaning": "Collecting preserved remains of ancient prehistoric life",
+    "example": "Hunting for fossilized shark teeth along beach cliffs."
+  },
+  {
+    "word": "SHELLS",
+    "meaning": "Collecting natural sea shells along ocean shorelines",
+    "example": "Searching for smooth cowrie shells along sandy shores."
+  },
+  {
+    "word": "INSECTS",
+    "meaning": "Collecting and mounting preserved butterfly specimens",
+    "example": "Carefully pinning preserved butterflies in shadowboxes."
+  },
+  {
+    "word": "EXONUMIA",
+    "meaning": "Collecting numismatic items other than coins or notes",
+    "example": "Exonumia includes collecting tokens, medals, and badges."
+  },
+  {
+    "word": "VEXILLOLOGY",
+    "meaning": "Study of flags and their symbolism and history",
+    "example": "Vexillology enthusiasts designed regional flag banners."
+  },
+  {
+    "word": "HERALDRY",
+    "meaning": "Study of armorial bearings, coats of arms, and crests",
+    "example": "Heraldry researched historic family crest symbolism."
+  },
+  {
+    "word": "GENEALOGY",
+    "meaning": "Study of family ancestral histories and lineages",
+    "example": "Genealogy research traced family trees back centuries."
+  },
+  {
+    "word": "ARCHAEOLOGY",
+    "meaning": "Study of human history through excavated artifacts",
+    "example": "Amateur archaeology surveyed ancient pottery shards."
+  },
+  {
+    "word": "PALEONTOLOGY",
+    "meaning": "Study of prehistoric life through fossil remains",
+    "example": "Paleontology field trips searched for trilobite fossils."
+  },
+  {
+    "word": "MINERALOGY",
+    "meaning": "Scientific study of minerals and crystal structures",
+    "example": "Mineralogy cataloged crystal hardness and streak color."
+  },
+  {
+    "word": "PETROLOGY",
+    "meaning": "Branch of geology studying origin and structure of rocks",
+    "example": "Petrology examined thin sections of granite under microscope."
+  },
+  {
+    "word": "CONCHOLOGY",
+    "meaning": "Study and collection of mollusk shells",
+    "example": "Conchology cataloged marine spiral shell species."
+  },
+  {
+    "word": "ENTOMOLOGY",
+    "meaning": "Scientific study and collection of insects",
+    "example": "Entomology field work gathered beetle specimens."
+  },
+  {
+    "word": "LEPIDOPTEROLOGY",
+    "meaning": "Study and collection of butterflies and moths",
+    "example": "Lepidopterology tracked butterfly migration routes."
+  },
+  {
+    "word": "HERPETOLOGY",
+    "meaning": "Study and keeping of reptiles and amphibians",
+    "example": "Herpetology enthusiasts maintained vivarium habitats."
+  },
+  {
+    "word": "ICHTHYOLOGY",
+    "meaning": "Study of fish species and aquarium keeping",
+    "example": "Ichthyology hobbyists bred rare freshwater cichlids."
+  },
+  {
+    "word": "MYCOLOGY",
+    "meaning": "Study of wild fungi and mushroom species",
+    "example": "Mycology walks identified woodland fungal spores."
+  },
+  {
+    "word": "LETTERBOXING",
+    "meaning": "Outdoor treasure hunt finding rubber stamp boxes",
+    "example": "Letterboxing collected unique hand-carved stamp impressions."
+  },
+  {
+    "word": "EPHEMERA",
+    "meaning": "Collecting short-lived printed paper items",
+    "example": "Collecting vintage paper ephemera like tickets and menus."
+  },
+  {
+    "word": "BIBLIOPHILY",
+    "meaning": "Love and collection of rare or fine books",
+    "example": "Bibliophily led to collecting leather-bound first editions."
+  },
+  {
+    "word": "MODELTRAINS",
+    "meaning": "Building scale model railway layouts and trains",
+    "example": "Model trains ran along detailed miniature scenery loops."
+  },
+  {
+    "word": "RCPLANES",
+    "meaning": "Flying radio-controlled model aircraft",
+    "example": "Flying RC planes required smooth remote joystick control."
+  },
+  {
+    "word": "RCDRONES",
+    "meaning": "Operating radio-controlled aerial drones with cameras",
+    "example": "FPV RCdrones captured soaring aerial video footage."
+  },
+  {
+    "word": "GARDENING",
+    "meaning": "Cultivating flowers, plants, and vegetables in soil",
+    "example": "Weekend gardening produced fresh tomatoes and basil."
+  },
+  {
+    "word": "BONSAI",
+    "meaning": "Japanese art of growing miniature trees in containers",
+    "example": "Pruning small juniper branches was a meditative bonsai art."
+  },
+  {
+    "word": "TOPIARY",
+    "meaning": "Art of clipping shrubs into ornamental shapes",
+    "example": "Trimming boxwood shrubs into swan topiary shapes."
+  },
+  {
+    "word": "BIRDING",
+    "meaning": "Observing wild birds in their natural habitats",
+    "example": "Spring birding spotted migrating warblers in forest."
+  },
+  {
+    "word": "BIRDWATCHING",
+    "meaning": "Activity of observing and identifying wild birds",
+    "example": "Early morning birdwatching required binoculars and guidebooks."
+  },
+  {
+    "word": "STARGAZING",
+    "meaning": "Observing night sky stars, planets, and constellations",
+    "example": "Stargazing through a telescope revealed Saturn's rings."
+  },
+  {
+    "word": "ASTRONOMY",
+    "meaning": "Scientific observation of celestial objects and space",
+    "example": "Amateur astronomy tracked lunar craters and comet paths."
+  },
+  {
+    "word": "ASTROPHOTOGRAPHY",
+    "meaning": "Photographing night sky objects through long exposures",
+    "example": "Astrophotography captured glowing colorful Orion nebula gas."
+  },
+  {
+    "word": "GEOCACHING",
+    "meaning": "Outdoor treasure hunt using GPS coordinates",
+    "example": "Geocaching guided hikers to hidden logbook containers."
+  },
+  {
+    "word": "CAMPING",
+    "meaning": "Living outdoors temporarily in tents or shelters",
+    "example": "Weekend camping included campfires and star watching."
+  },
+  {
+    "word": "HIKING",
+    "meaning": "Walking long distances in wilderness trails",
+    "example": "Hiking mountain trails provided fresh air and vistas."
+  },
+  {
+    "word": "TREKKING",
+    "meaning": "Long arduous journey made on foot across rough terrain",
+    "example": "Highland trekking reached remote alpine glacier views."
+  },
+  {
+    "word": "BUSHRAFT",
+    "meaning": "Skills of surviving and thriving in natural wilderness",
+    "example": "Bushcraft included shelter building and friction fire starting."
+  },
+  {
+    "word": "SURVIVALISM",
+    "meaning": "Practicing self-reliance skills for emergency situations",
+    "example": "Survivalism emphasized water purification and navigation."
+  },
+  {
+    "word": "CANOEING",
+    "meaning": "Paddling a light open boat along calm waterways",
+    "example": "Quiet canoeing across glassy lakes offered peaceful views."
+  },
+  {
+    "word": "KAYAKING",
+    "meaning": "Navigating a small watercraft using a double-bladed paddle",
+    "example": "Coastal kayaking glided past rocky sea caves."
+  },
+  {
+    "word": "ROWING",
+    "meaning": "Propelling a boat using oars in rowlocks",
+    "example": "Morning rowing on the river built core endurance."
+  },
+  {
+    "word": "BOATING",
+    "meaning": "Activity of traveling in a motor or row boat",
+    "example": "Recreational boating explored island coves."
+  },
+  {
+    "word": "ANGLING",
+    "meaning": "Fishing using a rod, line, and baited hook",
+    "example": "Quiet freshwater angling caught rainbow trout."
+  },
+  {
+    "word": "FLYFISHING",
+    "meaning": "Fishing using lightweight artificial flies cast on line",
+    "example": "Flyfishing in mountain streams required delicate casting."
+  },
+  {
+    "word": "FORAGING",
+    "meaning": "Searching for wild edible plants, berries, and nuts",
+    "example": "Spring foraging gathered wild ramps and blackberries."
+  },
+  {
+    "word": "MUSHROOMING",
+    "meaning": "Hunting and identifying wild edible fungi in forests",
+    "example": "Fall mushrooming yielded golden chanterelle mushrooms."
+  },
+  {
+    "word": "BEEKEEPING",
+    "meaning": "Maintaining honeybee colonies in wooden hives",
+    "example": "Beekeeping harvested sweet golden wildflower honey."
+  },
+  {
+    "word": "APICULTURE",
+    "meaning": "Technical practice of bee culture and honey production",
+    "example": "Apiculture involved inspecting hive frames for queen cells."
+  },
+  {
+    "word": "FALCONRY",
+    "meaning": "Art of hunting wild game using trained birds of prey",
+    "example": "Falconry required deep trust between falcon and handler."
+  },
+  {
+    "word": "ARCHERY",
+    "meaning": "Sport or skill of shooting arrows with a bow",
+    "example": "Practicing target archery improved focus and form."
+  },
+  {
+    "word": "KITEFLYING",
+    "meaning": "Launching and maneuvering kites into wind currents",
+    "example": "Kiteflying on the ocean beach drew colorful tail streams."
+  },
+  {
+    "word": "ORIENTEERING",
+    "meaning": "Outdoor sport of navigating terrain with map and compass",
+    "example": "Competitive orienteering timed navigation through woods."
+  },
+  {
+    "word": "ROCKHOUNDING",
+    "meaning": "Searching for and collecting rocks, gems, and minerals",
+    "example": "Rockhounding along riverbeds discovered agate stones."
+  },
+  {
+    "word": "FLORICULTURE",
+    "meaning": "Cultivation of flowering and ornamental plants",
+    "example": "Floriculture greenhouses produced prize roses."
+  },
+  {
+    "word": "POMOLOGY",
+    "meaning": "Branch of botany studying fruit cultivation",
+    "example": "Pomology orchard care improved apple crop yields."
+  },
+  {
+    "word": "OLERICULTURE",
+    "meaning": "Science of vegetable growing for food production",
+    "example": "Olericulture garden plots grew heirloom vegetables."
+  },
+  {
+    "word": "ARBORICULTURE",
+    "meaning": "Cultivation and management of individual trees",
+    "example": "Arboriculture care maintained ancient oak trees."
+  },
+  {
+    "word": "IKENABA",
+    "meaning": "Traditional Japanese art of flower arrangement",
+    "example": "Ikebana floral art emphasized line, minimalism, and balance."
+  },
+  {
+    "word": "FLORISTRY",
+    "meaning": "Art of arranging and selling cut flowers",
+    "example": "Floristry created elegant bridal bouquets."
+  },
+  {
+    "word": "GLAMPING",
+    "meaning": "Glamorous luxury camping with comfortable amenities",
+    "example": "Glamping in yurt tents combined nature with comfort."
+  },
+  {
+    "word": "SPEARFISHING",
+    "meaning": "Hunting fish underwater using a speargun or hand spear",
+    "example": "Spearfishing along coral reefs required breath-hold diving."
+  },
+  {
+    "word": "BERRYING",
+    "meaning": "Gathering wild berries in fields and forests",
+    "example": "Summer berrying filled baskets with wild huckleberries."
+  },
+  {
+    "word": "MOUNTAINEERING",
+    "meaning": "Sport of climbing high mountains involving snow and ice",
+    "example": "Alpine mountaineering reached high summit peaks."
+  },
+  {
+    "word": "SCRAMBLING",
+    "meaning": "Ascending steep terrain using hands for balance",
+    "example": "Ridge scrambling offered thrilling non-rope climbing."
+  },
+  {
+    "word": "ABSEILING",
+    "meaning": "Descending a vertical cliff face using a doubled rope",
+    "example": "Abseiling down canyon walls required harness safety."
+  },
+  {
+    "word": "RAPPELLING",
+    "meaning": "Descending steep slopes using friction rope devices",
+    "example": "Rappelling into limestone sinkholes explored caverns."
+  },
+  {
+    "word": "SPELUNKING",
+    "meaning": "Exploring natural cave systems as a recreational hobby",
+    "example": "Spelunking teams mapped limestone underground passages."
+  },
+  {
+    "word": "GOLDPANNING",
+    "meaning": "Sifting river gravel in a shallow pan for gold flakes",
+    "example": "Goldpanning in mountain streams yielded shiny flakes."
+  },
+  {
+    "word": "METALDETECTING",
+    "meaning": "Searching for buried metal objects using electronic detector",
+    "example": "Metaldetecting on beaches uncovered lost coins and rings."
+  },
+  {
+    "word": "KITESURFING",
+    "meaning": "Riding a surfboard pulled across water by a large kite",
+    "example": "Kitesurfing across ocean waves combined sailing and surfing."
+  },
+  {
+    "word": "WINDSURFING",
+    "meaning": "Riding a surfboard with attached sail across water",
+    "example": "Windsurfing across windy bays required balance."
+  },
+  {
+    "word": "SLACKLINING",
+    "meaning": "Balancing along a narrow flat webbing tensioned between trees",
+    "example": "Slacklining in city parks improved balance and focus."
+  },
+  {
+    "word": "PARAGLIDING",
+    "meaning": "Flying lightweight foot-launched glider aircraft",
+    "example": "Paragliding off thermal mountain cliffs offered soaring views."
+  },
+  {
+    "word": "PODCASTING",
+    "meaning": "Producing audio shows for digital distribution",
+    "example": "Podcasting weekly episodes shared history interviews."
+  },
+  {
+    "word": "VLOGGING",
+    "meaning": "Creating video blogs documenting personal activities",
+    "example": "Travel vlogging documented street food markets."
+  },
+  {
+    "word": "PHOTOGRAPHY",
+    "meaning": "Art of capturing images with light on digital sensors",
+    "example": "Landscape photography required early morning golden light."
+  },
+  {
+    "word": "VIDEOGRAPHY",
+    "meaning": "Art of recording moving images on digital video",
+    "example": "Nature videography captured flying eagle sequences."
+  },
+  {
+    "word": "CINEMATOGRAPHY",
+    "meaning": "Art of motion-picture photography and framing",
+    "example": "Short film cinematography utilized dramatic lighting."
+  },
+  {
+    "word": "RECORDING",
+    "meaning": "Capturing audio tracks using studio microphones",
+    "example": "Home recording captured acoustic guitar arrangements."
+  },
+  {
+    "word": "SINGING",
+    "meaning": "Producing musical tones with the voice",
+    "example": "Choral singing blended harmonies in community choir."
+  },
+  {
+    "word": "DANCING",
+    "meaning": "Moving rhythmically to music for enjoyment",
+    "example": "Ballroom dancing practiced smooth waltz steps."
+  },
+  {
+    "word": "ACTING",
+    "meaning": "Performing roles in theatrical or film productions",
+    "example": "Community theater acting rehearsed classic stage plays."
+  },
+  {
+    "word": "BEATBOXING",
+    "meaning": "Vocal percussion imitating drum machines and beats",
+    "example": "Street performers showcased fast vocal beatboxing."
+  },
+  {
+    "word": "JUGGLING",
+    "meaning": "Kept multiple objects airborne by tossing continuously",
+    "example": "Juggling three silk beanbags developed hand coordination."
+  },
+  {
+    "word": "MAGIC",
+    "meaning": "Performing sleight of hand tricks and illusions",
+    "example": "Card magic tricks astounded party audiences."
+  },
+  {
+    "word": "ILLUSIONISM",
+    "meaning": "Art of creating convincing stage illusions",
+    "example": "Stage illusionism featured vanishing cabinet acts."
+  },
+  {
+    "word": "VENTRILOQUISM",
+    "meaning": "Act of speaking without moving lips using a dummy",
+    "example": "Ventriloquism routines brought wooden puppets to life."
+  },
+  {
+    "word": "PUPPETRY",
+    "meaning": "Art of operating puppets in theatrical shows",
+    "example": "Marionette puppetry told classic fairy tale stories."
+  },
+  {
+    "word": "STANDUP",
+    "meaning": "Performing comedic monologue routines to live crowds",
+    "example": "Open mic standup tested new humorous observations."
+  },
+  {
+    "word": "COSPLAY",
+    "meaning": "Dressing up as characters from movies or games",
+    "example": "Crafting foam armor for convention cosplay competitions."
+  },
+  {
+    "word": "KARAOKE",
+    "meaning": "Singing along to recorded instrumental music tracks",
+    "example": "Weekend karaoke nights filled the lounge with classic hits."
+  },
+  {
+    "word": "MENTALISM",
+    "meaning": "Performing psychological mind-reading stage illusions",
+    "example": "Stage mentalism amazed audiences with predicted words."
+  },
+  {
+    "word": "DIABOLO",
+    "meaning": "Juggling game spinning a hourglass-shaped spool on string",
+    "example": "Spinning and tossing the diabolo high into the air."
+  },
+  {
+    "word": "YOYO",
+    "meaning": "Spool connected to string wound up and dropped",
+    "example": "Executing string trick loops with a balanced metal yoyo."
+  },
+  {
+    "word": "UNICYCLING",
+    "meaning": "Riding a one-wheeled vehicle propelled by pedals",
+    "example": "Balancing on a tall unicycle developed core stability."
+  },
+  {
+    "word": "BAKING",
+    "meaning": "Cooking food by dry heat in an oven, especially bread",
+    "example": "Weekend baking filled the house with sourdough aromas."
+  },
+  {
+    "word": "ROASTING",
+    "meaning": "Cooking food by exposing to open heat or oven",
+    "example": "Coffee roasting experimented with green bean profiles."
+  },
+  {
+    "word": "GRILLING",
+    "meaning": "Cooking food on a rack over direct heat source",
+    "example": "Barbecue grilling seared savory vegetable skewers."
+  },
+  {
+    "word": "SMOKING",
+    "meaning": "Curing and cooking food using wood smoke low and slow",
+    "example": "Hickory wood smoking prepared tender brisket cuts."
+  },
+  {
+    "word": "CHARCUTERIE",
+    "meaning": "Art of preparing cured meats, terrines, and pates",
+    "example": "Assembling a charcuterie board with cheeses and nuts."
+  },
+  {
+    "word": "CHOCOLATIERING",
+    "meaning": "Art of crafting artisan chocolates and truffles",
+    "example": "Tempering dark cacao was key in chocolatiering."
+  },
+  {
+    "word": "CONFECTIONERY",
+    "meaning": "Art of making sweet candies and confections",
+    "example": "Pulling peppermint hard candies in confectionery class."
+  },
+  {
+    "word": "MIXOLOGY",
+    "meaning": "Art of crafting balanced cocktails and beverages",
+    "example": "Mixology experimented with herbal syrups and bitters."
+  },
+  {
+    "word": "GASTRONOMY",
+    "meaning": "Art and science of good eating and gourmet food",
+    "example": "Molecular gastronomy explored innovative food textures."
+  },
+  {
+    "word": "SOMMELIER",
+    "meaning": "Expertise in fine wine selection and pairing",
+    "example": "Studying wine regions to train as a certified sommelier."
+  },
+  {
+    "word": "FERMENTATION",
+    "meaning": "Preserving food using beneficial microorganisms",
+    "example": "Lacto fermentation created tangy kimchi and sauerkraut."
+  },
+  {
+    "word": "CANNING",
+    "meaning": "Preserving food in airtight glass jars by heat",
+    "example": "Summer canning preserved sweet peach jam for winter."
+  },
+  {
+    "word": "PRESERVING",
+    "meaning": "Treating food to prevent decay and retain flavor",
+    "example": "Preserving citrus peels created candied lemon treats."
+  },
+  {
+    "word": "SOURDOUGH",
+    "meaning": "Baking bread using naturally fermented wild yeast",
+    "example": "Nurturing a sourdough starter yielded blistered crust loaves."
+  },
+  {
+    "word": "MAHJONG",
+    "meaning": "Traditional Chinese tile matching and set building game",
+    "example": "Assembling winning melds and tiles in mahjong rounds."
+  },
+  {
+    "word": "SPEEDCUBING",
+    "meaning": "Solving Rubik's cubes as fast as possible",
+    "example": "Speedcubing algorithms solved the cube in ten seconds."
+  },
+  {
+    "word": "RUBIKS",
+    "meaning": "3D combination puzzle with colored faces",
+    "example": "Twisting Rubiks cube faces to align matching colors."
+  },
+  {
+    "word": "QUIZZING",
+    "meaning": "Participating in structured general knowledge contests",
+    "example": "Daily quizzing expanded historical and geography knowledge."
+  },
+  {
+    "word": "WARGAMING",
+    "meaning": "Tactical simulation of military battles with miniatures",
+    "example": "Tabletop wargaming simulated historic Napoleonic maneuvers."
+  },
+  {
+    "word": "ROLEPLAYING",
+    "meaning": "Cooperative storytelling game assuming character personas",
+    "example": "Tabletop roleplaying campaigns explored fantasy dungeons."
+  },
+  {
+    "word": "LARPING",
+    "meaning": "Live action role-playing game acting out character roles",
+    "example": "LARPING events featured padded sword battles in parks."
+  },
+  {
+    "word": "SKATEBOARDING",
+    "meaning": "Riding and performing tricks on a wheeled board",
+    "example": "Practicing kickflips at the local concrete skate park."
+  },
+  {
+    "word": "ROLLERBLADING",
+    "meaning": "Inline skating along paved paths and parks",
+    "example": "Rollerblading along the ocean boardwalk at sunset."
+  },
+  {
+    "word": "PARKOUR",
+    "meaning": "Moving rapidly through urban environment over obstacles",
+    "example": "Vaulting over concrete ledges in parkour training."
+  },
+  {
+    "word": "BOULDERING",
+    "meaning": "Rock climbing on short formations without ropes",
+    "example": "Solving bouldering route problems on indoor climbing walls."
+  },
+  {
+    "word": "CLIMBING",
+    "meaning": "Ascending steep rock faces or artificial climbing walls",
+    "example": "Rock climbing required physical strength and mental focus."
+  },
+  {
+    "word": "PADDLEBOARDING",
+    "meaning": "Standing on a long board and propelling with a paddle",
+    "example": "Stand-up paddleboarding along serene coastal inlets."
+  },
+  {
+    "word": "SNOWBOARDING",
+    "meaning": "Descending snow-covered slopes on a single board",
+    "example": "Carving fresh powder snow while snowboarding down slopes."
+  },
+  {
+    "word": "SKIING",
+    "meaning": "Gliding across snow using long narrow skis",
+    "example": "Downhill skiing offered exhilarating mountain runs."
+  },
+  {
+    "word": "CURLING",
+    "meaning": "Sport sliding heavy granite stones across ice toward target",
+    "example": "Sweeping the ice path during a strategic curling match."
+  },
+  {
+    "word": "BOWLING",
+    "meaning": "Rolling a heavy ball down a lane to knock down pins",
+    "example": "Striking all ten pins for a perfect bowling score."
+  },
+  {
+    "word": "BILLIARDS",
+    "meaning": "Cue sport played on a cloth-covered table with balls",
+    "example": "Sinking eight ball shots on the green felt billiards table."
+  },
+  {
+    "word": "DARTS",
+    "meaning": "Throwing small pointed missiles at a circular target",
+    "example": "Hitting the double twenty ring to win at darts."
+  },
+  {
+    "word": "FOOSBALL",
+    "meaning": "Tabletop game using rod-mounted figures to play soccer",
+    "example": "Fast wrist spins scored goals in foosball matches."
+  },
+  {
+    "word": "AIRHOCKEY",
+    "meaning": "Table game using puck levitated on air cushion",
+    "example": "Deflecting fast puck strikes on the airhockey table."
+  },
+  {
+    "word": "EQUESTRIAN",
+    "meaning": "Riding horses and demonstrating horsemanship",
+    "example": "Equestrian jumping events showcased horse agility."
+  },
+  {
+    "word": "WOODTURNING",
+    "meaning": "Shaping wooden objects on a rotating lathe",
+    "example": "Woodturning produced smooth decorative bowl rims."
+  },
+  {
+    "word": "STONEWORK",
+    "meaning": "Crafting structures or sculptures out of natural stone",
+    "example": "Dry stonework built lasting garden retaining walls."
+  },
+  {
+    "word": "WHITTLER",
+    "meaning": "Person who carves wood into small decorative figures",
+    "example": "The whittler crafted wooden birds on his porch."
+  },
+  {
+    "word": "CERAMIST",
+    "meaning": "Artist who specializes in making ceramic pottery",
+    "example": "The ceramist glazed stoneware mugs with cobalt blue."
+  },
+  {
+    "word": "PHILATELIST",
+    "meaning": "Person who collects and studies postage stamps",
+    "example": "The philatelist inspected watermarks with a magnifying glass."
+  },
+  {
+    "word": "NUMISMATIST",
+    "meaning": "Person who collects and studies coins or medals",
+    "example": "The numismatist preserved rare ancient Roman denarii."
+  },
+  {
+    "word": "DELTIOLOGIST",
+    "meaning": "Person who collects historical vintage postcards",
+    "example": "The deltiologist organized postcard binders by region."
+  },
+  {
+    "word": "ASTROPHOTOGRAPHER",
+    "meaning": "Person who photographs deep space objects",
+    "example": "The astrophotographer captured the spiral Andromeda galaxy."
+  },
+  {
+    "word": "BUSHCRAPTER",
+    "meaning": "Person skilled in wilderness survival techniques",
+    "example": "The bushcrafter built a waterproof lean-to shelter."
+  },
+  {
+    "word": "FORAGER",
+    "meaning": "Person who searches for wild edible plants and mushrooms",
+    "example": "The mushroom forager identified edible chanterelles."
+  },
+  {
+    "word": "BEEKEEPER",
+    "meaning": "Person who maintains and cares for honeybee hives",
+    "example": "The beekeeper smoked the hive before inspecting frames."
+  },
+  {
+    "word": "BREWMASTER",
+    "meaning": "Professional or home crafter of specialty beers",
+    "example": "The brewmaster sampled dark stout beer batches."
+  },
+  {
+    "word": "SOMMELIERS",
+    "meaning": "Trained wine professionals guiding food pairings",
+    "example": "Sommeliers suggested crisp white wines for seafood."
+  },
+  {
+    "word": "SCRAPBOOKER",
+    "meaning": "Person who creates decorative memory albums",
+    "example": "The scrapbooking fan glued ticket stubs into her journal."
+  },
+  {
+    "word": "CROSSSTITCHER",
+    "meaning": "Person who practices counted cross-stitch embroidery",
+    "example": "The crossstitcher completed a detailed garden sampler."
+  },
+  {
+    "word": "SPELUNKER",
+    "meaning": "Person who explores caves as a hobby",
+    "example": "The spelunker navigated tight limestone crawl spaces."
+  },
+  {
+    "word": "BOULDERER",
+    "meaning": "Climber who tackles short rock routes without ropes",
+    "example": "The boulderers practiced climbing holds at the gym."
+  },
+  {
+    "word": "SLACKLINER",
+    "meaning": "Person who balances on narrow suspended webbing ribbon",
+    "example": "The slackliner balanced smoothly over the park lawn."
+  },
+  {
+    "word": "WINDSURFER",
+    "meaning": "Person riding a sail-powered water board",
+    "example": "The windsurfer caught afternoon gusts across the bay."
+  },
+  {
+    "word": "PADDLEBOARDER",
+    "meaning": "Person propelling a long board with a paddle",
+    "example": "The paddleboarder glided through calm harbour waters."
+  },
+  {
+    "word": "SNOWBOARDER",
+    "meaning": "Person riding a single board down snowy slopes",
+    "example": "The snowboarder carved wide turns in fresh powder."
+  },
+  {
+    "word": "PYROGRAPHER",
+    "meaning": "Artist who decorates wood surfaces with hot burn tools",
+    "example": "The pyrographer burned detailed wolf portraits on oak."
+  },
+  {
+    "word": "LEATHERWORKER",
+    "meaning": "Craftsperson who tools, sews, and crafts leather",
+    "example": "The leatherworker hand-stitched durable leather saddles."
+  },
+  {
+    "word": "GLASSBLOWER",
+    "meaning": "Artisan who shapes molten glass into art objects",
+    "example": "The glassblower created colorful glass paperweights."
+  },
+  {
+    "word": "SILVERSMITH",
+    "meaning": "Craftsperson who forged and crafts sterling silver",
+    "example": "The silversmith hammered decorative silver spoons."
+  },
+  {
+    "word": "GOLDSMITH",
+    "meaning": "Craftsperson who crafts gold jewelry and ornaments",
+    "example": "The goldsmith set diamonds in custom gold rings."
+  },
+  {
+    "word": "COPPERSMITH",
+    "meaning": "Artisan who shapes copper metal into pots and art",
+    "example": "The coppersmith hammered shiny copper cooking pots."
+  },
+  {
+    "word": "TINSMITH",
+    "meaning": "Craftsperson who manufactures tinware goods",
+    "example": "The tinsmith soldered tin lanterns for historical sites."
+  },
+  {
+    "word": "GUNSMITH",
+    "meaning": "Craftsperson who designs, repairs, and modifies firearms",
+    "example": "The gunsmith restored antique flintlock rifles."
+  },
+  {
+    "word": "LOCKSMITH",
+    "meaning": "Craftsperson who constructs, repairs, and unlocks locks",
+    "example": "The locksmith assembled intricate brass padlock mechanisms."
+  },
+  {
+    "word": "CLOCKMAKER",
+    "meaning": "Horologist who designs and constructs mechanical clocks",
+    "example": "The clockmaker adjusted grandfather clock pendulum gears."
+  },
+  {
+    "word": "WATCHMAKER",
+    "meaning": "Horologist who constructs and repairs mechanical watches",
+    "example": "The watchmaker placed microscopic jewel bearings."
+  },
+  {
+    "word": "LUTHIER",
+    "meaning": "Craftsperson who builds and repairs stringed instruments",
+    "example": "The luthier carved spruce soundboards for violins."
+  },
+  {
+    "word": "WEAVER",
+    "meaning": "Person who weaves fabric or tapestry on a loom",
+    "example": "The weaver interlaced colorful threads into tapestry."
+  },
+  {
+    "word": "SPINNER",
+    "meaning": "Person who spins raw wool or cotton into yarn",
+    "example": "The spinner drafted wool roving onto the spinning wheel."
+  },
+  {
+    "word": "DYER",
+    "meaning": "Person who dyes raw fabrics and yarns with colors",
+    "example": "The dyer used natural indigo plants for blue yarn."
+  },
+  {
+    "word": "EMBROIDERER",
+    "meaning": "Person who decorates textiles with needlework",
+    "example": "The embroiderer stitched silk floral motifs onto linen."
+  },
+  {
+    "word": "QUILTER",
+    "meaning": "Person who sews layered fabric quilts",
+    "example": "The quilter pieced geometric block patches together."
+  },
+  {
+    "word": "TAXIDERMIST",
+    "meaning": "Person who prepares and mounts preserved animal specimens",
+    "example": "The taxidermist mounted a majestic stag head."
+  },
+  {
+    "word": "WOODWORKER",
+    "meaning": "Person who builds furniture and wooden crafts",
+    "example": "The woodworker planed cherry boards for a desk."
+  },
+  {
+    "word": "CARPENTER",
+    "meaning": "Person who builds structural wooden frameworks",
+    "example": "The carpenter framed wooden rafters for the barn."
+  },
+  {
+    "word": "CABINETMAKER",
+    "meaning": "Person who builds fine wooden cabinetry and furniture",
+    "example": "The cabinetmaker constructed dovetailed oak drawers."
+  },
+  {
+    "word": "LAPIDIST",
+    "meaning": "Person who cuts, shapes, and polishes gemstones",
+    "example": "The lapidist polished turquoise cabochons for rings."
+  },
+  {
+    "word": "FACETER",
+    "meaning": "Person who cuts reflective facets onto gemstones",
+    "example": "The faceter shaped raw sapphire into brilliant gems."
+  },
+  {
+    "word": "ENGRAVER",
+    "meaning": "Person who incises designs onto metal or glass",
+    "example": "The engraver carved crest initials on silver trays."
+  },
+  {
+    "word": "ETCHER",
+    "meaning": "Person who uses acid to etch designs onto metal plates",
+    "example": "The etcher printed detailed copperplate artwork."
+  },
+  {
+    "word": "PRINTMAKER",
+    "meaning": "Artist who creates art prints using woodblocks or plates",
+    "example": "The printmaker pressed woodcut relief prints on paper."
+  },
+  {
+    "word": "LITHOGRAPHER",
+    "meaning": "Artist who prints from smooth stone or metal plates",
+    "example": "The lithographer drew images directly on limestone."
+  },
+  {
+    "word": "ILLUMINATOR",
+    "meaning": "Artist decorating manuscripts with gold and colors",
+    "example": "The illuminator applied leaf gold to gospel pages."
+  },
+  {
+    "word": "ORIGAMIST",
+    "meaning": "Person skilled in the paper-folding art of origami",
+    "example": "The origamist folded an intricate paper dragon."
+  },
+  {
+    "word": "STAMPCOLLECTING",
+    "meaning": "Hobby of acquiring and cataloging postage stamps",
+    "example": "Stampcollecting explored international postal history."
+  },
+  {
+    "word": "COINCOLLECTING",
+    "meaning": "Hobby of gathering historical coins and currency",
+    "example": "Coincollecting focused on ancient silver Roman coins."
+  },
+  {
+    "word": "CARDCOLLECTING",
+    "meaning": "Hobby of collecting trading or sports cards",
+    "example": "Cardcollecting gathered vintage baseball player cards."
+  },
+  {
+    "word": "TOYCOLLECTING",
+    "meaning": "Hobby of collecting antique or specialty toys",
+    "example": "Toycollecting focused on tinplate clockwork vehicles."
+  },
+  {
+    "word": "COMICCOLLECTING",
+    "meaning": "Hobby of acquiring vintage comic books",
+    "example": "Comiccollecting preserved golden age superhero issues."
+  },
+  {
+    "word": "ARTCOLLECTING",
+    "meaning": "Hobby of acquiring fine paintings and sculptures",
+    "example": "Artcollecting filled the gallery with impressionist art."
+  },
+  {
+    "word": "MAPCOLLECTING",
+    "meaning": "Hobby of acquiring antique geographical maps",
+    "example": "Mapcollecting preserved 17th century sea charts."
+  },
+  {
+    "word": "POSTCARDCOLLECTING",
+    "meaning": "Hobby of collecting vintage travel postcards",
+    "example": "Postcardcollecting showcased historical landmarks."
+  },
+  {
+    "word": "ARCHER",
+    "meaning": "Person who practices target archery with bow and arrows",
+    "example": "The archer released the arrow smoothly into bullseye."
+  },
+  {
+    "word": "ANGLER",
+    "meaning": "Person who fishes using rod, line, and bait",
+    "example": "The angler waited patiently for trout to take bait."
+  },
+  {
+    "word": "FLYCASTER",
+    "meaning": "Angler specializing in casting artificial flies",
+    "example": "The flycaster cast light flies across river currents."
+  },
+  {
+    "word": "CANOEIST",
+    "meaning": "Person who paddles a canoe across lakes",
+    "example": "The canoeist glided past lily pads in calm bays."
+  },
+  {
+    "word": "KAYAKER",
+    "meaning": "Person who navigates a kayak through water",
+    "example": "The kayaker maneuvered through coastal sea arches."
+  },
+  {
+    "word": "ROWER",
+    "meaning": "Person who propels a rowing boat using oars",
+    "example": "The rower pulled steady strokes along the river course."
+  },
+  {
+    "word": "SAILOR",
+    "meaning": "Person who navigates a sailing vessel on water",
+    "example": "The sailor adjusted mainsheets to catch coastal winds."
+  },
+  {
+    "word": "YACHTSMAN",
+    "meaning": "Person who sails or owns a luxury yacht",
+    "example": "The yachtsman navigated international regatta races."
+  },
+  {
+    "word": "BOATER",
+    "meaning": "Person who enjoys recreational boat travel",
+    "example": "The boater docked at the island marina for lunch."
+  },
+  {
+    "word": "HIKER",
+    "meaning": "Person who walks long wilderness trails",
+    "example": "The hiker climbed mountain paths for panoramic views."
+  },
+  {
+    "word": "TREKKER",
+    "meaning": "Person who undertakes long mountain journeys on foot",
+    "example": "The trekker reached high alpine base camps."
+  },
+  {
+    "word": "BACKPACKER",
+    "meaning": "Hiker carrying gear and camping supplies in pack",
+    "example": "The backpacker hiked fifty miles along trail loops."
+  },
+  {
+    "word": "BUSHCAFTER",
+    "meaning": "Person skilled in wild bushcraft survival techniques",
+    "example": "The bushcrafter built a waterproof brush shelter."
+  },
+  {
+    "word": "SURVIVALIST",
+    "meaning": "Person practicing emergency self-reliance skills",
+    "example": "The survivalist tested solar water distillation kits."
+  },
+  {
+    "word": "GLAMPER",
+    "meaning": "Person enjoying high-end luxury outdoor camping",
+    "example": "The glamper stayed in a heated safari canvas tent."
+  },
+  {
+    "word": "MOUNTAINEER",
+    "meaning": "Person who climbs high snow and ice mountains",
+    "example": "The mountaineer summited alpine glacier peaks."
+  },
+  {
+    "word": "SCRAMBLER",
+    "meaning": "Climber navigating steep rocky ridges without ropes",
+    "example": "The scrambler reached rocky summit ridges safely."
+  },
+  {
+    "word": "ABSEILER",
+    "meaning": "Person descending vertical cliffs using doubled rope",
+    "example": "The abseiler lowered smoothly down canyon walls."
+  },
+  {
+    "word": "RAPPELLER",
+    "meaning": "Person descending steep slopes with friction ropes",
+    "example": "The rappeller controlled rope speed descending cliffs."
+  },
+  {
+    "word": "CAVER",
+    "meaning": "Person who explores natural subterranean caves",
+    "example": "The caver illuminated underground crystal caverns."
+  },
+  {
+    "word": "ORIENTEER",
+    "meaning": "Person navigating cross-country with map and compass",
+    "example": "The orienteer navigated forest checkpoints quickly."
+  },
+  {
+    "word": "ROCKHOUND",
+    "meaning": "Amateur collector of rocks, gems, and minerals",
+    "example": "The rockhound found raw amethyst crystals in quartz."
+  },
+  {
+    "word": "SPEARFISHER",
+    "meaning": "Underwater hunter using speargun or hand spear",
+    "example": "The spearfisher dove freediving along reef drop-offs."
+  },
+  {
+    "word": "FORAGERS",
+    "meaning": "People searching for wild edible plants and berries",
+    "example": "Foragers gathered wild chanterelles and pine nuts."
+  },
+  {
+    "word": "MUSHROOMER",
+    "meaning": "Person hunting and identifying wild fungi",
+    "example": "The mushroomer identified edible porcini mushrooms."
+  },
+  {
+    "word": "BIRDERS",
+    "meaning": "People who observe and record wild bird species",
+    "example": "Birders spotted rare migratory songbirds in woods."
+  },
+  {
+    "word": "STARGAZERS",
+    "meaning": "People observing night sky stars and planets",
+    "example": "Stargazers gathered on grassy hills during meteor showers."
+  },
+  {
+    "word": "ASTRONOMERS",
+    "meaning": "People studying celestial objects and universe",
+    "example": "Amateur astronomers tracked Jupiter's Galilean moons."
+  },
+  {
+    "word": "KITESURFER",
+    "meaning": "Water sport enthusiast pulled by power kite",
+    "example": "The kitesurfer launched big jumps off ocean waves."
+  },
+  {
+    "word": "WINDSURFERS",
+    "meaning": "Sailors riding boards fitted with rig sails",
+    "example": "Windsurfers skimmed across windy lake waters."
+  },
+  {
+    "word": "SURFERS",
+    "meaning": "Riders of ocean waves standing on surfboards",
+    "example": "Surfers waited in line-ups for incoming swells."
+  },
+  {
+    "word": "BODYBOARDER",
+    "meaning": "Rider navigating ocean waves on small foam board",
+    "example": "The bodyboarder rode barrel waves close to shore."
+  },
+  {
+    "word": "SKIMBOARDER",
+    "meaning": "Rider sliding across shallow water into shorebreak",
+    "example": "The skimboarder glided across wet sand into waves."
+  },
+  {
+    "word": "SLACKLINERS",
+    "meaning": "Athletes balancing along narrow suspended webbing",
+    "example": "Slackliners practiced balance turns in city parks."
+  },
+  {
+    "word": "PARAGLIDER",
+    "meaning": "Pilot flying foot-launched inflatable wing glider",
+    "example": "The paraglider thermalled high above green valleys."
+  },
+  {
+    "word": "HANGGLIDER",
+    "meaning": "Pilot soaring on rigid frame triangular glider",
+    "example": "The hangglider launched off cliff tops into wind."
+  },
+  {
+    "word": "SKYDIVER",
+    "meaning": "Parachutist jumping from aircraft in freefall",
+    "example": "The skydiver opened his parachute over landing zones."
+  },
+  {
+    "word": "SKATEBOARDERS",
+    "meaning": "Riders performing tricks on wheeled skateboards",
+    "example": "Skateboarders practiced grinds on concrete ledges."
+  },
+  {
+    "word": "ROLLERBLADERS",
+    "meaning": "Skaters cruising on inline roller blades",
+    "example": "Rollerbladers glided along beach promenade paths."
+  },
+  {
+    "word": "PARKOURIST",
+    "meaning": "Athlete navigating urban environment obstacles",
+    "example": "The parkourist vaulted over brick walls efficiently."
+  },
+  {
+    "word": "CURLE",
+    "meaning": "Curling player sliding heavy granite stones on ice",
+    "example": "The curle delivered the granite stone toward center button."
+  },
+  {
+    "word": "BOWLER",
+    "meaning": "Player rolling heavy bowling balls to hit tenpins",
+    "example": "The bowler threw a rolling curve ball for a strike."
+  },
+  {
+    "word": "DARTSPLAYER",
+    "meaning": "Player throwing small pointed darts at bullseye",
+    "example": "The dartsplayer checked out with double top finish."
+  },
+  {
+    "word": "FOOSBALLER",
+    "meaning": "Table football player spinning rod-mounted figures",
+    "example": "The foosballer scored a fast pull-shot goal."
+  },
+  {
+    "word": "EQUESTRIANS",
+    "meaning": "Riders of horses participating in equestrian events",
+    "example": "Equestrians competed in dressage and jumping shows."
+  },
+  {
+    "word": "BAKER",
+    "meaning": "Person who bakes breads, pastries, and cakes",
+    "example": "The baker scored sourdough loaves before baking."
+  },
+  {
+    "word": "ROASTER",
+    "meaning": "Person who roasts coffee beans or cocoa",
+    "example": "The roaster monitored bean roast temp profiles."
+  },
+  {
+    "word": "GRILLER",
+    "meaning": "Person who cooks food over open fire grill",
+    "example": "The griller seared seasoned steaks over hardwood."
+  },
+  {
+    "word": "SMOKER",
+    "meaning": "Pitmaster who smokes meats slowly over wood smoke",
+    "example": "The smoker tended applewood embers all night."
+  },
+  {
+    "word": "CHOCOLATIER",
+    "meaning": "Artisan who crafts fine chocolate confections",
+    "example": "The chocolatier molded dark chocolate truffles."
+  },
+  {
+    "word": "CONFECTIONER",
+    "meaning": "Maker of candies, sweets, and sugar arts",
+    "example": "The confectioner pulled glossy ribbon hard candies."
+  },
+  {
+    "word": "MIXOLOGIST",
+    "meaning": "Cocktail specialist crafting specialty drinks",
+    "example": "The mixologist muddled fresh mint and citrus peel."
+  },
+  {
+    "word": "FERMENTER",
+    "meaning": "Person who ferments foods like sauerkraut and kombucha",
+    "example": "The fermenter bottled sparkling probiotics kombucha."
+  },
+  {
+    "word": "CANNER",
+    "meaning": "Person preserving fruits and vegetables in glass jars",
+    "example": "The canner sealed strawberry preserves in mason jars."
+  },
+  {
+    "word": "SOURDOUGHBAKER",
+    "meaning": "Baker specializing in wild yeast sourdough breads",
+    "example": "The sourdoughbaker produced airy open-crumb loaves."
+  },
+  {
+    "word": "HOMEBREWER",
+    "meaning": "Craft brewer making specialty beer at home",
+    "example": "The homebrewer bottled a batch of dry-hopped IPA."
+  },
+  {
+    "word": "WINEMAKER",
+    "meaning": "Person who ferments grape juice into wine",
+    "example": "The winemaker aged vintage red wine in oak barrels."
+  },
+  {
+    "word": "CHESSPLAYER",
+    "meaning": "Person who plays strategic chess matches",
+    "example": "The chessplayer calculated five moves ahead in game."
+  },
+  {
+    "word": "SUDOKUSOLVER",
+    "meaning": "Person who solves logic grid number puzzles",
+    "example": "The sudokusolver completed hard level grids daily."
+  },
+  {
+    "word": "CROSSWORDER",
+    "meaning": "Person who enjoys solving crossword puzzles",
+    "example": "The crossworder solved the cryptic puzzle in pen."
+  },
+  {
+    "word": "PUZZLER",
+    "meaning": "Person who enjoys solving logic and jigsaw puzzles",
+    "example": "The puzzler assembled the final corner jigsaw piece."
+  },
+  {
+    "word": "TRIVIAPLAYER",
+    "meaning": "Person competing in pub or board game trivia",
+    "example": "The triviaplayer answered history bonus questions."
+  },
+  {
+    "word": "WARGAMER",
+    "meaning": "Person playing tactical miniature war simulations",
+    "example": "The wargamer moved painted miniature army units."
+  },
+  {
+    "word": "ROLEPLAYER",
+    "meaning": "Person participating in tabletop roleplaying games",
+    "example": "The roleplayer described his wizard's spell actions."
+  },
+  {
+    "word": "LARPER",
+    "meaning": "Participant acting in live action roleplay events",
+    "example": "The larper wore medieval tunic and foam sword."
+  },
+  {
+    "word": "COSPLAYER",
+    "meaning": "Person dressing in detailed character costumes",
+    "example": "The cosplayer won first place in costume contest."
+  },
+  {
+    "word": "MAGICIAN",
+    "meaning": "Performer of sleight of hand illusions and tricks",
+    "example": "The magician palmed the ace of spades smoothly."
+  },
+  {
+    "word": "ILLUSIONIST",
+    "meaning": "Stage performer creating large theatrical illusions",
+    "example": "The illusionist escaped locked water tanks on stage."
+  },
+  {
+    "word": "VENTRILOQUIST",
+    "meaning": "Performer speaking without lip movement using dummy",
+    "example": "The ventriloquist bantered with his wooden dummy."
+  },
+  {
+    "word": "PUPPETEER",
+    "meaning": "Person operating puppets in theater performances",
+    "example": "The puppeteer pulled marionette string controls."
+  },
+  {
+    "word": "COMEDIAN",
+    "meaning": "Performer delivering humorous standup routines",
+    "example": "The comedian brought house down with funny stories."
+  },
+  {
+    "word": "BEATBOXER",
+    "meaning": "Vocalist creating drum beats and rhythms with mouth",
+    "example": "The beatboxer mimicked deep bass and snare sounds."
+  },
+  {
+    "word": "JUGGLERS",
+    "meaning": "Performers keeping multiple objects airborne",
+    "example": "Jugglers tossed glowing pins in rhythmic arcs."
+  },
+  {
+    "word": "DIABOLIST",
+    "meaning": "Performer spinning hourglass spool on string line",
+    "example": "The diabolist threw high spool tosses into wind."
+  },
+  {
+    "word": "YOYOIST",
+    "meaning": "Person executing intricate yo-yo string tricks",
+    "example": "The yoyoist executed complex slack string tricks."
+  },
+  {
+    "word": "UNICYCLIST",
+    "meaning": "Rider balancing on one-wheeled unicycle",
+    "example": "The unicyclist pedaled across stage balancing props."
+  },
+  {
+    "word": "STILTWALKER",
+    "meaning": "Performer walking on tall wooden stilts",
+    "example": "The stiltwalker towered above parade crowds."
+  },
+  {
+    "word": "SQUASHPLAYER",
+    "meaning": "Person playing squash racquetball in court",
+    "example": "The squashplayer executed crisp wall railing shots."
+  },
+  {
+    "word": "BADMINTONIST",
+    "meaning": "Person playing competitive badminton rallies",
+    "example": "The badmintonist smashed high clear shuttlecocks."
+  },
+  {
+    "word": "PICKLEBALLER",
+    "meaning": "Person playing pickleball on court with paddle",
+    "example": "The pickleballer executed dink shots near net."
+  },
+  {
+    "word": "SKEETSHOOTER",
+    "meaning": "Sport shooter aiming at clay target discs",
+    "example": "The skeetshooter broke dual clay targets midair."
+  },
+  {
+    "word": "TRAPSHOOTER",
+    "meaning": "Target shooter aiming at rising clay targets",
+    "example": "The trapshooter achieved twenty-five straight hits."
+  },
+  {
+    "word": "SKYDIVERS",
+    "meaning": "Parachutists jumping from airplanes in formation",
+    "example": "Skydivers joined hands forming freefall stars."
+  },
+  {
+    "word": "BODYBOARDERS",
+    "meaning": "Surfers riding prone on small foam waveboards",
+    "example": "Bodyboarders charged heavy shorebreak waves."
+  },
+  {
+    "word": "KITESURFERS",
+    "meaning": "Sailors harnessing kite power across ocean waves",
+    "example": "Kitesurfers launched high aerial tricks in bay."
+  },
+  {
+    "word": "KIRIGAMIST",
+    "meaning": "Paper artist cutting intricate pop-up structures",
+    "example": "The kirigamist cut delicate pop-up lace cards."
+  },
+  {
+    "word": "PAPERGRAFTER",
+    "meaning": "Artisan assembling complex papercraft architecture",
+    "example": "The papergrafter built a miniature cathedral."
+  },
+  {
+    "word": "MARBLERIST",
+    "meaning": "Artisan creating marbled oil swirls on water paper",
+    "example": "The marblerist combed pigment swirls on tray bath."
+  },
+  {
+    "word": "TINSMITHING",
+    "meaning": "Craft of fabricating tin containers and lanterns",
+    "example": "Tinsmithing required soldering sheet tin seams."
+  },
+  {
+    "word": "COPPERSMITHING",
+    "meaning": "Art of shaping copper vessels with planishing hammer",
+    "example": "Coppersmithing produced shiny brass-trimmed kettles."
+  },
+  {
+    "word": "SILVERSMITHING",
+    "meaning": "Craft of shaping silver table hollowware and art",
+    "example": "Silversmithing involved raising silver bowl forms."
+  },
+  {
+    "word": "GOLDSMITHING",
+    "meaning": "Craft of forging gold into custom fine jewelry",
+    "example": "Goldsmithing required torch soldering tiny gold links."
+  },
+  {
+    "word": "LAPIDARIST",
+    "meaning": "Gem cutter shaping raw minerals into shiny stones",
+    "example": "The lapidarist cut cabs from turquoise rough."
+  },
+  {
+    "word": "FACETINGIST",
+    "meaning": "Precision gem cutter cutting facets on transparent stones",
+    "example": "The facetingist aligned mirror facets on topaz."
+  },
+  {
+    "word": "VEXILLOLOGIST",
+    "meaning": "Scholar or hobbyist studying flags of the world",
+    "example": "The vexillologist cataloged regional merchant flags."
+  },
+  {
+    "word": "HERALDRIST",
+    "meaning": "Expert researching and designing coat of arms heraldry",
+    "example": "The heraldrist painted family crest shields with lions."
+  }
+]

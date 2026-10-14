@@ -1,0 +1,2144 @@
+{
+  "id": 19,
+  "key": "pets",
+  "title": "Pets",
+  "iconAsset": "assets/chapter_images/pets.png",
+  "themeColor": 4294940672,
+  "levels": [
+    {
+      "levelNumber": 1,
+      "title": "Pets Level 1",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "LABRADOR",
+          "meaning": "Friendly popular breed of retriever dog",
+          "example": "The yellow labrador fetched the floating ball from the lake."
+        },
+        {
+          "word": "RETRIEVER",
+          "meaning": "Dog breed trained to retrieve game or items",
+          "example": "The golden retriever wagged its tail happily at its owner."
+        },
+        {
+          "word": "BEAGLE",
+          "meaning": "Small scent hound breed with long floppy ears",
+          "example": "The beagle followed a scent trail across the backyard grass."
+        },
+        {
+          "word": "BULLDOG",
+          "meaning": "Muscular stocky dog breed with wrinkled face",
+          "example": "The English bulldog rested peacefully on the living room rug."
+        },
+        {
+          "word": "POODLE",
+          "meaning": "Intelligent dog breed with dense curly coat",
+          "example": "The standard poodle excelled at agility obstacle courses."
+        },
+        {
+          "word": "ROTTWEILER",
+          "meaning": "Large powerful domestic dog breed",
+          "example": "The rottweiler guarded the property with alert loyalty."
+        },
+        {
+          "word": "CHIHUAHUA",
+          "meaning": "Smallest dog breed named after Mexican state",
+          "example": "The tiny chihuahua snuggled inside a warm fleece blanket."
+        },
+        {
+          "word": "DACHSHUND",
+          "meaning": "Short-legged long-bodied hound dog breed",
+          "example": "The dachshund burrowed under sofa cushions."
+        }
+      ]
+    },
+    {
+      "levelNumber": 2,
+      "title": "Pets Level 2",
+      "gridRows": 10,
+      "gridCols": 10,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CORGI",
+          "meaning": "Small herding dog breed with short legs and big ears",
+          "example": "The Pembroke Welsh corgi ran briskly across the lawn."
+        },
+        {
+          "word": "HUSKY",
+          "meaning": "Thick-coated Arctic sled dog breed with blue eyes",
+          "example": "The Siberian husky howled at the crisp winter air."
+        },
+        {
+          "word": "SHIBA",
+          "meaning": "Small agile Japanese dog breed with curled tail",
+          "example": "The red shiba inu pranced along the park pathway."
+        },
+        {
+          "word": "DALMATIAN",
+          "meaning": "White dog breed marked with distinctive black spots",
+          "example": "The dalmatian trotted alongside the fire engine."
+        },
+        {
+          "word": "DOBERMAN",
+          "meaning": "Sleek powerful guard dog breed",
+          "example": "The doberman stood alert at the front gate."
+        },
+        {
+          "word": "MALTESE",
+          "meaning": "Small toy dog breed with long silky white coat",
+          "example": "The maltese sat gently on its owner lap."
+        },
+        {
+          "word": "PUG",
+          "meaning": "Small wrinkled-faced dog breed with curled tail",
+          "example": "The pug snorted happily while receiving belly rubs."
+        },
+        {
+          "word": "MASTIFF",
+          "meaning": "Massive powerful heavy-boned dog breed",
+          "example": "The gentle mastiff laid its massive head on the floor."
+        }
+      ]
+    },
+    {
+      "levelNumber": 3,
+      "title": "Pets Level 3",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "COLLIE",
+          "meaning": "Herding dog breed with long coat and keen intelligence",
+          "example": "The border collie rounded up sheep on the hillside farm."
+        },
+        {
+          "word": "SHEPHERD",
+          "meaning": "Dog breed trained for herding and protection duties",
+          "example": "The German shepherd passed police K9 training tests."
+        },
+        {
+          "word": "TERRIER",
+          "meaning": "Small energetic dog breed originally bred for hunting vermin",
+          "example": "The jack russell terrier chased tennis balls endlessly."
+        },
+        {
+          "word": "SPANIEL",
+          "meaning": "Gun dog breed with long silky ears and gentle nature",
+          "example": "The cocker spaniel splashed through shallow stream water."
+        },
+        {
+          "word": "GREYHOUND",
+          "meaning": "Slender fast sight hound dog breed",
+          "example": "The retired greyhound sprinted across open grassy fields."
+        },
+        {
+          "word": "WHIPPET",
+          "meaning": "Medium slender racing sight hound breed",
+          "example": "The whippet relaxed on a soft cushioned pet bed."
+        },
+        {
+          "word": "BLOODHOUND",
+          "meaning": "Large scent hound famous for acute sense of smell",
+          "example": "The bloodhound tracked missing trail scents for miles."
+        },
+        {
+          "word": "BASSET",
+          "meaning": "Short-legged hound breed with long droopy ears",
+          "example": "The basset hound sniffed slowly along garden paths."
+        }
+      ]
+    },
+    {
+      "levelNumber": 4,
+      "title": "Pets Level 4",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CAVALIER",
+          "meaning": "Small friendly spaniel toy dog breed",
+          "example": "The cavalier king charles spaniel snuggled on the couch."
+        },
+        {
+          "word": "PAPILLON",
+          "meaning": "Toy spaniel dog breed with butterfly-like ears",
+          "example": "The papillon trotted gracefully in the dog show ring."
+        },
+        {
+          "word": "SAMOYED",
+          "meaning": "Large fluffy white Arctic dog breed with smiling face",
+          "example": "The samoyed pulled a light sled through winter snow."
+        },
+        {
+          "word": "AKITA",
+          "meaning": "Large noble Japanese mountain dog breed",
+          "example": "The akita showed fierce devotion to its family."
+        },
+        {
+          "word": "CHOW",
+          "meaning": "Stocky Chinese dog breed with blue-black tongue",
+          "example": "The chow chow featured a thick lion-like mane of fur."
+        },
+        {
+          "word": "WEIMARANER",
+          "meaning": "Sleek grey hunting dog breed known as silver ghost",
+          "example": "The weimaraner sprinted across open fields."
+        },
+        {
+          "word": "VIZSLA",
+          "meaning": "Gentle golden-rust Hungarian hunting dog breed",
+          "example": "The vizsla stayed close to its owner during walks."
+        },
+        {
+          "word": "NEWFOUNDLAND",
+          "meaning": "Massive water-rescuing dog breed with webbed paws",
+          "example": "The gentle newfoundland swam effortlessly in the lake."
+        }
+      ]
+    },
+    {
+      "levelNumber": 5,
+      "title": "Pets Level 5",
+      "gridRows": 10,
+      "gridCols": 10,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "BERNESE",
+          "meaning": "Large tri-colored Swiss mountain dog breed",
+          "example": "The bernese mountain dog pulled a wooden cart on the farm."
+        },
+        {
+          "word": "SCHNAUZER",
+          "meaning": "German dog breed with distinctive beard and eyebrows",
+          "example": "The miniature schnauzer barked at the mail carrier."
+        },
+        {
+          "word": "BORZOI",
+          "meaning": "Elegant Russian sight hound breed with long silky coat",
+          "example": "The borzoi glided gracefully across the open lawn."
+        },
+        {
+          "word": "BASENJI",
+          "meaning": "Barkless African hunting dog breed that yodels",
+          "example": "The basenji cleaned its short coat like a cat."
+        },
+        {
+          "word": "HAVANESE",
+          "meaning": "Small cuban toy dog breed with silky coat",
+          "example": "The havanese performed playful tricks for treats."
+        },
+        {
+          "word": "GREATDANE",
+          "meaning": "Extremely large German dog breed known for gentle giant nature",
+          "example": "The greatdane stood as tall as the dining table."
+        },
+        {
+          "word": "STBERNARD",
+          "meaning": "Massive Swiss rescue dog breed famous for alpine search work",
+          "example": "The stbernard navigated deep snow to assist travelers."
+        },
+        {
+          "word": "CANECORSO",
+          "meaning": "Large Italian mastiff breed used for property defense",
+          "example": "The canecorso watched over the gated estate vigilantly."
+        }
+      ]
+    },
+    {
+      "levelNumber": 6,
+      "title": "Pets Level 6",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "SHIHTZU",
+          "meaning": "Small toy dog breed with long flowing double coat",
+          "example": "The shihtzu sat on a silk cushion wearing a hair bow."
+        },
+        {
+          "word": "POMERANIAN",
+          "meaning": "Tiny fluffy spitz-type toy dog breed",
+          "example": "The pomeranian barked merrily while wagging its plume tail."
+        },
+        {
+          "word": "MALINOIS",
+          "meaning": "Intelligent Belgian shepherd dog breed widely used in working roles",
+          "example": "The belgian malinois completed precision obedience agility tasks."
+        },
+        {
+          "word": "BULLTERRIER",
+          "meaning": "Muscular terrier breed with egg-shaped head profile",
+          "example": "The bullterrier scampered across the agility course."
+        },
+        {
+          "word": "PITBULL",
+          "meaning": "Strong muscular terrier breed known for athleticism",
+          "example": "The pitbull loved playing tug-of-war with rope toys."
+        },
+        {
+          "word": "SPRINGER",
+          "meaning": "Energetic spaniel breed skilled at flushing game",
+          "example": "The English springer spaniel bounded through tall meadow grass."
+        },
+        {
+          "word": "SALUKI",
+          "meaning": "Ancient royal Middle Eastern sight hound breed",
+          "example": "The graceful saluki sprinted across desert sands."
+        },
+        {
+          "word": "AFGHAN",
+          "meaning": "Sight hound breed with long silky flowing coat and ring tail",
+          "example": "The afghan hound glided elegantly through the show ring."
+        }
+      ]
+    },
+    {
+      "levelNumber": 7,
+      "title": "Pets Level 7",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "DEERHOUND",
+          "meaning": "Large rough-coated Scottish sight hound breed",
+          "example": "The Scottish deerhound rested beside the stone fireplace."
+        },
+        {
+          "word": "ELKHOUND",
+          "meaning": "Rugged silver-grey Norwegian hunting spitz breed",
+          "example": "The Norwegian elkhound accompanied its handler on mountain hikes."
+        },
+        {
+          "word": "KEESHOND",
+          "meaning": "Medium spitz dog breed with dense plush coat and spectacle eye markings",
+          "example": "The keeshond smiled happily while greeting house guests."
+        },
+        {
+          "word": "LHASAAPSO",
+          "meaning": "Non-sporting dog breed originating from Tibet as sentinel dog",
+          "example": "The lhasaapso alerted owners with a sharp clear bark."
+        },
+        {
+          "word": "MALTIPOO",
+          "meaning": "Popular hybrid cross between maltese and poodle",
+          "example": "The maltipoo enjoyed cuddles on sofa cushions."
+        },
+        {
+          "word": "GOLDENDOODLE",
+          "meaning": "Friendly hybrid cross between golden retriever and poodle",
+          "example": "The goldendoodle retrieved tennis balls from the swimming pool."
+        },
+        {
+          "word": "LABRADOODLE",
+          "meaning": "Intelligent hybrid cross between labrador and poodle",
+          "example": "The labradoodle served as a gentle therapy dog in hospitals."
+        },
+        {
+          "word": "COCKAPOO",
+          "meaning": "Affectionate hybrid cross between cocker spaniel and poodle",
+          "example": "The cockapoo trotted beside its owner on morning walks."
+        }
+      ]
+    },
+    {
+      "levelNumber": 8,
+      "title": "Pets Level 8",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "KANGAL",
+          "meaning": "Large formidable Turkish livestock guardian dog breed",
+          "example": "The kangal protected sheep flocks from wolves in Anatolia."
+        },
+        {
+          "word": "BOERBOEL",
+          "meaning": "Large powerful South African mastiff breed",
+          "example": "The boerboel guarded the farm homestead reliably."
+        },
+        {
+          "word": "DOGO",
+          "meaning": "Large white Argentine hunting mastiff breed",
+          "example": "The dogo argentino displayed immense strength and agility."
+        },
+        {
+          "word": "FOXHOUND",
+          "meaning": "Scent hound breed trained to hunt foxes in packs",
+          "example": "The American foxhound bayed melodiously during scent tracking."
+        },
+        {
+          "word": "OTTERHOUND",
+          "meaning": "Large rough-coated swimming scent hound breed",
+          "example": "The otterhound possessed webbed feet for swimming in cold rivers."
+        },
+        {
+          "word": "KOMONDOR",
+          "meaning": "Hungarian livestock guardian dog with mop-like corded coat",
+          "example": "The komondor white corded coat protected it against weather."
+        },
+        {
+          "word": "PULI",
+          "meaning": "Small Hungarian herding dog breed with tight corded dreadlocks",
+          "example": "The puli leaped high over pasture hurdles."
+        },
+        {
+          "word": "KUVASZ",
+          "meaning": "Large ancient white Hungarian guard dog breed",
+          "example": "The kuvasz defended farm stock with courageous loyalty."
+        }
+      ]
+    },
+    {
+      "levelNumber": 9,
+      "title": "Pets Level 9",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "SCHIPPERKE",
+          "meaning": "Small Belgian fox-faced black spitz dog breed",
+          "example": "The energetic schipperke patrolled the canal barge deck."
+        },
+        {
+          "word": "AIREDALE",
+          "meaning": "Largest terrier breed known as king of terriers",
+          "example": "The airedale terrier trotted through the countryside confidently."
+        },
+        {
+          "word": "IRISHSETTER",
+          "meaning": "Sleek red-coated gun dog breed with playful nature",
+          "example": "The Irish setter bounded through tall autumn heather."
+        },
+        {
+          "word": "GORDONSETTER",
+          "meaning": "Substantial black-and-tan Scottish gun dog breed",
+          "example": "The Gordon setter pointed steadily in upland fields."
+        },
+        {
+          "word": "BEDLINGTON",
+          "meaning": "Lamb-like terrier breed with pear-shaped head and curly coat",
+          "example": "The bedlington terrier ran gracefully across park lawns."
+        },
+        {
+          "word": "SKYE",
+          "meaning": "Long-bodied Scottish terrier with long veil coat covering face",
+          "example": "The skye terrier was renowned for steadfast loyalty."
+        },
+        {
+          "word": "SEALYHAM",
+          "meaning": "Rare white Welsh terrier breed with rectangular body",
+          "example": "The sealyham terrier explored garden hedgerows enthusiastically."
+        },
+        {
+          "word": "BRIARD",
+          "meaning": "Large ancient French sheep-herding dog with long wavy coat",
+          "example": "The briard guarded sheep flocks with keen intelligence."
+        }
+      ]
+    },
+    {
+      "levelNumber": 10,
+      "title": "Pets Level 10",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "LOWCHEN",
+          "meaning": "Small European toy dog styled in traditional lion trim cut",
+          "example": "The lowchen pranced merrily beside its handler."
+        },
+        {
+          "word": "TIBETANMASTIFF",
+          "meaning": "Massive mountain guardian dog with noble lion mane",
+          "example": "The giant Tibetan mastiff guarded mountain monastery gates."
+        },
+        {
+          "word": "CHESAPEAKE",
+          "meaning": "Rugged American retriever with oily water-repellent coat",
+          "example": "The chesapeake bay retriever swam through icy river waves."
+        },
+        {
+          "word": "SIAMESE",
+          "meaning": "Slender Asian cat breed with blue eyes and point coloration",
+          "example": "The siamese cat meowed vocally for morning food."
+        },
+        {
+          "word": "PERSIAN",
+          "meaning": "Long-haired cat breed with round flat face",
+          "example": "The persian cat relaxed on a velvet cushion."
+        },
+        {
+          "word": "MAINECOON",
+          "meaning": "Large native American cat breed with tufted ears",
+          "example": "The mainecoon cat weighed fifteen pounds of fluffy fur."
+        },
+        {
+          "word": "BENGAL",
+          "meaning": "Domestic cat breed with wild leopard-like spotted coat",
+          "example": "The bengal cat leaped effortlessly onto the high bookshelf."
+        },
+        {
+          "word": "SPHYNX",
+          "meaning": "Hairless cat breed known for warm skin and large ears",
+          "example": "The sphynx cat wore a small knit sweater in winter."
+        },
+        {
+          "word": "BRITISH",
+          "meaning": "Stocky cat breed with dense plush coat and round face",
+          "example": "The british shorthair cat napped in a sunny window."
+        }
+      ]
+    },
+    {
+      "levelNumber": 11,
+      "title": "Pets Level 11",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "ABYSSINIAN",
+          "meaning": "Slender active cat breed with ticked coat pattern",
+          "example": "The abyssinian cat investigated every corner of the room."
+        },
+        {
+          "word": "BIRMAN",
+          "meaning": "Colorpoint cat breed with silky coat and white paws",
+          "example": "The birman cat watched birds from the windowsill."
+        },
+        {
+          "word": "ORIENTAL",
+          "meaning": "Slender cat breed closely related to Siamese",
+          "example": "The oriental shorthair cat chirped continuously for attention."
+        },
+        {
+          "word": "BURMESE",
+          "meaning": "Compact muscular cat breed with yellow eyes",
+          "example": "The burmese cat snuggled under warm bed covers."
+        },
+        {
+          "word": "HIMALAYAN",
+          "meaning": "Long-haired cat breed combining Persian and Siamese traits",
+          "example": "The himalayan cat brushed its long fur against sofa legs."
+        },
+        {
+          "word": "DEVONREX",
+          "meaning": "Cat breed with short wavy coat and large ears",
+          "example": "The devonrex cat perched atop its owner shoulder."
+        },
+        {
+          "word": "CORNISHREX",
+          "meaning": "Slender cat breed with fine curly coat and egg-shaped head",
+          "example": "The cornishrex cat sprinted through hallway rugs."
+        },
+        {
+          "word": "SCOTTISHFOLD",
+          "meaning": "Cat breed with distinctive forward-folded ears",
+          "example": "The scottishfold cat sat upright like an owl."
+        },
+        {
+          "word": "MUNCHKIN",
+          "meaning": "Cat breed characterized by very short legs",
+          "example": "The munchkin cat scampered across hardwood floors."
+        }
+      ]
+    },
+    {
+      "levelNumber": 12,
+      "title": "Pets Level 12",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "MANX",
+          "meaning": "Tailless cat breed originating from Isle of Man",
+          "example": "The manx cat hopped gracefully like a rabbit."
+        },
+        {
+          "word": "BALINESE",
+          "meaning": "Long-haired breed derived from Siamese coat points",
+          "example": "The balinese cat waved its plumy tail smoothly."
+        },
+        {
+          "word": "TONKINESE",
+          "meaning": "Cat breed produced by crossing Siamese and Burmese",
+          "example": "The tonkinese cat retrieved paper balls eagerly."
+        },
+        {
+          "word": "SAVANNAH",
+          "meaning": "Hybrid cat breed crossed between serval and domestic cat",
+          "example": "The tall savannah cat leaped six feet into the air."
+        },
+        {
+          "word": "OCICAT",
+          "meaning": "Spotted domestic cat breed resembling wild ocelot",
+          "example": "The ocicat played fetch with small rubber balls."
+        },
+        {
+          "word": "TOYGER",
+          "meaning": "Domestic cat breed bred to resemble a miniature tiger",
+          "example": "The toyger displayed bold orange and black stripe rosettes."
+        },
+        {
+          "word": "LYKOI",
+          "meaning": "Partially hairless cat breed known as werewolf cat",
+          "example": "The lykoi cat exhibited a unique roan coat pattern."
+        },
+        {
+          "word": "CHARTREUX",
+          "meaning": "French cat breed with dense blue-grey water-resistant fur",
+          "example": "The chartreux cat purred softly with copper eyes glowing."
+        },
+        {
+          "word": "KORAT",
+          "meaning": "Silver-tipped blue cat breed originating from Thailand",
+          "example": "The korat cat was cherished as a symbol of good fortune."
+        }
+      ]
+    },
+    {
+      "levelNumber": 13,
+      "title": "Pets Level 13",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "BURMILLA",
+          "meaning": "Elegant cat breed produced by crossing Burmese and Chinchilla Persian",
+          "example": "The burmilla cat possessed shimmering silver coat shading."
+        },
+        {
+          "word": "SINGAPURA",
+          "meaning": "Smallest domestic cat breed with large eyes and ears",
+          "example": "The tiny singapura cat leaped onto kitchen counter edges."
+        },
+        {
+          "word": "CYMRIC",
+          "meaning": "Long-haired variety of tailless Manx cat breed",
+          "example": "The cymric cat featured a dense thick undercoat."
+        },
+        {
+          "word": "PIXIEBOB",
+          "meaning": "Domestic cat breed resembling wild coastal bobcat",
+          "example": "The pixiebob cat had tufted ears and a short docked tail."
+        },
+        {
+          "word": "RAGAMUFFIN",
+          "meaning": "Large plush-coated docile cat breed related to Ragdoll",
+          "example": "The ragamuffin cat relaxed completely when cradled like a baby."
+        },
+        {
+          "word": "SELKIRK",
+          "meaning": "Cat breed featuring plush thick curly sheep-like fur",
+          "example": "The selkirk rex had soft woolly curls covering its body."
+        },
+        {
+          "word": "TURKISHVAN",
+          "meaning": "Rare cat breed known as swimming cat with water-resistant coat",
+          "example": "The turkishvan cat enjoyed playing in shallow bathtub water."
+        },
+        {
+          "word": "ANGORA",
+          "meaning": "Ancient long-haired cat breed originating from Turkey",
+          "example": "The turkish angora displayed silky white fur and heterochromia eyes."
+        },
+        {
+          "word": "SOMALI",
+          "meaning": "Long-haired variety of African Abyssinian cat breed",
+          "example": "The somali cat featured a bushy fox-like tail."
+        }
+      ]
+    },
+    {
+      "levelNumber": 14,
+      "title": "Pets Level 14",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "CHAUSIE",
+          "meaning": "Hybrid cat breed derived from jungle cat crosses",
+          "example": "The muscular chausie cat sprinted through backyard enclosures."
+        },
+        {
+          "word": "BOMBAY",
+          "meaning": "Sleek jet-black domestic cat breed resembling panther",
+          "example": "The bombay cat featured copper eyes and glossy black fur."
+        },
+        {
+          "word": "NEBELUNG",
+          "meaning": "Rare long-haired cat breed with shimmering blue-grey coat",
+          "example": "The nebelung cat glided silently across carpeted rooms."
+        },
+        {
+          "word": "HAVANA",
+          "meaning": "Warm chocolate-brown coated cat breed with green eyes",
+          "example": "The havana brown cat batted playfully at catnip toys."
+        },
+        {
+          "word": "SNOWSHOE",
+          "meaning": "Rare cat breed combining Siamese points with white paws",
+          "example": "The snowshoe cat wore four distinct white mitten paws."
+        },
+        {
+          "word": "EGYPTIANMAU",
+          "meaning": "Naturally spotted domestic cat breed from ancient Egypt",
+          "example": "The Egyptian mau ran at high speeds across the room."
+        },
+        {
+          "word": "SOKOKE",
+          "meaning": "Rare natural cat breed from Kenyan coastal forests",
+          "example": "The sokoke cat exhibited a distinct wood-bark tabby coat pattern."
+        },
+        {
+          "word": "TOYBOB",
+          "meaning": "Miniature cat breed with short bobbed tail",
+          "example": "The toybob cat snuggled in the palm of its owner hand."
+        },
+        {
+          "word": "JAVANESE",
+          "meaning": "Long-haired oriental cat breed with colorpoint pattern",
+          "example": "The javanese cat chirped softly while following its owner."
+        }
+      ]
+    },
+    {
+      "levelNumber": 15,
+      "title": "Pets Level 15",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "COLORPOINT",
+          "meaning": "Cat coat pattern where face, ears, and paws are darker",
+          "example": "The colorpoint shorthair showed chocolate-brown face markings."
+        },
+        {
+          "word": "HAMSTER",
+          "meaning": "Small solitary rodent kept as popular household pet",
+          "example": "The golden hamster ran on its plastic exercise wheel."
+        },
+        {
+          "word": "GERBIL",
+          "meaning": "Small burrowing desert rodent kept as pet",
+          "example": "The gerbil gnawed on cardboard tubes to build a nest."
+        },
+        {
+          "word": "GUINEAPIG",
+          "meaning": "Docile South American rodent popular as child pet",
+          "example": "The guineapig squeaked wheek-wheek when offered fresh kale."
+        },
+        {
+          "word": "FERRET",
+          "meaning": "Slender domesticated carnivore related to weasels",
+          "example": "The ferret slid through flexible plastic play tunnels."
+        },
+        {
+          "word": "CHINCHILLA",
+          "meaning": "South American rodent known for extremely dense soft fur",
+          "example": "The chinchilla took a dust bath in fine volcanic ash."
+        },
+        {
+          "word": "HEDGEHOG",
+          "meaning": "Small nocturnal mammal covered in protective quills",
+          "example": "The pet hedgehog curled into a spiky ball when touched."
+        },
+        {
+          "word": "RABBIT",
+          "meaning": "Herbivorous mammal with long ears and hind legs",
+          "example": "The pet rabbit hopped freely across carpeted floors."
+        },
+        {
+          "word": "RODENT",
+          "meaning": "Mammal of order Rodentia characterized by gnawing incisors",
+          "example": "Small pet rodents require wooden chew blocks for teeth health."
+        }
+      ]
+    },
+    {
+      "levelNumber": 16,
+      "title": "Pets Level 16",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "BURROW",
+          "meaning": "Hollow underground tunnel dug by small animals",
+          "example": "The pet gerbil dug an intricate burrow in deep bedding."
+        },
+        {
+          "word": "HUTCH",
+          "meaning": "Wooden cage or enclosure for housing pet rabbits",
+          "example": "The rabbit hutch featured a covered sleeping compartment."
+        },
+        {
+          "word": "SUGARGLIDER",
+          "meaning": "Small marsupial pet capable of gliding through air",
+          "example": "The sugarglider glided from cabinet top to owner hand."
+        },
+        {
+          "word": "CAPYBARA",
+          "meaning": "Giant semi-aquatic rodent kept as exotic pet",
+          "example": "The friendly capybara soaked peacefully in a backyard pool."
+        },
+        {
+          "word": "DEGU",
+          "meaning": "Social Chilean diurnal rodent related to chinchillas",
+          "example": "The pet degu took dust baths and gnawed on wooden ramps."
+        },
+        {
+          "word": "LEMMING",
+          "meaning": "Small Arctic tundra rodent sometimes kept in vivariums",
+          "example": "The lemming burrowed under deep moss bedding."
+        },
+        {
+          "word": "MARMOT",
+          "meaning": "Large ground squirrel species housed in outdoor enclosures",
+          "example": "The pet marmot sunned itself on flat garden boulders."
+        },
+        {
+          "word": "PRAIRIEDOG",
+          "meaning": "Social North American rodent known for burrow colonies",
+          "example": "The prairiedog barked from its underground habitat chamber."
+        },
+        {
+          "word": "CHIPMUNK",
+          "meaning": "Small striped ground squirrel kept in large aviaries",
+          "example": "The chipmunk stuffed its cheek pouches with sunflower seeds."
+        }
+      ]
+    },
+    {
+      "levelNumber": 17,
+      "title": "Pets Level 17",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "VISCACHA",
+          "meaning": "South American rodent related to chinchillas with long ears",
+          "example": "The viscacha perched quietly on sunny rock ledges."
+        },
+        {
+          "word": "COYPU",
+          "meaning": "Large semi-aquatic South American rodent also called nutria",
+          "example": "The coypu swam in freshwater pond enclosures."
+        },
+        {
+          "word": "TIMOTHYHAY",
+          "meaning": "Nutritious grass hay essential for rabbit and guinea pig diets",
+          "example": "Fresh timothyhay provided daily fiber for gut health."
+        },
+        {
+          "word": "CAVY",
+          "meaning": "South American rodent of family Caviidae comprising guinea pigs",
+          "example": "Breeder clubs exhibited various breeds of domestic cavy."
+        },
+        {
+          "word": "MINK",
+          "meaning": "Sleek semi-aquatic carnivore occasionally kept in special habitats",
+          "example": "The captive mink swam in the outdoor stream pool."
+        },
+        {
+          "word": "GOLDFISH",
+          "meaning": "Small freshwater fish popular in home aquariums",
+          "example": "The orange goldfish swam around ceramic castle decorations."
+        },
+        {
+          "word": "BETTA",
+          "meaning": "Colorful freshwater fish known as Siamese fighting fish",
+          "example": "The male betta flared its brilliant red fins in the tank."
+        },
+        {
+          "word": "GUPPY",
+          "meaning": "Small colorful freshwater live-bearing aquarium fish",
+          "example": "A school of guppies swam near the water surface for food."
+        },
+        {
+          "word": "NEONTETRA",
+          "meaning": "Small tropical freshwater fish with glowing blue stripe",
+          "example": "Neon tetras formed a striking school in the planted tank."
+        }
+      ]
+    },
+    {
+      "levelNumber": 18,
+      "title": "Pets Level 18",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "ANGELFISH",
+          "meaning": "Flat disc-shaped tropical freshwater aquarium fish",
+          "example": "The silver angelfish glided majestically between tall plants."
+        },
+        {
+          "word": "MOLLY",
+          "meaning": "Live-bearing tropical freshwater fish available in black or dalmatian",
+          "example": "The black molly swam actively through filter currents."
+        },
+        {
+          "word": "PLATY",
+          "meaning": "Colorful easy-to-keep live-bearing aquarium fish",
+          "example": "Red platies added vibrant color to the community aquarium."
+        },
+        {
+          "word": "SWORDTAIL",
+          "meaning": "Freshwater fish with long extension on lower tail fin in males",
+          "example": "The male swordtail displayed a sleek orange body."
+        },
+        {
+          "word": "GOURAMI",
+          "meaning": "Labyrinth fish capable of breathing atmospheric air",
+          "example": "The dwarf gourami built a bubble nest at water surface."
+        },
+        {
+          "word": "CICHLID",
+          "meaning": "Diverse family of colorful freshwater aquarium fish",
+          "example": "African cichlids guarded rocky cave territories aggressively."
+        },
+        {
+          "word": "CATFISH",
+          "meaning": "Bottom-dwelling fish with sensory barbels near mouth",
+          "example": "The armored catfish scavenged fallen food from substrate."
+        },
+        {
+          "word": "CORYDORAS",
+          "meaning": "Small peaceful armored bottom-dwelling catfish",
+          "example": "Corydoras catfish snuffled through aquarium sand in groups."
+        },
+        {
+          "word": "PLECO",
+          "meaning": "Algae-eating catfish with suction cup mouth",
+          "example": "The pleco attached itself to aquarium glass eating algae."
+        },
+        {
+          "word": "KOI",
+          "meaning": "Large colorful domesticated carp kept in outdoor ponds",
+          "example": "Bright orange koi swam gracefully in the backyard garden pond."
+        },
+        {
+          "word": "DANIO",
+          "meaning": "Small active schooling freshwater aquarium fish",
+          "example": "Zebra danios darted quickly through water current streams."
+        }
+      ]
+    },
+    {
+      "levelNumber": 19,
+      "title": "Pets Level 19",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "LOACH",
+          "meaning": "Elongated bottom-dwelling freshwater aquarium fish",
+          "example": "Clown loaches rested together inside clay tube caves."
+        },
+        {
+          "word": "PUFFERFISH",
+          "meaning": "Fish capable of inflating body with water when threatened",
+          "example": "The dwarf pufferfish hunted tiny pest snails in the tank."
+        },
+        {
+          "word": "CLOWNFISH",
+          "meaning": "Bright orange saltwater fish forming symbiosis with anemones",
+          "example": "The clownfish wiggled safely within anemone tentacles."
+        },
+        {
+          "word": "PIRANHA",
+          "meaning": "South American freshwater fish with sharp triangular teeth",
+          "example": "Red-bellied piranhas swam in planted Amazonian biotope tanks."
+        },
+        {
+          "word": "ARROWANA",
+          "meaning": "Large primitive surface-dwelling freshwater aquarium fish",
+          "example": "The silver arrowana glided near the tank surface gracefully."
+        },
+        {
+          "word": "OSCAR",
+          "meaning": "Large intelligent South American cichlid popular in aquariums",
+          "example": "The tiger oscar recognized its owner during feeding time."
+        },
+        {
+          "word": "RAMIREZI",
+          "meaning": "Small colorful South American dwarf cichlid",
+          "example": "German blue ramirezi pairs displayed vibrant turquoise spots."
+        },
+        {
+          "word": "KILLIFISH",
+          "meaning": "Brilliantly plumaged small freshwater annual fish",
+          "example": "Annual killifish eggs survived in dry peat moss before wetting."
+        },
+        {
+          "word": "ARCHERFISH",
+          "meaning": "Fish capable of shooting water droplets to knock down insects",
+          "example": "The archerfish squirted water jets at flies above the tank."
+        },
+        {
+          "word": "HATCHETFISH",
+          "meaning": "Deep-bodied freshwater fish capable of leaping above water",
+          "example": "Marbled hatchetfish hovered near the surface under floaters."
+        },
+        {
+          "word": "BASSLET",
+          "meaning": "Small brightly colored marine reef aquarium fish",
+          "example": "The royal gramma basslet defended its coral cave crevice."
+        }
+      ]
+    },
+    {
+      "levelNumber": 20,
+      "title": "Pets Level 20",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "DAMSELFISH",
+          "meaning": "Hardy small marine aquarium reef fish",
+          "example": "Blue damselfish darted around live coral heads."
+        },
+        {
+          "word": "BLENNY",
+          "meaning": "Small bottom-dwelling marine fish with curious facial features",
+          "example": "The lawnmower blenny scraped algae off live rock work."
+        },
+        {
+          "word": "PIPEFISH",
+          "meaning": "Slender seahorse relative with long tubular snout",
+          "example": "Banded pipefish fed on live copepods in marine refugiums."
+        },
+        {
+          "word": "SEAHORSE",
+          "meaning": "Marine fish with upright posture and prehensile tail",
+          "example": "Lined seahorses anchored tails around macroalgae stems."
+        },
+        {
+          "word": "PROTEINSKIMMER",
+          "meaning": "Filtration device removing organic compounds from saltwater",
+          "example": "The protein-skimmer produced dense foam waste in collection cup."
+        },
+        {
+          "word": "SURGEONFISH",
+          "meaning": "Brightly colored marine reef fish with sharp spine on tail base",
+          "example": "The blue surgeonfish grazed on algae growing on reef rock."
+        },
+        {
+          "word": "MANDARINFISH",
+          "meaning": "Brilliantly patterned small marine dragonet fish",
+          "example": "The mandarinfish displayed psychedelic orange and blue swirls."
+        },
+        {
+          "word": "WRASSE",
+          "meaning": "Diverse family of marine reef fish often cleaning other species",
+          "example": "The cleaner wrasse picked parasites off larger reef fish."
+        },
+        {
+          "word": "ANTHIAS",
+          "meaning": "Colorful schooling marine reef fish swimming near coral crests",
+          "example": "Bright orange anthias hovered above live staghorn coral."
+        },
+        {
+          "word": "TRIGGERFISH",
+          "meaning": "Deep-bodied marine reef fish with trigger-like dorsal spine",
+          "example": "The picasso triggerfish guarded its sandy nest territory."
+        },
+        {
+          "word": "LIONFISH",
+          "meaning": "Venomous marine reef fish with dramatic fan-like fins",
+          "example": "The red lionfish hovered gracefully near cave overhangs."
+        }
+      ]
+    },
+    {
+      "levelNumber": 21,
+      "title": "Pets Level 21",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "ZOANTHID",
+          "meaning": "Colorful colonial soft coral polyp popular in reef tanks",
+          "example": "Bright green zoanthid colonies covered live rock work."
+        },
+        {
+          "word": "GORGONIAN",
+          "meaning": "Branching soft coral species like sea fans in reef tanks",
+          "example": "The purple gorgonian expanded delicate white polyps in current."
+        },
+        {
+          "word": "IGUANA",
+          "meaning": "Large arboreal herbivorous tropical lizard",
+          "example": "The green iguana bashed under a warm ceramic heat lamp."
+        },
+        {
+          "word": "GECKO",
+          "meaning": "Small nocturnal lizard with adhesive toe pads",
+          "example": "The leopard gecko licked its eyes and wagged its tail."
+        },
+        {
+          "word": "CHAMELEON",
+          "meaning": "Arboreal lizard capable of changing skin color",
+          "example": "The veiled chameleon moved slowly using zygodactyl feet."
+        },
+        {
+          "word": "ANOLE",
+          "meaning": "Small slender active lizard capable of color change",
+          "example": "The green anole displayed its bright red throat dewlap."
+        },
+        {
+          "word": "BEARDEDDRAGON",
+          "meaning": "Docile Australian lizard with spiky throat pouch",
+          "example": "The beardeddragon flattened its body to absorb basking warmth."
+        },
+        {
+          "word": "TORTOISE",
+          "meaning": "Land-dwelling reptile with heavy protective shell",
+          "example": "The sulcata tortoise grazed on dandelions in the garden."
+        },
+        {
+          "word": "SERPENT",
+          "meaning": "Legless reptile belonging to suborder Serpentes",
+          "example": "The docile serpent rested comfortably around handler shoulders."
+        },
+        {
+          "word": "PYTHON",
+          "meaning": "Non-venomous constrictor snake species",
+          "example": "The ball python curled into a tight protective sphere."
+        },
+        {
+          "word": "BOA",
+          "meaning": "Large heavy-bodied constrictor snake",
+          "example": "The red-tailed boa shed its skin cleanly in one piece."
+        }
+      ]
+    },
+    {
+      "levelNumber": 22,
+      "title": "Pets Level 22",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "CORNSNAKE",
+          "meaning": "Popular gentle pet snake species with orange pattern",
+          "example": "The cornsnake explored wooden branch decor in its terrarium."
+        },
+        {
+          "word": "FROG",
+          "meaning": "Tailless amphibian with long hind legs for leaping",
+          "example": "The dart frog gleamed bright blue in humid rainforest vivarium."
+        },
+        {
+          "word": "TOAD",
+          "meaning": "Stocky terrestrial amphibian with warty skin",
+          "example": "The fire-bellied toad soaked in shallow water dish."
+        },
+        {
+          "word": "SALAMANDER",
+          "meaning": "Tailed amphibian with moist skin",
+          "example": "The tiger salamander burrowed under damp coconut fiber."
+        },
+        {
+          "word": "AXOLOTL",
+          "meaning": "Neotenic aquatic salamander with feathery external gills",
+          "example": "The pink axolotl floated gently in cold freshwater tank."
+        },
+        {
+          "word": "NEWT",
+          "meaning": "Small aquatic salamander species",
+          "example": "Red-spotted newts swam among submerged freshwater moss."
+        },
+        {
+          "word": "TARANTULA",
+          "meaning": "Large hairy spider kept as exotic invertebrate pet",
+          "example": "The Chilean rose tarantula sat quietly on dry peat moss."
+        },
+        {
+          "word": "SCORPION",
+          "meaning": "Arachnid with grasping claws and venomous tail sting",
+          "example": "The emperor scorpion glowed cyan under ultraviolet light."
+        },
+        {
+          "word": "HERMITCRAB",
+          "meaning": "Land crustacean inhabiting scavenged mollusk shells",
+          "example": "The hermitcrab changed into a larger painted seashell."
+        },
+        {
+          "word": "GARTENSNAKE",
+          "meaning": "Harmless common North American striped snake",
+          "example": "The gartensnake slithered through garden grass."
+        },
+        {
+          "word": "MILKSNAKE",
+          "meaning": "Tricolored non-venomous king snake species",
+          "example": "The honduran milksnake displayed bright red and yellow rings."
+        }
+      ]
+    },
+    {
+      "levelNumber": 23,
+      "title": "Pets Level 23",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "LEOPARDGECKO",
+          "meaning": "Popular ground-dwelling lizard with spotted skin and eyelids",
+          "example": "The leopardgecko stored fat in its plump tail."
+        },
+        {
+          "word": "CRESTEDGECKO",
+          "meaning": "Arboreal lizard with hair-like crests above eyes",
+          "example": "The crestedgecko ate fruit puree from a shallow ledge dish."
+        },
+        {
+          "word": "TOKAT",
+          "meaning": "Large noisy blue-and-orange spotted Asian gecko",
+          "example": "The tokay gecko barked its loud call from terrarium glass."
+        },
+        {
+          "word": "SKINK",
+          "meaning": "Lizard family with smooth shiny scales and short legs",
+          "example": "The blue-tongued skink displayed its bright cobalt tongue."
+        },
+        {
+          "word": "TEGU",
+          "meaning": "Large intelligent South American lizard popular with reptile keepers",
+          "example": "The Argentine black and white tegu learned to come when called."
+        },
+        {
+          "word": "AGAMA",
+          "meaning": "Active diurnal lizard species with colorful head breeding displays",
+          "example": "The red-headed agama bashed on terrarium rock decor."
+        },
+        {
+          "word": "CHUCKWALLA",
+          "meaning": "Stocky desert lizard inflating body inside rock crevices",
+          "example": "The chuckwalla wedged itself tightly between desert rocks."
+        },
+        {
+          "word": "BASILISK",
+          "meaning": "Lizard capable of running short distances across water surface",
+          "example": "The green basilisk sprinted across vivarium water pools."
+        },
+        {
+          "word": "UROMASTYX",
+          "meaning": "Herbivorous desert lizard with spiky tail",
+          "example": "The Egyptian uromastyx ate dandelion greens under heat lamps."
+        },
+        {
+          "word": "HORNEDTOAD",
+          "meaning": "Desert lizard with horn-like spikes on head",
+          "example": "The Texas hornedtoad camouflaged perfectly in sandy soil."
+        },
+        {
+          "word": "BULLFROG",
+          "meaning": "Large heavy North American amphibian with deep bass call",
+          "example": "The African bullfrog burrowed underground during dry season."
+        }
+      ]
+    },
+    {
+      "levelNumber": 24,
+      "title": "Pets Level 24",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "TREEFROG",
+          "meaning": "Arboreal frog with adhesive toe pads for climbing",
+          "example": "The red-eyed treefrog slept tucked under green tropical leaves."
+        },
+        {
+          "word": "PIPA",
+          "meaning": "Flat aquatic South American toad brooding eggs in back skin",
+          "example": "The surinam pipa toad floated like a dead leaf in tank water."
+        },
+        {
+          "word": "CAECILIAN",
+          "meaning": "Limbless subterranean amphibian resembling earthworm",
+          "example": "The aquatic caecilian burrowed through muddy tank substrate."
+        },
+        {
+          "word": "PRAYINGMANTIS",
+          "meaning": "Invertebrate pet known for folded front legs and hunting prowess",
+          "example": "The orchid mantis mimicked pink flower petals on a branch."
+        },
+        {
+          "word": "HORNWORM",
+          "meaning": "Nutritious green caterpillar fed to captive lizards",
+          "example": "Bearded dragons eagerly ate calcium-dusted hornworms."
+        },
+        {
+          "word": "MEALWORM",
+          "meaning": "Larval form of darkling beetle used as pet feeder insect",
+          "example": "Leopard geckos hunted live mealworms from shallow dishes."
+        },
+        {
+          "word": "DUBIA",
+          "meaning": "Roach species widely cultured as feeder insect for reptiles",
+          "example": "Dubia roaches provided high-protein nutrition for pet monitors."
+        },
+        {
+          "word": "GARGOYLEGECKO",
+          "meaning": "New Caledonian arboreal gecko with knob-like head horns",
+          "example": "The gargoyle gecko perched on cork bark branches."
+        },
+        {
+          "word": "GOPHERSNAKE",
+          "meaning": "Harmless North American snake mimicking rattlesnake behavior",
+          "example": "The gophersnake vibrated its tail in dry leaves."
+        },
+        {
+          "word": "HOGNOSE",
+          "meaning": "Plump snake species with upturned snout playing dead when threatened",
+          "example": "The western hognose snake rolled onto its back."
+        },
+        {
+          "word": "ANACONDA",
+          "meaning": "Massive aquatic South American constrictor snake",
+          "example": "The yellow anaconda soaked in a large vivarium basin."
+        }
+      ]
+    },
+    {
+      "levelNumber": 25,
+      "title": "Pets Level 25",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SIDEWINDER",
+          "meaning": "Desert rattlesnake moving sideways across loose sand",
+          "example": "The sidewinder left distinctive j-shaped tracks in sand."
+        },
+        {
+          "word": "SLIDER",
+          "meaning": "Aquatic turtle species with red stripe behind eyes",
+          "example": "Red-eared sliders basked on floating dock ramps."
+        },
+        {
+          "word": "BOXTURTLE",
+          "meaning": "Terrestrial turtle with hinged plastron closing shell tight",
+          "example": "The ornate box turtle ate earthworms in garden pen."
+        },
+        {
+          "word": "SHAMPOO",
+          "meaning": "Liquid cleansing agent formulated for pet bathing",
+          "example": "Oatmeal shampoo soothed dry itchiness on dog skin."
+        },
+        {
+          "word": "CONDITIONER",
+          "meaning": "Coat softening product applied after pet washing",
+          "example": "Coat conditioner detangled long fur on maltese dog."
+        },
+        {
+          "word": "CLIPPER",
+          "meaning": "Electric grooming tool for trimming pet fur",
+          "example": "Professional groomers used electric clippers for poodle cuts."
+        },
+        {
+          "word": "DESHEDDER",
+          "meaning": "Grooming tool removing loose undercoat hair",
+          "example": "The deshedder tool removed loose fur before shedding season."
+        },
+        {
+          "word": "LEASH",
+          "meaning": "Strap or cord attached to collar for controlling pet",
+          "example": "The retractable leash allowed the dog room to explore."
+        },
+        {
+          "word": "HARNESS",
+          "meaning": "Chest strap fitting used for safe pet walking",
+          "example": "The padded harness prevented neck strain during walks."
+        },
+        {
+          "word": "MUZZLE",
+          "meaning": "Protective cover fitted over animal snout",
+          "example": "The mesh muzzle ensured safety during vet examinations."
+        },
+        {
+          "word": "KENNEL",
+          "meaning": "Structure or shelter for housing dogs",
+          "example": "The dog rested comfortably inside its indoor plastic kennel."
+        },
+        {
+          "word": "CRATE",
+          "meaning": "Enclosed wire or plastic cage used for pet training",
+          "example": "Crate training helped housebreak the young puppy."
+        },
+        {
+          "word": "CARRIER",
+          "meaning": "Portable box or bag used to transport pets safely",
+          "example": "The cat traveled securely inside a ventilated hard carrier."
+        }
+      ]
+    },
+    {
+      "levelNumber": 26,
+      "title": "Pets Level 26",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SCRATCHER",
+          "meaning": "Corrugated cardboard or sisal post for cat clawing",
+          "example": "The cat stretched tall on its sisal scratching post."
+        },
+        {
+          "word": "CATNIP",
+          "meaning": "Herb triggering playful euphoric behavior in cats",
+          "example": "The cat rolled joyfully in fresh organic catnip flakes."
+        },
+        {
+          "word": "CHEWTOY",
+          "meaning": "Durable rubber or nylon toy for dog chewing",
+          "example": "The rubber chewtoy was filled with peanut butter treats."
+        },
+        {
+          "word": "FRISBEE",
+          "meaning": "Flying disc thrown for dogs to catch in air",
+          "example": "The athletic collie caught the plastic frisbee mid-air."
+        },
+        {
+          "word": "SQUEAKER",
+          "meaning": "Noise-making mechanism inside plush pet toys",
+          "example": "The puppy squeezed the plush toy to activate the squeaker."
+        },
+        {
+          "word": "FEATHERWAND",
+          "meaning": "Interactive cat toy featuring feathers on flexible rod",
+          "example": "The kitten pounced eagerly on the fluttering featherwand."
+        },
+        {
+          "word": "KIBBLE",
+          "meaning": "Ground dry pet food pressed into small pellets",
+          "example": "High-protein kibble provided complete daily canine nutrition."
+        },
+        {
+          "word": "CANNEDFOOD",
+          "meaning": "Wet pet food sealed in cans for freshness",
+          "example": "Savory cannedfood was mixed with dry kibble for dinner."
+        },
+        {
+          "word": "FOUNTAIN",
+          "meaning": "Circulating water dispenser providing fresh filtered drinking water",
+          "example": "The pet fountain encouraged the cat to drink more water."
+        },
+        {
+          "word": "THERMOSTAT",
+          "meaning": "Device regulating heating elements in reptile enclosures",
+          "example": "The digital thermostat maintained terrarium temperatures precisely."
+        },
+        {
+          "word": "HYGROMETER",
+          "meaning": "Instrument measuring relative humidity in terrariums or cages",
+          "example": "The hygrometer indicated sixty percent humidity for tropical frogs."
+        },
+        {
+          "word": "HEATLAMP",
+          "meaning": "Incandescent or ceramic bulb providing basking warmth",
+          "example": "The 100-watt heatlamp created a ninety-degree basking spot."
+        },
+        {
+          "word": "HEATMAT",
+          "meaning": "Under-tank heating pad providing radiant belly heat",
+          "example": "The heatmat provided gentle nocturnal warmth for leopard geckos."
+        }
+      ]
+    },
+    {
+      "levelNumber": 27,
+      "title": "Pets Level 27",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "AUTOMATIC",
+          "meaning": "Self-operating device dispensing food or water on schedule",
+          "example": "The automatic feeder dispensed kibble twice daily."
+        },
+        {
+          "word": "WEAVEPOLE",
+          "meaning": "Agility obstacle consisting of vertical poles dog weaves through",
+          "example": "The border collie navigated the weavepole course flawlessly."
+        },
+        {
+          "word": "HURDLE",
+          "meaning": "Agility jump bar dog leaps over during competitions",
+          "example": "The dog cleared the agility hurdle with inches to spare."
+        },
+        {
+          "word": "TEETER",
+          "meaning": "Agility seesaw obstacle requiring balance and control",
+          "example": "The dog walked carefully across the teeter board."
+        },
+        {
+          "word": "POOPBAG",
+          "meaning": "Biodegradable plastic bag used to pick up dog waste",
+          "example": "Dog owners always carry poopbags during neighborhood walks."
+        },
+        {
+          "word": "EARCLEANER",
+          "meaning": "Liquid solution dissolving wax buildup in pet ears",
+          "example": "Gentle earcleaner prevented yeast infections in floppy-eared dogs."
+        },
+        {
+          "word": "EYEDROPS",
+          "meaning": "Sterile liquid drops soothing eye irritation in pets",
+          "example": "Veterinary eyedrops cleared up kitten conjunctivitis redness."
+        },
+        {
+          "word": "PAWBALM",
+          "meaning": "Moisturizing wax protecting pet paw pads from ice or hot pavement",
+          "example": "Applying pawbalm prevented cracking during cold winter walks."
+        },
+        {
+          "word": "STYPTIC",
+          "meaning": "Powder stopping minor bleeding from trimmed pet nails",
+          "example": "Styptic powder quickly sealed a quicked nail during grooming."
+        },
+        {
+          "word": "SLICKERBRUSH",
+          "meaning": "Grooming brush with fine wire bristles removing mats",
+          "example": "The slickerbrush smoothed out fluffy poodle fur nicely."
+        },
+        {
+          "word": "PINBRUSH",
+          "meaning": "Grooming brush with round-tipped metal pins for long coats",
+          "example": "The pinbrush removed tangles from golden retriever hair."
+        },
+        {
+          "word": "VACCINATION",
+          "meaning": "Administering vaccine to produce immunity to disease",
+          "example": "Core puppy vaccination protected against parvovirus and distemper."
+        },
+        {
+          "word": "DEWORMER",
+          "meaning": "Medication administered to eradicate intestinal parasites",
+          "example": "The vet prescribed a dewormer chewable tablet for the kitten."
+        }
+      ]
+    },
+    {
+      "levelNumber": 28,
+      "title": "Pets Level 28",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "ANTIBIOTIC",
+          "meaning": "Medication destroying or inhibiting bacterial growth",
+          "example": "Antibiotic eye drops cured the cat bacterial eye infection."
+        },
+        {
+          "word": "ANTISEPTIC",
+          "meaning": "Substance preventing growth of disease-causing microorganisms",
+          "example": "Antiseptic solution cleaned minor scrapes on dog paws."
+        },
+        {
+          "word": "DIAGNOSIS",
+          "meaning": "Identification of nature of an illness by examination",
+          "example": "Veterinary diagnosis confirmed mild hip dysplasia in senior dog."
+        },
+        {
+          "word": "STETHOSCOPE",
+          "meaning": "Medical instrument for listening to internal body sounds",
+          "example": "The vet used a stethoscope to monitor puppy heart rates."
+        },
+        {
+          "word": "SURGERY",
+          "meaning": "Medical treatment involving operative procedures",
+          "example": "Routine spay surgery was performed under general anesthesia."
+        },
+        {
+          "word": "ANESTHESIA",
+          "meaning": "Medical gas or injection causing temporary loss of sensation",
+          "example": "Monitoring equipment ensured safe anesthesia during dental cleaning."
+        },
+        {
+          "word": "SYRINGE",
+          "meaning": "Medical device used for injecting or withdrawing fluids",
+          "example": "The vet tech loaded a sterile syringe with rabies vaccine."
+        },
+        {
+          "word": "QUARANTINE",
+          "meaning": "Period of isolation to prevent disease spread",
+          "example": "Imported pets underwent mandatory fourteen-day quarantine."
+        },
+        {
+          "word": "REHABILITATION",
+          "meaning": "Process of restoring health and physical mobility",
+          "example": "Underwater treadmill hydrotherapy aided dog injury rehabilitation."
+        },
+        {
+          "word": "HEARTWORM",
+          "meaning": "Parasitic roundworm residing in heart and lungs of pets",
+          "example": "Monthly preventative chewables guarded against deadly heartworm."
+        },
+        {
+          "word": "PARASITE",
+          "meaning": "Organism living in or on host animal causing harm",
+          "example": "External parasite spot-on treatments eliminated fleas and ticks."
+        },
+        {
+          "word": "DISTEMPER",
+          "meaning": "Viral disease affecting respiratory and nervous systems of dogs",
+          "example": "Vaccination successfully prevented canine distemper outbreaks."
+        },
+        {
+          "word": "PARVOVIRUS",
+          "meaning": "Highly contagious viral disease affecting puppies",
+          "example": "Parvovirus disinfection protocols kept vet clinic isolation wards safe."
+        }
+      ]
+    },
+    {
+      "levelNumber": 29,
+      "title": "Pets Level 29",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "RABIES",
+          "meaning": "Fatal viral disease affecting central nervous system of mammals",
+          "example": "Annual rabies vaccination is legally mandated for domestic pets."
+        },
+        {
+          "word": "PANLEUKOPENIA",
+          "meaning": "Severe viral feline enteritis disease",
+          "example": "Core cat vaccines protect against dangerous panleukopenia virus."
+        },
+        {
+          "word": "LEPTOSPIROSIS",
+          "meaning": "Bacterial infection transmitted through contaminated water",
+          "example": "Leptospirosis vaccines protected dogs swimming in country ponds."
+        },
+        {
+          "word": "BORDETELLA",
+          "meaning": "Bacterium causing kennel cough in dogs",
+          "example": "Boarding facilities require bordetella vaccination prior to stays."
+        },
+        {
+          "word": "GIARDIA",
+          "meaning": "Microscopic intestinal parasite causing diarrhea",
+          "example": "Giardia infection was diagnosed via vet fecal flotation tests."
+        },
+        {
+          "word": "RINGWORM",
+          "meaning": "Contagious fungal skin infection causing circular lesions",
+          "example": "Antifungal lime dips cured kitten ringworm skin patches."
+        },
+        {
+          "word": "MANGE",
+          "meaning": "Skin disease caused by parasitic mites",
+          "example": "Medicated baths treated demodectic mange in rescued puppies."
+        },
+        {
+          "word": "GINGIVITIS",
+          "meaning": "Inflammation of gums caused by dental plaque buildup",
+          "example": "Daily tooth brushing prevented feline gingivitis and tooth loss."
+        },
+        {
+          "word": "ULTRASOUND",
+          "meaning": "Diagnostic imaging technique using high-frequency sound waves",
+          "example": "Abdominal ultrasound revealed bladder stones in the cat."
+        },
+        {
+          "word": "CATSCAN",
+          "meaning": "Computed tomography scanning providing 3D cross-sectional images",
+          "example": "CT catscan pinpointed joint cartilage defects in senior dog."
+        },
+        {
+          "word": "BIOPSY",
+          "meaning": "Removal of small tissue sample for diagnostic testing",
+          "example": "Skin biopsy confirmed benign lipoma growth on dog flank."
+        },
+        {
+          "word": "SUTURE",
+          "meaning": "Stitch or row of stitches holding wound edges together",
+          "example": "Dissolvable sutures closed the surgical incision securely."
+        },
+        {
+          "word": "INCISION",
+          "meaning": "Surgical cut made into skin or tissue",
+          "example": "The vet tech sterilized the skin around the incision site."
+        }
+      ]
+    },
+    {
+      "levelNumber": 30,
+      "title": "Pets Level 30",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "CATHETER",
+          "meaning": "Flexible tube inserted into body vessel to inject or drain fluids",
+          "example": "Intravenous catheter delivered fluid therapy during surgery."
+        },
+        {
+          "word": "SEDATIVE",
+          "meaning": "Medication calming anxiety or inducing drowsiness",
+          "example": "Mild oral sedative calmed the dog during thunderstorm travel."
+        },
+        {
+          "word": "NEUTERING",
+          "meaning": "Surgical removal of male pet reproductive organs",
+          "example": "Neutering male dogs reduced roaming and territorial marking."
+        },
+        {
+          "word": "SPAYING",
+          "meaning": "Surgical removal of female pet reproductive organs",
+          "example": "Spaying female cats prevented unwanted litters and uterine infections."
+        },
+        {
+          "word": "EUTHANASIA",
+          "meaning": "Painless humane putting to rest of terminally ill pet",
+          "example": "Veterinary euthanasia provided peaceful relief from severe cancer pain."
+        },
+        {
+          "word": "PALPATION",
+          "meaning": "Examining body by feeling with hands and fingers",
+          "example": "Gentle abdominal palpation detected early pregnancy in dog."
+        },
+        {
+          "word": "AUSCULTATION",
+          "meaning": "Listening to internal body organ sounds with stethoscope",
+          "example": "Heart auscultation detected mild heart murmur in senior cat."
+        },
+        {
+          "word": "HOUSEBREAKING",
+          "meaning": "Training young pet to eliminate outdoors or in litterbox",
+          "example": "Consistent scheduling accelerated puppy housebreaking progress."
+        },
+        {
+          "word": "RECALL",
+          "meaning": "Command signaling pet to return to owner immediately",
+          "example": "Reliable off-leash recall ensured dog safety near park roads."
+        },
+        {
+          "word": "CLICKER",
+          "meaning": "Handheld device producing click sound for positive reward marking",
+          "example": "Clicker training marked precise moments of desired behavior."
+        },
+        {
+          "word": "SOCIALIZATION",
+          "meaning": "Exposing young pets to diverse environments and people",
+          "example": "Early puppy socialization prevented fearfulness around strangers."
+        },
+        {
+          "word": "DOMESTICATION",
+          "meaning": "Process of taming wild animal species for human companionship",
+          "example": "Historical domestication transformed wild wolves into loyal dogs."
+        },
+        {
+          "word": "AFFECTION",
+          "meaning": "Gentle feeling of fondness and warmth towards pet",
+          "example": "The dog showed affection by nuzzling its head against owner lap."
+        }
+      ]
+    },
+    {
+      "levelNumber": 31,
+      "title": "Pets Level 31",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "PLAYFULNESS",
+          "meaning": "Quality of being active, energetic, and eager to play",
+          "example": "Kitten playfulness kept the entire family entertained."
+        },
+        {
+          "word": "TEMPERAMENT",
+          "meaning": "Animal nature and behavioral disposition",
+          "example": "The golden retriever was famous for its gentle calm temperament."
+        },
+        {
+          "word": "PROTECTIVE",
+          "meaning": "Having quality of guarding home or family from harm",
+          "example": "The loyal guard dog maintained a protective stance at front door."
+        },
+        {
+          "word": "MACAW",
+          "meaning": "Large long-tailed parrot species with vibrant feathers",
+          "example": "The scarlet macaw stretched its wings and spoke hello clearly."
+        },
+        {
+          "word": "CONURE",
+          "meaning": "Small to medium active parrot species with colorful plumage",
+          "example": "The sun conure snuggled against its owner shoulder."
+        },
+        {
+          "word": "PARROTLET",
+          "meaning": "Tiny parrot species known for big personality",
+          "example": "The Pacific parrotlet nibbled on fresh apple slices."
+        },
+        {
+          "word": "BUDGIE",
+          "meaning": "Short for budgerigar, popular small pet parakeet",
+          "example": "The blue budgie learned to mimic several English words."
+        },
+        {
+          "word": "LITTERBOX",
+          "meaning": "Tray filled with absorbent granules for cat sanitation",
+          "example": "Cleaning the litterbox daily maintained indoor hygiene."
+        },
+        {
+          "word": "CATLITTER",
+          "meaning": "Absorbent material used in pet waste trays",
+          "example": "Clumping catlitter made daily cleaning quick and easy."
+        },
+        {
+          "word": "PETCARRIER",
+          "meaning": "Ventilated box used for safely transporting pets",
+          "example": "The rabbit relaxed comfortably inside the travel petcarrier."
+        },
+        {
+          "word": "DOGBED",
+          "meaning": "Cushioned mattress or pad designed for canine sleeping",
+          "example": "The memory foam dogbed relieved joint pressure for the senior hound."
+        },
+        {
+          "word": "COLLAR",
+          "meaning": "Band worn around animal neck for identification and control",
+          "example": "The red nylon collar held metal ID tags and rabies license."
+        },
+        {
+          "word": "IDTAG",
+          "meaning": "Engraved metal tag containing owner contact details",
+          "example": "The stainless steel idtag listed the phone number clearly."
+        }
+      ]
+    },
+    {
+      "levelNumber": 32,
+      "title": "Pets Level 32",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "PLAYPEN",
+          "meaning": "Enclosed play area keeping young animals safe",
+          "example": "Puppies scampered around toys inside the wire playpen."
+        },
+        {
+          "word": "SCRATCHINGPOST",
+          "meaning": "Vertical post wrapped in sisal rope for cat claw maintenance",
+          "example": "The cat sharpened claws on the tall scratchingpost."
+        },
+        {
+          "word": "NAILTRIMMER",
+          "meaning": "Specialized clippers for trimming pet claws",
+          "example": "Using a guillotine nailtrimmer kept cat claws short and safe."
+        },
+        {
+          "word": "FLEACOLLAR",
+          "meaning": "Medicated neck band repelling fleas and ticks",
+          "example": "The water-resistant fleacollar protected the dog all summer."
+        },
+        {
+          "word": "DOGPARK",
+          "meaning": "Fenced public park where dogs can run off-leash",
+          "example": "Dogs played fetch happily in the spacious grassy dogpark."
+        },
+        {
+          "word": "DOGWALKER",
+          "meaning": "Person hired to walk dogs during work hours",
+          "example": "The neighborhood dogwalker exercised four dogs every afternoon."
+        },
+        {
+          "word": "PETSITTING",
+          "meaning": "Caring for pets in home environment while owners travel",
+          "example": "Professional petsitting ensured cats stayed stress-free at home."
+        },
+        {
+          "word": "ANIMALSHELTER",
+          "meaning": "Facility providing temporary care and housing for homeless pets",
+          "example": "Volunteers walked rescue dogs at the local animalshelter."
+        },
+        {
+          "word": "ADOPTION",
+          "meaning": "Taking an animal from shelter into permanent home care",
+          "example": "Pet adoption gave the shelter puppy a loving forever family."
+        },
+        {
+          "word": "FOSTERING",
+          "meaning": "Providing temporary home care for rescue animals",
+          "example": "Fostering young kittens prepared them for permanent adoption."
+        },
+        {
+          "word": "MICROCHIPPING",
+          "meaning": "Inserting permanent identification microchip under animal skin",
+          "example": "Microchipping ensured lost pets could be reunited with families."
+        },
+        {
+          "word": "PETINSURANCE",
+          "meaning": "Insurance coverage reimbursing veterinary medical expenses",
+          "example": "Petinsurance covered unexpected emergency surgical costs."
+        },
+        {
+          "word": "GARDENPOND",
+          "meaning": "Outdoor water feature housing koi and goldfish",
+          "example": "Colorful koi fish swam beneath lily pads in the gardenpond."
+        }
+      ]
+    },
+    {
+      "levelNumber": 33,
+      "title": "Pets Level 33",
+      "gridRows": 17,
+      "gridCols": 17,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "VIVARIUM",
+          "meaning": "Enclosed indoor ecosystem for keeping reptiles or amphibians",
+          "example": "The humid rain-forest vivarium housed dart frogs and live moss."
+        },
+        {
+          "word": "FISHFOOD",
+          "meaning": "Specially formulated flakes or pellets for feeding aquarium fish",
+          "example": "Feeding high-quality fishfood enhanced vibrant tropical colors."
+        },
+        {
+          "word": "WATERCONDITIONER",
+          "meaning": "Chemical neutralizing chlorine in tap water for aquariums",
+          "example": "Adding waterconditioner made tap water safe for fish tank changes."
+        },
+        {
+          "word": "HEATSTRIP",
+          "meaning": "Radiant warming element attached to terrarium glass",
+          "example": "The heatstrip provided gentle temperature gradient across the tank."
+        },
+        {
+          "word": "LIGHTING",
+          "meaning": "Illumination systems providing required UV light for pets",
+          "example": "Full-spectrum UVB lighting supported healthy reptile bone growth."
+        },
+        {
+          "word": "CUTTLEBONE",
+          "meaning": "Calcium-rich internal shell of cuttlefish given to caged birds",
+          "example": "The pet parakeet nibbled on the cuttlebone for bill health."
+        },
+        {
+          "word": "PERCH",
+          "meaning": "Bar or branch inside cage for birds to sit upon",
+          "example": "Natural wooden perches exercised bird foot muscles."
+        },
+        {
+          "word": "BIRDSEED",
+          "meaning": "Mixture of seeds formulated as food for cage birds",
+          "example": "The seed mix contained millet, sunflower, and canary birdseed."
+        },
+        {
+          "word": "NIBBLE",
+          "meaning": "Taking small gentle bites of pet food or treats",
+          "example": "The hamster took a quick nibble of fresh sunflower seed."
+        },
+        {
+          "word": "PURRING",
+          "meaning": "Continuous soft vibrating sound made by contented cats",
+          "example": "Loud purring signaled that the cat was happy and relaxed."
+        },
+        {
+          "word": "MEOWING",
+          "meaning": "Vocal vocalization made by domestic cats to communicate",
+          "example": "Persistent meowing alerted the owner that the food bowl was empty."
+        },
+        {
+          "word": "BARKING",
+          "meaning": "Sound produced by dogs as signal or alert",
+          "example": "Watchdog barking warned of visitors arriving at the front door."
+        },
+        {
+          "word": "TAILWAGGING",
+          "meaning": "Side-to-side movement of dog tail expressing emotion",
+          "example": "Energetic tailwagging greeted the owner returning home."
+        }
+      ]
+    },
+    {
+      "levelNumber": 34,
+      "title": "Pets Level 34",
+      "gridRows": 18,
+      "gridCols": 18,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "GROOMING",
+          "meaning": "Cleaning and brushing fur or feathers of pets",
+          "example": "Regular grooming prevented painful fur mats in long-haired cats."
+        },
+        {
+          "word": "SHEDDING",
+          "meaning": "Natural seasonal loss of old coat hair or feathers",
+          "example": "Spring shedding required frequent daily brushing sessions."
+        },
+        {
+          "word": "BELLYRUB",
+          "meaning": "Gentle scratching or massaging of pet abdomen",
+          "example": "The happy pup rolled onto its back requesting another bellyrub."
+        },
+        {
+          "word": "FOXTERRIER",
+          "meaning": "Active terrier breed originally bred for flushing foxes",
+          "example": "The wirehaired foxterrier scampered across the backyard grass."
+        },
+        {
+          "word": "BULLMASTIFF",
+          "meaning": "Large powerful guard dog breed developed in England",
+          "example": "The gentle bullmastiff guarded the family estate calmly."
+        },
+        {
+          "word": "GREATPYRENEES",
+          "meaning": "Massive white livestock guardian dog breed from Pyrenees",
+          "example": "The greatpyrenees guarded mountain sheep from predators."
+        },
+        {
+          "word": "ALASKANMALAMUTE",
+          "meaning": "Large powerful Arctic sled dog breed with thick double coat",
+          "example": "The alaskanmalamute pulled heavy cargo sleds through deep snow."
+        },
+        {
+          "word": "FINNISHSPITZ",
+          "meaning": "National dog breed of Finland with fox-like appearance",
+          "example": "The finnishspitz barked briskly at birds perched in high trees."
+        },
+        {
+          "word": "TIBETANTERRIER",
+          "meaning": "Ancient medium-sized holy dog breed from Tibet",
+          "example": "The tibetanterrier possessed wide flat paws suitable for snow walking."
+        },
+        {
+          "word": "AMERICANBULLDOG",
+          "meaning": "Muscular athletic utility dog breed with powerful build",
+          "example": "The americanbulldog leaped effortlessly over pasture gates."
+        },
+        {
+          "word": "ENGLISHSETTER",
+          "meaning": "Elegant gun dog breed with speckled belton coat",
+          "example": "The Englishsetter pointed steadily at upland game birds."
+        },
+        {
+          "word": "JAPANESEBOBTAIL",
+          "meaning": "Cat breed originating from Japan with short pom-pom tail",
+          "example": "The japanesebobtail waved its bobbed tail while sitting upright."
+        },
+        {
+          "word": "AMERICANSHORTHAIR",
+          "meaning": "Hardy working cat breed native to North America",
+          "example": "The americanshorthair cat kept the barn free of field mice."
+        }
+      ]
+    },
+    {
+      "levelNumber": 35,
+      "title": "Pets Level 35",
+      "gridRows": 17,
+      "gridCols": 17,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "AMERICANCURL",
+          "meaning": "Cat breed characterized by ears curling backward in graceful arch",
+          "example": "The americancurl cat displayed unique backward-curled ear tips."
+        },
+        {
+          "word": "AMERICANWIREHAIR",
+          "meaning": "Cat breed with unusual springy crimped coat hair",
+          "example": "The americanwirehair cat had dense coarse wiry fur."
+        },
+        {
+          "word": "CATBOARDING",
+          "meaning": "Facility providing lodging services for cats",
+          "example": "The luxury catboarding suite featured climbing towers and window views."
+        },
+        {
+          "word": "DOGGYDAYCARE",
+          "meaning": "Daytime care center for exercising dogs",
+          "example": "Dogs enjoyed group play sessions at doggydaycare every morning."
+        },
+        {
+          "word": "LEASHWALK",
+          "meaning": "Taking a dog out for exercise on a leash",
+          "example": "A thirty-minute leashwalk satisfied the energetic puppy."
+        },
+        {
+          "word": "MICROCHIPREADER",
+          "meaning": "Electronic scanner reading microchip numbers under skin",
+          "example": "The vet tech placed the microchipreader over the dog shoulders."
+        },
+        {
+          "word": "AQUARIUMFILTER",
+          "meaning": "Device maintaining water quality in fish tanks",
+          "example": "The canister aquariumfilter trapped debris and purified water."
+        },
+        {
+          "word": "AIRPUMP",
+          "meaning": "Device driving air bubbling equipment in aquariums",
+          "example": "The quiet airpump oxygenated the freshwater fish tank water."
+        },
+        {
+          "word": "GRAVELVACUUM",
+          "meaning": "Siphon tube cleaning aquarium substrate during water changes",
+          "example": "The gravelvacuum removed waste while draining water into a bucket."
+        },
+        {
+          "word": "WATERPUMP",
+          "meaning": "Submersible pump circulating water through filters",
+          "example": "The waterpump created steady current flow for tropical river fish."
+        },
+        {
+          "word": "TANKDECOR",
+          "meaning": "Ornaments like castles or wood placed inside aquariums",
+          "example": "Sunken ship tankdecor provided hiding caves for small tetras."
+        },
+        {
+          "word": "FLOATINGPLANTS",
+          "meaning": "Aquatic vegetation floating on top of tank water",
+          "example": "Duckweed floatingplants shaded the aquarium and absorbed nitrates."
+        },
+        {
+          "word": "CATNIPTOY",
+          "meaning": "Plush toy stuffed with dried catnip herb",
+          "example": "The kitten kicked its plush catniptoy with hind legs happily."
+        }
+      ]
+    }
+  ]
+}

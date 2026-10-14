@@ -1,0 +1,2144 @@
+{
+  "id": 2,
+  "key": "holiday",
+  "title": "Holiday",
+  "iconAsset": "assets/chapter_images/holiday.png",
+  "themeColor": 4278238420,
+  "levels": [
+    {
+      "levelNumber": 1,
+      "title": "Holiday Level 1",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "SNOW",
+          "meaning": "Water vapor frozen into white ice crystals",
+          "example": "Fresh snow blanketed the mountain cabin."
+        },
+        {
+          "word": "GIFT",
+          "meaning": "A present given to express love and joy",
+          "example": "Unwrapping a wrapped holiday gift."
+        },
+        {
+          "word": "TREE",
+          "meaning": "Evergreen fir decorated with lights and ornaments",
+          "example": "Gathering around the Christmas tree."
+        },
+        {
+          "word": "STAR",
+          "meaning": "Bright topper symbol placed atop holiday trees",
+          "example": "Golden star shining on tree peak."
+        },
+        {
+          "word": "BELL",
+          "meaning": "Chime instrument ringing festive melodies",
+          "example": "Jingle bells ringing in the snow."
+        },
+        {
+          "word": "RESORT",
+          "meaning": "Vacation destination with lodging and activities",
+          "example": "Ski resort located high in the Alps."
+        },
+        {
+          "word": "RIBBON",
+          "meaning": "Decorative fabric strip for gift wrapping",
+          "example": "Red silk ribbon wrapped around box."
+        },
+        {
+          "word": "WREATH",
+          "meaning": "Circular garland of pine branches on doors",
+          "example": "Hanging a holiday wreath on front door."
+        }
+      ]
+    },
+    {
+      "levelNumber": 2,
+      "title": "Holiday Level 2",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CARD",
+          "meaning": "Greeting message sent to loved ones",
+          "example": "Sending handwritten holiday cards."
+        },
+        {
+          "word": "YULE",
+          "meaning": "Traditional winter solstice celebration",
+          "example": "Warm fire from the yule log hearth."
+        },
+        {
+          "word": "PINE",
+          "meaning": "Evergreen tree with fragrant needle leaves",
+          "example": "Scent of fresh pine in winter air."
+        },
+        {
+          "word": "TRIP",
+          "meaning": "A journey taken for pleasure or vacation",
+          "example": "Family road trip to mountain lake."
+        },
+        {
+          "word": "REST",
+          "meaning": "Time spent unwinding and recharging energy",
+          "example": "Well-deserved rest after long semester."
+        },
+        {
+          "word": "CANDLE",
+          "meaning": "Wax cylinder providing warm soft light",
+          "example": "Scented candle glowing on table."
+        },
+        {
+          "word": "SLEIGH",
+          "meaning": "Runner vehicle drawn by horses over snow",
+          "example": "Riding a wooden sleigh through snow."
+        },
+        {
+          "word": "TRAVEL",
+          "meaning": "Visiting distant places for discovery",
+          "example": "Planning holiday travel across Europe."
+        }
+      ]
+    },
+    {
+      "levelNumber": 3,
+      "title": "Holiday Level 3",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CAMP",
+          "meaning": "Outdoor living stay in tents or shelters",
+          "example": "Weekend camping under starry skies."
+        },
+        {
+          "word": "TOUR",
+          "meaning": "Guided sightseeing trip around attractions",
+          "example": "Historical walking tour of old town."
+        },
+        {
+          "word": "WARM",
+          "meaning": "Comfortable cozy heat on chilly days",
+          "example": "Staying warm beside crackling fire."
+        },
+        {
+          "word": "COZY",
+          "meaning": "Warm, snug, and comfortable feeling",
+          "example": "Cozy blanket on a cold winter night."
+        },
+        {
+          "word": "CHEER",
+          "meaning": "Joyful spirit shared during celebrations",
+          "example": "Spreading holiday cheer to neighbors."
+        },
+        {
+          "word": "SUNSHINE",
+          "meaning": "Bright radiant sunlight on clear days",
+          "example": "Enjoying warm sunshine on vacation."
+        },
+        {
+          "word": "LUGGAGE",
+          "meaning": "Bags and suitcases for travel clothes",
+          "example": "Checking in luggage at airport counter."
+        },
+        {
+          "word": "PARADE",
+          "meaning": "Festive procession with floats and music",
+          "example": "Watching the holiday parade downtown."
+        }
+      ]
+    },
+    {
+      "levelNumber": 4,
+      "title": "Holiday Level 4",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "FEAST",
+          "meaning": "Large celebratory meal shared with friends",
+          "example": "Gathering around table for festive feast."
+        },
+        {
+          "word": "LIGHT",
+          "meaning": "Decorative glowing bulb string on houses",
+          "example": "Twinkling fairy lights along roofline."
+        },
+        {
+          "word": "WISH",
+          "meaning": "Heartfelt aspiration for good health and joy",
+          "example": "Making a special holiday wish."
+        },
+        {
+          "word": "SONG",
+          "meaning": "Musical piece sung during celebrations",
+          "example": "Singing traditional holiday songs."
+        },
+        {
+          "word": "GLOW",
+          "meaning": "Soft luminous light from candles or lanterns",
+          "example": "Warm fireplace glow in dark room."
+        },
+        {
+          "word": "GARLAND",
+          "meaning": "Rope of greenery or flowers used as decor",
+          "example": "Garland draped over fireplace mantle."
+        },
+        {
+          "word": "BEACH",
+          "meaning": "Sandy oceanfront shoreline for relaxation",
+          "example": "Walking along warm tropical beach."
+        },
+        {
+          "word": "CRUISE",
+          "meaning": "Sea voyage aboard a luxury passenger liner",
+          "example": "Caribbean island cruise vacation."
+        }
+      ]
+    },
+    {
+      "levelNumber": 5,
+      "title": "Holiday Level 5",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CABIN",
+          "meaning": "Cozy wooden dwelling in nature or mountains",
+          "example": "Renting a log cabin for winter break."
+        },
+        {
+          "word": "PARTY",
+          "meaning": "Festive celebration gathering with music",
+          "example": "New Year countdown party with friends."
+        },
+        {
+          "word": "FROSTY",
+          "meaning": "Cold icy weather covered with white frost",
+          "example": "Frosty morning air over snowy hills."
+        },
+        {
+          "word": "SANTA",
+          "meaning": "Iconic figure bringing gifts on Christmas Eve",
+          "example": "Children waiting for Santa on Christmas."
+        },
+        {
+          "word": "ELVES",
+          "meaning": "Magical workshop helpers crafting toys",
+          "example": "Santa's elves preparing holiday toys."
+        },
+        {
+          "word": "HOLLY",
+          "meaning": "Evergreen plant with glossy leaves and berries",
+          "example": "Decking the halls with sprigs of holly."
+        },
+        {
+          "word": "ICICLE",
+          "meaning": "Hanging point of ice formed by dripping water",
+          "example": "Sparkling icicles hanging from eaves."
+        },
+        {
+          "word": "FLIGHT",
+          "meaning": "Aircraft journey to travel destination",
+          "example": "Boarding a morning flight to Hawaii."
+        }
+      ]
+    },
+    {
+      "levelNumber": 6,
+      "title": "Holiday Level 6",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "ISLAND",
+          "meaning": "Landmass surrounded by ocean waters",
+          "example": "Relaxing on a secluded tropical island."
+        },
+        {
+          "word": "HOTEL",
+          "meaning": "Establishment offering lodging for guests",
+          "example": "Booking a room at a beachfront hotel."
+        },
+        {
+          "word": "GUIDE",
+          "meaning": "Expert who leads tours and points out sights",
+          "example": "Friendly guide explaining city history."
+        },
+        {
+          "word": "TICKET",
+          "meaning": "Pass confirming entry or transport booking",
+          "example": "Showing train ticket to conductor."
+        },
+        {
+          "word": "PASSPORT",
+          "meaning": "Official document for international travel",
+          "example": "Checking passport before flight."
+        },
+        {
+          "word": "SUITCASE",
+          "meaning": "Luggage case for carrying vacation clothes",
+          "example": "Packing swimwear into lightweight suitcase."
+        },
+        {
+          "word": "SAFARI",
+          "meaning": "Outdoor expedition to view wild animals",
+          "example": "Photographing lions on African safari."
+        },
+        {
+          "word": "BONFIRE",
+          "meaning": "Large outdoor campfire for evening warmth",
+          "example": "Singing songs around beach bonfire."
+        }
+      ]
+    },
+    {
+      "levelNumber": 7,
+      "title": "Holiday Level 7",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "HAVEN",
+          "meaning": "Peaceful place of safety and relaxation",
+          "example": "Mountain chalet was a peaceful haven."
+        },
+        {
+          "word": "SUNSET",
+          "meaning": "Daily evening disappearance of sun",
+          "example": "Watching vibrant pink sunset over sea."
+        },
+        {
+          "word": "OCEAN",
+          "meaning": "Vast expanse of salt water on earth",
+          "example": "Listening to ocean waves crash on shore."
+        },
+        {
+          "word": "SAILING",
+          "meaning": "Navigating a boat propelled by wind sails",
+          "example": "Sailing across calm turquoise bay."
+        },
+        {
+          "word": "TROPICAL",
+          "meaning": "Warm sunny climate with palm trees",
+          "example": "Tropical climate with warm ocean breeze."
+        },
+        {
+          "word": "SURFING",
+          "meaning": "Sport of riding ocean waves on a board",
+          "example": "Surfing morning waves at sunset beach."
+        },
+        {
+          "word": "DIVING",
+          "meaning": "Underwater exploration using scuba gear",
+          "example": "Scuba diving among colorful coral reefs."
+        },
+        {
+          "word": "SUMMER",
+          "meaning": "Warmest season perfect for vacations",
+          "example": "Planning a fun-filled summer holiday."
+        }
+      ]
+    },
+    {
+      "levelNumber": 8,
+      "title": "Holiday Level 8",
+      "gridRows": 10,
+      "gridCols": 10,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "WINTER",
+          "meaning": "Cold season featuring snow and holiday cheer",
+          "example": "Winter vacation at a snowy ski lodge."
+        },
+        {
+          "word": "SPRING",
+          "meaning": "Season of blooming flowers and mild sun",
+          "example": "Spring break trip to coastal town."
+        },
+        {
+          "word": "AUTUMN",
+          "meaning": "Fall season with colorful changing leaves",
+          "example": "Autumn foliage tour in New England."
+        },
+        {
+          "word": "FESTIVAL",
+          "meaning": "Cultural celebration with music and food",
+          "example": "Attending annual street art festival."
+        },
+        {
+          "word": "CARNIVAL",
+          "meaning": "Festive fair with rides, games, and parades",
+          "example": "Riding Ferris wheel at seaside carnival."
+        },
+        {
+          "word": "JUBILEE",
+          "meaning": "Special anniversary or grand celebration",
+          "example": "Golden jubilee celebration with fireworks."
+        },
+        {
+          "word": "FIESTA",
+          "meaning": "Lively party or festive community event",
+          "example": "Traditional town fiesta with live music."
+        },
+        {
+          "word": "CELEBRATE",
+          "meaning": "Mark a happy occasion with festivities",
+          "example": "Gathering with loved ones to celebrate."
+        }
+      ]
+    },
+    {
+      "levelNumber": 9,
+      "title": "Holiday Level 9",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "VACATION",
+          "meaning": "Time away from work or school to relax",
+          "example": "Taking a relaxing vacation in the tropics."
+        },
+        {
+          "word": "HOLIDAY",
+          "meaning": "Day or period free from work for leisure",
+          "example": "Wishing everyone a joyous holiday."
+        },
+        {
+          "word": "ADVENTURE",
+          "meaning": "Exciting and bold vacation exploration",
+          "example": "Ziplining through rainforest adventure."
+        },
+        {
+          "word": "EXPLORE",
+          "meaning": "Travel through new places to discover sights",
+          "example": "Exploring ancient ruins in the hills."
+        },
+        {
+          "word": "JOURNEY",
+          "meaning": "Travel from starting point to destination",
+          "example": "Scenic train journey through mountains."
+        },
+        {
+          "word": "GETAWAY",
+          "meaning": "Short trip taken for relaxation and rest",
+          "example": "Weekend getaway to countryside inn."
+        },
+        {
+          "word": "RELAXATION",
+          "meaning": "Restful state of ease and peace of mind",
+          "example": "Unwinding in total spa relaxation."
+        },
+        {
+          "word": "PALMTREE",
+          "meaning": "Tall tropical tree with large leafy fronds",
+          "example": "Swaying palm trees along sandy beach."
+        }
+      ]
+    },
+    {
+      "levelNumber": 10,
+      "title": "Holiday Level 10",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "SANDCASTLE",
+          "meaning": "Structure built out of damp beach sand",
+          "example": "Children building a tall sandcastle."
+        },
+        {
+          "word": "SUNGLASSES",
+          "meaning": "Eyewear protecting eyes from bright sun",
+          "example": "Wearing dark sunglasses at the beach."
+        },
+        {
+          "word": "SUNSCREEN",
+          "meaning": "Lotion protecting skin against UV rays",
+          "example": "Applying sunscreen before sunbathing."
+        },
+        {
+          "word": "SUNBATHING",
+          "meaning": "Lying in sunshine to relax and tan",
+          "example": "Sunbathing on a comfortable lounge chair."
+        },
+        {
+          "word": "HAMMOCK",
+          "meaning": "Netted bed suspended between two trees",
+          "example": "Napping in a hammock under palm shade."
+        },
+        {
+          "word": "SNORKEL",
+          "meaning": "Breathing tube used for shallow swimming",
+          "example": "Swimming with snorkel to view sea fish."
+        },
+        {
+          "word": "SEASHELL",
+          "meaning": "Hard protective outer shell of marine animals",
+          "example": "Collecting pretty seashells on shore."
+        },
+        {
+          "word": "CORAL",
+          "meaning": "Marine organism forming colorful underwater reefs",
+          "example": "Swimming near vibrant coral reefs."
+        },
+        {
+          "word": "LAGOON",
+          "meaning": "Shallow body of water separated from sea",
+          "example": "Crystal clear lagoon with turquoise water."
+        }
+      ]
+    },
+    {
+      "levelNumber": 11,
+      "title": "Holiday Level 11",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "PARADISE",
+          "meaning": "Place of ideal beauty and tranquility",
+          "example": "Tropical island felt like paradise."
+        },
+        {
+          "word": "OASIS",
+          "meaning": "Fertile green spot in desert or dry area",
+          "example": "Refreshing oasis surrounded by palm trees."
+        },
+        {
+          "word": "BOARDWALK",
+          "meaning": "Wooden promenade along a beach or waterfront",
+          "example": "Walking along the lively beach boardwalk."
+        },
+        {
+          "word": "CABANA",
+          "meaning": "Sheltered beach hut for shade and privacy",
+          "example": "Renting a poolside cabana for the day."
+        },
+        {
+          "word": "LIFEGUARD",
+          "meaning": "Expert swimmer keeping watch over beachgoers",
+          "example": "Attentive lifeguard stationed by water."
+        },
+        {
+          "word": "SEASHORE",
+          "meaning": "Land adjoining the sea or ocean beach",
+          "example": "Gentle waves lapping against seashore."
+        },
+        {
+          "word": "TIDEPOOL",
+          "meaning": "Rocky pool filled with seawater and sea life",
+          "example": "Spotting starfish in a coastal tidepool."
+        },
+        {
+          "word": "JETSKI",
+          "meaning": "Motorized water scooter for fast riding",
+          "example": "Riding a jet ski across open bay."
+        },
+        {
+          "word": "KAYAK",
+          "meaning": "Narrow watercraft paddled with double-blade",
+          "example": "Paddling a kayak along calm river."
+        }
+      ]
+    },
+    {
+      "levelNumber": 12,
+      "title": "Holiday Level 12",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "CANOE",
+          "meaning": "Light open boat paddled by hand oars",
+          "example": "Gliding in a wooden canoe over lake."
+        },
+        {
+          "word": "SAILBOAT",
+          "meaning": "Boat propelled by wind catching large sails",
+          "example": "White sailboat gliding into harbor."
+        },
+        {
+          "word": "HARBOR",
+          "meaning": "Sheltered port area for boats and ships",
+          "example": "Yachts docked securely inside harbor."
+        },
+        {
+          "word": "MARINA",
+          "meaning": "Specially designed harbor with boat slips",
+          "example": "Strolling past luxury yachts at marina."
+        },
+        {
+          "word": "YACHT",
+          "meaning": "Medium-sized vessel used for private cruising",
+          "example": "Sailing on a sleek luxury yacht."
+        },
+        {
+          "word": "FLOATIE",
+          "meaning": "Inflatable tube used for relaxing in pool",
+          "example": "Drifting on a colorful pool floatie."
+        },
+        {
+          "word": "WATERPARK",
+          "meaning": "Amusement park featuring slides and pools",
+          "example": "Riding water slides at theme park."
+        },
+        {
+          "word": "SLIDE",
+          "meaning": "Structure for sliding down into swimming pool",
+          "example": "Splashing down a high water slide."
+        },
+        {
+          "word": "SPLASH",
+          "meaning": "Sound or spray made by striking water",
+          "example": "Big splash when jumping into pool."
+        }
+      ]
+    },
+    {
+      "levelNumber": 13,
+      "title": "Holiday Level 13",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "SWIMMING",
+          "meaning": "Moving through water using limbs",
+          "example": "Enjoying morning swimming in ocean."
+        },
+        {
+          "word": "TOWEL",
+          "meaning": "Absorbent cloth used for drying off",
+          "example": "Spreading beach towel on warm sand."
+        },
+        {
+          "word": "FLIPFLOPS",
+          "meaning": "Casual open-toed footwear for summer",
+          "example": "Walking in comfortable rubber flip-flops."
+        },
+        {
+          "word": "TRUNKS",
+          "meaning": "Men's shorts worn for swimming",
+          "example": "Drying off swimming trunks in sun."
+        },
+        {
+          "word": "BIKINI",
+          "meaning": "Two-piece swimsuit worn for swimming",
+          "example": "Wearing bright bikini at beach resort."
+        },
+        {
+          "word": "SHADE",
+          "meaning": "Cool area protected from direct sunlight",
+          "example": "Sitting in palm shade to read book."
+        },
+        {
+          "word": "BREEZE",
+          "meaning": "Gentle refreshing wind blowing off sea",
+          "example": "Cool ocean breeze on warm evening."
+        },
+        {
+          "word": "SUNRISE",
+          "meaning": "Appearance of sun over horizon at dawn",
+          "example": "Early morning sunrise over calm sea."
+        },
+        {
+          "word": "HORIZON",
+          "meaning": "Line where earth or ocean meets the sky",
+          "example": "Ship visible on distant sea horizon."
+        }
+      ]
+    },
+    {
+      "levelNumber": 14,
+      "title": "Holiday Level 14",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "SEAGULL",
+          "meaning": "Coastal bird known for flying over beach",
+          "example": "Seagulls gliding across ocean sky."
+        },
+        {
+          "word": "DOLPHIN",
+          "meaning": "Playful marine mammal jumping in ocean",
+          "example": "Spotting wild dolphins near boat."
+        },
+        {
+          "word": "TURTLE",
+          "meaning": "Sea reptile with shell nesting on sand",
+          "example": "Watching sea turtle swim gracefully."
+        },
+        {
+          "word": "STARFISH",
+          "meaning": "Star-shaped sea creature found in water",
+          "example": "Orange starfish resting in tidepool."
+        },
+        {
+          "word": "SHELL",
+          "meaning": "Hard outer covering found on beaches",
+          "example": "Finding smooth shell along water edge."
+        },
+        {
+          "word": "SANDBAR",
+          "meaning": "Submerged ridge of sand near coastline",
+          "example": "Walking out to shallow sandbar."
+        },
+        {
+          "word": "WAVE",
+          "meaning": "Ridge of water moving across ocean surface",
+          "example": "Riding gentle ocean wave to shore."
+        },
+        {
+          "word": "COAST",
+          "meaning": "Land next to or near the ocean shore",
+          "example": "Driving along scenic Pacific coast."
+        },
+        {
+          "word": "SHORE",
+          "meaning": "Edge of land bordering body of water",
+          "example": "Waves breaking gently on rocky shore."
+        }
+      ]
+    },
+    {
+      "levelNumber": 15,
+      "title": "Holiday Level 15",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "BONVOYAGE",
+          "meaning": "Wishing someone a pleasant journey",
+          "example": "Waving bon voyage to departing cruise."
+        },
+        {
+          "word": "BACKPACK",
+          "meaning": "Bag carried on back for hiking and trips",
+          "example": "Sturdy backpack filled with trail gear."
+        },
+        {
+          "word": "ITINERARY",
+          "meaning": "Detailed plan or schedule of a journey",
+          "example": "Checking travel itinerary for flight times."
+        },
+        {
+          "word": "MAP",
+          "meaning": "Visual representation of area or route",
+          "example": "Consulting street map of old city."
+        },
+        {
+          "word": "COMPASS",
+          "meaning": "Instrument indicating magnetic cardinal directions",
+          "example": "Navigating trail using magnetic compass."
+        },
+        {
+          "word": "GUIDEBOOK",
+          "meaning": "Book of information for tourists about places",
+          "example": "Reading city guidebook for hotel tips."
+        },
+        {
+          "word": "MOTEL",
+          "meaning": "Roadside hotel for motorists with parking",
+          "example": "Overnight stay at quiet route motel."
+        },
+        {
+          "word": "HOSTEL",
+          "meaning": "Budget accommodation with shared rooms",
+          "example": "Meeting international travelers at hostel."
+        },
+        {
+          "word": "LODGE",
+          "meaning": "Country house or chalet for outdoor stays",
+          "example": "Staying in cozy mountain ski lodge."
+        }
+      ]
+    },
+    {
+      "levelNumber": 16,
+      "title": "Holiday Level 16",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "VILLA",
+          "meaning": "Large luxurious country or seaside residence",
+          "example": "Renting a private Mediterranean villa."
+        },
+        {
+          "word": "BOOKING",
+          "meaning": "Arrangement reserving flight or room",
+          "example": "Confirming hotel booking online."
+        },
+        {
+          "word": "RESERVATION",
+          "meaning": "Arrangement securing seat or hotel room",
+          "example": "Dinner reservation at seaside restaurant."
+        },
+        {
+          "word": "RECEPTION",
+          "meaning": "Front desk area welcoming hotel guests",
+          "example": "Checking in at hotel main reception."
+        },
+        {
+          "word": "SUITE",
+          "meaning": "Connected set of luxury hotel rooms",
+          "example": "Upgraded to penthouse oceanview suite."
+        },
+        {
+          "word": "CONCIERGE",
+          "meaning": "Hotel staff assisting guests with tours",
+          "example": "Asking concierge for restaurant advice."
+        },
+        {
+          "word": "SIGHTSEEING",
+          "meaning": "Visiting famous landmarks and attractions",
+          "example": "Day dedicated to city sightseeing."
+        },
+        {
+          "word": "LANDMARK",
+          "meaning": "Famous feature easily recognized from distance",
+          "example": "Eiffel Tower is an iconic landmark."
+        },
+        {
+          "word": "MONUMENT",
+          "meaning": "Structure erected to commemorate historical event",
+          "example": "Visiting ancient stone monument."
+        }
+      ]
+    },
+    {
+      "levelNumber": 17,
+      "title": "Holiday Level 17",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "MUSEUM",
+          "meaning": "Building storing and displaying art or history",
+          "example": "Touring national art history museum."
+        },
+        {
+          "word": "GALLERY",
+          "meaning": "Room or building exhibiting artworks",
+          "example": "Viewing paintings at modern art gallery."
+        },
+        {
+          "word": "STATUE",
+          "meaning": "Carved or cast figure of person or animal",
+          "example": "Marble statue in historical square."
+        },
+        {
+          "word": "SOUVENIR",
+          "meaning": "Item kept as a reminder of vacation trip",
+          "example": "Buying magnet souvenir from shop."
+        },
+        {
+          "word": "POSTCARD",
+          "meaning": "Card with photo sent by mail from holiday",
+          "example": "Mailing postcard to family back home."
+        },
+        {
+          "word": "CAMERA",
+          "meaning": "Device used to capture photos and video",
+          "example": "Taking photos with digital camera."
+        },
+        {
+          "word": "MEMORY",
+          "meaning": "Recollection of memorable vacation times",
+          "example": "Creating lasting family vacation memories."
+        },
+        {
+          "word": "PHOTO",
+          "meaning": "Picture captured with a camera lens",
+          "example": "Framing scenic vacation photo."
+        },
+        {
+          "word": "ATTRACTION",
+          "meaning": "Interesting place drawing tourists to visit",
+          "example": "Theme park is top tourist attraction."
+        }
+      ]
+    },
+    {
+      "levelNumber": 18,
+      "title": "Holiday Level 18",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "EXCURSION",
+          "meaning": "Short recreational outing or day trip",
+          "example": "Day excursion to nearby volcano."
+        },
+        {
+          "word": "EXPEDITION",
+          "meaning": "Organized journey with specific purpose",
+          "example": "Scientific expedition to rainforest."
+        },
+        {
+          "word": "WANDERLUST",
+          "meaning": "Strong innate desire to travel and explore",
+          "example": "Filled with wanderlust for new lands."
+        },
+        {
+          "word": "DESTINATION",
+          "meaning": "Place to which someone is traveling",
+          "example": "Arriving at final island destination."
+        },
+        {
+          "word": "OVERLAND",
+          "meaning": "Travel across land rather than sea or air",
+          "example": "Overland journey across national parks."
+        },
+        {
+          "word": "SCENERY",
+          "meaning": "Natural features of landscape or view",
+          "example": "Admiring breathtaking mountain scenery."
+        },
+        {
+          "word": "PANORAMA",
+          "meaning": "Unbroken wide view of surrounding area",
+          "example": "Stunning panorama from cliff lookout."
+        },
+        {
+          "word": "VISTA",
+          "meaning": "Pleasing distant view seen through opening",
+          "example": "Beautiful vista of valley below."
+        },
+        {
+          "word": "OUTDOORS",
+          "meaning": "Any open air area away from buildings",
+          "example": "Spending all weekend in the outdoors."
+        },
+        {
+          "word": "NATURE",
+          "meaning": "Physical world including plants and animals",
+          "example": "Reconnecting with calm nature."
+        },
+        {
+          "word": "AIRPORT",
+          "meaning": "Complex where airplanes take off and land",
+          "example": "Arriving at international airport terminal."
+        }
+      ]
+    },
+    {
+      "levelNumber": 19,
+      "title": "Holiday Level 19",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "AIRLINE",
+          "meaning": "Company offering commercial air transport",
+          "example": "Flying with national airline fleet."
+        },
+        {
+          "word": "PILOT",
+          "meaning": "Person operating flight controls of aircraft",
+          "example": "Captain pilot welcoming passengers."
+        },
+        {
+          "word": "BOARDING",
+          "meaning": "Process of entering airplane or ship",
+          "example": "Presenting boarding pass at gate."
+        },
+        {
+          "word": "TERMINAL",
+          "meaning": "Building at airport where passengers depart",
+          "example": "Waiting for flight inside terminal."
+        },
+        {
+          "word": "LAYOVER",
+          "meaning": "Temporary stopover between connecting flights",
+          "example": "Three-hour layover in Singapore."
+        },
+        {
+          "word": "STOPOVER",
+          "meaning": "Break in a journey lasting more than a day",
+          "example": "Enjoying a two-day Tokyo stopover."
+        },
+        {
+          "word": "TENT",
+          "meaning": "Portable shelter of fabric supported by poles",
+          "example": "Setting up waterproof tent at campsite."
+        },
+        {
+          "word": "SLEEPINGBAG",
+          "meaning": "Warm padded bag for sleeping in tents",
+          "example": "Snug inside fleece sleeping bag."
+        },
+        {
+          "word": "CAMPFIRE",
+          "meaning": "Outdoor fire at campsite for heat and cooking",
+          "example": "Roasting sausages over campfire."
+        },
+        {
+          "word": "BACKPACKING",
+          "meaning": "Traveling or hiking carrying all gear on back",
+          "example": "Backpacking through national forest."
+        },
+        {
+          "word": "TRAIL",
+          "meaning": "Marked path through countryside or mountain",
+          "example": "Following steep trail to waterfall."
+        }
+      ]
+    },
+    {
+      "levelNumber": 20,
+      "title": "Holiday Level 20",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "HIKE",
+          "meaning": "Long walk taken for pleasure or exercise",
+          "example": "Morning hike up scenic mountain ridge."
+        },
+        {
+          "word": "CLIMB",
+          "meaning": "Ascending steep mountain or rock face",
+          "example": "Exciting rock climb up granite cliff."
+        },
+        {
+          "word": "MOUNTAIN",
+          "meaning": "Large natural elevation rising above earth",
+          "example": "Snowcapped mountain towering over valley."
+        },
+        {
+          "word": "PEAK",
+          "meaning": "Pointed top summit of a mountain mountain",
+          "example": "Reaching highest mountain peak."
+        },
+        {
+          "word": "VALLEY",
+          "meaning": "Low area of land between hills or mountains",
+          "example": "Lush green valley with flowing stream."
+        },
+        {
+          "word": "FOREST",
+          "meaning": "Large area covered chiefly with trees",
+          "example": "Walking through dense pine forest."
+        },
+        {
+          "word": "WOODS",
+          "meaning": "Area of land covered with growing trees",
+          "example": "Quiet cabin hidden deep in woods."
+        },
+        {
+          "word": "LAKE",
+          "meaning": "Large body of water surrounded by land",
+          "example": "Renting a rowboat on calm mountain lake."
+        },
+        {
+          "word": "RIVER",
+          "meaning": "Large natural stream of water flowing to sea",
+          "example": "Rafting down fast-flowing river."
+        },
+        {
+          "word": "WATERFALL",
+          "meaning": "Cascade of water falling from a height",
+          "example": "Majestic waterfall dropping into pool."
+        },
+        {
+          "word": "STREAM",
+          "meaning": "Small narrow river with flowing water",
+          "example": "Fresh water babbling in mountain stream."
+        }
+      ]
+    },
+    {
+      "levelNumber": 21,
+      "title": "Holiday Level 21",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "CANYON",
+          "meaning": "Deep gorge with steep sides carved by river",
+          "example": "Hiking along edge of Grand Canyon."
+        },
+        {
+          "word": "WILDERNESS",
+          "meaning": "Uncultivated, uninhabited natural region",
+          "example": "Exploring pristine Alaskan wilderness."
+        },
+        {
+          "word": "PICNIC",
+          "meaning": "Meal eaten outdoors on grass or table",
+          "example": "Packing sandwich lunch for park picnic."
+        },
+        {
+          "word": "BIVOUAC",
+          "meaning": "Temporary open-air encampment without tents",
+          "example": "Setting up night bivouac on ridge."
+        },
+        {
+          "word": "CHALET",
+          "meaning": "Wooden dwelling with sloping roof in Alps",
+          "example": "Renting Swiss chalet for ski holiday."
+        },
+        {
+          "word": "ALPS",
+          "meaning": "High mountain range in central Europe",
+          "example": "Skiing down slopes in the Alps."
+        },
+        {
+          "word": "SUMMIT",
+          "meaning": "Highest point or peak of a mountain",
+          "example": "Taking photo at mountain summit."
+        },
+        {
+          "word": "GLACIER",
+          "meaning": "Slowly moving mass or river of ice",
+          "example": "Viewing ancient blue glacier ice."
+        },
+        {
+          "word": "MEADOW",
+          "meaning": "Field of habitat grass and wildflowers",
+          "example": "Wildflowers blooming in alpine meadow."
+        },
+        {
+          "word": "PATHWAY",
+          "meaning": "Track or course along which people walk",
+          "example": "Stone pathway leading to lookout."
+        },
+        {
+          "word": "RIDGE",
+          "meaning": "Long narrow elevated crest of mountain",
+          "example": "Walking along windy mountain ridge."
+        }
+      ]
+    },
+    {
+      "levelNumber": 22,
+      "title": "Holiday Level 22",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "CLIFF",
+          "meaning": "Steep high rock face bordering land",
+          "example": "Waves crashing against coastal cliff."
+        },
+        {
+          "word": "CAVE",
+          "meaning": "Natural underground chamber in hillside",
+          "example": "Exploring limestone cavern cave."
+        },
+        {
+          "word": "CANOPY",
+          "meaning": "High roof of trees in dense forest",
+          "example": "Ziplining through jungle canopy."
+        },
+        {
+          "word": "OVERLOOK",
+          "meaning": "High vantage point offering broad view",
+          "example": "Stopping at mountain scenic overlook."
+        },
+        {
+          "word": "FIREWORKS",
+          "meaning": "Explosive pyrotechnics creating colorful displays",
+          "example": "Watching spectacular fireworks show."
+        },
+        {
+          "word": "CONFETTI",
+          "meaning": "Small bits of colored paper showered at parties",
+          "example": "Confetti showering midnight celebration."
+        },
+        {
+          "word": "BALLOON",
+          "meaning": "Inflatable rubber bag filled with helium gas",
+          "example": "Decorating hall with bright balloons."
+        },
+        {
+          "word": "STREAMER",
+          "meaning": "Long ribbon of paper used in party decor",
+          "example": "Hanging colorful paper streamers."
+        },
+        {
+          "word": "BANNER",
+          "meaning": "Long cloth bearing headline message or slogan",
+          "example": "Welcome home holiday banner."
+        },
+        {
+          "word": "MUSIC",
+          "meaning": "Vocal or instrumental sounds producing harmony",
+          "example": "Live music playing at beach concert."
+        },
+        {
+          "word": "DANCE",
+          "meaning": "Moving rhythmically to music at parties",
+          "example": "Dancing under lights at fiesta."
+        }
+      ]
+    },
+    {
+      "levelNumber": 23,
+      "title": "Holiday Level 23",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "CAROLING",
+          "meaning": "Singing Christmas songs door to door",
+          "example": "Group caroling in snow neighborhood."
+        },
+        {
+          "word": "MASQUERADE",
+          "meaning": "Formal ball where guests wear masks",
+          "example": "Dressing up for Venice masquerade ball."
+        },
+        {
+          "word": "COSTUME",
+          "meaning": "Set of clothes worn to portray character",
+          "example": "Wearing festive holiday costume."
+        },
+        {
+          "word": "MASK",
+          "meaning": "Covering for face worn for disguise or festivity",
+          "example": "Decorated feather mask at carnival."
+        },
+        {
+          "word": "CONCERT",
+          "meaning": "Musical performance given before audience",
+          "example": "Outdoor summer music concert."
+        },
+        {
+          "word": "STAGE",
+          "meaning": "Raised platform for performers at show",
+          "example": "Band performing on outdoor stage."
+        },
+        {
+          "word": "CROWD",
+          "meaning": "Large number of people gathered together",
+          "example": "Cheering crowd at festival ground."
+        },
+        {
+          "word": "SPECTACLE",
+          "meaning": "Visually striking performance or display",
+          "example": "Light show was an amazing spectacle."
+        },
+        {
+          "word": "FANFARE",
+          "meaning": "Short ceremonial tune played on brass",
+          "example": "Trumpet fanfare announcing parade."
+        },
+        {
+          "word": "ENTERTAINMENT",
+          "meaning": "Amusements and performances for enjoyment",
+          "example": "Resort providing evening entertainment."
+        },
+        {
+          "word": "APPLAUSE",
+          "meaning": "Approval expressed by clapping hands",
+          "example": "Loud applause following firework finale."
+        }
+      ]
+    },
+    {
+      "levelNumber": 24,
+      "title": "Holiday Level 24",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "JUBILATION",
+          "meaning": "Feeling of great happiness and triumph",
+          "example": "Wild jubilation as clock struck midnight."
+        },
+        {
+          "word": "EXHILARATION",
+          "meaning": "Feeling of excitement, happiness, or elation",
+          "example": "Exhilaration of skiing down mountain."
+        },
+        {
+          "word": "REVELRY",
+          "meaning": "Lively and noisy festivities or partying",
+          "example": "Midnight revelry in city center."
+        },
+        {
+          "word": "FESTIVITY",
+          "meaning": "Celebratory activities surrounding event",
+          "example": "Participating in holiday festivities."
+        },
+        {
+          "word": "LANTERN",
+          "meaning": "Portable light in protective case with handle",
+          "example": "Floating paper lanterns into night sky."
+        },
+        {
+          "word": "DECORATION",
+          "meaning": "Item added to make something attractive",
+          "example": "Hanging holiday tree decorations."
+        },
+        {
+          "word": "ILLUMINATION",
+          "meaning": "Lighting up streets or buildings with lights",
+          "example": "Festive city light illumination."
+        },
+        {
+          "word": "PAGEANT",
+          "meaning": "Public entertainment consisting of procession",
+          "example": "Annual holiday theatrical pageant."
+        },
+        {
+          "word": "CHAMPAGNE",
+          "meaning": "Sparkling white wine for celebrations",
+          "example": "Popping champagne bottle on New Year."
+        },
+        {
+          "word": "SPARKLER",
+          "meaning": "Handheld firework emitting bright sparks",
+          "example": "Waving sparklers on festival night."
+        },
+        {
+          "word": "REUNION",
+          "meaning": "Gathering of family or friends after time",
+          "example": "Annual family holiday reunion meal."
+        }
+      ]
+    },
+    {
+      "levelNumber": 25,
+      "title": "Holiday Level 25",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "HERITAGE",
+          "meaning": "Cultural traditions passed down through time",
+          "example": "Celebrating rich cultural heritage."
+        },
+        {
+          "word": "TRADITION",
+          "meaning": "Custom passed down through generations",
+          "example": "Family tradition of baking cookies."
+        },
+        {
+          "word": "FREEDOM",
+          "meaning": "State of being free to enjoy time",
+          "example": "Enjoying freedom of summer break."
+        },
+        {
+          "word": "INDEPENDENCE",
+          "meaning": "Self-governance celebrated on national day",
+          "example": "Fourth of July Independence fireworks."
+        },
+        {
+          "word": "RECREATION",
+          "meaning": "Activity done for enjoyment when not working",
+          "example": "Park facilities for outdoor recreation."
+        },
+        {
+          "word": "HOBBY",
+          "meaning": "Activity done regularly in leisure time",
+          "example": "Taking up photography as holiday hobby."
+        },
+        {
+          "word": "FUN",
+          "meaning": "Enjoyment, amusement, or lighthearted pleasure",
+          "example": "Having lots of fun on vacation."
+        },
+        {
+          "word": "JOY",
+          "meaning": "Feeling of great pleasure and happiness",
+          "example": "Filled with joy during festivities."
+        },
+        {
+          "word": "SMILE",
+          "meaning": "Facial expression indicating pleasure",
+          "example": "Bright smile on child face with gift."
+        },
+        {
+          "word": "LAUGHTER",
+          "meaning": "Sound of laughing in happiness",
+          "example": "Laughter echoing around dinner table."
+        },
+        {
+          "word": "BLISS",
+          "meaning": "State of supreme happiness and contentment",
+          "example": "Pure bliss floating in warm pool."
+        },
+        {
+          "word": "HAPPINESS",
+          "meaning": "State of being happy and satisfied",
+          "example": "Wishing everyone holiday happiness."
+        },
+        {
+          "word": "DELIGHT",
+          "meaning": "Great pleasure, satisfaction, or joy",
+          "example": "Children watching magic show delight."
+        }
+      ]
+    },
+    {
+      "levelNumber": 26,
+      "title": "Holiday Level 26",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "PLEASURE",
+          "meaning": "Feeling of happy satisfaction and enjoyment",
+          "example": "Absolute pleasure staying at resort."
+        },
+        {
+          "word": "SPA",
+          "meaning": "Establishment offering health and beauty treatments",
+          "example": "Spending relaxing day at luxury spa."
+        },
+        {
+          "word": "MASSAGE",
+          "meaning": "Rubbing body muscles to relieve tension",
+          "example": "Enjoing soothing full-body massage."
+        },
+        {
+          "word": "SAUNA",
+          "meaning": "Small room used as hot-air steam bath",
+          "example": "Unwinding inside cedar wood sauna."
+        },
+        {
+          "word": "JACUZZI",
+          "meaning": "Large whirlpool bath with hot water jets",
+          "example": "Soaking in heated outdoor Jacuzzi."
+        },
+        {
+          "word": "POOL",
+          "meaning": "Artificial basin filled with water for swimming",
+          "example": "Swimming laps in infinity pool."
+        },
+        {
+          "word": "LOUNGE",
+          "meaning": "Lie or sit in a relaxed lazy manner",
+          "example": "Lounging on poolside deck chair."
+        },
+        {
+          "word": "NAP",
+          "meaning": "Short sleep taken during daytime hours",
+          "example": "Taking afternoon nap in shade."
+        },
+        {
+          "word": "SLUMBER",
+          "meaning": "Deep restful sleep after long day",
+          "example": "Peaceful night slumber in cozy bed."
+        },
+        {
+          "word": "SOLITUDE",
+          "meaning": "State of being alone in quiet peace",
+          "example": "Enjoying solitude on empty beach."
+        },
+        {
+          "word": "SERENITY",
+          "meaning": "State of being calm, peaceful, and untroubled",
+          "example": "Surrounded by mountain lake serenity."
+        },
+        {
+          "word": "TRANQUILITY",
+          "meaning": "Quality of being tranquil, calm, and quiet",
+          "example": "Tranquility of early morning sea."
+        },
+        {
+          "word": "PEACE",
+          "meaning": "Freedom from disturbance or anxiety",
+          "example": "Finding inner peace on retreat."
+        }
+      ]
+    },
+    {
+      "levelNumber": 27,
+      "title": "Holiday Level 27",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "CALM",
+          "meaning": "Not showing or feeling nervousness or agitation",
+          "example": "Calm waters reflecting blue sky."
+        },
+        {
+          "word": "RETREAT",
+          "meaning": "Quiet secluded place used for privacy and rest",
+          "example": "Attending wellness yoga retreat."
+        },
+        {
+          "word": "ESCAPE",
+          "meaning": "Break free from routine or stressful life",
+          "example": "Perfect winter escape to sunny island."
+        },
+        {
+          "word": "LEISURE",
+          "meaning": "Free time spent away from business duties",
+          "example": "Reading book during leisure hours."
+        },
+        {
+          "word": "REFRESH",
+          "meaning": "Give new strength or energy to body",
+          "example": "Cool dip in water to refresh."
+        },
+        {
+          "word": "SNOWFLAKE",
+          "meaning": "Single crystal of ice falling as snow",
+          "example": "Unique design of each snowflake."
+        },
+        {
+          "word": "SNOWMAN",
+          "meaning": "Figure made of packed snow with carrot nose",
+          "example": "Building a snowman in front yard."
+        },
+        {
+          "word": "MISTLETOE",
+          "meaning": "Plant used as traditional Christmas decor",
+          "example": "Hanging mistletoe above doorway."
+        },
+        {
+          "word": "REINDEER",
+          "meaning": "Deer of cold regions pulling Santa sleigh",
+          "example": "Reindeer flying through night sky."
+        },
+        {
+          "word": "STOCKING",
+          "meaning": "Long sock hung up for Santa to fill",
+          "example": "Hanging knitted stockings by chimney."
+        },
+        {
+          "word": "ORNAMENT",
+          "meaning": "Decorative object hung on holiday tree",
+          "example": "Hanging glass ornament on pine branch."
+        },
+        {
+          "word": "FIREPLACE",
+          "meaning": "Structure built for holding open fire",
+          "example": "Warming hands by stone fireplace."
+        },
+        {
+          "word": "CAROL",
+          "meaning": "Religious or traditional holiday song",
+          "example": "Carols ringing through frosty air."
+        }
+      ]
+    },
+    {
+      "levelNumber": 28,
+      "title": "Holiday Level 28",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "TSAR",
+          "meaning": "Emperor or royal ruler associated with history",
+          "example": "Visiting grand Imperial Tsar palace."
+        },
+        {
+          "word": "CHIMNEY",
+          "meaning": "Vertical pipe conducting smoke from fire",
+          "example": "Smoke rising from house chimney."
+        },
+        {
+          "word": "NUTCRACKER",
+          "meaning": "Traditional wooden figurine shaped like soldier",
+          "example": "Decorative nutcracker standing by tree."
+        },
+        {
+          "word": "POINSETTIA",
+          "meaning": "Plant with showy red leaves used in decor",
+          "example": "Bright red poinsettia on dining table."
+        },
+        {
+          "word": "FESTIVE",
+          "meaning": "Joyful and suitable for celebration",
+          "example": "Festive atmosphere filled town square."
+        },
+        {
+          "word": "SLEIGHBELL",
+          "meaning": "Small bell attached to sleigh harness",
+          "example": "Chime of silver sleighbells in snow."
+        },
+        {
+          "word": "BLIZZARD",
+          "meaning": "Severe snowstorm with high winds",
+          "example": "Staying safe indoors during blizzard."
+        },
+        {
+          "word": "EGGNOG",
+          "meaning": "Traditional festive drink made with milk and egg",
+          "example": "Sipping nutmeg eggnog by fire."
+        },
+        {
+          "word": "TIDINGS",
+          "meaning": "News or news of good news and joy",
+          "example": "Bringing good tidings to all friends."
+        },
+        {
+          "word": "NOEL",
+          "meaning": "Christmas or yule season song or greeting",
+          "example": "Singing First Noel around piano."
+        },
+        {
+          "word": "WINTRY",
+          "meaning": "Characteristic of cold winter weather",
+          "example": "Wintry breeze blowing through trees."
+        },
+        {
+          "word": "EVERGREEN",
+          "meaning": "Plant retaining green leaves throughout year",
+          "example": "Scent of evergreen pine in forest."
+        },
+        {
+          "word": "TOY",
+          "meaning": "Object for children to play with",
+          "example": "Opening new toy under tree."
+        }
+      ]
+    },
+    {
+      "levelNumber": 29,
+      "title": "Holiday Level 29",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "UNWRAP",
+          "meaning": "Remove paper wrapping from a present",
+          "example": "Eager to unwrap holiday gift."
+        },
+        {
+          "word": "PRESENT",
+          "meaning": "Gift given to someone on occasion",
+          "example": "Placing present beneath tree."
+        },
+        {
+          "word": "WINTERLAND",
+          "meaning": "Snowy landscape filled with seasonal beauty",
+          "example": "Exploring magical winterland park."
+        },
+        {
+          "word": "FEASTING",
+          "meaning": "Eating and drinking sumptuously at party",
+          "example": "Feasting on roast and desserts."
+        },
+        {
+          "word": "GRATITUDE",
+          "meaning": "Feeling of thankful appreciation for blessings",
+          "example": "Expressing heartfelt gratitude."
+        },
+        {
+          "word": "HANUKKAH",
+          "meaning": "Jewish eight-day festival of lights",
+          "example": "Lighting menorah candle for Hanukkah."
+        },
+        {
+          "word": "KWANZAA",
+          "meaning": "African-American cultural holiday celebration",
+          "example": "Celebrating heritage during Kwanzaa."
+        },
+        {
+          "word": "DESTINATIONS",
+          "meaning": "Places to which travelers are heading",
+          "example": "Top beach destinations for summer."
+        },
+        {
+          "word": "TRAVELER",
+          "meaning": "Person who holds passion for visiting places",
+          "example": "Seasoned traveler sharing journey tips."
+        },
+        {
+          "word": "TOURIST",
+          "meaning": "Person visiting location for pleasure",
+          "example": "Tourists taking photos at monument."
+        },
+        {
+          "word": "WAYFARER",
+          "meaning": "Person who travels on foot through places",
+          "example": "Solitary wayfarer walking mountain trail."
+        },
+        {
+          "word": "EXPLORER",
+          "meaning": "Person exploring unfamiliar regions",
+          "example": "Famous explorer mapping new coast."
+        },
+        {
+          "word": "VOYAGE",
+          "meaning": "Long journey by sea or air to distant land",
+          "example": "Setting sail on ocean voyage."
+        }
+      ]
+    },
+    {
+      "levelNumber": 30,
+      "title": "Holiday Level 30",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "VOYAGER",
+          "meaning": "Traveler making a long journey by sea",
+          "example": "Voyager exploring South Pacific islands."
+        },
+        {
+          "word": "EXCURSIONS",
+          "meaning": "Short outings made for recreation",
+          "example": "Booking snorkeling excursions."
+        },
+        {
+          "word": "EXPEDITIONS",
+          "meaning": "Journeys undertaken by group for purpose",
+          "example": "Arctic trekking expeditions."
+        },
+        {
+          "word": "SEASIDE",
+          "meaning": "Area beside the sea popular for holidays",
+          "example": "Renting seaside cottage for week."
+        },
+        {
+          "word": "WATERFRONT",
+          "meaning": "Land alongside body of water like bay",
+          "example": "Dining at waterfront seafood bistro."
+        },
+        {
+          "word": "OCEANFRONT",
+          "meaning": "Property facing directly onto ocean beach",
+          "example": "Oceanfront balcony with wave view."
+        },
+        {
+          "word": "BEACHFRONT",
+          "meaning": "Situated directly on the beach shore",
+          "example": "Beachfront bungalow step from sand."
+        },
+        {
+          "word": "COASTLINE",
+          "meaning": "Outline of a coast especially seen from air",
+          "example": "Rugged coastline along Pacific highway."
+        },
+        {
+          "word": "HILLSIDE",
+          "meaning": "Sloping side of a hill or mountain",
+          "example": "Chalet built on steep hillside."
+        },
+        {
+          "word": "HIGHLANDS",
+          "meaning": "Area of high or mountainous land",
+          "example": "Touring Scottish highlands scenery."
+        },
+        {
+          "word": "LOWLANDS",
+          "meaning": "Low-lying country land near sea level",
+          "example": "Cycling across flat green lowlands."
+        },
+        {
+          "word": "VALLEYS",
+          "meaning": "Elongated depressions between mountain ranges",
+          "example": "Wildflowers in green valleys."
+        },
+        {
+          "word": "ISLANDS",
+          "meaning": "Plural landmasses surrounded by sea",
+          "example": "Cruising between Greek islands."
+        }
+      ]
+    },
+    {
+      "levelNumber": 31,
+      "title": "Holiday Level 31",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "ARCHIPELAGO",
+          "meaning": "Group or chain of many small islands",
+          "example": "Exploring tropical island archipelago."
+        },
+        {
+          "word": "PENINSULA",
+          "meaning": "Piece of land almost surrounded by water",
+          "example": "Resort on tip of sunny peninsula."
+        },
+        {
+          "word": "ISLE",
+          "meaning": "Island especially a small island",
+          "example": "Visiting Emerald Isle for holiday."
+        },
+        {
+          "word": "HAVENS",
+          "meaning": "Places of safety and quiet rest",
+          "example": "Secluded coastal havens for relaxation."
+        },
+        {
+          "word": "SANCTUARY",
+          "meaning": "Nature reserve offering peace and safety",
+          "example": "Wildlife sanctuary in rainforest."
+        },
+        {
+          "word": "JOYFUL",
+          "meaning": "Feeling, expressing, or causing great happiness",
+          "example": "Joyful holiday atmosphere."
+        },
+        {
+          "word": "MERRY",
+          "meaning": "Cheerful and lively in spirit",
+          "example": "Wishing everyone a Merry Christmas."
+        },
+        {
+          "word": "HAPPY",
+          "meaning": "Feeling or showing pleasure or contentment",
+          "example": "Happy faces at family gathering."
+        },
+        {
+          "word": "BRIGHT",
+          "meaning": "Giving out or reflecting much light",
+          "example": "Bright holiday lights in town."
+        },
+        {
+          "word": "CHEERFUL",
+          "meaning": "Noticeably happy and optimistic",
+          "example": "Cheerful carollers singing songs."
+        },
+        {
+          "word": "RADIANT",
+          "meaning": "Shining brightly and glowing with joy",
+          "example": "Radiant smile on bride at gala."
+        },
+        {
+          "word": "SPLENDID",
+          "meaning": "Magnificent and impressive beauty",
+          "example": "Splendid fireworks show at night."
+        },
+        {
+          "word": "GLORIOUS",
+          "meaning": "Having or deserving fame and beauty",
+          "example": "Glorious sunny day at the beach."
+        }
+      ]
+    },
+    {
+      "levelNumber": 32,
+      "title": "Holiday Level 32",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "BEAUTIFUL",
+          "meaning": "Pleasing the senses or mind aesthetically",
+          "example": "Beautiful snow-covered pine trees."
+        },
+        {
+          "word": "CHARMING",
+          "meaning": "Delightful, attractive, and pleasing",
+          "example": "Charming mountain village shop."
+        },
+        {
+          "word": "MAGICAL",
+          "meaning": "Beautiful or delightful in an enchanting way",
+          "example": "Magical holiday light display."
+        },
+        {
+          "word": "ENCHANTING",
+          "meaning": "Delightfully charming or captivating",
+          "example": "Enchanting fairy light garden."
+        },
+        {
+          "word": "WONDERFUL",
+          "meaning": "Inspiring delight, pleasure, or admiration",
+          "example": "Wonderful holiday meal with family."
+        },
+        {
+          "word": "MARVELOUS",
+          "meaning": "Causing great wonder and extraordinary joy",
+          "example": "Marvelous performance at theater."
+        },
+        {
+          "word": "FANTASTIC",
+          "meaning": "Extraordinarily good or attractive",
+          "example": "Fantastic trip to tropical resort."
+        },
+        {
+          "word": "STUNNING",
+          "meaning": "Extremely impressive or attractive scenery",
+          "example": "Stunning sunset over ocean cliff."
+        },
+        {
+          "word": "SPECTACULAR",
+          "meaning": "Beautiful in a dramatic and eye-catching way",
+          "example": "Spectacular fireworks finale."
+        },
+        {
+          "word": "BREATHTAKING",
+          "meaning": "Astonishing, awe-inspiring, or magnificent",
+          "example": "Breathtaking mountain summit view."
+        },
+        {
+          "word": "UNFORGETTABLE",
+          "meaning": "Impossible to forget and memorable forever",
+          "example": "Unforgettable vacation experience."
+        },
+        {
+          "word": "MEMORABLE",
+          "meaning": "Worth remembering or easily remembered",
+          "example": "Memorable road trip with best friends."
+        },
+        {
+          "word": "PEACEFUL",
+          "meaning": "Free from disturbance, quiet, and tranquil",
+          "example": "Peaceful morning beside calm lake."
+        }
+      ]
+    },
+    {
+      "levelNumber": 33,
+      "title": "Holiday Level 33",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SERENE",
+          "meaning": "Calm, peaceful, and untroubled",
+          "example": "Serene beach walk at dawn."
+        },
+        {
+          "word": "TRANQUIL",
+          "meaning": "Free from agitation or disturbance",
+          "example": "Tranquil garden with fountain."
+        },
+        {
+          "word": "RECREATIONAL",
+          "meaning": "Relating to activity done for enjoyment",
+          "example": "Recreational park with hiking trails."
+        },
+        {
+          "word": "ENTERTAINING",
+          "meaning": "Providing amusement or enjoyment",
+          "example": "Entertaining street performer at fair."
+        },
+        {
+          "word": "AMUSING",
+          "meaning": "Causing laughter or providing entertainment",
+          "example": "Amusing games at beach festival."
+        },
+        {
+          "word": "THRILLING",
+          "meaning": "Causing excitement and high emotion",
+          "example": "Thrilling roller coaster ride."
+        },
+        {
+          "word": "EXCITING",
+          "meaning": "Causing great enthusiasm and eagerness",
+          "example": "Exciting countdown to New Year."
+        },
+        {
+          "word": "INSPIRING",
+          "meaning": "Having effect of inspiring enthusiasm",
+          "example": "Inspiring sunrise from mountain top."
+        },
+        {
+          "word": "RENEWAL",
+          "meaning": "Resumption or creation of fresh energy",
+          "example": "Vacation gave complete energy renewal."
+        },
+        {
+          "word": "REJUVENATION",
+          "meaning": "Act of giving new vitality or youth",
+          "example": "Spa day for complete body rejuvenation."
+        },
+        {
+          "word": "HOSPITALITY",
+          "meaning": "Friendly and generous reception of guests",
+          "example": "Warm hotel staff hospitality."
+        },
+        {
+          "word": "WELCOMING",
+          "meaning": "Behaving in polite friendly way to guests",
+          "example": "Welcoming smile from resort host."
+        },
+        {
+          "word": "FRIENDLY",
+          "meaning": "Kind and pleasant in manner",
+          "example": "Friendly locals giving directions."
+        }
+      ]
+    },
+    {
+      "levelNumber": 34,
+      "title": "Holiday Level 34",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "WARMTH",
+          "meaning": "Quality of being warm and friendly",
+          "example": "Warmth of family fireplace."
+        },
+        {
+          "word": "TOGETHERNESS",
+          "meaning": "State of being close with loved ones",
+          "example": "Holiday time of warmth and togetherness."
+        },
+        {
+          "word": "INVITATION",
+          "meaning": "Written or verbal request inviting guest",
+          "example": "Sending holiday party invitation."
+        },
+        {
+          "word": "HOST",
+          "meaning": "Person who receives or entertains guests",
+          "example": "Gracious host welcoming party guests."
+        },
+        {
+          "word": "HOSTESS",
+          "meaning": "Woman who receives or entertains guests",
+          "example": "Hostess serving holiday appetizers."
+        },
+        {
+          "word": "GUEST",
+          "meaning": "Person invited to visit or stay at place",
+          "example": "Honored guest at festive dinner."
+        },
+        {
+          "word": "GATHERING",
+          "meaning": "Assembly of people for celebration",
+          "example": "Annual family holiday gathering."
+        },
+        {
+          "word": "ASSEMBLY",
+          "meaning": "Group of people gathered together in one place",
+          "example": "Town assembly for light ceremony."
+        },
+        {
+          "word": "CEREMONY",
+          "meaning": "Formal religious or public occasion",
+          "example": "Lighting tree ceremony in square."
+        },
+        {
+          "word": "TRADITIONS",
+          "meaning": "Customs or beliefs passed down over time",
+          "example": "Cherished holiday traditions."
+        },
+        {
+          "word": "CUSTOMS",
+          "meaning": "Traditional ways of behaving in society",
+          "example": "Learning local festival customs."
+        },
+        {
+          "word": "RITUALS",
+          "meaning": "Religious or solemn ceremonies performed",
+          "example": "Solstice lighting rituals."
+        },
+        {
+          "word": "PRACTICES",
+          "meaning": "Actual application or execution of customs",
+          "example": "Traditional holiday baking practices."
+        }
+      ]
+    },
+    {
+      "levelNumber": 35,
+      "title": "Holiday Level 35",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "CULTURE",
+          "meaning": "Arts and customs of particular nation",
+          "example": "Experiencing island culture and dance."
+        },
+        {
+          "word": "COMMUNITY",
+          "meaning": "Group of people living in same place",
+          "example": "Community gathering for festival."
+        },
+        {
+          "word": "FELLOWSHIP",
+          "meaning": "Friendly association with people",
+          "example": "Warm fellowship around campfire."
+        },
+        {
+          "word": "SHARING",
+          "meaning": "Giving a portion of something to others",
+          "example": "Sharing festive desserts with friends."
+        },
+        {
+          "word": "GIVING",
+          "meaning": "Providing gifts or help to others gladly",
+          "example": "Season of love and generous giving."
+        },
+        {
+          "word": "KINDNESS",
+          "meaning": "Quality of being friendly, generous, and considerate",
+          "example": "Acts of kindness during holidays."
+        },
+        {
+          "word": "CHARITY",
+          "meaning": "Organization or act giving help to needy",
+          "example": "Donating holiday toys to charity."
+        },
+        {
+          "word": "BENEVOLENCE",
+          "meaning": "Quality of being well-meaning and kindly",
+          "example": "Spirit of benevolence and peace."
+        },
+        {
+          "word": "GOODWILL",
+          "meaning": "Friendly, helpful, or cooperative feeling",
+          "example": "Promoting peace and goodwill to all."
+        },
+        {
+          "word": "BLESSING",
+          "meaning": "Prayer asking for divine favor and protection",
+          "example": "Counting our holiday blessings."
+        },
+        {
+          "word": "THANKFULNESS",
+          "meaning": "Feeling or expressing gratitude for good",
+          "example": "Gathering with deep thankfulness."
+        },
+        {
+          "word": "HARMONY",
+          "meaning": "State of peaceful agreement and melody",
+          "example": "Choir singing in perfect harmony."
+        },
+        {
+          "word": "MELODY",
+          "meaning": "Sequence of single notes musically satisfying",
+          "example": "Catchy festive song melody."
+        }
+      ]
+    }
+  ]
+}

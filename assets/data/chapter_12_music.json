@@ -1,0 +1,2144 @@
+{
+  "id": 12,
+  "key": "music",
+  "title": "Music",
+  "iconAsset": "assets/chapter_images/music.png",
+  "themeColor": 4293467747,
+  "levels": [
+    {
+      "levelNumber": 1,
+      "title": "Music Level 1",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "VIOLIN",
+          "meaning": "Bowed four-stringed wooden instrument of high pitch",
+          "example": "The concertmaster played a brilliant violin solo."
+        },
+        {
+          "word": "VIOLA",
+          "meaning": "Bowed string instrument slightly larger than violin",
+          "example": "The viola section provided rich middle harmonies."
+        },
+        {
+          "word": "CELLO",
+          "meaning": "Large bass string instrument played seated between knees",
+          "example": "The cello melody added warm resonance to the movement."
+        },
+        {
+          "word": "CONTRABASS",
+          "meaning": "Largest and lowest-pitched string instrument",
+          "example": "The contrabass anchored the lowest orchestral basslines."
+        },
+        {
+          "word": "GUITAR",
+          "meaning": "Fretted string instrument played with fingers or pick",
+          "example": "The guitarist played an intricate flamenco rhythm."
+        },
+        {
+          "word": "BANJO",
+          "meaning": "Four or five string instrument with circular membrane",
+          "example": "Bluegrass bands featured fast picking on the banjo."
+        },
+        {
+          "word": "UKULELE",
+          "meaning": "Small four-stringed Hawaiian guitar instrument",
+          "example": "The ukulele strumming brought tropical island vibes."
+        },
+        {
+          "word": "MANDOLIN",
+          "meaning": "Pair-stringed instrument played with a plectrum",
+          "example": "The mandolin tremolo echoed through Italian folk songs."
+        }
+      ]
+    },
+    {
+      "levelNumber": 2,
+      "title": "Music Level 2",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "SITAR",
+          "meaning": "Plucked stringed instrument used in Indian classical music",
+          "example": "Raga melodies shimmered on the resonant sitar strings."
+        },
+        {
+          "word": "BALALAIKA",
+          "meaning": "Russian string instrument with triangular wooden body",
+          "example": "The folk ensemble performed lively balalaika dances."
+        },
+        {
+          "word": "HARPSICHORD",
+          "meaning": "Keyboard instrument with strings plucked by quills",
+          "example": "The baroque sonata was performed on a dual harpsichord."
+        },
+        {
+          "word": "ZITHER",
+          "meaning": "Stringed instrument played flat on a table surface",
+          "example": "Bavarian mountain tunes were played on the zither."
+        },
+        {
+          "word": "KOTO",
+          "meaning": "Traditional Japanese zither with movable bridges",
+          "example": "The musician plucked quiet melodies on the Japanese koto."
+        },
+        {
+          "word": "GUZHENG",
+          "meaning": "Chinese plucked zither with movable bridges",
+          "example": "Graceful glissandos cascaded across the wooden guzheng."
+        },
+        {
+          "word": "SHAMISEN",
+          "meaning": "Three-stringed traditional Japanese plucked instrument",
+          "example": "Kabuki theater performances featured dramatic shamisen."
+        },
+        {
+          "word": "VEENA",
+          "meaning": "Ancient Indian plucked stringed instrument",
+          "example": "Saraswati was depicted holding the sacred ivory veena."
+        }
+      ]
+    },
+    {
+      "levelNumber": 3,
+      "title": "Music Level 3",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "ERHU",
+          "meaning": "Two-stringed bowed Chinese musical instrument",
+          "example": "The haunting timbre of the erhu expressed deep emotion."
+        },
+        {
+          "word": "DULCIMER",
+          "meaning": "Fretted or hammered stringed musical instrument",
+          "example": "The hammered dulcimer produced bright metallic chimes."
+        },
+        {
+          "word": "AUTOHARP",
+          "meaning": "Fretted string instrument with chord bar dampers",
+          "example": "Folk singers accompanied ballads using an autoharp."
+        },
+        {
+          "word": "HURDYGURDY",
+          "meaning": "String instrument producing sound by a cranked wheel",
+          "example": "Medieval minstrels played drone tunes on a hurdygurdy."
+        },
+        {
+          "word": "LYRE",
+          "meaning": "U-shaped stringed instrument used in ancient Greece",
+          "example": "The ancient bard plucked verses on a golden lyre."
+        },
+        {
+          "word": "CHARANGO",
+          "meaning": "Small Andean stringed instrument made from armadillo shell",
+          "example": "The charango strummed fast rhythmic folk accompaniment."
+        },
+        {
+          "word": "GUITARRON",
+          "meaning": "Large deep-bodied Mexican acoustic bass guitar",
+          "example": "Mariachi bands relied on the guitarron for bass rhythm."
+        },
+        {
+          "word": "BANDURRIA",
+          "meaning": "Plucked lutelike instrument used in Spanish folk",
+          "example": "Twirling dancers moved to the fast bandurria tremolo."
+        }
+      ]
+    },
+    {
+      "levelNumber": 4,
+      "title": "Music Level 4",
+      "gridRows": 10,
+      "gridCols": 10,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "THEORBO",
+          "meaning": "Plucked string instrument of the lute family with extended neck",
+          "example": "The theorbo provided continuo bass in early opera."
+        },
+        {
+          "word": "ARCHLUTE",
+          "meaning": "Plucked string instrument of Renaissance with extended bass",
+          "example": "The archlute accompanied solo tenor art songs."
+        },
+        {
+          "word": "SARANGI",
+          "meaning": "Bowed short-necked string instrument of North India",
+          "example": "The sarangi echoed the intricate nuances of vocal ragas."
+        },
+        {
+          "word": "SANTOOR",
+          "meaning": "Trapezoidal hammered dulcimer used in Indian classical",
+          "example": "Delicate hammers tapped rhythmically on the santoor."
+        },
+        {
+          "word": "HARDANGER",
+          "meaning": "Traditional Norwegian violin with sympathetic strings",
+          "example": "Understrings resonated softly on the Hardanger fiddle."
+        },
+        {
+          "word": "FLUTE",
+          "meaning": "High-pitched reedless wind instrument held horizontally",
+          "example": "The silver flute played a soaring birdsong melody."
+        },
+        {
+          "word": "PICCOLO",
+          "meaning": "Small high-pitched flute playing an octave higher",
+          "example": "The piccolo added brilliant high notes to the march."
+        },
+        {
+          "word": "CLARINET",
+          "meaning": "Single-reed woodwind instrument with cylindrical bore",
+          "example": "The clarinet introduced the famous rhapsody opening solo."
+        }
+      ]
+    },
+    {
+      "levelNumber": 5,
+      "title": "Music Level 5",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "OBOE",
+          "meaning": "Double-reed woodwind instrument with conical bore",
+          "example": "The oboe sounded the initial tuning note for orchestra."
+        },
+        {
+          "word": "BASSOON",
+          "meaning": "Double-reed woodwind instrument of low pitch",
+          "example": "The bassoon provided staccato bass humor in the piece."
+        },
+        {
+          "word": "SAXOPHONE",
+          "meaning": "Single-reed brass instrument used in jazz and bands",
+          "example": "The tenor saxophone played a smooth midnight jazz solo."
+        },
+        {
+          "word": "PANFLUTE",
+          "meaning": "Instrument of graduate length pipes bound together",
+          "example": "Andean folk melodies floated from the bamboo panflute."
+        },
+        {
+          "word": "BAGPIPES",
+          "meaning": "Wind instrument using enclosed reeds fed from a bag",
+          "example": "Highland bagpipes echoed across misty Scottish valleys."
+        },
+        {
+          "word": "OCARINA",
+          "meaning": "Vessel flute instrument with finger holes",
+          "example": "The earthenware ocarina played sweet clear melodies."
+        },
+        {
+          "word": "HARMONICA",
+          "meaning": "Small wind instrument with free reeds blown by mouth",
+          "example": "The blues player bent expressive notes on his harmonica."
+        },
+        {
+          "word": "SHAKUHACHI",
+          "meaning": "Japanese end-blown bamboo flute used in Zen meditation",
+          "example": "Meditation music featured deep shakuhachi air currents."
+        }
+      ]
+    },
+    {
+      "levelNumber": 6,
+      "title": "Music Level 6",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "TRUMPET",
+          "meaning": "Brass wind instrument with three valves and bright tone",
+          "example": "Fanfares sounded from brass trumpets at sunrise."
+        },
+        {
+          "word": "CORNET",
+          "meaning": "Brass instrument similar to trumpet but more compact",
+          "example": "The brass band cornet soloist played rapid variations."
+        },
+        {
+          "word": "FLUGELHORN",
+          "meaning": "Valved brass instrument with wide conical bore",
+          "example": "The flugelhorn produced a mellow, warm brass tone."
+        },
+        {
+          "word": "TROMBONE",
+          "meaning": "Brass instrument with a movable slide to alter pitch",
+          "example": "The trombone slide produced smooth chromatic glissandos."
+        },
+        {
+          "word": "EUPHONIUM",
+          "meaning": "Valved brass instrument of tenor pitch",
+          "example": "The euphonium sang rich lyrical tenor melodies in band."
+        },
+        {
+          "word": "TUBA",
+          "meaning": "Largest low-pitched brass wind instrument",
+          "example": "The tuba provided deep rhythmic bass foundation."
+        },
+        {
+          "word": "BUGLE",
+          "meaning": "Simple brass instrument without valves used for signals",
+          "example": "The bugle played Reveille at military morning ceremony."
+        },
+        {
+          "word": "SOUSAPHONE",
+          "meaning": "Type of tuba designed to encircle the performer",
+          "example": "Marching bands featured gleaming brass sousaphones."
+        }
+      ]
+    },
+    {
+      "levelNumber": 7,
+      "title": "Music Level 7",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CORANGLAIS",
+          "meaning": "Double-reed woodwind instrument lower than oboe",
+          "example": "The coranglais played the mournful new world solo."
+        },
+        {
+          "word": "ALTOFLUTE",
+          "meaning": "Low-pitched flute tuned in G key",
+          "example": "The altoflute added dark velvety tones to the film score."
+        },
+        {
+          "word": "BASSCLARINET",
+          "meaning": "Large woodwind instrument playing an octave below clarinet",
+          "example": "The bassclarinet introduced mysterious low themes."
+        },
+        {
+          "word": "CONTRABASSOON",
+          "meaning": "Largest woodwind instrument sounding an octave below bassoon",
+          "example": "The contrabassoon rumbled at the very bottom of the score."
+        },
+        {
+          "word": "THEREMIN",
+          "meaning": "Electronic instrument controlled without physical contact",
+          "example": "Eerie whistling tones floated from the theremin antennas."
+        },
+        {
+          "word": "MELODEON",
+          "meaning": "Small button accordion used in folk music",
+          "example": "Lively sea shanties were accompanied by the melodeon."
+        },
+        {
+          "word": "CONCERTINA",
+          "meaning": "Free-reed instrument with bellows and buttons at ends",
+          "example": "Sailors played sea songs on the hexagonal concertina."
+        },
+        {
+          "word": "BANDONEON",
+          "meaning": "Type of concertina essential in Argentine tango",
+          "example": "Dramatic tango solos vibrated on the bandoneon bellows."
+        }
+      ]
+    },
+    {
+      "levelNumber": 8,
+      "title": "Music Level 8",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "PIANO",
+          "meaning": "Large keyboard instrument striking wire strings with felt hammers",
+          "example": "The grand piano delivered delicate touch and dynamic power."
+        },
+        {
+          "word": "ORGAN",
+          "meaning": "Large wind instrument powered by pipes and keyboard",
+          "example": "Pipe organ chords filled the cathedral with thunderous sound."
+        },
+        {
+          "word": "ACCORDION",
+          "meaning": "Portable box keyboard instrument with bellows",
+          "example": "Accordion waltzes entertained cafe crowds in Paris."
+        },
+        {
+          "word": "MELODICA",
+          "meaning": "Small keyboard instrument blown through a mouthpiece",
+          "example": "The musician played reggae lead lines on a melodica."
+        },
+        {
+          "word": "SYNTHESIZER",
+          "meaning": "Electronic instrument generating sound electronically",
+          "example": "Analog synthesizer pads created futuristic synthwave soundscapes."
+        },
+        {
+          "word": "CELESTA",
+          "meaning": "Small keyboard instrument with hammers striking metal plates",
+          "example": "Sugar Plum Fairy music chimed on the delicate celesta."
+        },
+        {
+          "word": "TIMPANI",
+          "meaning": "Large kettle drums tuned to specific pitches",
+          "example": "Timpani rolls added dramatic thunder to symphonic climaxes."
+        },
+        {
+          "word": "XYLOPHONE",
+          "meaning": "Percussion instrument with tuned wooden bars",
+          "example": "Wooden mallets danced across the bright xylophone bars."
+        }
+      ]
+    },
+    {
+      "levelNumber": 9,
+      "title": "Music Level 9",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "MARIMBA",
+          "meaning": "Percussion instrument with wooden bars and resonators",
+          "example": "The marimba offered warm woody resonance in solo recitals."
+        },
+        {
+          "word": "VIBRAPHONE",
+          "meaning": "Percussion instrument with metal bars and motor vanes",
+          "example": "Motorized vanes created shimmering vibrato on vibraphone."
+        },
+        {
+          "word": "GLOCKENSPIEL",
+          "meaning": "Percussion instrument with tuned steel bars",
+          "example": "Steel mallets struck the glockenspiel for crystalline chimes."
+        },
+        {
+          "word": "BONGOS",
+          "meaning": "Pair of connected small hand drums of high pitch",
+          "example": "Latin rhythm sections featured energetic bongo solos."
+        },
+        {
+          "word": "CONGAS",
+          "meaning": "Tall narrow single-headed Cuban hand drums",
+          "example": "Conga beats drove the salsa dance rhythm forward."
+        },
+        {
+          "word": "TABLA",
+          "meaning": "Pair of hand drums used in Indian classical music",
+          "example": "Complex rhythmic cycles polyrhythms echoed on the tabla."
+        },
+        {
+          "word": "TAMBOURINE",
+          "meaning": "Shallow hand drum with metal jingles around edge",
+          "example": "The dancer shook the tambourine in lively tempo."
+        },
+        {
+          "word": "TRIANGLE",
+          "meaning": "Steel metal bar bent into triangle struck with beater",
+          "example": "A single triangle ping cut through full orchestra sound."
+        }
+      ]
+    },
+    {
+      "levelNumber": 10,
+      "title": "Music Level 10",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "CASTANETS",
+          "meaning": "Pair of concave wooden shells clicked together in hand",
+          "example": "Flamenco dancers clicked hardwood castanets to the beat."
+        },
+        {
+          "word": "SNAREDRUM",
+          "meaning": "Percussion drum with metal snares across bottom head",
+          "example": "Crisp snare drum rolls opened the military parade."
+        },
+        {
+          "word": "BASSDRUM",
+          "meaning": "Large low-pitched drum struck with large felt mallet",
+          "example": "The heavy bassdrum pulse drove the marching beat."
+        },
+        {
+          "word": "DJEMBE",
+          "meaning": "Rope-tuned skin-covered goblet drum from West Africa",
+          "example": "Polyrhythmic djembe drumming energized the festival crowd."
+        },
+        {
+          "word": "CAJON",
+          "meaning": "Box-shaped percussion instrument played by slapping front",
+          "example": "Acoustic bands used cajon for drumkit sounds."
+        },
+        {
+          "word": "MARACAS",
+          "meaning": "Pair of hollow gourds filled with dried seeds shaken",
+          "example": "Shaking maracas added rhythmic shimmer to rumba tracks."
+        },
+        {
+          "word": "HANDPAN",
+          "meaning": "Steel drum instrument played with hands creating ambient tone",
+          "example": "Hypnotic steel handpan melodies relaxed listeners."
+        },
+        {
+          "word": "BODHRAN",
+          "meaning": "Traditional Irish frame drum played with a tipper",
+          "example": "Rhythmic bodhran pulses backed the fiddle reel."
+        },
+        {
+          "word": "MRIDANGAM",
+          "meaning": "Double-headed drum of South Indian Carnatic music",
+          "example": "Intricate rhythmic variations thundered on the mridangam."
+        }
+      ]
+    },
+    {
+      "levelNumber": 11,
+      "title": "Music Level 11",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "GHATAM",
+          "meaning": "Clay pot percussion instrument used in South India",
+          "example": "Sharply slapped clay surfaces echoed from the ghatam."
+        },
+        {
+          "word": "SHEKERE",
+          "meaning": "West African percussion gourd covered with bead net",
+          "example": "Shaking bead nets on the shekere created driving rhythms."
+        },
+        {
+          "word": "VIBRASLAP",
+          "meaning": "Percussion device producing rattle sound when ball strikes",
+          "example": "The vibraslap added iconic rattling accents to rock tracks."
+        },
+        {
+          "word": "RAINSTICK",
+          "meaning": "Hollow wooden tube filled with pebbles sounding like rain",
+          "example": "Tipping the rainstick evoked gentle falling rain."
+        },
+        {
+          "word": "CABASA",
+          "meaning": "Percussion instrument built with loops of steel ball chain",
+          "example": "Twisting steel beads across textured metal created cabasa scrap."
+        },
+        {
+          "word": "SOPRANO",
+          "meaning": "Highest vocal range for female or young male singers",
+          "example": "The soprano sang a breathtaking soaring opera aria."
+        },
+        {
+          "word": "ALTO",
+          "meaning": "Lowest female vocal range or second highest in choir",
+          "example": "Warm alto harmonies enriched the choral arrangement."
+        },
+        {
+          "word": "TENOR",
+          "meaning": "High male vocal range in classical and popular music",
+          "example": "The tenor reached the high C note with power and grace."
+        },
+        {
+          "word": "BARITONE",
+          "meaning": "Male vocal range between tenor and bass",
+          "example": "The baritone performed dramatic solos in the musical."
+        }
+      ]
+    },
+    {
+      "levelNumber": 12,
+      "title": "Music Level 12",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "BASSIST",
+          "meaning": "Musician who plays bass guitar or double bass",
+          "example": "The bassist locked into tight groove with the drummer."
+        },
+        {
+          "word": "MEZZOSOPRANO",
+          "meaning": "Female vocal range between soprano and alto",
+          "example": "The mezzosoprano performed the Carmen title role."
+        },
+        {
+          "word": "COUNTERTENOR",
+          "meaning": "Male vocal range equivalent to female contralto",
+          "example": "The countertenor sang baroque opera roles with clarity."
+        },
+        {
+          "word": "FALSETTO",
+          "meaning": "Method of vocal production used by male singers for high notes",
+          "example": "The singer flipped into falsetto during chorus hooks."
+        },
+        {
+          "word": "VIBRATO",
+          "meaning": "Rapid slight variation in pitch in singing or playing",
+          "example": "Warm vocal vibrato added emotion to the ballad."
+        },
+        {
+          "word": "TREBLE",
+          "meaning": "High-frequency audio pitch range or boy soprano",
+          "example": "Treble voices echoed clearly in cathedral choir boys."
+        },
+        {
+          "word": "CHOIR",
+          "meaning": "Organized company of singers in church or concert",
+          "example": "The church choir performed a four-part anthem."
+        },
+        {
+          "word": "CHORUS",
+          "meaning": "Large group of singers performing together or song refrain",
+          "example": "The audience sang along to the catchy chorus hook."
+        },
+        {
+          "word": "SOLOIST",
+          "meaning": "Musician who performs a solo performance",
+          "example": "The piano soloist bowed after a brilliant performance."
+        }
+      ]
+    },
+    {
+      "levelNumber": 13,
+      "title": "Music Level 13",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "VOCALIST",
+          "meaning": "Singer who provides vocal tracks for music",
+          "example": "The lead vocalist delivered passionate rock lyrics."
+        },
+        {
+          "word": "CANTOR",
+          "meaning": "Official who sings liturgical music and leads prayer",
+          "example": "The cantor chanted traditional sabbath prayers."
+        },
+        {
+          "word": "BALLADEER",
+          "meaning": "Singer who performs narrative ballads",
+          "example": "The acoustic balladeer sang tales of ancient heroes."
+        },
+        {
+          "word": "MINSTREL",
+          "meaning": "Medieval singer who performed verses for nobility",
+          "example": "The traveling minstrel played lute songs in taverns."
+        },
+        {
+          "word": "CROONER",
+          "meaning": "Singer who sings smooth intimate ballads",
+          "example": "The jazz crooner sang romantic standards into the mic."
+        },
+        {
+          "word": "DIVA",
+          "meaning": "Famous female opera singer of great talent",
+          "example": "The opera diva dazzled the audience with high notes."
+        },
+        {
+          "word": "PRIMADONNA",
+          "meaning": "Chief female singer in an opera company",
+          "example": "The primadonna received bouquets of roses after curtain."
+        },
+        {
+          "word": "BLUES",
+          "meaning": "Genre originating in African American communities",
+          "example": "Expressive blues guitar solos bent soulful notes."
+        },
+        {
+          "word": "SWING",
+          "meaning": "Form of big band jazz with bouncy feel",
+          "example": "Dancers swung across ballroom floors to big band swing."
+        }
+      ]
+    },
+    {
+      "levelNumber": 14,
+      "title": "Music Level 14",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "BEBOP",
+          "meaning": "Fast tempo style of jazz with complex harmony",
+          "example": "Bebop saxophonists played rapid chromatic solos."
+        },
+        {
+          "word": "RAGTIME",
+          "meaning": "Syncopated musical style popular in early 1900s",
+          "example": "Scott Joplin composed classic ragtime piano pieces."
+        },
+        {
+          "word": "ROCK",
+          "meaning": "Popular music genre with electric guitars and drums",
+          "example": "Rock bands performed energetic stadium concerts."
+        },
+        {
+          "word": "POP",
+          "meaning": "Commercial popular music characterized by hooks",
+          "example": "Pop singles topped global streaming radio charts."
+        },
+        {
+          "word": "FOLK",
+          "meaning": "Traditional acoustic music passed through generations",
+          "example": "Folk acoustic ballads told stories of rural life."
+        },
+        {
+          "word": "COUNTRY",
+          "meaning": "Genre originating in rural southern US with steel",
+          "example": "Country songs featured pedal steel guitar harmonies."
+        },
+        {
+          "word": "BLUEGRASS",
+          "meaning": "Form of American roots music with fast strings",
+          "example": "High lonesome bluegrass harmonies thrilled audiences."
+        },
+        {
+          "word": "REGGAE",
+          "meaning": "Jamaican music style featuring offbeat rhythmic skank",
+          "example": "Reggae basslines pulsed with heavy laid-back grooves."
+        },
+        {
+          "word": "SKA",
+          "meaning": "Jamaican music style preceding reggae with brass",
+          "example": "Upbeat ska horns drove energetic skanking crowds."
+        }
+      ]
+    },
+    {
+      "levelNumber": 15,
+      "title": "Music Level 15",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "HIPHOP",
+          "meaning": "Rhythmic vocal style with beats and turntables",
+          "example": "Hip-hop producers sampled vintage funk vinyl breaks."
+        },
+        {
+          "word": "FUNK",
+          "meaning": "Rhythmic music style placing emphasis on first beat",
+          "example": "Slap bass and horn stabs created infectious funk grooves."
+        },
+        {
+          "word": "DISCO",
+          "meaning": "Dance music genre with four-on-the-floor beat",
+          "example": "Disco ball lights shimmered over pulsating dance floors."
+        },
+        {
+          "word": "TECHNO",
+          "meaning": "Electronic dance music originating in Detroit",
+          "example": "Repetitive techno synth loops energized raves."
+        },
+        {
+          "word": "HOUSE",
+          "meaning": "Genre of electronic dance music with kick beat",
+          "example": "Deep house tracks featured soulful vocal samples."
+        },
+        {
+          "word": "AMBIENT",
+          "meaning": "Genre of music emphasizing tone and atmosphere",
+          "example": "Ambient synth drones created calming meditation sounds."
+        },
+        {
+          "word": "TRANCE",
+          "meaning": "Electronic dance music featuring hypnotizing synth builds",
+          "example": "Trance anthems built up to euphoric melodic drops."
+        },
+        {
+          "word": "DUBSTEP",
+          "meaning": "Electronic dance genre featuring heavy wobble bass",
+          "example": "Wobble bass lines defined high-energy dubstep drops."
+        },
+        {
+          "word": "METAL",
+          "meaning": "Heavy rock subgenre with distorted guitars",
+          "example": "Heavy metal bands played fast double-kick drum beats."
+        }
+      ]
+    },
+    {
+      "levelNumber": 16,
+      "title": "Music Level 16",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "PUNK",
+          "meaning": "Fast raw rock music emphasizing DIY ethos",
+          "example": "Punk rock trios played fast three-chord anthems."
+        },
+        {
+          "word": "GRUNGE",
+          "meaning": "Alternative rock subgenre with guitar sludge",
+          "example": "Grunge bands brought raw emotional lyrics from Seattle."
+        },
+        {
+          "word": "FLAMENCO",
+          "meaning": "Spanish art form featuring guitar and dance",
+          "example": "Passionate flamenco guitar strums accompanied dance."
+        },
+        {
+          "word": "SAMBA",
+          "meaning": "Brazilian music and dance genre associated with Carnival",
+          "example": "Samba baterias thundered through Rio streets."
+        },
+        {
+          "word": "BOSSANOVA",
+          "meaning": "Lyrical style of Brazilian samba with cool jazz",
+          "example": "Gentle bossanova guitar rhythms evoked sunny beaches."
+        },
+        {
+          "word": "TANGO",
+          "meaning": "Passionate Argentine partner dance and music",
+          "example": "Accordion bandoneon melodies drove dramatic tango."
+        },
+        {
+          "word": "WALTZ",
+          "meaning": "Ballroom dance music in triple time three-four meter",
+          "example": "Viennese waltzes swirled gracefully in grand halls."
+        },
+        {
+          "word": "OPERETTA",
+          "meaning": "Short light opera with spoken dialogue and songs",
+          "example": "Lighthearted operetta performances delighted comedy fans."
+        },
+        {
+          "word": "ORATORIO",
+          "meaning": "Large musical composition for orchestra and choir",
+          "example": "Handel's Messiah is a world-famous sacred oratorio."
+        }
+      ]
+    },
+    {
+      "levelNumber": 17,
+      "title": "Music Level 17",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "CANTATA",
+          "meaning": "Vocal composition with instrumental accompaniment",
+          "example": "Bach composed weekly cantatas for church services."
+        },
+        {
+          "word": "SYMPHONY",
+          "meaning": "Elaborate musical composition for full orchestra",
+          "example": "Beethoven's Ninth Symphony featured the choral finale."
+        },
+        {
+          "word": "CONCERTO",
+          "meaning": "Composition for solo instrument accompanied by orchestra",
+          "example": "The violin concerto showcased virtuosic solo cadenzas."
+        },
+        {
+          "word": "SONATA",
+          "meaning": "Composition for one or two instruments in movements",
+          "example": "Piano sonata movements contrasted fast and slow tempos."
+        },
+        {
+          "word": "OVERTURE",
+          "meaning": "Orchestral piece serving as introduction to opera",
+          "example": "The dramatic overture set the mood before curtain rise."
+        },
+        {
+          "word": "NOCTURNE",
+          "meaning": "Night music piece usually quiet and contemplative",
+          "example": "Chopin wrote delicate nocturnes evoking moonlight."
+        },
+        {
+          "word": "ETUDE",
+          "meaning": "Short musical composition designed as technical exercise",
+          "example": "Pianists practiced virtuosic concert etudes for speed."
+        },
+        {
+          "word": "PRELUDE",
+          "meaning": "Introductory piece of music preceding main work",
+          "example": "Organ prelude opened the morning church service."
+        },
+        {
+          "word": "FUGUE",
+          "meaning": "Contrapuntal composition where theme is introduced by voices",
+          "example": "Complex fugue subjects interwoven in four part harmony."
+        }
+      ]
+    },
+    {
+      "levelNumber": 18,
+      "title": "Music Level 18",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "SERENADE",
+          "meaning": "Musical performance given in honor of someone at night",
+          "example": "A quiet evening serenade was sung under the balcony."
+        },
+        {
+          "word": "MADRIGAL",
+          "meaning": "Secular vocal music composition of Renaissance",
+          "example": "A cappella madrigals featured intricate polyphony."
+        },
+        {
+          "word": "MOTET",
+          "meaning": "Short sacred choral composition of Renaissance",
+          "example": "Latin motet harmonies resonated in cathedral acoustics."
+        },
+        {
+          "word": "RHAPSODY",
+          "meaning": "One-movement work that is episodic yet free-flowing",
+          "example": "Rhapsody in Blue blended classical orchestra with jazz."
+        },
+        {
+          "word": "SCHERZO",
+          "meaning": "Vigorous, light, or playful composition in triple time",
+          "example": "The third movement scherzo featured rapid playful rhythms."
+        },
+        {
+          "word": "IMPROMPTU",
+          "meaning": "Short instrumental composition of free style",
+          "example": "Schubert composed poetic piano impromptus."
+        },
+        {
+          "word": "LULLABY",
+          "meaning": "Quiet soothing song sung to send children to sleep",
+          "example": "Mother sang a gentle lullaby to soothe the baby."
+        },
+        {
+          "word": "BERCEUSE",
+          "meaning": "Lullaby composition for piano or instruments",
+          "example": "Chopin composed a delicate berceuse for solo piano."
+        },
+        {
+          "word": "BARCAROLLE",
+          "meaning": "Folk song traditionally sung by Venetian gondoliers",
+          "example": "Offenbach wrote a famous barcarolle in triple meter."
+        },
+        {
+          "word": "MAZURKA",
+          "meaning": "Polish folk dance in triple meter with accent on second beat",
+          "example": "Chopin composed dozens of piano mazurkas."
+        },
+        {
+          "word": "POLONAISE",
+          "meaning": "Stately Polish dance of slow march tempo in triple meter",
+          "example": "Heroic polonaise chords energized the piano recital."
+        }
+      ]
+    },
+    {
+      "levelNumber": 19,
+      "title": "Music Level 19",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "TARANTELLA",
+          "meaning": "Rapid whirling Italian folk dance in six-eight time",
+          "example": "The tarantella tempo accelerated with relentless energy."
+        },
+        {
+          "word": "HABANERA",
+          "meaning": "Cuban dance in duple meter with syncopated rhythm",
+          "example": "Bizet's Carmen sang a famous habanera aria."
+        },
+        {
+          "word": "RUMBA",
+          "meaning": "Afro-Cuban dance music genre with syncopated beats",
+          "example": "Rumba percussion patterns featured claves and maracas."
+        },
+        {
+          "word": "MAMBO",
+          "meaning": "Upbeat Latin dance music originating in Cuba",
+          "example": "Perez Prado popularized brassy mambo dance tracks."
+        },
+        {
+          "word": "MERENGUE",
+          "meaning": "Fast Dominican dance music genre in duple time",
+          "example": "Accordion and tambora drove lively merengue beats."
+        },
+        {
+          "word": "BACHATA",
+          "meaning": "Lyrical romantic genre originating in Dominican Republic",
+          "example": "Requinto guitar arpeggios characterized bachata songs."
+        },
+        {
+          "word": "AFROBEAT",
+          "meaning": "Genre combining West African music with funk and jazz",
+          "example": "Fela Kuti pioneered horn-driven afrobeat grooves."
+        },
+        {
+          "word": "BHANGRA",
+          "meaning": "Vibrant Punjabi folk music genre with dhol drum",
+          "example": "Bhangra beats energized celebratory wedding dances."
+        },
+        {
+          "word": "QAWWALI",
+          "meaning": "Devotional Sufi vocal music of South Asia",
+          "example": "Harmonium and tabla accompanied ecstatic qawwali singing."
+        },
+        {
+          "word": "SYNTHPOP",
+          "meaning": "Genre of popular music using synthesizers as dominant instrument",
+          "example": "Eighties synthpop tracks featured electronic drum machines."
+        },
+        {
+          "word": "NEWWAVE",
+          "meaning": "Pop rock genre of late 70s combining punk and pop",
+          "example": "Newwave bands featured stylized vocals and synths."
+        }
+      ]
+    },
+    {
+      "levelNumber": 20,
+      "title": "Music Level 20",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "SHOEGAZE",
+          "meaning": "Subgenre of indie rock characterized by ethereal guitar walls",
+          "example": "Loud swirling guitar feedback defined shoegaze bands."
+        },
+        {
+          "word": "PROGROCK",
+          "meaning": "Rock subgenre incorporating complex time signatures and concepts",
+          "example": "Prog rock suites featured epic twenty-minute compositions."
+        },
+        {
+          "word": "THRASH",
+          "meaning": "Heavy metal subgenre with fast tempos and aggressive riffs",
+          "example": "Thrash metal bands played rapid double-bass drum beats."
+        },
+        {
+          "word": "DEATHMETAL",
+          "meaning": "Extreme subgenre of heavy metal with guttural vocals",
+          "example": "Blast beats and low-tuned guitars drove deathmetal tracks."
+        },
+        {
+          "word": "CLEF",
+          "meaning": "Symbol placed at beginning of stave indicating pitch",
+          "example": "The bass clef indicated lower pitch staff notes."
+        },
+        {
+          "word": "TREBLECLEF",
+          "meaning": "Clef placing G above middle C on second line",
+          "example": "Violin and flute music was written in trebleclef."
+        },
+        {
+          "word": "BASSCLEF",
+          "meaning": "Clef placing F below middle C on fourth line",
+          "example": "Cello and tuba parts were written in bassclef."
+        },
+        {
+          "word": "ALTOCLEF",
+          "meaning": "Clef designating middle C on the third staff line",
+          "example": "Viola music is traditionally written in altoclef."
+        },
+        {
+          "word": "STAVE",
+          "meaning": "Set of five horizontal lines and four spaces in music",
+          "example": "Notes were written neatly upon the musical stave."
+        },
+        {
+          "word": "STAFF",
+          "meaning": "Five horizontal lines used in musical notation",
+          "example": "The composer penned notes across the blank staff."
+        },
+        {
+          "word": "BARLINE",
+          "meaning": "Vertical line dividing staff into measures",
+          "example": "Double barline marked the conclusion of the piece."
+        }
+      ]
+    },
+    {
+      "levelNumber": 21,
+      "title": "Music Level 21",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "MEASURE",
+          "meaning": "Segment of time defined by a given number of beats",
+          "example": "Each measure contained four quarter note beats."
+        },
+        {
+          "word": "TEMPO",
+          "meaning": "Speed at which a passage of music is played",
+          "example": "The conductor set an energetic allegro tempo."
+        },
+        {
+          "word": "BEAT",
+          "meaning": "Basic unit of time and pulse in music",
+          "example": "Dancers moved in time to the steady drum beat."
+        },
+        {
+          "word": "METRONOME",
+          "meaning": "Device ticking at regular intervals to set tempo",
+          "example": "Pianists practiced with a ticking metronome for timing."
+        },
+        {
+          "word": "CADENCE",
+          "meaning": "Melodic or harmonic configuration creating resolution",
+          "example": "A perfect cadence brought harmonic closure to the phrase."
+        },
+        {
+          "word": "OCTAVE",
+          "meaning": "Interval between one pitch and another with double frequency",
+          "example": "The soprano sang an impressive high octave leap."
+        },
+        {
+          "word": "INTERVAL",
+          "meaning": "Distance in pitch between two musical sounds",
+          "example": "Hearing a perfect fifth interval aided ear training."
+        },
+        {
+          "word": "CHORD",
+          "meaning": "Group of three or more notes sounded together",
+          "example": "The guitarist struck a resonant major chord."
+        },
+        {
+          "word": "TRIAD",
+          "meaning": "Set of three notes stacked in thirds",
+          "example": "The basic major triad contained root, third, and fifth."
+        },
+        {
+          "word": "ARPEGGIO",
+          "meaning": "Notes of a chord played in succession rather than together",
+          "example": "Cascading piano arpeggios swept up the keyboard."
+        },
+        {
+          "word": "SCALE",
+          "meaning": "Set of musical notes ordered by fundamental pitch",
+          "example": "Students practiced major and minor scales daily."
+        }
+      ]
+    },
+    {
+      "levelNumber": 22,
+      "title": "Music Level 22",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "CHROMATIC",
+          "meaning": "Scale consisting of twelve half steps",
+          "example": "Chromatic runs added tension and color to the solo."
+        },
+        {
+          "word": "DIATONIC",
+          "meaning": "Scale consisting of five whole and two half steps",
+          "example": "Diatonic melodies formed the basis of folk tunes."
+        },
+        {
+          "word": "MAJOR",
+          "meaning": "Key or chord sounding bright or happy in mood",
+          "example": "The symphony concluded in a triumphant C major key."
+        },
+        {
+          "word": "MINOR",
+          "meaning": "Key or chord sounding somber or contemplative",
+          "example": "The melancholic solo was composed in A minor key."
+        },
+        {
+          "word": "DISSONANCE",
+          "meaning": "Lack of harmony creating musical tension",
+          "example": "Dissonance resolved into beautiful consonance."
+        },
+        {
+          "word": "DYNAMICS",
+          "meaning": "Variations in loudness between notes or phrases",
+          "example": "Orchestral dynamics shifted from whisper quiet to loud."
+        },
+        {
+          "word": "CRESCENDO",
+          "meaning": "Gradual increase in loudness of a musical passage",
+          "example": "The orchestra built a thrilling crescendo toward the finale."
+        },
+        {
+          "word": "DECRESCENDO",
+          "meaning": "Gradual decrease in loudness of music",
+          "example": "The music faded away in a gentle decrescendo."
+        },
+        {
+          "word": "DIMINUENDO",
+          "meaning": "Gradual reduction in volume of sound",
+          "example": "Strings tapered off in a soft diminuendo finish."
+        },
+        {
+          "word": "FORTE",
+          "meaning": "Dynamic marking indicating music should be played loudly",
+          "example": "Brass section played forte during the grand entrance."
+        },
+        {
+          "word": "FORTISSIMO",
+          "meaning": "Dynamic marking indicating very loud volume",
+          "example": "Timpani thundered at a sudden fortissimo climax."
+        }
+      ]
+    },
+    {
+      "levelNumber": 23,
+      "title": "Music Level 23",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "PIANISSIMO",
+          "meaning": "Dynamic marking indicating very quiet volume",
+          "example": "Violins whispered at delicate pianissimo volume."
+        },
+        {
+          "word": "LEGATO",
+          "meaning": "Playing musical notes smoothly connected without breaks",
+          "example": "The flutist played a long legato phrase in one breath."
+        },
+        {
+          "word": "STACCATO",
+          "meaning": "Playing notes short and detached from each other",
+          "example": "Staccato piano chords bounced with light energy."
+        },
+        {
+          "word": "ACCENT",
+          "meaning": "Emphasis placed on a particular note or beat",
+          "example": "Syncopated accents highlighted the third beat."
+        },
+        {
+          "word": "FERMATA",
+          "meaning": "Pause or hold on a note beyond its standard duration",
+          "example": "The conductor held a long fermata over the final chord."
+        },
+        {
+          "word": "GLISSANDO",
+          "meaning": "Continuous slide upward or downward between notes",
+          "example": "The harp glissando swept gracefully across strings."
+        },
+        {
+          "word": "TREMOLO",
+          "meaning": "Rapid repetition of a single note or chord",
+          "example": "Mandolin tremolo sustained long emotional notes."
+        },
+        {
+          "word": "TRILL",
+          "meaning": "Rapid alternation between two adjacent notes",
+          "example": "The birdlike flute trill decorated the melody."
+        },
+        {
+          "word": "TIMBRE",
+          "meaning": "Character or quality of a musical sound or voice",
+          "example": "Warm oboe timbre distinguished it from the clarinet."
+        },
+        {
+          "word": "MAESTRO",
+          "meaning": "Distinguished musician, especially a conductor",
+          "example": "The maestro received a standing ovation after concert."
+        },
+        {
+          "word": "ARRANGER",
+          "meaning": "Person who adapts a musical composition",
+          "example": "The arranger created big band horn charts."
+        }
+      ]
+    },
+    {
+      "levelNumber": 24,
+      "title": "Music Level 24",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "ORCHESTRA",
+          "meaning": "Large ensemble of instrumentalists combining strings and wind",
+          "example": "Eighty musicians performed on stage in orchestra."
+        },
+        {
+          "word": "ENSEMBLE",
+          "meaning": "Group of musicians playing together",
+          "example": "The chamber ensemble rehearsed string quartets."
+        },
+        {
+          "word": "QUARTET",
+          "meaning": "Group of four musicians performing together",
+          "example": "The string quartet featured two violins, viola, cello."
+        },
+        {
+          "word": "QUINTET",
+          "meaning": "Group of five musicians performing together",
+          "example": "The brass quintet performed holiday fanfares."
+        },
+        {
+          "word": "TRIO",
+          "meaning": "Group of three musicians performing together",
+          "example": "The jazz piano trio included piano, bass, drums."
+        },
+        {
+          "word": "DUET",
+          "meaning": "Performance by two musicians together",
+          "example": "Soprano and tenor sang a romantic opera duet."
+        },
+        {
+          "word": "OCTET",
+          "meaning": "Group of eight musicians performing together",
+          "example": "Mendelssohn composed a brilliant string octet."
+        },
+        {
+          "word": "BIGBAND",
+          "meaning": "Large jazz ensemble featuring horns and rhythm",
+          "example": "The bigband performed brassy swing arrangements."
+        },
+        {
+          "word": "PHILHARMONIC",
+          "meaning": "Orchestral society promoting love of music",
+          "example": "The city philharmonic presented its summer concert season."
+        },
+        {
+          "word": "SYMPHONIC",
+          "meaning": "Relating to or having character of a symphony",
+          "example": "Symphonic wind bands played complex band literature."
+        },
+        {
+          "word": "PRODIGY",
+          "meaning": "Young person endowed with exceptional musical talent",
+          "example": "Mozart was a famous child prodigy composer."
+        }
+      ]
+    },
+    {
+      "levelNumber": 25,
+      "title": "Music Level 25",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "IMPROVISATION",
+          "meaning": "Act of composing and performing music spontaneously",
+          "example": "The jazz soloist delivered a live improvisation."
+        },
+        {
+          "word": "JAMMING",
+          "meaning": "Musicians playing together informally without prep",
+          "example": "Band members enjoyed jamming late into night."
+        },
+        {
+          "word": "RECITAL",
+          "meaning": "Performance of music by solo musician or group",
+          "example": "The pianist gave a breathtaking solo recital."
+        },
+        {
+          "word": "AUDITION",
+          "meaning": "Sample performance by a musician for a role",
+          "example": "The violinist passed her audition for first chair."
+        },
+        {
+          "word": "REHEARSAL",
+          "meaning": "Practice performance of music for later show",
+          "example": "The orchestra spent hours in morning rehearsal."
+        },
+        {
+          "word": "PODIUM",
+          "meaning": "Raised platform for conductor to stand upon",
+          "example": "The conductor stepped onto the wooden podium."
+        },
+        {
+          "word": "BATON",
+          "meaning": "Thin stick used by conductor to direct orchestra",
+          "example": "The conductor tapped his baton against the stand."
+        },
+        {
+          "word": "SHEETMUSIC",
+          "meaning": "Handwritten or printed form of musical notation",
+          "example": "Musicians flipped pages of sheetmusic on stands."
+        },
+        {
+          "word": "PARTITURE",
+          "meaning": "Full orchestral score showing all instrument parts",
+          "example": "The conductor studied master partiture before rehearsal."
+        },
+        {
+          "word": "ENCORE",
+          "meaning": "Additional performance granted in response to applause",
+          "example": "The pianist returned to stage for a delightful encore."
+        },
+        {
+          "word": "EQUALIZER",
+          "meaning": "Device for adjusting balance between frequencies",
+          "example": "The sound engineer tweaked the graphic equalizer."
+        },
+        {
+          "word": "TURNTABLE",
+          "meaning": "Circular rotating platform for playing records",
+          "example": "The DJ scratched vinyl records on dual turntables."
+        },
+        {
+          "word": "SAMPLER",
+          "meaning": "Electronic instrument loading and playing audio samples",
+          "example": "The producer loaded drum samples into sampler."
+        }
+      ]
+    },
+    {
+      "levelNumber": 26,
+      "title": "Music Level 26",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SEQUENCER",
+          "meaning": "Device or software recording and playing back MIDI",
+          "example": "The track was arranged using a software sequencer."
+        },
+        {
+          "word": "TUNER",
+          "meaning": "Device helping tune musical instruments to pitch",
+          "example": "The guitarist clipped a digital tuner onto headstock."
+        },
+        {
+          "word": "PEDAL",
+          "meaning": "Foot-operated lever used on piano or guitar effects",
+          "example": "Guitarist engaged distortion pedal for solos."
+        },
+        {
+          "word": "REVERB",
+          "meaning": "Persistence of sound after sound is produced; echo",
+          "example": "Adding studio reverb gave vocals spacious cathedral air."
+        },
+        {
+          "word": "DELAY",
+          "meaning": "Audio effect processing repeating sound like echo",
+          "example": "Rhythmic tape delay echoes trailed behind guitar notes."
+        },
+        {
+          "word": "PHASER",
+          "meaning": "Audio effect creating sweeping phase cancellation",
+          "example": "Phaser pedal created swirling jet-plane sound."
+        },
+        {
+          "word": "VINYL",
+          "meaning": "Plastic material used to press phonograph records",
+          "example": "Audiophiles preferred listening to warm analog vinyl."
+        },
+        {
+          "word": "CASSETTE",
+          "meaning": "Magnetic tape cartridge used for recording audio",
+          "example": "Mix tapes were recorded onto magnetic cassette tapes."
+        },
+        {
+          "word": "PHONOGRAPH",
+          "meaning": "Early sound recording device using cylinders",
+          "example": "Edison invented phonograph to play recorded voice."
+        },
+        {
+          "word": "GRAMOPHONE",
+          "meaning": "Early record player using flat rotating discs",
+          "example": "An antique gramophone played brassy jazz records."
+        },
+        {
+          "word": "JUKEBOX",
+          "meaning": "Coin-operated machine playing selected records",
+          "example": "Diner patrons selected songs on glowing jukebox."
+        },
+        {
+          "word": "PLAYLIST",
+          "meaning": "List of recorded songs chosen for playback",
+          "example": "The roadtrip playlist kept everyone singing along."
+        },
+        {
+          "word": "AMPLIFICATION",
+          "meaning": "Process of increasing volume or power of sound",
+          "example": "Acoustic guitars required amplification for outdoor crowds."
+        }
+      ]
+    },
+    {
+      "levelNumber": 27,
+      "title": "Music Level 27",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SEMITONE",
+          "meaning": "Half step interval in Western musical scale",
+          "example": "A semitone is the distance between adjacent piano keys."
+        },
+        {
+          "word": "WHOLETONE",
+          "meaning": "Musical scale consisting entirely of whole tone steps",
+          "example": "Debussy used the whole tone scale for dreamlike moods."
+        },
+        {
+          "word": "PENTATONIC",
+          "meaning": "Five-note musical scale common in folk music",
+          "example": "Pentatonic scales formed the foundation of ancient folk tunes."
+        },
+        {
+          "word": "DORIAN",
+          "meaning": "Musical mode with minor third and major sixth",
+          "example": "The Dorian mode gave the folk melody a modal medieval feel."
+        },
+        {
+          "word": "PHRYGIAN",
+          "meaning": "Musical mode with lowered second scale degree",
+          "example": "Phrygian dominant scales featured in Spanish flamenco guitar."
+        },
+        {
+          "word": "LYDIAN",
+          "meaning": "Musical mode featuring a raised fourth scale degree",
+          "example": "The Lydian mode evoked bright floating cinematic wonder."
+        },
+        {
+          "word": "MIXOLYDIAN",
+          "meaning": "Musical mode with flat seventh scale degree",
+          "example": "Classic rock guitar riffs frequently utilized the Mixolydian mode."
+        },
+        {
+          "word": "TONIC",
+          "meaning": "First and fundamental pitch of a musical scale",
+          "example": "The chord progression resolved smoothly back to the tonic."
+        },
+        {
+          "word": "DOMINANT",
+          "meaning": "Fifth degree of a major or minor scale",
+          "example": "The dominant seventh chord pulled strongly toward tonic resolution."
+        },
+        {
+          "word": "VOICING",
+          "meaning": "Manner in which notes of a chord are arranged",
+          "example": "Jazz pianists used open voicings for rich lush harmonies."
+        },
+        {
+          "word": "RUBATO",
+          "meaning": "Expressive slight speeding up and slowing down of tempo",
+          "example": "Chopin nocturnes called for subtle rubato phrasing."
+        },
+        {
+          "word": "RITARDANDO",
+          "meaning": "Gradual slowing down of musical tempo",
+          "example": "The movement ended with a sweeping ritardando slowdown."
+        },
+        {
+          "word": "ACCELERANDO",
+          "meaning": "Gradual speeding up of musical tempo",
+          "example": "The lively dance built momentum with an accelerando tempo."
+        }
+      ]
+    },
+    {
+      "levelNumber": 28,
+      "title": "Music Level 28",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "PIZZICATO",
+          "meaning": "Plucking strings of a bowed instrument with fingers",
+          "example": "Cellos played crisp pizzicato notes underneath the flute."
+        },
+        {
+          "word": "ARCO",
+          "meaning": "Directive to play stringed instrument with the bow",
+          "example": "After pizzicato section, violins returned to playing arco."
+        },
+        {
+          "word": "TENUTO",
+          "meaning": "Directive to hold note for its full value",
+          "example": "Tenuto markings indicated long sustained vocal notes."
+        },
+        {
+          "word": "MARCATO",
+          "meaning": "Directive to play note with strong emphasis or punch",
+          "example": "Brass played heavy marcato accents on main beats."
+        },
+        {
+          "word": "HEPTATONIC",
+          "meaning": "Seven-note musical scale system",
+          "example": "Heptatonic major scales are standard in classical theory."
+        },
+        {
+          "word": "OCTATONIC",
+          "meaning": "Eight-note musical scale alternating whole and half steps",
+          "example": "Stravinsky utilized octatonic scale harmonies."
+        },
+        {
+          "word": "SUBDOMINANT",
+          "meaning": "Fourth degree of a major or minor scale",
+          "example": "The subdominant chord led smoothly into dominant."
+        },
+        {
+          "word": "SUPERTONIC",
+          "meaning": "Second scale degree lying directly above tonic",
+          "example": "The supertonic seventh chord prepared cadence."
+        },
+        {
+          "word": "MEDIANT",
+          "meaning": "Third degree of a diatonic scale",
+          "example": "The mediant triad linked tonic and dominant chords."
+        },
+        {
+          "word": "SUBMEDIANT",
+          "meaning": "Sixth degree of a major or minor scale",
+          "example": "The submediant chord added warmth to resolution."
+        },
+        {
+          "word": "LEADINGTONE",
+          "meaning": "Seventh scale degree lying semitone below tonic",
+          "example": "The leadingtone pulled strongly toward tonic pitch."
+        },
+        {
+          "word": "SEMITONES",
+          "meaning": "Half steps in western musical scale",
+          "example": "Chromatic scales move entirely in semitones."
+        },
+        {
+          "word": "WHOLESTEPS",
+          "meaning": "Whole step intervals between pitches",
+          "example": "Whole-tone scales move exclusively by wholesteps."
+        }
+      ]
+    },
+    {
+      "levelNumber": 29,
+      "title": "Music Level 29",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "MICROTONES",
+          "meaning": "Intervals smaller than a standard semitone",
+          "example": "Arabic maqam music features microtones and quartertones."
+        },
+        {
+          "word": "ENHARMONIC",
+          "meaning": "Notes or keys sounding same pitch but named differently",
+          "example": "C-sharp and D-flat are enharmonic equivalents."
+        },
+        {
+          "word": "APOGGIATURAS",
+          "meaning": "Leaning grace notes taking time from main note",
+          "example": "Baroque ornamentation relied on appoggiaturas."
+        },
+        {
+          "word": "ACCIACCATURA",
+          "meaning": "Crushed grace note played as fast as possible",
+          "example": "The keyboard solo featured crisp acciaccatura strikes."
+        },
+        {
+          "word": "PORTAMENTO",
+          "meaning": "Continuous slide from one vocal note to another",
+          "example": "The opera singer used elegant portamento phrasing."
+        },
+        {
+          "word": "COLLEGNO",
+          "meaning": "Instruction to strike strings with wood of bow",
+          "example": "Violins produced eerie dry sound playing col legno."
+        },
+        {
+          "word": "SULPONTICELLO",
+          "meaning": "Instruction to bow string very close to bridge",
+          "example": "Sul ponticello bowing produced glassy overtones."
+        },
+        {
+          "word": "SULTASTO",
+          "meaning": "Instruction to bow string over fingerboard",
+          "example": "Sul tasto bowing created soft flutelike string tone."
+        },
+        {
+          "word": "CONSORDINO",
+          "meaning": "Instruction to play string instrument with mute",
+          "example": "Con sordino violins whispered in the background."
+        },
+        {
+          "word": "SENZASORDINO",
+          "meaning": "Instruction to remove mute from instrument",
+          "example": "Senza sordino mark signaled bright open horn fanfares."
+        },
+        {
+          "word": "FLAGEOLET",
+          "meaning": "Small end-blown flute or high string harmonic note",
+          "example": "High flageolet harmonics shimmered in violin solo."
+        },
+        {
+          "word": "MULTIPHONICS",
+          "meaning": "Technique on wind producing multiple notes at once",
+          "example": "Modern woodwind soloists executed multiphonics."
+        },
+        {
+          "word": "OVERTONES",
+          "meaning": "Higher frequency resonant tones above fundamental",
+          "example": "Acoustic instruments derive warmth from overtones."
+        }
+      ]
+    },
+    {
+      "levelNumber": 30,
+      "title": "Music Level 30",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "PARTIALS",
+          "meaning": "Individual frequency components of sound wave",
+          "example": "Upper partials determined bright timbre of trumpet."
+        },
+        {
+          "word": "RESONATORS",
+          "meaning": "Acoustic chambers amplifying vibration frequencies",
+          "example": "Marimba tubes act as metal resonators under bars."
+        },
+        {
+          "word": "ACOUSTICAL",
+          "meaning": "Relating to sound, hearing, and acoustic properties",
+          "example": "Architects designed optimal acoustical wooden panels."
+        },
+        {
+          "word": "DIVERTIMENTO",
+          "meaning": "Light pleasant musical composition in movements",
+          "example": "Mozart composed charming string divertimento pieces."
+        },
+        {
+          "word": "SERENATA",
+          "meaning": "Short cantata or dramatic piece performed outdoors",
+          "example": "The court celebrated with a festive evening serenata."
+        },
+        {
+          "word": "RICERCAR",
+          "meaning": "Elaborate contrapuntal composition precursor to fugue",
+          "example": "Bach composed a magnificent six-voice ricercar."
+        },
+        {
+          "word": "PARTITA",
+          "meaning": "Suite of instrumental dance movements",
+          "example": "Bach wrote famous solo violin and keyboard partitas."
+        },
+        {
+          "word": "SINFONIA",
+          "meaning": "Orchestral piece serving as introduction to opera",
+          "example": "Italian opera openers were called sinfonia movements."
+        },
+        {
+          "word": "BERCEUSES",
+          "meaning": "Lullaby compositions for piano or chamber ensemble",
+          "example": "Delicate piano berceuses lulled listeners into calm."
+        },
+        {
+          "word": "BARCAROLLES",
+          "meaning": "Traditional gondolier boat songs of Venice",
+          "example": "Lyrical barcarolles evoked swaying water motion."
+        },
+        {
+          "word": "MAZURKAS",
+          "meaning": "Polish folk dances in triple meter",
+          "example": "Chopin brought national mazurkas to concert halls."
+        },
+        {
+          "word": "POLONAISES",
+          "meaning": "Stately Polish ceremonial procession dances",
+          "example": "Dramatic polonaises showcased piano strength."
+        },
+        {
+          "word": "TARANTELLAS",
+          "meaning": "Fast whirling southern Italian folk dances",
+          "example": "Wild tarantellas accelerated in lively tempo."
+        }
+      ]
+    },
+    {
+      "levelNumber": 31,
+      "title": "Music Level 31",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "HABANERAS",
+          "meaning": "Syncopated Cuban dance rhythms in duple meter",
+          "example": "Sultry habaneras featured characteristic bass pulses."
+        },
+        {
+          "word": "REGGAETON",
+          "meaning": "Latin urban music genre blending reggae and hiphop",
+          "example": "Pulsating dembow beats defined reggaeton tracks."
+        },
+        {
+          "word": "CALYPSOS",
+          "meaning": "Trinidadian folk songs with topical lyrics",
+          "example": "Steel drum bands played joyful island calypsos."
+        },
+        {
+          "word": "SHOEGAZING",
+          "meaning": "Indie rock subgenre of swirling guitar noise",
+          "example": "Shoegazing bands created loud atmospheric sound walls."
+        },
+        {
+          "word": "PROGROCKER",
+          "meaning": "Musician specializing in progressive rock suites",
+          "example": "The progrocker mastered complex 7/8 time signatures."
+        },
+        {
+          "word": "THRASHMETAL",
+          "meaning": "Fast aggressive heavy metal with shredding solos",
+          "example": "Thrashmetal bands headlined massive festival arenas."
+        },
+        {
+          "word": "BLACKMETAL",
+          "meaning": "Extreme metal subgenre with shrieking vocals",
+          "example": "Raw atmospheric blackmetal recorded in cold forests."
+        },
+        {
+          "word": "POWERMETAL",
+          "meaning": "Melodic metal subgenre with epic fantasy themes",
+          "example": "Soaring vocals and fast guitar gallops defined powermetal."
+        },
+        {
+          "word": "SPEEDMETAL",
+          "meaning": "Fast aggressive metal style blending punk and metal",
+          "example": "Speedmetal tracks featured blistering tempo and solos."
+        },
+        {
+          "word": "DOOMMETAL",
+          "meaning": "Slow heavy metal subgenre emphasizing dark mood",
+          "example": "Sluggish heavy doommetal riffs created crushing walls."
+        },
+        {
+          "word": "GRINDCORE",
+          "meaning": "Extreme fast subgenre blending punk and death metal",
+          "example": "Micro-songs and blastbeats defined grindcore bands."
+        },
+        {
+          "word": "POSTHARDCORE",
+          "meaning": "Subgenre of hardcore punk adding dynamics",
+          "example": "Posthardcore bands balanced screaming with hooks."
+        },
+        {
+          "word": "POSTROCK",
+          "meaning": "Instrumental rock subgenre using rock instruments",
+          "example": "Postrock tracks built up massive crescendos."
+        }
+      ]
+    },
+    {
+      "levelNumber": 32,
+      "title": "Music Level 32",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "MATHROCK",
+          "meaning": "Complex subgenre of rock using odd time signatures",
+          "example": "Angular guitars played complex mathrock rhythms."
+        },
+        {
+          "word": "DREAMPOP",
+          "meaning": "Subgenre of pop rock with airy vocals and synths",
+          "example": "Dreamy guitars created soothing dreampop atmospheres."
+        },
+        {
+          "word": "INDIEPOP",
+          "meaning": "Independent pop music emphasizing melodic hooks",
+          "example": "Jangling guitars characterized indiepop radio."
+        },
+        {
+          "word": "ELECTROPOP",
+          "meaning": "Pop music featuring synthesizers and drum machines",
+          "example": "Pulsating electropop tracks filled dance floors."
+        },
+        {
+          "word": "TRAPBEATS",
+          "meaning": "Subgenre of hiphop with heavy sub-bass and hi-hats",
+          "example": "Rolling 808 sub-bass drove modern trapbeats."
+        },
+        {
+          "word": "DRILLBEATS",
+          "meaning": "Subgenre of hiphop with dark sliding basslines",
+          "example": "Sliding basslines characterized UK drillbeats tracks."
+        },
+        {
+          "word": "AFROBEATS",
+          "meaning": "Modern West African pop blending highlife and hiphop",
+          "example": "Afrobeats tracks dominated global dance charts."
+        },
+        {
+          "word": "AMAPIANO",
+          "meaning": "South African house music subgenre with log drum",
+          "example": "Spotted log drums defined South African amapiano."
+        },
+        {
+          "word": "CITYPOP",
+          "meaning": "Japanese pop music of late 1970s and 80s with funk",
+          "example": "Retro citypop tracks featured funky bass and vocals."
+        },
+        {
+          "word": "KPOP",
+          "meaning": "Korean popular music with choreography",
+          "example": "Global fans celebrated energetic K-pop releases."
+        },
+        {
+          "word": "JPOP",
+          "meaning": "Japanese popular music with catchy melodies",
+          "example": "Upbeat J-pop tracks featured in anime soundtracks."
+        },
+        {
+          "word": "SOLFEGGIO",
+          "meaning": "Singing scale notes using syllables do re mi fa",
+          "example": "Solfeggio exercises trained ear pitch recognition."
+        },
+        {
+          "word": "STACCATISSIMI",
+          "meaning": "Extremely short detached note performance",
+          "example": "Crisp staccatissimi notes bounced light as rain."
+        }
+      ]
+    },
+    {
+      "levelNumber": 33,
+      "title": "Music Level 33",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "TEMPOPRIMO",
+          "meaning": "Directive to return to original initial tempo",
+          "example": "The movement returned to tempoprimo after cadenza."
+        },
+        {
+          "word": "ARPEGGIATED",
+          "meaning": "Played as an arpeggio note by note sequentially",
+          "example": "The harpist played an arpeggiated chord upward."
+        },
+        {
+          "word": "TIMPANISTS",
+          "meaning": "Percussion musicians playing orchestral drums",
+          "example": "Timpanists tuned skin heads during quiet movements."
+        },
+        {
+          "word": "CHOIRMASTERS",
+          "meaning": "Leaders directing and training vocal choirs",
+          "example": "Choirmasters guided four-part vocal balance."
+        },
+        {
+          "word": "BANDMASTERS",
+          "meaning": "Conductors leading military and brass bands",
+          "example": "Bandmasters waved batons directing grand parades."
+        },
+        {
+          "word": "SONATINAS",
+          "meaning": "Short easy sonata compositions for student practice",
+          "example": "Students performed classical sonatinas at piano recital."
+        },
+        {
+          "word": "CHACONNES",
+          "meaning": "Instrumental variations built over repeating bass",
+          "example": "Violinists tackled Bach's famous D minor chaconne."
+        },
+        {
+          "word": "PASSACAGLIAS",
+          "meaning": "Compositions built on short repeating ground bass",
+          "example": "Organists improvised complex passacaglias on pedals."
+        },
+        {
+          "word": "SCHERZANDOS",
+          "meaning": "Playful, light, and humorous musical passages",
+          "example": "Woodwinds played joyful scherzandos in finale."
+        },
+        {
+          "word": "CANTABILES",
+          "meaning": "Smooth singing lyrical instrumental passages",
+          "example": "Cello section played a warm cantabiles theme."
+        },
+        {
+          "word": "DOLCISSIMOS",
+          "meaning": "Very sweet and soft performance directives",
+          "example": "Flute solo faded in dolcissimos quiet notes."
+        },
+        {
+          "word": "MAJESTOSOS",
+          "meaning": "Majestic and stately performance style directives",
+          "example": "Full brass entered with majestosos grand fanfares."
+        },
+        {
+          "word": "ALLEGRO",
+          "meaning": "Fast, lively, and bright tempo marking",
+          "example": "The opening movement moved in a brisk allegro speed."
+        }
+      ]
+    },
+    {
+      "levelNumber": 34,
+      "title": "Music Level 34",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "ANDANTE",
+          "meaning": "Walking pace, moderately slow musical tempo",
+          "example": "Strings played a graceful andante movement."
+        },
+        {
+          "word": "ADAGIO",
+          "meaning": "Slow, solemn, and leisurely tempo marking",
+          "example": "The adagio movement expressed deep quiet sorrow."
+        },
+        {
+          "word": "LARGO",
+          "meaning": "Very slow and broad dignified tempo marking",
+          "example": "The orchestra performed a majestic largo processional."
+        },
+        {
+          "word": "LENTO",
+          "meaning": "Slow musical tempo marking slower than andante",
+          "example": "Lento string chords sustained quiet contemplation."
+        },
+        {
+          "word": "PRESTO",
+          "meaning": "Very fast and rapid tempo marking",
+          "example": "The finale sprinted to a breathless presto finish."
+        },
+        {
+          "word": "PRESTISSIMO",
+          "meaning": "As fast as possible, extremely rapid tempo",
+          "example": "The virtuosic coda raced to a prestissimo climax."
+        },
+        {
+          "word": "MODERATO",
+          "meaning": "Moderate tempo, at a medium speed",
+          "example": "The opening theme stepped forward at moderato tempo."
+        },
+        {
+          "word": "ALLEGRETTO",
+          "meaning": "Fairly brisk, moderately fast tempo marking",
+          "example": "The second movement stepped along in allegretto tempo."
+        },
+        {
+          "word": "VIVACE",
+          "meaning": "Lively, brisk, and full of energy tempo",
+          "example": "Strings scampered in a joyful vivace tempo."
+        },
+        {
+          "word": "GRAVE",
+          "meaning": "Very slow, solemn, and serious tempo marking",
+          "example": "Deep brass opened with a heavy grave chord."
+        },
+        {
+          "word": "VIVACISSIMO",
+          "meaning": "Very fast, lively, and energetic tempo",
+          "example": "Percussion drove a frantic vivacissimo finale."
+        },
+        {
+          "word": "SOSTENUTO",
+          "meaning": "Sustained note values, slowing tempo slightly",
+          "example": "Violins played a warm sostenuto melody."
+        },
+        {
+          "word": "GLISSANDOS",
+          "meaning": "Multiple glissando slides between pitches",
+          "example": "Harp glissandos cascaded like falling water drops."
+        }
+      ]
+    },
+    {
+      "levelNumber": 35,
+      "title": "Music Level 35",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "TREMOLOS",
+          "meaning": "Rapid repetitions of single notes or chords",
+          "example": "Mandolin tremolos sustained long lyrical phrases."
+        },
+        {
+          "word": "TRILLINGS",
+          "meaning": "Rapid decorative alternations between notes",
+          "example": "Canary trillings were mimicked by piccolo flutes."
+        },
+        {
+          "word": "PITCHBEND",
+          "meaning": "Bending pitch of a note upward or downward",
+          "example": "Synthesizer pitchbend wheel created sliding leads."
+        },
+        {
+          "word": "BEATMATCH",
+          "meaning": "Matching tempos of two tracks for DJ transition",
+          "example": "DJs beatmatch songs smoothly on dual turntables."
+        },
+        {
+          "word": "CROSSFADER",
+          "meaning": "Slider control on DJ mixer transitioning tracks",
+          "example": "DJ slid the crossfader between record turntables."
+        },
+        {
+          "word": "WOOFER",
+          "meaning": "Loudspeaker driver designed for low frequencies",
+          "example": "Ten-inch woofer delivered deep punchy bass."
+        },
+        {
+          "word": "SUBWOOFER",
+          "meaning": "Loudspeaker dedicated to lowest sub-bass",
+          "example": "The subterranean subwoofer rattled cinema seats."
+        },
+        {
+          "word": "TWEETER",
+          "meaning": "Loudspeaker driver designed for high frequencies",
+          "example": "Dome tweeter reproduced crisp cymbal highs."
+        },
+        {
+          "word": "MIDRANGE",
+          "meaning": "Speaker driver optimized for middle frequencies",
+          "example": "Midrange driver delivered clear vocal presence."
+        },
+        {
+          "word": "PLECTRUM",
+          "meaning": "Small flat pick used to pluck string instruments",
+          "example": "Guitarist dropped his plastic plectrum on stage."
+        },
+        {
+          "word": "HEADSTOCK",
+          "meaning": "Top part of stringed instrument holding tuning pegs",
+          "example": "Pegs were mounted on mahogany guitar headstock."
+        },
+        {
+          "word": "FRETBOARD",
+          "meaning": "Fingerboard with metal frets on neck of guitar",
+          "example": "Rosewood fretboard featured mother-of-pearl inlays."
+        },
+        {
+          "word": "SOUNDBOARD",
+          "meaning": "Wooden board in piano or guitar amplifying string",
+          "example": "Spruce soundboard resonated with acoustic warmth."
+        }
+      ]
+    }
+  ]
+}

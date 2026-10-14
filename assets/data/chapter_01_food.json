@@ -1,0 +1,2144 @@
+{
+  "id": 1,
+  "key": "food",
+  "title": "Food",
+  "iconAsset": "assets/chapter_images/food.png",
+  "themeColor": 4294924066,
+  "levels": [
+    {
+      "levelNumber": 1,
+      "title": "Food Level 1",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "TACO",
+          "meaning": "A Mexican dish of a folded tortilla with savory filling",
+          "example": "Spicy beef taco with salsa."
+        },
+        {
+          "word": "SOUP",
+          "meaning": "A liquid dish made by boiling ingredients in broth",
+          "example": "Hot chicken noodle soup on a rainy day."
+        },
+        {
+          "word": "BREAD",
+          "meaning": "A staple food made from flour and water and baked",
+          "example": "Freshly baked sourdough bread."
+        },
+        {
+          "word": "APPLE",
+          "meaning": "A crisp round fruit that grows on trees",
+          "example": "She packed a red apple for lunch."
+        },
+        {
+          "word": "MANGO",
+          "meaning": "A tropical fruit with sweet juicy flesh",
+          "example": "Chilled mango slices taste refreshing."
+        },
+        {
+          "word": "BURGER",
+          "meaning": "A cooked patty served inside a sliced bun",
+          "example": "He ordered a grilled cheeseburger."
+        },
+        {
+          "word": "CHEESE",
+          "meaning": "A food made from pressed curds of milk",
+          "example": "The pizza was covered with melted cheese."
+        },
+        {
+          "word": "MUFFIN",
+          "meaning": "A small individual cake or quick bread baked in a cup",
+          "example": "She ate a warm blueberry muffin."
+        }
+      ]
+    },
+    {
+      "levelNumber": 2,
+      "title": "Food Level 2",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "PIZZA",
+          "meaning": "A baked flatbread topped with sauce, cheese, and other ingredients",
+          "example": "We shared a pepperoni pizza."
+        },
+        {
+          "word": "PASTA",
+          "meaning": "Food made from dough that is shaped and cooked in water",
+          "example": "Creamy pasta was served for dinner."
+        },
+        {
+          "word": "RICE",
+          "meaning": "Small edible grains commonly cooked as a staple food",
+          "example": "Steamed rice accompanied the curry."
+        },
+        {
+          "word": "NOODLE",
+          "meaning": "A thin strip of dough cooked by boiling",
+          "example": "She added noodles to the hot broth."
+        },
+        {
+          "word": "SALAD",
+          "meaning": "A dish of mixed raw or cooked vegetables and other ingredients",
+          "example": "A fresh garden salad came with lunch."
+        },
+        {
+          "word": "STEAK",
+          "meaning": "A thick slice of meat cooked by grilling, frying, or broiling",
+          "example": "The restaurant served a tender grilled steak."
+        },
+        {
+          "word": "CHICKEN",
+          "meaning": "The meat of a domesticated bird commonly used as food",
+          "example": "Roasted chicken filled the kitchen with a delicious aroma."
+        },
+        {
+          "word": "TURKEY",
+          "meaning": "The meat of a large domesticated bird",
+          "example": "They served roasted turkey at the holiday dinner."
+        }
+      ]
+    },
+    {
+      "levelNumber": 3,
+      "title": "Food Level 3",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "BACON",
+          "meaning": "Cured and usually smoked meat from a pig",
+          "example": "Crispy bacon was added to the sandwich."
+        },
+        {
+          "word": "SAUSAGE",
+          "meaning": "Seasoned ground meat prepared in a casing",
+          "example": "The breakfast included grilled sausage."
+        },
+        {
+          "word": "HAM",
+          "meaning": "Cured or cooked meat taken from the hind leg of a pig",
+          "example": "Thin slices of ham filled the sandwich."
+        },
+        {
+          "word": "SALMON",
+          "meaning": "A pink-fleshed fish commonly eaten as food",
+          "example": "Baked salmon was served with lemon."
+        },
+        {
+          "word": "TUNA",
+          "meaning": "A large ocean fish commonly used as food",
+          "example": "She made a tuna salad sandwich."
+        },
+        {
+          "word": "SHRIMP",
+          "meaning": "A small edible shellfish with a long body and tail",
+          "example": "Garlic shrimp were served over rice."
+        },
+        {
+          "word": "CRAB",
+          "meaning": "An edible sea animal with a hard shell and claws",
+          "example": "Fresh crab was served with melted butter."
+        },
+        {
+          "word": "LOBSTER",
+          "meaning": "A large marine crustacean with claws and a hard shell",
+          "example": "The chef prepared a whole lobster."
+        }
+      ]
+    },
+    {
+      "levelNumber": 4,
+      "title": "Food Level 4",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "OYSTER",
+          "meaning": "A shellfish with a rough shell that is often eaten raw or cooked",
+          "example": "Fresh oysters were served on ice."
+        },
+        {
+          "word": "CLAM",
+          "meaning": "An edible shellfish with two hinged shells",
+          "example": "The soup contained tender clams."
+        },
+        {
+          "word": "MUSSEL",
+          "meaning": "An edible shellfish with a dark elongated shell",
+          "example": "Steamed mussels were served with bread."
+        },
+        {
+          "word": "SARDINE",
+          "meaning": "A small oily fish commonly preserved in cans",
+          "example": "He added sardines to his toast."
+        },
+        {
+          "word": "ANCHOVY",
+          "meaning": "A small salty fish often preserved and used as a flavoring",
+          "example": "The pizza was topped with anchovies."
+        },
+        {
+          "word": "COD",
+          "meaning": "A white-fleshed ocean fish commonly used as food",
+          "example": "The chef baked the cod with herbs."
+        },
+        {
+          "word": "TROUT",
+          "meaning": "A freshwater or sea fish often prepared as food",
+          "example": "Grilled trout was served with vegetables."
+        },
+        {
+          "word": "HERRING",
+          "meaning": "A small oily fish often preserved or smoked",
+          "example": "Pickled herring was served as an appetizer."
+        }
+      ]
+    },
+    {
+      "levelNumber": 5,
+      "title": "Food Level 5",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "PRAWN",
+          "meaning": "A shellfish similar to a shrimp and widely eaten as food",
+          "example": "Spicy prawns were cooked with garlic."
+        },
+        {
+          "word": "OCTOPUS",
+          "meaning": "A sea animal with eight arms that can be prepared as food",
+          "example": "Grilled octopus was served with lemon."
+        },
+        {
+          "word": "SQUID",
+          "meaning": "A marine animal with a long body and tentacles used as food",
+          "example": "Crispy fried squid was served with sauce."
+        },
+        {
+          "word": "CAVIAR",
+          "meaning": "Salted fish eggs traditionally served as a delicacy",
+          "example": "The appetizer was topped with black caviar."
+        },
+        {
+          "word": "TOFU",
+          "meaning": "A soft food made by coagulating soybean milk",
+          "example": "The stir-fry contained crispy tofu."
+        },
+        {
+          "word": "TEMPEH",
+          "meaning": "A firm fermented food made from cooked soybeans",
+          "example": "Grilled tempeh was added to the bowl."
+        },
+        {
+          "word": "LENTIL",
+          "meaning": "A small edible seed commonly used in soups and stews",
+          "example": "The lentil soup was thick and hearty."
+        },
+        {
+          "word": "CHICKPEA",
+          "meaning": "A round beige legume commonly used in savory dishes",
+          "example": "Roasted chickpeas made a crunchy snack."
+        }
+      ]
+    },
+    {
+      "levelNumber": 6,
+      "title": "Food Level 6",
+      "gridRows": 10,
+      "gridCols": 10,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "PEANUT",
+          "meaning": "An edible legume with a nutty flavor",
+          "example": "She sprinkled crushed peanuts over the noodles."
+        },
+        {
+          "word": "ALMOND",
+          "meaning": "An edible seed with a firm shell and nutty flavor",
+          "example": "Sliced almonds topped the oatmeal."
+        },
+        {
+          "word": "WALNUT",
+          "meaning": "A wrinkled edible nut with a rich flavor",
+          "example": "Walnuts were mixed into the banana bread."
+        },
+        {
+          "word": "PISTACHIO",
+          "meaning": "A small green nut enclosed in a hard shell",
+          "example": "Pistachio ice cream was her favorite dessert."
+        },
+        {
+          "word": "CASHEW",
+          "meaning": "A curved kidney-shaped nut with a creamy flavor",
+          "example": "Roasted cashews were served as a snack."
+        },
+        {
+          "word": "HAZELNUT",
+          "meaning": "A round brown nut with a sweet rich flavor",
+          "example": "Hazelnuts were blended into the chocolate spread."
+        },
+        {
+          "word": "PECAN",
+          "meaning": "A sweet buttery nut commonly used in desserts",
+          "example": "The pie was topped with toasted pecans."
+        },
+        {
+          "word": "MACADAMIA",
+          "meaning": "A rich creamy nut with a hard shell",
+          "example": "Macadamia nuts added crunch to the cookies."
+        }
+      ]
+    },
+    {
+      "levelNumber": 7,
+      "title": "Food Level 7",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CHESTNUT",
+          "meaning": "A brown nut that is often roasted or cooked",
+          "example": "Roasted chestnuts were sold at the market."
+        },
+        {
+          "word": "COCONUT",
+          "meaning": "A tropical fruit with a hard shell and white edible flesh",
+          "example": "Fresh coconut was added to the curry."
+        },
+        {
+          "word": "OLIVE",
+          "meaning": "A small fruit commonly cured and used in savory foods",
+          "example": "Black olives were scattered over the pizza."
+        },
+        {
+          "word": "AVOCADO",
+          "meaning": "A creamy green fruit with a large central seed",
+          "example": "Mashed avocado was spread on toast."
+        },
+        {
+          "word": "BANANA",
+          "meaning": "A long curved fruit with soft sweet flesh",
+          "example": "He sliced a banana into his cereal."
+        },
+        {
+          "word": "ORANGE",
+          "meaning": "A round citrus fruit with juicy segments",
+          "example": "She peeled a fresh orange for breakfast."
+        },
+        {
+          "word": "LEMON",
+          "meaning": "A yellow citrus fruit with a strongly sour taste",
+          "example": "A squeeze of lemon brightened the dish."
+        },
+        {
+          "word": "LIME",
+          "meaning": "A small green citrus fruit with sour juice",
+          "example": "Fresh lime juice was added to the drink."
+        }
+      ]
+    },
+    {
+      "levelNumber": 8,
+      "title": "Food Level 8",
+      "gridRows": 10,
+      "gridCols": 10,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "GRAPE",
+          "meaning": "A small round fruit that grows in clusters on vines",
+          "example": "Sweet grapes were served chilled."
+        },
+        {
+          "word": "PEACH",
+          "meaning": "A soft juicy fruit with fuzzy skin and a large stone",
+          "example": "She enjoyed a ripe peach after lunch."
+        },
+        {
+          "word": "PEAR",
+          "meaning": "A sweet fruit with a rounded bottom and narrow top",
+          "example": "The ripe pear was soft and juicy."
+        },
+        {
+          "word": "PLUM",
+          "meaning": "A smooth-skinned fruit with juicy flesh and a stone",
+          "example": "A purple plum made a sweet snack."
+        },
+        {
+          "word": "CHERRY",
+          "meaning": "A small round fruit with a central stone",
+          "example": "Fresh cherries were placed on the dessert."
+        },
+        {
+          "word": "PAPAYA",
+          "meaning": "A tropical fruit with orange flesh and black seeds",
+          "example": "Ripe papaya was served with lime."
+        },
+        {
+          "word": "GUAVA",
+          "meaning": "A tropical fruit with fragrant flesh and many small seeds",
+          "example": "She sliced a ripe guava for breakfast."
+        },
+        {
+          "word": "PINEAPPLE",
+          "meaning": "A tropical fruit with rough skin and sweet yellow flesh",
+          "example": "Grilled pineapple made a sweet side dish."
+        }
+      ]
+    },
+    {
+      "levelNumber": 9,
+      "title": "Food Level 9",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "WATERMELON",
+          "meaning": "A large juicy fruit with sweet refreshing flesh",
+          "example": "Cold watermelon was perfect for the picnic."
+        },
+        {
+          "word": "STRAWBERRY",
+          "meaning": "A small red fruit covered with tiny seeds",
+          "example": "Fresh strawberries topped the pancakes."
+        },
+        {
+          "word": "RASPBERRY",
+          "meaning": "A soft red berry made of many small rounded sections",
+          "example": "Raspberries were mixed into the yogurt."
+        },
+        {
+          "word": "BLUEBERRY",
+          "meaning": "A small round blue-purple berry with sweet flavor",
+          "example": "Blueberries were baked into the muffins."
+        },
+        {
+          "word": "BLACKBERRY",
+          "meaning": "A dark berry made of many small juicy sections",
+          "example": "Wild blackberries were picked from the bush."
+        },
+        {
+          "word": "CRANBERRY",
+          "meaning": "A small tart red berry often used in sauces and drinks",
+          "example": "Cranberry sauce accompanied the roast."
+        },
+        {
+          "word": "APRICOT",
+          "meaning": "A small orange fruit related to the peach",
+          "example": "Dried apricots made a convenient snack."
+        },
+        {
+          "word": "FIG",
+          "meaning": "A soft sweet fruit filled with tiny edible seeds",
+          "example": "Fresh figs were served with cheese."
+        }
+      ]
+    },
+    {
+      "levelNumber": 10,
+      "title": "Food Level 10",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "DATE",
+          "meaning": "A sweet chewy fruit that grows on certain palm trees",
+          "example": "She added chopped dates to the oatmeal."
+        },
+        {
+          "word": "RAISIN",
+          "meaning": "A dried grape with a sweet chewy texture",
+          "example": "Raisins were mixed into the rice pudding."
+        },
+        {
+          "word": "KIWI",
+          "meaning": "A small brown fruit with green flesh and black seeds",
+          "example": "Sliced kiwi added color to the fruit bowl."
+        },
+        {
+          "word": "LYCHEE",
+          "meaning": "A tropical fruit with rough red skin and juicy white flesh",
+          "example": "Chilled lychee was served after dinner."
+        },
+        {
+          "word": "PASSIONFRUIT",
+          "meaning": "A tropical fruit filled with aromatic pulp and edible seeds",
+          "example": "Passionfruit pulp topped the cheesecake."
+        },
+        {
+          "word": "POMEGRANATE",
+          "meaning": "A round fruit containing many juicy red seeds",
+          "example": "Pomegranate seeds were sprinkled over the salad."
+        },
+        {
+          "word": "DRAGONFRUIT",
+          "meaning": "A tropical fruit with colorful skin and speckled flesh",
+          "example": "Dragonfruit was added to the smoothie bowl."
+        },
+        {
+          "word": "PERSIMMON",
+          "meaning": "A sweet orange fruit that becomes soft when ripe",
+          "example": "The ripe persimmon tasted honey-sweet."
+        },
+        {
+          "word": "CANTALOUPE",
+          "meaning": "A type of melon with orange flesh and sweet flavor",
+          "example": "Cantaloupe slices were served at breakfast."
+        }
+      ]
+    },
+    {
+      "levelNumber": 11,
+      "title": "Food Level 11",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "HONEYDEW",
+          "meaning": "A melon with pale green flesh and sweet juicy flavor",
+          "example": "Cold honeydew was served in the fruit salad."
+        },
+        {
+          "word": "CELERY",
+          "meaning": "A crisp vegetable with long pale green stalks",
+          "example": "Chopped celery was added to the soup."
+        },
+        {
+          "word": "CARROT",
+          "meaning": "A long orange root vegetable with a sweet earthy taste",
+          "example": "Roasted carrots accompanied the chicken."
+        },
+        {
+          "word": "POTATO",
+          "meaning": "An edible underground tuber used in many dishes",
+          "example": "The potatoes were roasted until golden."
+        },
+        {
+          "word": "TOMATO",
+          "meaning": "A juicy red fruit commonly used as a vegetable",
+          "example": "Fresh tomato slices topped the sandwich."
+        },
+        {
+          "word": "ONION",
+          "meaning": "A bulb vegetable with a strong savory flavor",
+          "example": "Chopped onion was fried with the spices."
+        },
+        {
+          "word": "GARLIC",
+          "meaning": "A pungent bulb used to flavor many foods",
+          "example": "Fresh garlic gave the sauce a rich aroma."
+        },
+        {
+          "word": "GINGER",
+          "meaning": "A spicy aromatic root used in cooking and drinks",
+          "example": "Grated ginger flavored the stir-fry."
+        },
+        {
+          "word": "RADISH",
+          "meaning": "A crisp root vegetable with a peppery flavor",
+          "example": "Sliced radish added crunch to the salad."
+        }
+      ]
+    },
+    {
+      "levelNumber": 12,
+      "title": "Food Level 12",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "TURNIP",
+          "meaning": "A round root vegetable with white flesh and purple coloring",
+          "example": "The stew contained tender turnips."
+        },
+        {
+          "word": "BEETROOT",
+          "meaning": "A deep red root vegetable with an earthy sweet flavor",
+          "example": "Roasted beetroot was served with goat cheese."
+        },
+        {
+          "word": "SPINACH",
+          "meaning": "A leafy green vegetable commonly eaten cooked or raw",
+          "example": "Fresh spinach was added to the omelet."
+        },
+        {
+          "word": "LETTUCE",
+          "meaning": "A leafy vegetable commonly used in salads and sandwiches",
+          "example": "Crisp lettuce filled the wrap."
+        },
+        {
+          "word": "CABBAGE",
+          "meaning": "A leafy vegetable that forms a dense rounded head",
+          "example": "Shredded cabbage was used in the slaw."
+        },
+        {
+          "word": "BROCCOLI",
+          "meaning": "A green vegetable with a thick stalk and flowering head",
+          "example": "Steamed broccoli accompanied the meal."
+        },
+        {
+          "word": "CAULIFLOWER",
+          "meaning": "A vegetable with a dense white flowering head",
+          "example": "Roasted cauliflower was seasoned with herbs."
+        },
+        {
+          "word": "ZUCCHINI",
+          "meaning": "A tender green summer squash used in cooking",
+          "example": "Grilled zucchini made a simple side dish."
+        },
+        {
+          "word": "EGGPLANT",
+          "meaning": "A purple-skinned vegetable with soft flesh when cooked",
+          "example": "Roasted eggplant was added to the dip."
+        }
+      ]
+    },
+    {
+      "levelNumber": 13,
+      "title": "Food Level 13",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "CUCUMBER",
+          "meaning": "A long crisp vegetable with watery flesh",
+          "example": "Fresh cucumber slices cooled the salad."
+        },
+        {
+          "word": "PEPPER",
+          "meaning": "A pungent spice or fruit used to add flavor to food",
+          "example": "Black pepper was sprinkled over the soup."
+        },
+        {
+          "word": "PUMPKIN",
+          "meaning": "A large orange squash commonly used in savory and sweet dishes",
+          "example": "Pumpkin soup was served hot."
+        },
+        {
+          "word": "SQUASH",
+          "meaning": "A group of edible fruits commonly cooked as vegetables",
+          "example": "Roasted squash was served with herbs."
+        },
+        {
+          "word": "CORN",
+          "meaning": "A cereal grain with yellow kernels eaten as a vegetable",
+          "example": "Sweet corn was grilled over the fire."
+        },
+        {
+          "word": "PEA",
+          "meaning": "A small round green seed eaten as a vegetable",
+          "example": "Green peas were mixed into the rice."
+        },
+        {
+          "word": "BEAN",
+          "meaning": "An edible seed commonly used in soups, salads, and stews",
+          "example": "Black beans filled the burrito."
+        },
+        {
+          "word": "ASPARAGUS",
+          "meaning": "A green vegetable with long tender edible shoots",
+          "example": "Grilled asparagus was served beside the steak."
+        },
+        {
+          "word": "ARTICHOKE",
+          "meaning": "A plant with edible flower buds surrounded by tough leaves",
+          "example": "Steamed artichoke was served with dip."
+        }
+      ]
+    },
+    {
+      "levelNumber": 14,
+      "title": "Food Level 14",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "MUSHROOM",
+          "meaning": "An edible fungus with many varieties used in cooking",
+          "example": "Saut\u00e9ed mushrooms topped the steak."
+        },
+        {
+          "word": "TRUFFLE",
+          "meaning": "A rare edible fungus prized for its strong earthy aroma",
+          "example": "Truffle shavings enhanced the pasta."
+        },
+        {
+          "word": "BASIL",
+          "meaning": "An aromatic herb commonly used in Mediterranean cooking",
+          "example": "Fresh basil was scattered over the pizza."
+        },
+        {
+          "word": "MINT",
+          "meaning": "An aromatic herb with a cool refreshing flavor",
+          "example": "Fresh mint was added to the dessert."
+        },
+        {
+          "word": "PARSLEY",
+          "meaning": "A leafy herb commonly used as a garnish and seasoning",
+          "example": "Chopped parsley finished the soup."
+        },
+        {
+          "word": "CILANTRO",
+          "meaning": "A fragrant herb commonly used in many cuisines",
+          "example": "Fresh cilantro topped the tacos."
+        },
+        {
+          "word": "ROSEMARY",
+          "meaning": "A fragrant herb with needle-like leaves used in cooking",
+          "example": "Rosemary flavored the roasted potatoes."
+        },
+        {
+          "word": "THYME",
+          "meaning": "A small aromatic herb used to season savory dishes",
+          "example": "Thyme was added to the chicken stew."
+        },
+        {
+          "word": "OREGANO",
+          "meaning": "An aromatic herb commonly used in Mediterranean dishes",
+          "example": "Dried oregano seasoned the tomato sauce."
+        }
+      ]
+    },
+    {
+      "levelNumber": 15,
+      "title": "Food Level 15",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "SAGE",
+          "meaning": "An aromatic herb with soft gray-green leaves",
+          "example": "Sage added a savory flavor to the stuffing."
+        },
+        {
+          "word": "DILL",
+          "meaning": "A delicate herb with feathery leaves and a fresh flavor",
+          "example": "Fresh dill was mixed into the sauce."
+        },
+        {
+          "word": "TARRAGON",
+          "meaning": "An aromatic herb with a slightly sweet anise-like flavor",
+          "example": "Tarragon flavored the creamy chicken dish."
+        },
+        {
+          "word": "VANILLA",
+          "meaning": "A fragrant spice obtained from the pods of an orchid",
+          "example": "Vanilla flavored the homemade custard."
+        },
+        {
+          "word": "CINNAMON",
+          "meaning": "An aromatic spice made from dried tree bark",
+          "example": "Cinnamon was sprinkled over the oatmeal."
+        },
+        {
+          "word": "NUTMEG",
+          "meaning": "A warm aromatic spice made from a dried seed",
+          "example": "A pinch of nutmeg flavored the sauce."
+        },
+        {
+          "word": "CLOVES",
+          "meaning": "Small dried flower buds used as an aromatic spice",
+          "example": "Cloves added warmth to the spiced tea."
+        },
+        {
+          "word": "CARDAMOM",
+          "meaning": "An aromatic spice contained in small green or black pods",
+          "example": "Cardamom gave the dessert a fragrant flavor."
+        },
+        {
+          "word": "TURMERIC",
+          "meaning": "A bright yellow spice made from a plant root",
+          "example": "Turmeric gave the curry its golden color."
+        }
+      ]
+    },
+    {
+      "levelNumber": 16,
+      "title": "Food Level 16",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "PAPRIKA",
+          "meaning": "A red spice made from dried ground peppers",
+          "example": "Paprika added color and mild flavor to the potatoes."
+        },
+        {
+          "word": "SAFFRON",
+          "meaning": "A valuable spice made from dried flower threads",
+          "example": "Saffron gave the rice a golden color."
+        },
+        {
+          "word": "CUMIN",
+          "meaning": "An aromatic spice made from dried seeds",
+          "example": "Ground cumin flavored the bean stew."
+        },
+        {
+          "word": "CORIANDER",
+          "meaning": "A spice made from dried coriander seeds",
+          "example": "Coriander was blended into the curry seasoning."
+        },
+        {
+          "word": "FENNEL",
+          "meaning": "An aromatic plant with a mild licorice-like flavor",
+          "example": "Fennel seeds were added to the sausage."
+        },
+        {
+          "word": "MUSTARD",
+          "meaning": "A pungent condiment made from ground mustard seeds",
+          "example": "Yellow mustard was spread on the hot dog."
+        },
+        {
+          "word": "KETCHUP",
+          "meaning": "A thick sweet and tangy tomato-based sauce",
+          "example": "He dipped his fries in ketchup."
+        },
+        {
+          "word": "MAYONNAISE",
+          "meaning": "A creamy sauce made mainly from oil and egg yolk",
+          "example": "Mayonnaise made the sandwich creamy."
+        },
+        {
+          "word": "VINEGAR",
+          "meaning": "A sour liquid used in cooking, pickling, and dressings",
+          "example": "Vinegar added tanginess to the dressing."
+        }
+      ]
+    },
+    {
+      "levelNumber": 17,
+      "title": "Food Level 17",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "PICKLE",
+          "meaning": "A food preserved in vinegar or salty brine",
+          "example": "A crunchy pickle came with the sandwich."
+        },
+        {
+          "word": "RELISH",
+          "meaning": "A chopped mixture of vegetables or fruit used as a condiment",
+          "example": "Sweet relish topped the hot dog."
+        },
+        {
+          "word": "CHUTNEY",
+          "meaning": "A thick condiment made from fruits, vegetables, herbs, or spices",
+          "example": "Mango chutney was served with the curry."
+        },
+        {
+          "word": "SALSA",
+          "meaning": "A spicy sauce commonly made from chopped tomatoes and peppers",
+          "example": "Fresh salsa was served with tortilla chips."
+        },
+        {
+          "word": "GRAVY",
+          "meaning": "A savory sauce made from meat juices or other ingredients",
+          "example": "Rich gravy covered the mashed potatoes."
+        },
+        {
+          "word": "SAUCE",
+          "meaning": "A liquid or semi-liquid food used to add flavor to dishes",
+          "example": "The pasta was coated in tomato sauce."
+        },
+        {
+          "word": "PESTO",
+          "meaning": "A green sauce traditionally made with basil, nuts, cheese, and oil",
+          "example": "Pesto was tossed with warm pasta."
+        },
+        {
+          "word": "HUMMUS",
+          "meaning": "A creamy Middle Eastern dip made mainly from chickpeas and tahini",
+          "example": "Warm pita was dipped into hummus."
+        },
+        {
+          "word": "TAHINI",
+          "meaning": "A smooth paste made from ground sesame seeds",
+          "example": "Tahini was drizzled over the roasted vegetables."
+        }
+      ]
+    },
+    {
+      "levelNumber": 18,
+      "title": "Food Level 18",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "MISO",
+          "meaning": "A fermented soybean paste used as a savory seasoning",
+          "example": "Miso added depth to the soup."
+        },
+        {
+          "word": "WASABI",
+          "meaning": "A green Japanese condiment with a strong hot flavor",
+          "example": "A small amount of wasabi accompanied the sushi."
+        },
+        {
+          "word": "TERIYAKI",
+          "meaning": "A Japanese-style sauce and cooking method using a sweet savory glaze",
+          "example": "Teriyaki sauce coated the grilled chicken."
+        },
+        {
+          "word": "SUSHI",
+          "meaning": "A Japanese dish featuring seasoned rice often paired with seafood",
+          "example": "The restaurant served fresh salmon sushi."
+        },
+        {
+          "word": "RAMEN",
+          "meaning": "A Japanese noodle soup served with broth and toppings",
+          "example": "Hot ramen warmed him on a cold evening."
+        },
+        {
+          "word": "TEMPURA",
+          "meaning": "Japanese food consisting of lightly battered fried ingredients",
+          "example": "Shrimp tempura was served with dipping sauce."
+        },
+        {
+          "word": "DUMPLING",
+          "meaning": "A piece of dough filled or unfilled and cooked in various ways",
+          "example": "Steamed dumplings were served with soy sauce."
+        },
+        {
+          "word": "WONTON",
+          "meaning": "A small Chinese dumpling commonly filled with meat or seafood",
+          "example": "Wontons floated in the hot soup."
+        },
+        {
+          "word": "SPRINGROLL",
+          "meaning": "A thin pastry roll filled with vegetables or other ingredients",
+          "example": "Crispy spring rolls were served as an appetizer."
+        },
+        {
+          "word": "BURRITO",
+          "meaning": "A flour tortilla wrapped around a savory filling",
+          "example": "The bean burrito was packed with rice and salsa."
+        },
+        {
+          "word": "ENCHILADA",
+          "meaning": "A tortilla filled with ingredients and covered with savory sauce",
+          "example": "The cheese enchilada was covered in red sauce."
+        }
+      ]
+    },
+    {
+      "levelNumber": 19,
+      "title": "Food Level 19",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "NACHOS",
+          "meaning": "Tortilla chips topped with cheese and other savory ingredients",
+          "example": "Loaded nachos were shared at the table."
+        },
+        {
+          "word": "QUESADILLA",
+          "meaning": "A tortilla filled with cheese and cooked until warm and crisp",
+          "example": "A chicken quesadilla was served with salsa."
+        },
+        {
+          "word": "FAJITA",
+          "meaning": "Grilled meat served with tortillas and various toppings",
+          "example": "Sizzling chicken fajitas arrived at the table."
+        },
+        {
+          "word": "CHIMICHANGA",
+          "meaning": "A filled tortilla that is deep-fried until crisp",
+          "example": "The beef chimichanga was served with guacamole."
+        },
+        {
+          "word": "PAELLA",
+          "meaning": "A Spanish rice dish traditionally cooked with meat or seafood",
+          "example": "Seafood paella filled the large pan."
+        },
+        {
+          "word": "TAPAS",
+          "meaning": "Small savory dishes traditionally served as Spanish appetizers",
+          "example": "They ordered several tapas to share."
+        },
+        {
+          "word": "GAZPACHO",
+          "meaning": "A cold Spanish soup made mainly from raw vegetables",
+          "example": "Chilled gazpacho was refreshing on the hot afternoon."
+        },
+        {
+          "word": "RISOTTO",
+          "meaning": "A creamy Italian rice dish cooked slowly with liquid",
+          "example": "Mushroom risotto was served as the main course."
+        },
+        {
+          "word": "GNOCCHI",
+          "meaning": "Small Italian dumplings commonly made from potatoes and flour",
+          "example": "Potato gnocchi was tossed with tomato sauce."
+        },
+        {
+          "word": "LASAGNA",
+          "meaning": "An Italian baked dish made with layers of pasta, sauce, and filling",
+          "example": "The lasagna had layers of cheese and meat sauce."
+        },
+        {
+          "word": "RAVIOLI",
+          "meaning": "Small pasta parcels filled with cheese, meat, or vegetables",
+          "example": "Cheese ravioli was served with butter sauce."
+        }
+      ]
+    },
+    {
+      "levelNumber": 20,
+      "title": "Food Level 20",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "SPAGHETTI",
+          "meaning": "Long thin strands of pasta",
+          "example": "Spaghetti was tossed with garlic and olive oil."
+        },
+        {
+          "word": "MACARONI",
+          "meaning": "Short curved tubes of pasta",
+          "example": "Baked macaroni was covered with melted cheese."
+        },
+        {
+          "word": "FETTUCCINE",
+          "meaning": "Flat ribbon-shaped pasta",
+          "example": "Creamy fettuccine was served with mushrooms."
+        },
+        {
+          "word": "LINGUINE",
+          "meaning": "Long flat narrow pasta similar to spaghetti",
+          "example": "Linguine was cooked with garlic and shrimp."
+        },
+        {
+          "word": "PENNE",
+          "meaning": "Short tube-shaped pasta with diagonally cut ends",
+          "example": "Penne was mixed with spicy tomato sauce."
+        },
+        {
+          "word": "CANNELLONI",
+          "meaning": "Large pasta tubes filled with savory ingredients",
+          "example": "Spinach cannelloni was baked with cheese."
+        },
+        {
+          "word": "CROISSANT",
+          "meaning": "A flaky crescent-shaped French pastry made with layered dough",
+          "example": "A buttery croissant was served for breakfast."
+        },
+        {
+          "word": "BAGUETTE",
+          "meaning": "A long thin French loaf with a crisp crust",
+          "example": "Fresh baguette was sliced for the table."
+        },
+        {
+          "word": "BRIOCHE",
+          "meaning": "A rich soft French bread made with eggs and butter",
+          "example": "The burger was served on a buttery brioche bun."
+        },
+        {
+          "word": "PRETZEL",
+          "meaning": "A twisted baked bread snack with a chewy texture",
+          "example": "A warm pretzel was sprinkled with salt."
+        },
+        {
+          "word": "BAGEL",
+          "meaning": "A ring-shaped bread that is boiled before baking",
+          "example": "She spread cream cheese on her toasted bagel."
+        }
+      ]
+    },
+    {
+      "levelNumber": 21,
+      "title": "Food Level 21",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "WAFFLE",
+          "meaning": "A crisp patterned cake cooked in a waffle iron",
+          "example": "Belgian waffles were topped with berries."
+        },
+        {
+          "word": "PANCAKE",
+          "meaning": "A thin round cake cooked from a batter on a hot surface",
+          "example": "Fluffy pancakes were served with maple syrup."
+        },
+        {
+          "word": "CREPE",
+          "meaning": "A very thin pancake that can be sweet or savory",
+          "example": "The chocolate crepe was filled with strawberries."
+        },
+        {
+          "word": "DONUT",
+          "meaning": "A sweet fried dough pastry often shaped like a ring",
+          "example": "He chose a glazed donut for breakfast."
+        },
+        {
+          "word": "BROWNIE",
+          "meaning": "A rich chocolate baked dessert with a dense texture",
+          "example": "The warm brownie was served with ice cream."
+        },
+        {
+          "word": "COOKIE",
+          "meaning": "A small sweet baked food usually made from dough",
+          "example": "Chocolate chip cookies filled the jar."
+        },
+        {
+          "word": "BISCUIT",
+          "meaning": "A small baked bread or sweet crisp food depending on the region",
+          "example": "Warm biscuits were served with butter."
+        },
+        {
+          "word": "CRACKER",
+          "meaning": "A thin crisp baked food often eaten with cheese or spreads",
+          "example": "She placed cheese on a salty cracker."
+        },
+        {
+          "word": "CUPCAKE",
+          "meaning": "A small individual cake baked in a paper cup",
+          "example": "The chocolate cupcake had vanilla frosting."
+        },
+        {
+          "word": "CHEESECAKE",
+          "meaning": "A dessert made with a creamy cheese-based filling",
+          "example": "Strawberry cheesecake was served after dinner."
+        },
+        {
+          "word": "TIRAMISU",
+          "meaning": "An Italian dessert made with coffee-soaked layers and mascarpone",
+          "example": "The tiramisu had a rich coffee flavor."
+        }
+      ]
+    },
+    {
+      "levelNumber": 22,
+      "title": "Food Level 22",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "GELATO",
+          "meaning": "An Italian-style frozen dessert similar to ice cream",
+          "example": "Pistachio gelato was served in a cup."
+        },
+        {
+          "word": "SORBET",
+          "meaning": "A frozen dessert made mainly from sweetened fruit juice or puree",
+          "example": "Lemon sorbet was light and refreshing."
+        },
+        {
+          "word": "PUDDING",
+          "meaning": "A soft sweet dessert with a creamy texture",
+          "example": "Chocolate pudding was served chilled."
+        },
+        {
+          "word": "CUSTARD",
+          "meaning": "A creamy mixture made mainly from eggs and milk",
+          "example": "Warm custard was poured over the fruit."
+        },
+        {
+          "word": "MOUSSE",
+          "meaning": "A light and airy sweet or savory preparation",
+          "example": "Chocolate mousse was served in small glasses."
+        },
+        {
+          "word": "PARFAIT",
+          "meaning": "A layered dessert often made with cream, fruit, or yogurt",
+          "example": "The berry parfait had layers of yogurt and fruit."
+        },
+        {
+          "word": "PUDDING",
+          "meaning": "A soft sweet dish commonly made with milk and sugar",
+          "example": "Vanilla pudding was topped with berries."
+        },
+        {
+          "word": "FLAN",
+          "meaning": "A baked custard dessert usually topped with caramel",
+          "example": "The creamy flan had a glossy caramel topping."
+        },
+        {
+          "word": "MACARON",
+          "meaning": "A small French sandwich cookie made from almond meringue",
+          "example": "Pastel macarons were arranged on the dessert plate."
+        },
+        {
+          "word": "MERINGUE",
+          "meaning": "A light mixture of whipped egg whites and sugar baked or used as topping",
+          "example": "The lemon pie was topped with toasted meringue."
+        },
+        {
+          "word": "FUDGE",
+          "meaning": "A rich soft candy made from sugar, butter, and milk",
+          "example": "Chocolate fudge was cut into small squares."
+        }
+      ]
+    },
+    {
+      "levelNumber": 23,
+      "title": "Food Level 23",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "CARAMEL",
+          "meaning": "A sweet substance made by heating sugar",
+          "example": "Warm caramel was drizzled over the ice cream."
+        },
+        {
+          "word": "TOFFEE",
+          "meaning": "A chewy or brittle candy made by cooking sugar with butter",
+          "example": "Crunchy toffee pieces were mixed into the dessert."
+        },
+        {
+          "word": "TAFFY",
+          "meaning": "A soft chewy candy made by stretching cooked sugar mixture",
+          "example": "The shop sold colorful fruit taffy."
+        },
+        {
+          "word": "CHOCOLATE",
+          "meaning": "A sweet food made from processed cocoa beans",
+          "example": "Dark chocolate melted into the warm milk."
+        },
+        {
+          "word": "COCOA",
+          "meaning": "Powder made from roasted and ground cocoa beans",
+          "example": "Cocoa was sprinkled over the dessert."
+        },
+        {
+          "word": "CANDY",
+          "meaning": "A sweet confection made mainly from sugar",
+          "example": "The children shared a bowl of candy."
+        },
+        {
+          "word": "LOLLIPOP",
+          "meaning": "A hard or chewy candy attached to a small stick",
+          "example": "The colorful lollipop lasted for several minutes."
+        },
+        {
+          "word": "GUMDROP",
+          "meaning": "A small chewy candy often coated with sugar",
+          "example": "Colorful gumdrops decorated the cake."
+        },
+        {
+          "word": "MARSHMALLOW",
+          "meaning": "A soft sweet confection made from sugar and gelatin",
+          "example": "A marshmallow melted over the hot cocoa."
+        },
+        {
+          "word": "JELLY",
+          "meaning": "A sweet spread made by cooking fruit juice with sugar",
+          "example": "Grape jelly was spread on the toast."
+        },
+        {
+          "word": "JAM",
+          "meaning": "A thick sweet spread made from cooked fruit and sugar",
+          "example": "Strawberry jam was spread over the bread."
+        }
+      ]
+    },
+    {
+      "levelNumber": 24,
+      "title": "Food Level 24",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "MARMALADE",
+          "meaning": "A citrus fruit preserve containing pieces of peel",
+          "example": "Orange marmalade was served with toast."
+        },
+        {
+          "word": "HONEY",
+          "meaning": "A sweet natural substance produced by bees",
+          "example": "Honey was drizzled over the yogurt."
+        },
+        {
+          "word": "MOLASSES",
+          "meaning": "A thick dark syrup produced during sugar processing",
+          "example": "Molasses gave the cookies a deep flavor."
+        },
+        {
+          "word": "SYRUP",
+          "meaning": "A thick sweet liquid commonly used as a topping or ingredient",
+          "example": "Maple syrup covered the pancakes."
+        },
+        {
+          "word": "MAPLE",
+          "meaning": "A tree whose sap is processed into a sweet syrup",
+          "example": "Pure maple syrup was poured over the waffles."
+        },
+        {
+          "word": "YOGURT",
+          "meaning": "A creamy food made by fermenting milk with beneficial bacteria",
+          "example": "Greek yogurt was topped with fresh berries."
+        },
+        {
+          "word": "CREAM",
+          "meaning": "The rich fatty part of milk used in many foods",
+          "example": "Whipped cream topped the hot chocolate."
+        },
+        {
+          "word": "BUTTER",
+          "meaning": "A spreadable dairy product made by churning cream",
+          "example": "Melted butter coated the warm corn."
+        },
+        {
+          "word": "MARGARINE",
+          "meaning": "A spread made mainly from vegetable oils or other fats",
+          "example": "Margarine was spread on the toast."
+        },
+        {
+          "word": "MILK",
+          "meaning": "A nutritious liquid produced by mammals and commonly consumed as a drink",
+          "example": "She poured cold milk over the cereal."
+        },
+        {
+          "word": "CREAMER",
+          "meaning": "A liquid or powdered ingredient added to coffee or tea",
+          "example": "He added vanilla creamer to his coffee."
+        }
+      ]
+    },
+    {
+      "levelNumber": 25,
+      "title": "Food Level 25",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "COTTAGECHEESE",
+          "meaning": "A soft fresh cheese made from milk curds",
+          "example": "Cottage cheese was served with sliced fruit."
+        },
+        {
+          "word": "MOZZARELLA",
+          "meaning": "A soft fresh cheese traditionally made from milk",
+          "example": "Fresh mozzarella topped the tomato salad."
+        },
+        {
+          "word": "CHEDDAR",
+          "meaning": "A firm cheese with a rich savory flavor",
+          "example": "Sharp cheddar melted over the burger."
+        },
+        {
+          "word": "GOUDA",
+          "meaning": "A semi-hard Dutch cheese with a mild buttery flavor",
+          "example": "Aged gouda was served with crackers."
+        },
+        {
+          "word": "PARMESAN",
+          "meaning": "A hard Italian cheese with a strong savory flavor",
+          "example": "Grated parmesan finished the pasta."
+        },
+        {
+          "word": "RICOTTA",
+          "meaning": "A soft Italian cheese with a mild creamy taste",
+          "example": "Ricotta filled the pasta shells."
+        },
+        {
+          "word": "FETA",
+          "meaning": "A crumbly salty cheese traditionally made from sheep or goat milk",
+          "example": "Feta was sprinkled over the Greek salad."
+        },
+        {
+          "word": "BRIE",
+          "meaning": "A soft French cheese with a pale edible rind",
+          "example": "Brie was served with crackers and fruit."
+        },
+        {
+          "word": "CAMEMBERT",
+          "meaning": "A soft French cheese with a white bloomy rind",
+          "example": "Baked camembert was served with bread."
+        },
+        {
+          "word": "BLUECHEESE",
+          "meaning": "A cheese containing blue-green veins created by mold cultures",
+          "example": "Blue cheese added a strong flavor to the salad."
+        },
+        {
+          "word": "GORGONZOLA",
+          "meaning": "An Italian blue cheese with a strong creamy flavor",
+          "example": "Gorgonzola was crumbled over the pear salad."
+        },
+        {
+          "word": "PROVOLONE",
+          "meaning": "A semi-hard Italian cheese with a mild savory taste",
+          "example": "Provolone melted nicely in the sandwich."
+        },
+        {
+          "word": "SALAMI",
+          "meaning": "A cured sausage made from seasoned meat",
+          "example": "Thin salami slices were added to the sandwich."
+        }
+      ]
+    },
+    {
+      "levelNumber": 26,
+      "title": "Food Level 26",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "PEPPERONI",
+          "meaning": "A spicy cured sausage commonly used as a pizza topping",
+          "example": "Pepperoni covered the cheese pizza."
+        },
+        {
+          "word": "PROSCIUTTO",
+          "meaning": "Thinly sliced Italian cured ham",
+          "example": "Prosciutto was wrapped around melon slices."
+        },
+        {
+          "word": "CHORIZO",
+          "meaning": "A strongly seasoned sausage commonly made from pork",
+          "example": "Spicy chorizo flavored the rice dish."
+        },
+        {
+          "word": "MEATBALL",
+          "meaning": "A rounded portion of seasoned ground meat",
+          "example": "The spaghetti was topped with meatballs."
+        },
+        {
+          "word": "MEATLOAF",
+          "meaning": "A baked dish made from seasoned ground meat",
+          "example": "Homemade meatloaf was served with mashed potatoes."
+        },
+        {
+          "word": "CUTLET",
+          "meaning": "A thin slice of meat or a meat substitute prepared for cooking",
+          "example": "The chicken cutlet was breaded and fried."
+        },
+        {
+          "word": "NUGGET",
+          "meaning": "A small piece of food, especially breaded chicken",
+          "example": "The children shared a box of chicken nuggets."
+        },
+        {
+          "word": "WINGS",
+          "meaning": "Chicken wing pieces commonly cooked with sauces or seasonings",
+          "example": "Spicy chicken wings were served with dip."
+        },
+        {
+          "word": "DRUMSTICK",
+          "meaning": "The lower leg portion of a chicken used as food",
+          "example": "A roasted drumstick was served with vegetables."
+        },
+        {
+          "word": "KEBAB",
+          "meaning": "Pieces of meat or vegetables cooked on a skewer or grill",
+          "example": "Grilled chicken kebab was served with rice."
+        },
+        {
+          "word": "SHAWARMA",
+          "meaning": "Seasoned meat roasted on a rotating spit and sliced for serving",
+          "example": "Chicken shawarma was wrapped in warm flatbread."
+        },
+        {
+          "word": "FALAFEL",
+          "meaning": "Deep-fried balls or patties made from ground legumes and herbs",
+          "example": "Falafel was stuffed into a pita with salad."
+        },
+        {
+          "word": "CURRY",
+          "meaning": "A dish prepared with spices and often a sauce",
+          "example": "The vegetable curry was served with rice."
+        }
+      ]
+    },
+    {
+      "levelNumber": 27,
+      "title": "Food Level 27",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "DAL",
+          "meaning": "A dish made from cooked lentils or other split legumes",
+          "example": "Warm dal was served with steamed rice."
+        },
+        {
+          "word": "BIRYANI",
+          "meaning": "A fragrant rice dish cooked with spices and meat or vegetables",
+          "example": "Chicken biryani was served with raita."
+        },
+        {
+          "word": "PILAF",
+          "meaning": "Rice cooked in seasoned broth with various ingredients",
+          "example": "Herbed rice pilaf accompanied the roast."
+        },
+        {
+          "word": "RISSOLE",
+          "meaning": "A small savory pastry or patty containing a cooked filling",
+          "example": "The vegetable rissole was served as a snack."
+        },
+        {
+          "word": "QUICHE",
+          "meaning": "A savory baked tart filled with eggs, cream, and other ingredients",
+          "example": "Spinach quiche was served for brunch."
+        },
+        {
+          "word": "OMELET",
+          "meaning": "A dish of beaten eggs cooked with various fillings",
+          "example": "The mushroom omelet was fluffy and hot."
+        },
+        {
+          "word": "FRITTATA",
+          "meaning": "An Italian egg dish cooked with vegetables, cheese, or meat",
+          "example": "The vegetable frittata was sliced for breakfast."
+        },
+        {
+          "word": "SCRAMBLE",
+          "meaning": "A dish of eggs stirred while cooking until softly set",
+          "example": "Cheesy scrambled eggs were served on toast."
+        },
+        {
+          "word": "POACHED",
+          "meaning": "Food gently cooked in liquid below the boiling point",
+          "example": "Poached eggs were served over toast."
+        },
+        {
+          "word": "FRIED",
+          "meaning": "Food cooked in hot oil or fat",
+          "example": "Fried potatoes were served with breakfast."
+        },
+        {
+          "word": "ROASTED",
+          "meaning": "Food cooked with dry heat, usually in an oven",
+          "example": "Roasted vegetables filled the baking tray."
+        },
+        {
+          "word": "GRILLED",
+          "meaning": "Food cooked directly over or under strong heat",
+          "example": "Grilled vegetables made a healthy side dish."
+        },
+        {
+          "word": "BAKED",
+          "meaning": "Food cooked by dry heat in an oven",
+          "example": "Freshly baked bread cooled on the counter."
+        }
+      ]
+    },
+    {
+      "levelNumber": 28,
+      "title": "Food Level 28",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "STEAMED",
+          "meaning": "Food cooked using hot water vapor",
+          "example": "Steamed vegetables retained their bright color."
+        },
+        {
+          "word": "BRAISED",
+          "meaning": "Food slowly cooked with a small amount of liquid",
+          "example": "Braised beef became tender after hours of cooking."
+        },
+        {
+          "word": "SMOKED",
+          "meaning": "Food preserved or flavored by exposure to smoke",
+          "example": "Smoked salmon was served on toast."
+        },
+        {
+          "word": "MARINATED",
+          "meaning": "Food soaked in a seasoned liquid before cooking",
+          "example": "The marinated chicken was ready for the grill."
+        },
+        {
+          "word": "TOAST",
+          "meaning": "Bread browned by exposure to heat",
+          "example": "Butter was spread over the warm toast."
+        },
+        {
+          "word": "SANDWICH",
+          "meaning": "Food consisting of filling placed between slices of bread",
+          "example": "She packed a turkey sandwich for lunch."
+        },
+        {
+          "word": "WRAP",
+          "meaning": "A soft flatbread wrapped around a filling",
+          "example": "The chicken wrap contained lettuce and sauce."
+        },
+        {
+          "word": "PANINI",
+          "meaning": "A grilled Italian-style sandwich made with bread and filling",
+          "example": "The mozzarella panini was pressed until crisp."
+        },
+        {
+          "word": "HOTDOG",
+          "meaning": "A cooked sausage served inside a long split bun",
+          "example": "The hot dog was topped with mustard."
+        },
+        {
+          "word": "SUBMARINE",
+          "meaning": "A long sandwich filled with meats, cheese, vegetables, or other ingredients",
+          "example": "He ordered a large turkey submarine sandwich."
+        },
+        {
+          "word": "BURRITO",
+          "meaning": "A tortilla wrapped around a filling such as beans, rice, or meat",
+          "example": "The breakfast burrito contained eggs and potatoes."
+        },
+        {
+          "word": "TOASTIE",
+          "meaning": "A toasted sandwich containing a warm filling",
+          "example": "A cheese toastie made a quick lunch."
+        },
+        {
+          "word": "PORRIDGE",
+          "meaning": "A soft hot dish made by cooking grains in liquid",
+          "example": "Warm oatmeal porridge was served with honey."
+        }
+      ]
+    },
+    {
+      "levelNumber": 29,
+      "title": "Food Level 29",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "OATMEAL",
+          "meaning": "A dish made by cooking oats in water or milk",
+          "example": "Banana slices were added to the oatmeal."
+        },
+        {
+          "word": "GRANOLA",
+          "meaning": "A toasted mixture of oats, nuts, seeds, and sweeteners",
+          "example": "Crunchy granola topped the yogurt."
+        },
+        {
+          "word": "CEREAL",
+          "meaning": "A breakfast food made from processed grains",
+          "example": "He poured milk over his cereal."
+        },
+        {
+          "word": "PANCAKES",
+          "meaning": "Flat round cakes cooked from a flour-based batter",
+          "example": "Blueberry pancakes were served with syrup."
+        },
+        {
+          "word": "WAFFLES",
+          "meaning": "Crisp patterned cakes cooked in a waffle iron",
+          "example": "Fresh waffles were topped with strawberries."
+        },
+        {
+          "word": "CROUTON",
+          "meaning": "A small piece of toasted or fried bread used in salads and soups",
+          "example": "Crunchy croutons topped the Caesar salad."
+        },
+        {
+          "word": "TORTILLA",
+          "meaning": "A thin flatbread made from corn or wheat flour",
+          "example": "The tortilla wrapped around the spicy filling."
+        },
+        {
+          "word": "PITA",
+          "meaning": "A round flatbread that can form a pocket when baked",
+          "example": "Warm pita was served with hummus."
+        },
+        {
+          "word": "NAAN",
+          "meaning": "A soft leavened flatbread commonly cooked in a hot oven",
+          "example": "Garlic naan accompanied the curry."
+        },
+        {
+          "word": "CHAPATI",
+          "meaning": "A thin unleavened flatbread made from wheat flour",
+          "example": "Fresh chapati was served with lentil curry."
+        },
+        {
+          "word": "PARATHA",
+          "meaning": "A layered Indian flatbread cooked on a griddle",
+          "example": "Aloo paratha was served with yogurt."
+        },
+        {
+          "word": "DOS",
+          "meaning": "A thin crisp fermented crepe made from rice and lentils",
+          "example": "Crispy dosa was served with coconut chutney."
+        },
+        {
+          "word": "IDLI",
+          "meaning": "A soft steamed cake made from fermented rice and lentil batter",
+          "example": "Steamed idli was served with sambar."
+        }
+      ]
+    },
+    {
+      "levelNumber": 30,
+      "title": "Food Level 30",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "UPMA",
+          "meaning": "A savory Indian dish made from cooked semolina",
+          "example": "Vegetable upma was served for breakfast."
+        },
+        {
+          "word": "POHA",
+          "meaning": "A savory Indian dish made from flattened rice",
+          "example": "Lemon and peanuts flavored the poha."
+        },
+        {
+          "word": "SAMOSA",
+          "meaning": "A crisp pastry filled with spiced vegetables or meat",
+          "example": "A hot potato samosa was served with chutney."
+        },
+        {
+          "word": "PAKORA",
+          "meaning": "A fritter made by coating ingredients in spiced chickpea batter",
+          "example": "Crispy onion pakoras were served with tea."
+        },
+        {
+          "word": "DHOKLA",
+          "meaning": "A soft steamed savory cake made from fermented batter",
+          "example": "Fresh dhokla was served with green chutney."
+        },
+        {
+          "word": "KHANDVI",
+          "meaning": "A soft Gujarati snack made from seasoned gram flour batter",
+          "example": "The khandvi was topped with mustard seeds."
+        },
+        {
+          "word": "THEPLA",
+          "meaning": "A spiced Gujarati flatbread often made with fenugreek leaves",
+          "example": "Methi thepla was packed for the journey."
+        },
+        {
+          "word": "KACHORI",
+          "meaning": "A crisp Indian pastry filled with a seasoned mixture",
+          "example": "Spicy kachori was served with chutney."
+        },
+        {
+          "word": "JALEBI",
+          "meaning": "A spiral-shaped Indian sweet made from fried batter and syrup",
+          "example": "Hot jalebi was served as a festive treat."
+        },
+        {
+          "word": "LADDOO",
+          "meaning": "A round Indian sweet made from flour, grains, nuts, or other ingredients",
+          "example": "A besan laddoo was served after dinner."
+        },
+        {
+          "word": "BARFI",
+          "meaning": "A dense Indian sweet usually made from milk, sugar, and flavorings",
+          "example": "Pistachio barfi was arranged on the dessert plate."
+        },
+        {
+          "word": "GULABJAMUN",
+          "meaning": "A soft fried milk-based sweet soaked in sugar syrup",
+          "example": "Warm gulab jamun was served with vanilla ice cream."
+        },
+        {
+          "word": "RASGULLA",
+          "meaning": "A soft round cheese-based sweet soaked in sugar syrup",
+          "example": "The rasgulla was soft and syrupy."
+        }
+      ]
+    },
+    {
+      "levelNumber": 31,
+      "title": "Food Level 31",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "KULFI",
+          "meaning": "A dense traditional Indian frozen milk dessert",
+          "example": "Mango kulfi was served after the meal."
+        },
+        {
+          "word": "HALWA",
+          "meaning": "A dense sweet dish made from grains, nuts, or vegetables",
+          "example": "Carrot halwa was served warm."
+        },
+        {
+          "word": "KHEER",
+          "meaning": "A sweet Indian pudding made by cooking milk with rice or other ingredients",
+          "example": "Rice kheer was flavored with cardamom."
+        },
+        {
+          "word": "PAYASAM",
+          "meaning": "A South Indian sweet pudding made with milk or other ingredients",
+          "example": "Creamy payasam was served during the celebration."
+        },
+        {
+          "word": "MODAK",
+          "meaning": "A sweet dumpling traditionally filled with coconut and jaggery",
+          "example": "Steamed modak was prepared for the festival."
+        },
+        {
+          "word": "PANIPURI",
+          "meaning": "A crisp hollow snack filled with flavored water and savory fillings",
+          "example": "They enjoyed spicy pani puri from the street vendor."
+        },
+        {
+          "word": "BHEL",
+          "meaning": "An Indian snack made with puffed rice, vegetables, and chutneys",
+          "example": "Tangy bhel was mixed just before serving."
+        },
+        {
+          "word": "CHAAT",
+          "meaning": "A category of Indian savory snacks combining crunchy and tangy ingredients",
+          "example": "The potato chaat was topped with chutneys."
+        },
+        {
+          "word": "RAITA",
+          "meaning": "A yogurt-based side dish mixed with vegetables, herbs, or spices",
+          "example": "Cool cucumber raita accompanied the biryani."
+        },
+        {
+          "word": "SAMOSA",
+          "meaning": "A fried pastry filled with seasoned ingredients",
+          "example": "The vegetable samosa was crispy and hot."
+        },
+        {
+          "word": "PANIYARAM",
+          "meaning": "Small South Indian savory or sweet balls cooked in a special pan",
+          "example": "Spiced paniyaram was served with coconut chutney."
+        },
+        {
+          "word": "APPAM",
+          "meaning": "A soft-centered South Indian fermented rice pancake",
+          "example": "Appam was served with vegetable stew."
+        },
+        {
+          "word": "VADA",
+          "meaning": "A savory fried Indian snack commonly made from lentil or flour batter",
+          "example": "Crispy vada was served with sambar."
+        }
+      ]
+    },
+    {
+      "levelNumber": 32,
+      "title": "Food Level 32",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SAMBHAR",
+          "meaning": "A South Indian lentil stew cooked with vegetables and spices",
+          "example": "Hot sambhar was poured over the idli."
+        },
+        {
+          "word": "RASAM",
+          "meaning": "A thin South Indian soup made with spices and often tamarind",
+          "example": "Pepper rasam was served with rice."
+        },
+        {
+          "word": "KORMA",
+          "meaning": "A rich dish of meat or vegetables cooked in a spiced creamy sauce",
+          "example": "Chicken korma was served with naan."
+        },
+        {
+          "word": "TIKKA",
+          "meaning": "Pieces of meat or vegetables marinated and cooked with spices",
+          "example": "Grilled chicken tikka was served with mint chutney."
+        },
+        {
+          "word": "TANDOORI",
+          "meaning": "Food cooked in a traditional clay oven called a tandoor",
+          "example": "Tandoori chicken had a smoky flavor."
+        },
+        {
+          "word": "PANEER",
+          "meaning": "A fresh firm Indian cheese made by curdling milk",
+          "example": "Paneer was cooked in a spicy tomato sauce."
+        },
+        {
+          "word": "KOFTA",
+          "meaning": "A ball or patty made from seasoned meat or vegetables",
+          "example": "Vegetable kofta was served in creamy gravy."
+        },
+        {
+          "word": "BHAJI",
+          "meaning": "An Indian dish of cooked vegetables seasoned with spices",
+          "example": "Mixed vegetable bhaji accompanied the bread."
+        },
+        {
+          "word": "JAGGERY",
+          "meaning": "An unrefined sweetener made from concentrated sugarcane juice",
+          "example": "Jaggery sweetened the traditional dessert."
+        },
+        {
+          "word": "SEMOLINA",
+          "meaning": "Coarse flour made from durum wheat",
+          "example": "Semolina was used to prepare the breakfast dish."
+        },
+        {
+          "word": "QUINOA",
+          "meaning": "A nutritious seed commonly cooked and eaten like a grain",
+          "example": "Quinoa was mixed with roasted vegetables."
+        },
+        {
+          "word": "BARLEY",
+          "meaning": "A cereal grain commonly used in soups and other foods",
+          "example": "Barley added texture to the vegetable soup."
+        },
+        {
+          "word": "RYE",
+          "meaning": "A cereal grain commonly used to make bread",
+          "example": "Rye bread was served with the soup."
+        }
+      ]
+    },
+    {
+      "levelNumber": 33,
+      "title": "Food Level 33",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "MILLET",
+          "meaning": "A group of small-seeded cereal grains used as food",
+          "example": "Millet porridge made a hearty breakfast."
+        },
+        {
+          "word": "BUCKWHEAT",
+          "meaning": "A seed used like a grain despite not being a true cereal",
+          "example": "Buckwheat flour was used for the pancakes."
+        },
+        {
+          "word": "CHIA",
+          "meaning": "Small edible seeds often added to cereals, drinks, and desserts",
+          "example": "Chia seeds were mixed into the pudding."
+        },
+        {
+          "word": "FLAX",
+          "meaning": "A plant whose edible seeds are used in many foods",
+          "example": "Ground flax was added to the smoothie."
+        },
+        {
+          "word": "SESAME",
+          "meaning": "A small seed used as a topping, seasoning, or ingredient",
+          "example": "Sesame seeds coated the bread roll."
+        },
+        {
+          "word": "POPPY",
+          "meaning": "A tiny seed used in baking and cooking",
+          "example": "Poppy seeds were sprinkled over the pastry."
+        },
+        {
+          "word": "SUNFLOWER",
+          "meaning": "A plant whose edible seeds are commonly eaten as a snack",
+          "example": "Sunflower seeds added crunch to the salad."
+        },
+        {
+          "word": "PEANUTBUTTER",
+          "meaning": "A spread made from ground roasted peanuts",
+          "example": "Peanut butter was spread on the toast."
+        },
+        {
+          "word": "ALMONDBUTTER",
+          "meaning": "A creamy spread made from ground almonds",
+          "example": "Almond butter was added to the smoothie."
+        },
+        {
+          "word": "HAZELNUTSPREAD",
+          "meaning": "A sweet spread made with hazelnuts and other ingredients",
+          "example": "Hazelnut spread was layered between the toast."
+        },
+        {
+          "word": "GRAVY",
+          "meaning": "A savory liquid sauce commonly served with meat or vegetables",
+          "example": "Brown gravy covered the mashed potatoes."
+        },
+        {
+          "word": "BROTH",
+          "meaning": "A flavorful liquid made by simmering meat, vegetables, or bones",
+          "example": "Chicken broth formed the base of the soup."
+        },
+        {
+          "word": "STOCK",
+          "meaning": "A flavorful cooking liquid made by simmering bones, meat, or vegetables",
+          "example": "Vegetable stock was used for the risotto."
+        }
+      ]
+    },
+    {
+      "levelNumber": 34,
+      "title": "Food Level 34",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "BISQUE",
+          "meaning": "A smooth rich soup traditionally made from shellfish",
+          "example": "The lobster bisque was creamy and flavorful."
+        },
+        {
+          "word": "CHOWDER",
+          "meaning": "A thick soup often containing seafood, vegetables, and milk",
+          "example": "Clam chowder was served with crackers."
+        },
+        {
+          "word": "GALETTE",
+          "meaning": "A rustic French pastry that can contain sweet or savory fillings",
+          "example": "The apple galette had a crisp golden crust."
+        },
+        {
+          "word": "STRUDEL",
+          "meaning": "A pastry made with thin layers of dough wrapped around a filling",
+          "example": "Warm apple strudel was served with cream."
+        },
+        {
+          "word": "TART",
+          "meaning": "A baked pastry with a filling and an open top",
+          "example": "The lemon tart had a crisp crust."
+        },
+        {
+          "word": "PIE",
+          "meaning": "A baked dish with a pastry crust surrounding a sweet or savory filling",
+          "example": "Apple pie was served with vanilla ice cream."
+        },
+        {
+          "word": "TURNOVER",
+          "meaning": "A pastry made by folding dough around a sweet or savory filling",
+          "example": "A warm apple turnover was served for breakfast."
+        },
+        {
+          "word": "ECLAIR",
+          "meaning": "A long French pastry filled with cream and topped with icing",
+          "example": "The chocolate \u00e9clair had a creamy center."
+        },
+        {
+          "word": "DANISH",
+          "meaning": "A sweet layered pastry often filled with fruit or cream",
+          "example": "She chose a cherry Danish with her coffee."
+        },
+        {
+          "word": "SCONE",
+          "meaning": "A small baked bread commonly served with butter or jam",
+          "example": "A warm blueberry scone was served with tea."
+        },
+        {
+          "word": "SHORTBREAD",
+          "meaning": "A crumbly biscuit made mainly with butter, sugar, and flour",
+          "example": "The buttery shortbread melted in her mouth."
+        },
+        {
+          "word": "GINGERBREAD",
+          "meaning": "A sweet baked food flavored with ginger and spices",
+          "example": "The gingerbread smelled wonderful during baking."
+        },
+        {
+          "word": "PANETTONE",
+          "meaning": "A tall Italian sweet bread containing dried fruit",
+          "example": "Panettone was sliced for the holiday breakfast."
+        }
+      ]
+    },
+    {
+      "levelNumber": 35,
+      "title": "Food Level 35",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "STOLLEN",
+          "meaning": "A German fruit bread traditionally made with dried fruit and nuts",
+          "example": "Slices of stollen were served with coffee."
+        },
+        {
+          "word": "PAVLOVA",
+          "meaning": "A dessert made from crisp meringue with a soft center and fruit topping",
+          "example": "The pavlova was topped with berries and cream."
+        },
+        {
+          "word": "TRIFLE",
+          "meaning": "A layered dessert made with cake, fruit, custard, and cream",
+          "example": "The berry trifle was served in a glass bowl."
+        },
+        {
+          "word": "BANANABREAD",
+          "meaning": "A moist sweet loaf made with mashed ripe bananas",
+          "example": "Warm banana bread was served with butter."
+        },
+        {
+          "word": "CARROTCAKE",
+          "meaning": "A moist cake made with grated carrots and often topped with cream cheese frosting",
+          "example": "The carrot cake had a thick cream cheese topping."
+        },
+        {
+          "word": "REDCURRANT",
+          "meaning": "A small bright red berry with a tart flavor",
+          "example": "Redcurrants were added to the fruit tart."
+        },
+        {
+          "word": "GOOSEBERRY",
+          "meaning": "A small green or red berry with a tart flavor",
+          "example": "Gooseberries were cooked into a sweet dessert."
+        },
+        {
+          "word": "MULBERRY",
+          "meaning": "A small berry that can be black, red, or white when ripe",
+          "example": "Fresh mulberries were added to the breakfast bowl."
+        },
+        {
+          "word": "NECTARINE",
+          "meaning": "A smooth-skinned fruit closely related to the peach",
+          "example": "A juicy nectarine made a refreshing snack."
+        },
+        {
+          "word": "TANGERINE",
+          "meaning": "A small orange citrus fruit with easy-to-peel skin",
+          "example": "She peeled a sweet tangerine after lunch."
+        },
+        {
+          "word": "GRAPEFRUIT",
+          "meaning": "A large citrus fruit with juicy segments and a tart flavor",
+          "example": "Half a grapefruit was served at breakfast."
+        },
+        {
+          "word": "MANDARIN",
+          "meaning": "A small sweet citrus fruit with loose easy-to-peel skin",
+          "example": "Mandarin segments were added to the salad."
+        },
+        {
+          "word": "STARFRUIT",
+          "meaning": "A tropical fruit with ridges that form a star shape when sliced",
+          "example": "Starfruit slices decorated the fruit platter."
+        }
+      ]
+    }
+  ]
+}

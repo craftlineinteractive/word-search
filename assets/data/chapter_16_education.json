@@ -1,0 +1,2144 @@
+{
+  "id": 16,
+  "key": "education",
+  "title": "Education",
+  "iconAsset": "assets/chapter_images/education.png",
+  "themeColor": 4282339765,
+  "levels": [
+    {
+      "levelNumber": 1,
+      "title": "Education Level 1",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "ACADEMIA",
+          "meaning": "A term relating to Education.",
+          "example": "Scholars in academia published research papers."
+        },
+        {
+          "word": "CURRICULUM",
+          "meaning": "A term relating to Education.",
+          "example": "The updated STEM curriculum included robotics."
+        },
+        {
+          "word": "PEDAGOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Innovative pedagogy engaged students in active learning."
+        },
+        {
+          "word": "UNIVERSITY",
+          "meaning": "A term relating to Education.",
+          "example": "The historic university celebrated its centennial."
+        },
+        {
+          "word": "COLLEGE",
+          "meaning": "A term relating to Education.",
+          "example": "Graduates applied to liberal arts colleges."
+        },
+        {
+          "word": "ACADEMY",
+          "meaning": "A term relating to Education.",
+          "example": "The science academy hosted regional physics fairs."
+        },
+        {
+          "word": "FACULTY",
+          "meaning": "A term relating to Education.",
+          "example": "Faculty members convened for annual research reviews."
+        },
+        {
+          "word": "SEMINARY",
+          "meaning": "A term relating to Education.",
+          "example": "Seminary scholars studied biblical languages."
+        }
+      ]
+    },
+    {
+      "levelNumber": 2,
+      "title": "Education Level 2",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "POLYTECHNIC",
+          "meaning": "A term relating to Education.",
+          "example": "Polytechnic institutes trained network engineers."
+        },
+        {
+          "word": "SYLLABUS",
+          "meaning": "A term relating to Education.",
+          "example": "The professor distributed the semester syllabus."
+        },
+        {
+          "word": "GRADUATION",
+          "meaning": "A term relating to Education.",
+          "example": "Graduation ceremony honored senior class achievements."
+        },
+        {
+          "word": "DIPLOMA",
+          "meaning": "A term relating to Education.",
+          "example": "He proudly framed his high school diploma."
+        },
+        {
+          "word": "DEGREE",
+          "meaning": "A term relating to Education.",
+          "example": "She completed her master's degree in economics."
+        },
+        {
+          "word": "DOCTORATE",
+          "meaning": "A term relating to Education.",
+          "example": "Defending dissertation earned him a doctorate."
+        },
+        {
+          "word": "LECTURE",
+          "meaning": "A term relating to Education.",
+          "example": "Students took notes during the physics lecture."
+        },
+        {
+          "word": "TUTORIAL",
+          "meaning": "A term relating to Education.",
+          "example": "Weekly tutorial sessions reinforced math concepts."
+        }
+      ]
+    },
+    {
+      "levelNumber": 3,
+      "title": "Education Level 3",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "COLLOQUIUM",
+          "meaning": "A term relating to Education.",
+          "example": "The biology department hosted a genetics colloquium."
+        },
+        {
+          "word": "SYMPOSIA",
+          "meaning": "A term relating to Education.",
+          "example": "International symposia brought top astronomers together."
+        },
+        {
+          "word": "SEMINARIAN",
+          "meaning": "A term relating to Education.",
+          "example": "The seminarian delivered an insightful homily."
+        },
+        {
+          "word": "VALEDICTORIAN",
+          "meaning": "A term relating to Education.",
+          "example": "The valedictorian inspired classmates with her speech."
+        },
+        {
+          "word": "SALUTATORIAN",
+          "meaning": "A term relating to Education.",
+          "example": "The salutatorian welcomed guests to commencement."
+        },
+        {
+          "word": "ALUMNUS",
+          "meaning": "A term relating to Education.",
+          "example": "The distinguished alumnus funded a new library wing."
+        },
+        {
+          "word": "ALUMNA",
+          "meaning": "A term relating to Education.",
+          "example": "The alumna returned to lecture on environmental law."
+        },
+        {
+          "word": "MATRICULATION",
+          "meaning": "A term relating to Education.",
+          "example": "Matriculation ceremony welcomed the freshman class."
+        }
+      ]
+    },
+    {
+      "levelNumber": 4,
+      "title": "Education Level 4",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CONVOCATION",
+          "meaning": "A term relating to Education.",
+          "example": "The autumn convocation opened the academic year."
+        },
+        {
+          "word": "BIOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Cellular biology examined DNA replication steps."
+        },
+        {
+          "word": "GENETICS",
+          "meaning": "A term relating to Education.",
+          "example": "Genetics labs mapped plant genome sequences."
+        },
+        {
+          "word": "NEUROSCIENCE",
+          "meaning": "A term relating to Education.",
+          "example": "Neuroscience explored memory formation mechanisms."
+        },
+        {
+          "word": "BIOCHEMISTRY",
+          "meaning": "A term relating to Education.",
+          "example": "Biochemistry lab tested enzyme reaction rates."
+        },
+        {
+          "word": "CHEMISTRY",
+          "meaning": "A term relating to Education.",
+          "example": "Organic chemistry analyzed carbon molecule bonds."
+        },
+        {
+          "word": "ALGEBRA",
+          "meaning": "A term relating to Education.",
+          "example": "Solving linear equations is fundamental in algebra."
+        },
+        {
+          "word": "GEOMETRY",
+          "meaning": "A term relating to Education.",
+          "example": "Geometry proofs calculated triangle angles."
+        }
+      ]
+    },
+    {
+      "levelNumber": 5,
+      "title": "Education Level 5",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CALCULUS",
+          "meaning": "A term relating to Education.",
+          "example": "Differential calculus modeled acceleration curves."
+        },
+        {
+          "word": "TRIGONOMETRY",
+          "meaning": "A term relating to Education.",
+          "example": "Trigonometry functions calculated sine waves."
+        },
+        {
+          "word": "SOCIOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Sociology research analyzed urban population trends."
+        },
+        {
+          "word": "PSYCHOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Cognitive psychology studied visual perception patterns."
+        },
+        {
+          "word": "ANTHROPOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Cultural anthropology documented oral traditions."
+        },
+        {
+          "word": "PHILOSOPHY",
+          "meaning": "A term relating to Education.",
+          "example": "Ethics and logic form core branches of philosophy."
+        },
+        {
+          "word": "EPISTEMOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Epistemology questioned the nature of empirical truth."
+        },
+        {
+          "word": "ETHICS",
+          "meaning": "A term relating to Education.",
+          "example": "Medical ethics guided clinical trial regulations."
+        }
+      ]
+    },
+    {
+      "levelNumber": 6,
+      "title": "Education Level 6",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "LOGIC",
+          "meaning": "A term relating to Education.",
+          "example": "Formal logic evaluated argument validity."
+        },
+        {
+          "word": "LINGUISTICS",
+          "meaning": "A term relating to Education.",
+          "example": "Phonetics is a subfield of structural linguistics."
+        },
+        {
+          "word": "GEOGRAPHY",
+          "meaning": "A term relating to Education.",
+          "example": "Cartography is an essential skill in physical geography."
+        },
+        {
+          "word": "METEOROLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Meteorology models predicted severe storm paths."
+        },
+        {
+          "word": "OCEANOGRAPHY",
+          "meaning": "A term relating to Education.",
+          "example": "Deep sea oceanography mapped subterranean ridges."
+        },
+        {
+          "word": "EPIGRAPHY",
+          "meaning": "A term relating to Education.",
+          "example": "Epigraphy decoded stone tablet carvings."
+        },
+        {
+          "word": "DEMOGRAPHY",
+          "meaning": "A term relating to Education.",
+          "example": "Demography mapped population growth patterns."
+        },
+        {
+          "word": "CRIMINOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Criminology research analyzed rehabilitation success."
+        }
+      ]
+    },
+    {
+      "levelNumber": 7,
+      "title": "Education Level 7",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CARTOGRAPHY",
+          "meaning": "A term relating to Education.",
+          "example": "Digital cartography rendered terrain elevation maps."
+        },
+        {
+          "word": "DERMATOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Dermatology research studied skin cell renewal."
+        },
+        {
+          "word": "TOXICOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Environmental toxicology tested river water samples."
+        },
+        {
+          "word": "VIROLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Molecular virology researched viral replication."
+        },
+        {
+          "word": "CYTOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Clinical cytology examined cellular tissue samples."
+        },
+        {
+          "word": "HISTOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Histology slides showed cell membrane structures."
+        },
+        {
+          "word": "PHYSIOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Exercise physiology measured heart rate recovery."
+        },
+        {
+          "word": "ANATOMY",
+          "meaning": "A term relating to Education.",
+          "example": "Human anatomy lab examined skeletal joints."
+        }
+      ]
+    },
+    {
+      "levelNumber": 8,
+      "title": "Education Level 8",
+      "gridRows": 16,
+      "gridCols": 16,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "ASTRONAUTICS",
+          "meaning": "A term relating to Education.",
+          "example": "Astronautics engineering designed orbital probes."
+        },
+        {
+          "word": "HYDROLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Basin hydrology calculated river runoff volumes."
+        },
+        {
+          "word": "GEOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Structural geology analyzed fault line shifts."
+        },
+        {
+          "word": "SEISMOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Seismology stations detected tectonic vibrations."
+        },
+        {
+          "word": "VOLCANOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Volcanology sensor recorded magma chamber pressure."
+        },
+        {
+          "word": "GLACIOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Glaciology core samples measured paleoclimate ice."
+        },
+        {
+          "word": "CRYSTALLOGRAPHY",
+          "meaning": "A term relating to Education.",
+          "example": "X-ray crystallography determined protein structures."
+        },
+        {
+          "word": "STRATIGRAPHY",
+          "meaning": "A term relating to Education.",
+          "example": "Stratigraphy mapping dated sedimentary rock beds."
+        }
+      ]
+    },
+    {
+      "levelNumber": 9,
+      "title": "Education Level 9",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CYBERNETICS",
+          "meaning": "A term relating to Education.",
+          "example": "Cybernetics models simulated neural feedback loops."
+        },
+        {
+          "word": "PROFESSOR",
+          "meaning": "A term relating to Education.",
+          "example": "The tenure professor published a groundbreaking textbook."
+        },
+        {
+          "word": "LECTURER",
+          "meaning": "A term relating to Education.",
+          "example": "The senior lecturer led introductory history modules."
+        },
+        {
+          "word": "RESEARCHER",
+          "meaning": "A term relating to Education.",
+          "example": "Postdoctoral researchers conducted gene editing trials."
+        },
+        {
+          "word": "HEADMASTER",
+          "meaning": "A term relating to Education.",
+          "example": "The headmaster addressed student assembly in morning."
+        },
+        {
+          "word": "HEADMISTRESS",
+          "meaning": "A term relating to Education.",
+          "example": "The headmistress commended academic excellence awards."
+        },
+        {
+          "word": "DEAN",
+          "meaning": "A term relating to Education.",
+          "example": "The dean of engineering approved new research labs."
+        },
+        {
+          "word": "PROVOST",
+          "meaning": "A term relating to Education.",
+          "example": "The university provost oversaw faculty appointments."
+        }
+      ]
+    },
+    {
+      "levelNumber": 10,
+      "title": "Education Level 10",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "CHANCELLOR",
+          "meaning": "A term relating to Education.",
+          "example": "The university chancellor conferred degrees."
+        },
+        {
+          "word": "RECTOR",
+          "meaning": "A term relating to Education.",
+          "example": "The university rector delivered the inaugural address."
+        },
+        {
+          "word": "TUTOR",
+          "meaning": "A term relating to Education.",
+          "example": "Math tutor helped student master calculus integrals."
+        },
+        {
+          "word": "PEDAGOGUE",
+          "meaning": "A term relating to Education.",
+          "example": "The pedagogue insisted on precise Latin declensions."
+        },
+        {
+          "word": "UNDERGRADUATE",
+          "meaning": "A term relating to Education.",
+          "example": "Undergraduate students lived in campus dormitories."
+        },
+        {
+          "word": "POSTGRADUATE",
+          "meaning": "A term relating to Education.",
+          "example": "Postgraduate researchers published in peer-reviewed journals."
+        },
+        {
+          "word": "FRESHMAN",
+          "meaning": "A term relating to Education.",
+          "example": "Freshman orientation introduced campus tools."
+        },
+        {
+          "word": "SOPHOMORE",
+          "meaning": "A term relating to Education.",
+          "example": "Sophomore students selected their major fields."
+        },
+        {
+          "word": "JUNIOR",
+          "meaning": "A term relating to Education.",
+          "example": "Junior year students prepared for college entrance exams."
+        }
+      ]
+    },
+    {
+      "levelNumber": 11,
+      "title": "Education Level 11",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "SENIOR",
+          "meaning": "A term relating to Education.",
+          "example": "Senior thesis defense was scheduled for May."
+        },
+        {
+          "word": "REGISTRAR",
+          "meaning": "A term relating to Education.",
+          "example": "The university registrar issued official transcripts."
+        },
+        {
+          "word": "PROCTOR",
+          "meaning": "A term relating to Education.",
+          "example": "The exam proctor checked student identification cards."
+        },
+        {
+          "word": "PRECEPTOR",
+          "meaning": "A term relating to Education.",
+          "example": "Clinical preceptor supervised medical student rounds."
+        },
+        {
+          "word": "BURSAR",
+          "meaning": "A term relating to Education.",
+          "example": "The college bursar managed tuition fee payments."
+        },
+        {
+          "word": "COMPTROLLER",
+          "meaning": "A term relating to Education.",
+          "example": "University comptroller audited department budgets."
+        },
+        {
+          "word": "PREFECT",
+          "meaning": "A term relating to Education.",
+          "example": "School prefect maintained order in hallway corridors."
+        },
+        {
+          "word": "INVIGILATOR",
+          "meaning": "A term relating to Education.",
+          "example": "Exam invigilator distributed sealed test papers."
+        },
+        {
+          "word": "DEBATER",
+          "meaning": "A term relating to Education.",
+          "example": "Varsity debater presented rebuttal arguments."
+        }
+      ]
+    },
+    {
+      "levelNumber": 12,
+      "title": "Education Level 12",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "FELLOW",
+          "meaning": "A term relating to Education.",
+          "example": "Research fellow published findings in science journal."
+        },
+        {
+          "word": "LECTOR",
+          "meaning": "A term relating to Education.",
+          "example": "Language lector conducted oral fluency practice."
+        },
+        {
+          "word": "TRAINEE",
+          "meaning": "A term relating to Education.",
+          "example": "Teacher trainee completed classroom student teaching."
+        },
+        {
+          "word": "CAMPUS",
+          "meaning": "A term relating to Education.",
+          "example": "Students walked across the sunny campus green."
+        },
+        {
+          "word": "DORMITORY",
+          "meaning": "A term relating to Education.",
+          "example": "Freshmen lived in the newly renovated dormitory."
+        },
+        {
+          "word": "LECTUREHALL",
+          "meaning": "A term relating to Education.",
+          "example": "The tiered lecturehall seated three hundred students."
+        },
+        {
+          "word": "GYMNASIUM",
+          "meaning": "A term relating to Education.",
+          "example": "Physical education classes met in the gymnasium."
+        },
+        {
+          "word": "RECTORY",
+          "meaning": "A term relating to Education.",
+          "example": "The historical rectory stood near campus chapel."
+        },
+        {
+          "word": "DEANERY",
+          "meaning": "A term relating to Education.",
+          "example": "Faculty meeting convened in the deanery conference room."
+        }
+      ]
+    },
+    {
+      "levelNumber": 13,
+      "title": "Education Level 13",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "AMPHITHEATER",
+          "meaning": "A term relating to Education.",
+          "example": "Medical students watched surgery in the amphitheater."
+        },
+        {
+          "word": "QUADRANGLE",
+          "meaning": "A term relating to Education.",
+          "example": "Students gathered on the quadrangle lawn to study."
+        },
+        {
+          "word": "PLANETARIUM",
+          "meaning": "A term relating to Education.",
+          "example": "Astronomy class visited local planetarium show."
+        },
+        {
+          "word": "OBSERVATORY",
+          "meaning": "A term relating to Education.",
+          "example": "Mountain observatory tracked distant galaxy movements."
+        },
+        {
+          "word": "SCRIPTORTIUM",
+          "meaning": "A term relating to Education.",
+          "example": "Medieval scriptorium produced handwritten illuminated texts."
+        },
+        {
+          "word": "ROTUNDA",
+          "meaning": "A term relating to Education.",
+          "example": "Central campus library featured a grand rotunda dome."
+        },
+        {
+          "word": "CONSERVATORY",
+          "meaning": "A term relating to Education.",
+          "example": "Talented violinist attended prestigious music conservatory."
+        },
+        {
+          "word": "INFIRMARY",
+          "meaning": "A term relating to Education.",
+          "example": "Students with flu visited campus infirmary."
+        },
+        {
+          "word": "CLASSROOM",
+          "meaning": "A term relating to Education.",
+          "example": "Interactive smartboards upgraded every campus classroom."
+        }
+      ]
+    },
+    {
+      "levelNumber": 14,
+      "title": "Education Level 14",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "EMPIRICISM",
+          "meaning": "A term relating to Education.",
+          "example": "Scientific empiricism relies on observational data."
+        },
+        {
+          "word": "THEOREM",
+          "meaning": "A term relating to Education.",
+          "example": "Pythagorean theorem calculates right triangle sides."
+        },
+        {
+          "word": "POSTULATE",
+          "meaning": "A term relating to Education.",
+          "example": "Euclid postulate established geometry foundational axioms."
+        },
+        {
+          "word": "COROLLARY",
+          "meaning": "A term relating to Education.",
+          "example": "Corollary directly derived from previous geometric theorem."
+        },
+        {
+          "word": "LEMMA",
+          "meaning": "A term relating to Education.",
+          "example": "Mathematical proof required solving technical lemma first."
+        },
+        {
+          "word": "PRAXIS",
+          "meaning": "A term relating to Education.",
+          "example": "Educational praxis translated learning theory to practice."
+        },
+        {
+          "word": "PEDAGOGICS",
+          "meaning": "A term relating to Education.",
+          "example": "University course covered progressive pedagogics history."
+        },
+        {
+          "word": "DIDACTICS",
+          "meaning": "A term relating to Education.",
+          "example": "Effective didactics improved student retention rates."
+        },
+        {
+          "word": "ERUDITION",
+          "meaning": "A term relating to Education.",
+          "example": "Professor erudition impressed conference attendees."
+        }
+      ]
+    },
+    {
+      "levelNumber": 15,
+      "title": "Education Level 15",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "NUMERACY",
+          "meaning": "A term relating to Education.",
+          "example": "Basic numeracy is essential for STEM education."
+        },
+        {
+          "word": "DISCIPLINE",
+          "meaning": "A term relating to Education.",
+          "example": "Interdisciplinary studies crossed traditional science disciplines."
+        },
+        {
+          "word": "TUITION",
+          "meaning": "A term relating to Education.",
+          "example": "Merit scholarship covered full annual tuition fees."
+        },
+        {
+          "word": "MATRICULATE",
+          "meaning": "A term relating to Education.",
+          "example": "Freshmen will matriculate during formal ceremony."
+        },
+        {
+          "word": "GRADUATE",
+          "meaning": "A term relating to Education.",
+          "example": "University graduate accepted research position."
+        },
+        {
+          "word": "CONFER",
+          "meaning": "A term relating to Education.",
+          "example": "Chancellor will confer degrees at commencement."
+        },
+        {
+          "word": "COMMENCE",
+          "meaning": "A term relating to Education.",
+          "example": "Commencement exercises celebrate academic completion."
+        },
+        {
+          "word": "INAUGURATE",
+          "meaning": "A term relating to Education.",
+          "example": "University inaugurated new nanotechnology laboratory."
+        },
+        {
+          "word": "DEFEND",
+          "meaning": "A term relating to Education.",
+          "example": "PhD candidate will defend dissertation on Monday."
+        }
+      ]
+    },
+    {
+      "levelNumber": 16,
+      "title": "Education Level 16",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "VIVA",
+          "meaning": "A term relating to Education.",
+          "example": "Doctoral viva tested candidate deep subject knowledge."
+        },
+        {
+          "word": "REFERENCE",
+          "meaning": "A term relating to Education.",
+          "example": "Bibliography listed every reference cited in text."
+        },
+        {
+          "word": "PRECIS",
+          "meaning": "A term relating to Education.",
+          "example": "Students wrote concise precis of lengthy essay."
+        },
+        {
+          "word": "TREATISE",
+          "meaning": "A term relating to Education.",
+          "example": "Newton wrote groundbreaking treatise on optics."
+        },
+        {
+          "word": "ONOMASTICS",
+          "meaning": "A term relating to Education.",
+          "example": "Onomastics research traced surname geographical origins."
+        },
+        {
+          "word": "PROSODY",
+          "meaning": "A term relating to Education.",
+          "example": "Poetry module analyzed meter and prosody forms."
+        },
+        {
+          "word": "EXAMINATION",
+          "meaning": "A term relating to Education.",
+          "example": "Final examination covered all semester course material."
+        },
+        {
+          "word": "CERTIFICATION",
+          "meaning": "A term relating to Education.",
+          "example": "Teacher certification required passing state board exams."
+        },
+        {
+          "word": "QUALIFICATION",
+          "meaning": "A term relating to Education.",
+          "example": "Higher academic qualification opened advanced career paths."
+        }
+      ]
+    },
+    {
+      "levelNumber": 17,
+      "title": "Education Level 17",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "CAPSTONE",
+          "meaning": "A term relating to Education.",
+          "example": "Engineering seniors presented capstone design project."
+        },
+        {
+          "word": "PREREQUISITE",
+          "meaning": "A term relating to Education.",
+          "example": "Calculus I is prerequisite for advanced physics."
+        },
+        {
+          "word": "ASSIGNMENT",
+          "meaning": "A term relating to Education.",
+          "example": "Weekly homework assignment was submitted online."
+        },
+        {
+          "word": "QUIZ",
+          "meaning": "A term relating to Education.",
+          "example": "Pop quiz checked reading comprehension of assignment."
+        },
+        {
+          "word": "MIDTERM",
+          "meaning": "A term relating to Education.",
+          "example": "Midterm exam covered first six lecture topics."
+        },
+        {
+          "word": "VIVAVOCE",
+          "meaning": "A term relating to Education.",
+          "example": "Medical students completed vivavoce anatomy testing."
+        },
+        {
+          "word": "GRADING",
+          "meaning": "A term relating to Education.",
+          "example": "Professors spent weekend grading term research papers."
+        },
+        {
+          "word": "RUBRIC",
+          "meaning": "A term relating to Education.",
+          "example": "Grading rubric specified criteria for essay scoring."
+        },
+        {
+          "word": "PERCENTILE",
+          "meaning": "A term relating to Education.",
+          "example": "Standardized test score ranked in top percentile."
+        }
+      ]
+    },
+    {
+      "levelNumber": 18,
+      "title": "Education Level 18",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "STANINE",
+          "meaning": "A term relating to Education.",
+          "example": "Reading assessment reported results in stanine scores."
+        },
+        {
+          "word": "CURVING",
+          "meaning": "A term relating to Education.",
+          "example": "Professor applied grade curving to tough exam."
+        },
+        {
+          "word": "PROCTORING",
+          "meaning": "A term relating to Education.",
+          "example": "Online proctoring verified remote test integrity."
+        },
+        {
+          "word": "CREDITS",
+          "meaning": "A term relating to Education.",
+          "example": "Student needed 120 credits to earn degree."
+        },
+        {
+          "word": "DEGREES",
+          "meaning": "A term relating to Education.",
+          "example": "University conferred undergraduate and master degrees."
+        },
+        {
+          "word": "SEMESTERS",
+          "meaning": "A term relating to Education.",
+          "example": "Academic year divided into fall and spring semesters."
+        },
+        {
+          "word": "TRIMESTERS",
+          "meaning": "A term relating to Education.",
+          "example": "Medical school structured curriculum into three trimesters."
+        },
+        {
+          "word": "INSTRUCTION",
+          "meaning": "A term relating to Education.",
+          "example": "Direct instruction provided step-by-step problem solving."
+        },
+        {
+          "word": "APPRENTICESHIP",
+          "meaning": "A term relating to Education.",
+          "example": "Technical apprenticeship combined study with lab work."
+        },
+        {
+          "word": "INTERNSHIP",
+          "meaning": "A term relating to Education.",
+          "example": "Summer internship gave practical industry experience."
+        },
+        {
+          "word": "PRACTICUM",
+          "meaning": "A term relating to Education.",
+          "example": "Student teaching practicum lasted twelve full weeks."
+        }
+      ]
+    },
+    {
+      "levelNumber": 19,
+      "title": "Education Level 19",
+      "gridRows": 18,
+      "gridCols": 18,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "ANDRAGOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Andragogy principles guided adult continuing education."
+        },
+        {
+          "word": "BEHAVIORISM",
+          "meaning": "A term relating to Education.",
+          "example": "Behaviorism research studied positive reinforcement rewards."
+        },
+        {
+          "word": "COGNITIVISM",
+          "meaning": "A term relating to Education.",
+          "example": "Cognitivism studied memory retention and retrieval strategies."
+        },
+        {
+          "word": "FORMATIVE",
+          "meaning": "A term relating to Education.",
+          "example": "Formative quizzes helped identify topics needing review."
+        },
+        {
+          "word": "SUMMATIVE",
+          "meaning": "A term relating to Education.",
+          "example": "Summative final exam measured overall course mastery."
+        },
+        {
+          "word": "PEDAGOGICAL",
+          "meaning": "A term relating to Education.",
+          "example": "Professors adopted pedagogical tools for digital classes."
+        },
+        {
+          "word": "MULTIDISCIPLINARY",
+          "meaning": "A term relating to Education.",
+          "example": "Multidisciplinary team studied climate change impact."
+        },
+        {
+          "word": "INTERDISCIPLINARY",
+          "meaning": "A term relating to Education.",
+          "example": "Interdisciplinary research merged biology with computing."
+        },
+        {
+          "word": "TRANSDISCIPLINARY",
+          "meaning": "A term relating to Education.",
+          "example": "Transdisciplinary initiative tackled global energy challenges."
+        },
+        {
+          "word": "HOLISTIC",
+          "meaning": "A term relating to Education.",
+          "example": "Holistic education nurtured academic and personal growth."
+        },
+        {
+          "word": "EXTRACURRICULAR",
+          "meaning": "A term relating to Education.",
+          "example": "Extracurricular clubs included chess, debate, and drama."
+        }
+      ]
+    },
+    {
+      "levelNumber": 20,
+      "title": "Education Level 20",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "COCURRICULAR",
+          "meaning": "A term relating to Education.",
+          "example": "Cocurricular science fairs reinforced lab course concepts."
+        },
+        {
+          "word": "ADVANCED",
+          "meaning": "A term relating to Education.",
+          "example": "Advanced placement calculus challenged gifted high schoolers."
+        },
+        {
+          "word": "ABACUS",
+          "meaning": "A term relating to Education.",
+          "example": "Children learned arithmetic using wooden abacus beads."
+        },
+        {
+          "word": "PROTRACTOR",
+          "meaning": "A term relating to Education.",
+          "example": "Student measured triangle angles using transparent protractor."
+        },
+        {
+          "word": "MICROSCOPE",
+          "meaning": "A term relating to Education.",
+          "example": "Biology lab examined plant cells under microscope."
+        },
+        {
+          "word": "TELESCOPE",
+          "meaning": "A term relating to Education.",
+          "example": "Astronomy students observed Saturn rings through telescope."
+        },
+        {
+          "word": "SPECTROMETER",
+          "meaning": "A term relating to Education.",
+          "example": "Physics lab used spectrometer to measure light wavelengths."
+        },
+        {
+          "word": "CENTRIFUGE",
+          "meaning": "A term relating to Education.",
+          "example": "Lab technician placed test tubes inside centrifuge."
+        },
+        {
+          "word": "SCALPEL",
+          "meaning": "A term relating to Education.",
+          "example": "Dissection class handled scalpel with care."
+        },
+        {
+          "word": "BEAKER",
+          "meaning": "A term relating to Education.",
+          "example": "Student poured chemical reagent into glass beaker."
+        },
+        {
+          "word": "RETORT",
+          "meaning": "A term relating to Education.",
+          "example": "Chemistry exhibit displayed antique glass distillation retort."
+        }
+      ]
+    },
+    {
+      "levelNumber": 21,
+      "title": "Education Level 21",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "FLASK",
+          "meaning": "A term relating to Education.",
+          "example": "Erlenmeyer flask held green chemical solution."
+        },
+        {
+          "word": "PIPETTE",
+          "meaning": "A term relating to Education.",
+          "example": "Researcher used micropipette to transfer liquid samples."
+        },
+        {
+          "word": "BURETTE",
+          "meaning": "A term relating to Education.",
+          "example": "Titration experiment required precise liquid burette readings."
+        },
+        {
+          "word": "CALCULATOR",
+          "meaning": "A term relating to Education.",
+          "example": "Graphing calculator plotted complex trigonometric functions."
+        },
+        {
+          "word": "PEDAGOGIST",
+          "meaning": "A term relating to Education.",
+          "example": "Pedagogist designed effective learning assessment tools."
+        },
+        {
+          "word": "DIDACTICIAN",
+          "meaning": "A term relating to Education.",
+          "example": "Didactician presented workshop on active learning."
+        },
+        {
+          "word": "LEARNER",
+          "meaning": "A term relating to Education.",
+          "example": "Lifelong learner enrolled in adult evening courses."
+        },
+        {
+          "word": "SCHOLASTICISM",
+          "meaning": "A term relating to Education.",
+          "example": "Scholasticism combined Aristotelian logic with theology."
+        },
+        {
+          "word": "DISCIPLINARIAN",
+          "meaning": "A term relating to Education.",
+          "example": "School headmaster was known as strict disciplinarian."
+        },
+        {
+          "word": "AUTODIDACT",
+          "meaning": "A term relating to Education.",
+          "example": "Famous inventor was brilliant autodidact who taught himself math."
+        },
+        {
+          "word": "POLYMATH",
+          "meaning": "A term relating to Education.",
+          "example": "Leonardo da Vinci was famous Renaissance polymath."
+        }
+      ]
+    },
+    {
+      "levelNumber": 22,
+      "title": "Education Level 22",
+      "gridRows": 16,
+      "gridCols": 16,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "COGNITION",
+          "meaning": "A term relating to Education.",
+          "example": "Cognition research explored visual memory retrieval."
+        },
+        {
+          "word": "SCHOLARSHIPS",
+          "meaning": "A term relating to Education.",
+          "example": "University awarded merit scholarships to top applicants."
+        },
+        {
+          "word": "FELLOWSHIPS",
+          "meaning": "A term relating to Education.",
+          "example": "Postdoctoral fellowships funded independent scientific research."
+        },
+        {
+          "word": "ASSISTANTSHIP",
+          "meaning": "A term relating to Education.",
+          "example": "Graduate assistantship provided tuition stipend and lab experience."
+        },
+        {
+          "word": "COMMENCEMENTS",
+          "meaning": "A term relating to Education.",
+          "example": "Spring commencements celebrated thousands of university graduates."
+        },
+        {
+          "word": "INDEPENDENT",
+          "meaning": "A term relating to Education.",
+          "example": "Independent study project allowed student self-directed research."
+        },
+        {
+          "word": "EXPERIMENTATION",
+          "meaning": "A term relating to Education.",
+          "example": "Laboratory experimentation validated physics hypothesis."
+        },
+        {
+          "word": "QUALITATIVE",
+          "meaning": "A term relating to Education.",
+          "example": "Qualitative research analyzed student interview transcripts."
+        },
+        {
+          "word": "QUANTITATIVE",
+          "meaning": "A term relating to Education.",
+          "example": "Quantitative study analyzed statistical survey results."
+        },
+        {
+          "word": "PERUSE",
+          "meaning": "A term relating to Education.",
+          "example": "Scholars perused original manuscripts in special collections."
+        },
+        {
+          "word": "INSTRUCTIONAL",
+          "meaning": "A term relating to Education.",
+          "example": "Instructional design enhanced online course engagement."
+        }
+      ]
+    },
+    {
+      "levelNumber": 23,
+      "title": "Education Level 23",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "LECTURESHIP",
+          "meaning": "A term relating to Education.",
+          "example": "He was appointed to prestigious physics lectureship."
+        },
+        {
+          "word": "TUTORSHIP",
+          "meaning": "A term relating to Education.",
+          "example": "Tutorship position allowed senior student to mentor peers."
+        },
+        {
+          "word": "PROFESSORSHIP",
+          "meaning": "A term relating to Education.",
+          "example": "Endowed professorship supported groundbreaking medical research."
+        },
+        {
+          "word": "DEANSHIP",
+          "meaning": "A term relating to Education.",
+          "example": "During her deanship, university opened two new research centers."
+        },
+        {
+          "word": "PROVOSTSHIP",
+          "meaning": "A term relating to Education.",
+          "example": "Provostship focused on expanding international academic exchanges."
+        },
+        {
+          "word": "RECTORSHIP",
+          "meaning": "A term relating to Education.",
+          "example": "His rectorship modernized historic university governance."
+        },
+        {
+          "word": "CHANCELLORSHIP",
+          "meaning": "A term relating to Education.",
+          "example": "Chancellorship established global academic partnerships."
+        },
+        {
+          "word": "ACADEMICIAN",
+          "meaning": "A term relating to Education.",
+          "example": "Renowned academician presented keynote lecture at summit."
+        },
+        {
+          "word": "DIDACTICISM",
+          "meaning": "A term relating to Education.",
+          "example": "Literary critique noted underlying didacticism in novel."
+        },
+        {
+          "word": "ANDRAGOGIST",
+          "meaning": "A term relating to Education.",
+          "example": "Andragist created professional development workshops."
+        },
+        {
+          "word": "MICROTEACHING",
+          "meaning": "A term relating to Education.",
+          "example": "Student teachers practiced skills using microteaching videos."
+        }
+      ]
+    },
+    {
+      "levelNumber": 24,
+      "title": "Education Level 24",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "PRACTICUMS",
+          "meaning": "A term relating to Education.",
+          "example": "Nursing practicums provided clinical hospital experience."
+        },
+        {
+          "word": "INTERNSHIPS",
+          "meaning": "A term relating to Education.",
+          "example": "Summer internships connected students with engineering firms."
+        },
+        {
+          "word": "EXAMINATIONS",
+          "meaning": "A term relating to Education.",
+          "example": "Comprehensive examinations tested doctoral candidate mastery."
+        },
+        {
+          "word": "ASSESSMENTS",
+          "meaning": "A term relating to Education.",
+          "example": "Continuous assessments provided immediate feedback to learners."
+        },
+        {
+          "word": "ACCREDITATIONS",
+          "meaning": "A term relating to Education.",
+          "example": "Regional accreditations validated college degree quality."
+        },
+        {
+          "word": "CERTIFICATIONS",
+          "meaning": "A term relating to Education.",
+          "example": "Technical certifications enhanced graduate employment prospects."
+        },
+        {
+          "word": "CREDENTIALS",
+          "meaning": "A term relating to Education.",
+          "example": "Academic credentials verified international candidate degrees."
+        },
+        {
+          "word": "QUALIFICATIONS",
+          "meaning": "A term relating to Education.",
+          "example": "Advanced qualifications qualified candidate for faculty post."
+        },
+        {
+          "word": "TRANSCRIPTS",
+          "meaning": "A term relating to Education.",
+          "example": "Registrar sent official transcripts to prospective employers."
+        },
+        {
+          "word": "PREREQUISITES",
+          "meaning": "A term relating to Education.",
+          "example": "Math prerequisites ensured students were prepared for physics."
+        },
+        {
+          "word": "CAPSTONES",
+          "meaning": "A term relating to Education.",
+          "example": "Senior capstones integrated four years of engineering study."
+        }
+      ]
+    },
+    {
+      "levelNumber": 25,
+      "title": "Education Level 25",
+      "gridRows": 16,
+      "gridCols": 16,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "MATRICULANTS",
+          "meaning": "A term relating to Education.",
+          "example": "Incoming matriculants attended campus orientation week."
+        },
+        {
+          "word": "CONVOCATIONS",
+          "meaning": "A term relating to Education.",
+          "example": "Annual convocations marked start of academic year."
+        },
+        {
+          "word": "VALEDICTORIANS",
+          "meaning": "A term relating to Education.",
+          "example": "Valedictorians across districts were honored at ceremony."
+        },
+        {
+          "word": "SALUTATORIANS",
+          "meaning": "A term relating to Education.",
+          "example": "Salutatorians welcomed families to commencement events."
+        },
+        {
+          "word": "POSTDOCTORALS",
+          "meaning": "A term relating to Education.",
+          "example": "Postdoctorals conducted advanced gene sequencing in lab."
+        },
+        {
+          "word": "EMERITI",
+          "meaning": "A term relating to Education.",
+          "example": "Professors emeriti advised department steering committee."
+        },
+        {
+          "word": "REGISTRARS",
+          "meaning": "A term relating to Education.",
+          "example": "Registrars supervised student course registration process."
+        },
+        {
+          "word": "DISCIPLINARIANS",
+          "meaning": "A term relating to Education.",
+          "example": "Disciplinarians maintained quiet order in study halls."
+        },
+        {
+          "word": "AUTODIDACTS",
+          "meaning": "A term relating to Education.",
+          "example": "Autodidacts mastered computer programming through online courses."
+        },
+        {
+          "word": "POLYMATHS",
+          "meaning": "A term relating to Education.",
+          "example": "Historical polymaths contributed to astronomy, math, and art."
+        },
+        {
+          "word": "SEMIOTICIANS",
+          "meaning": "A term relating to Education.",
+          "example": "Semioticians interpreted visual symbols in media studies."
+        },
+        {
+          "word": "PALEONTOLOGISTS",
+          "meaning": "A term relating to Education.",
+          "example": "Paleontologists excavated dinosaur fossils in desert rock."
+        },
+        {
+          "word": "ANTHROPOLOGISTS",
+          "meaning": "A term relating to Education.",
+          "example": "Cultural anthropologists conducted fieldwork in remote villages."
+        }
+      ]
+    },
+    {
+      "levelNumber": 26,
+      "title": "Education Level 26",
+      "gridRows": 18,
+      "gridCols": 18,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SOCIOLOGISTS",
+          "meaning": "A term relating to Education.",
+          "example": "Sociologists analyzed urban demographic migration patterns."
+        },
+        {
+          "word": "PSYCHOLOGISTS",
+          "meaning": "A term relating to Education.",
+          "example": "Cognitive psychologists conducted memory recall experiments."
+        },
+        {
+          "word": "NEUROSCIENTISTS",
+          "meaning": "A term relating to Education.",
+          "example": "Neuroscientists mapped brain activity during problem solving."
+        },
+        {
+          "word": "BIOCHEMISTS",
+          "meaning": "A term relating to Education.",
+          "example": "Biochemists isolated enzyme structures in laboratory."
+        },
+        {
+          "word": "ASTROPHYSICISTS",
+          "meaning": "A term relating to Education.",
+          "example": "Astrophysicists analyzed radiation emissions from distant stars."
+        },
+        {
+          "word": "OCEANOGRAPHERS",
+          "meaning": "A term relating to Education.",
+          "example": "Oceanographers measured deep sea current temperature trends."
+        },
+        {
+          "word": "METEOROLOGISTS",
+          "meaning": "A term relating to Education.",
+          "example": "Meteorologists forecasted severe weather tracking paths."
+        },
+        {
+          "word": "GLACIOLOGISTS",
+          "meaning": "A term relating to Education.",
+          "example": "Glaciologists drilled core ice samples in Antarctic."
+        },
+        {
+          "word": "VOLCANOLOGISTS",
+          "meaning": "A term relating to Education.",
+          "example": "Volcanologists monitored gas emissions at active crater."
+        },
+        {
+          "word": "SEISMOLOGISTS",
+          "meaning": "A term relating to Education.",
+          "example": "Seismologists recorded shockwaves from deep quake event."
+        },
+        {
+          "word": "CRYSTALLOGRAPHERS",
+          "meaning": "A term relating to Education.",
+          "example": "Crystallographers determined molecular structure of proteins."
+        },
+        {
+          "word": "STRATIGRAPHERS",
+          "meaning": "A term relating to Education.",
+          "example": "Stratigraphers mapped sedimentary layers across canyon wall."
+        },
+        {
+          "word": "CYBERNETICISTS",
+          "meaning": "A term relating to Education.",
+          "example": "Cyberneticists designed neural feedback algorithms for prosthetics."
+        }
+      ]
+    },
+    {
+      "levelNumber": 27,
+      "title": "Education Level 27",
+      "gridRows": 16,
+      "gridCols": 16,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "MECHATRONICISTS",
+          "meaning": "A term relating to Education.",
+          "example": "Mechatronicists developed precise sensor-actuator control units."
+        },
+        {
+          "word": "PATHOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "General pathology course analyzed disease tissue samples."
+        },
+        {
+          "word": "IMMUNOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Immunology research focused on antibody production."
+        },
+        {
+          "word": "PHARMACOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Pharmacology lab tested drug receptor binding rates."
+        },
+        {
+          "word": "ENDOCRINOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Endocrinology research examined insulin secretion pathways."
+        },
+        {
+          "word": "EPIDEMIOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Epidemiology models tracked viral transmission vectors."
+        },
+        {
+          "word": "EMBRYOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Embryology slides showed early blastocyst cell stages."
+        },
+        {
+          "word": "KINESIOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Kinesiology majors studied human muscle biomechanics."
+        },
+        {
+          "word": "ETHNOGRAPHY",
+          "meaning": "A term relating to Education.",
+          "example": "Field ethnography documented indigenous oral traditions."
+        },
+        {
+          "word": "PALEOGRAPHY",
+          "meaning": "A term relating to Education.",
+          "example": "Paleography expert transcribed 14th century Latin scripts."
+        },
+        {
+          "word": "ARCHAEOMETRY",
+          "meaning": "A term relating to Education.",
+          "example": "Archaeometry dated ceramic shards via radiocarbon testing."
+        },
+        {
+          "word": "STYLISTICS",
+          "meaning": "A term relating to Education.",
+          "example": "Literary stylistics examined prose rhythm and diction."
+        },
+        {
+          "word": "CRYPTOGRAPHY",
+          "meaning": "A term relating to Education.",
+          "example": "Mathematical cryptography studied public key encryption."
+        }
+      ]
+    },
+    {
+      "levelNumber": 28,
+      "title": "Education Level 28",
+      "gridRows": 17,
+      "gridCols": 17,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "BIOMEDICINE",
+          "meaning": "A term relating to Education.",
+          "example": "Biomedicine lab engineered tissue scaffolding matrix."
+        },
+        {
+          "word": "ECOTOXICOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Ecotoxicology survey tested pesticide impacts on bees."
+        },
+        {
+          "word": "DOCUMENTALIST",
+          "meaning": "A term relating to Education.",
+          "example": "Senior documentalist indexed university archive holdings."
+        },
+        {
+          "word": "METHODOLOGIST",
+          "meaning": "A term relating to Education.",
+          "example": "Survey methodologist eliminated questionnaire design bias."
+        },
+        {
+          "word": "THEORETICIAN",
+          "meaning": "A term relating to Education.",
+          "example": "Theoretical physics research was led by renowned theoretician."
+        },
+        {
+          "word": "COEXAMINER",
+          "meaning": "A term relating to Education.",
+          "example": "Coexaminer verified scoring of oral thesis defense."
+        },
+        {
+          "word": "HEADMASTERS",
+          "meaning": "A term relating to Education.",
+          "example": "Regional association convened headmasters for conference."
+        },
+        {
+          "word": "HEADMISTRESSES",
+          "meaning": "A term relating to Education.",
+          "example": "Annual conference welcomed headmistresses from private schools."
+        },
+        {
+          "word": "BURSARIES",
+          "meaning": "A term relating to Education.",
+          "example": "University awarded financial bursaries to low-income scholars."
+        },
+        {
+          "word": "STUDENTSHIPS",
+          "meaning": "A term relating to Education.",
+          "example": "Doctoral studentships funded four years of tuition."
+        },
+        {
+          "word": "STIPENDS",
+          "meaning": "A term relating to Education.",
+          "example": "Graduate teaching assistant received monthly stipend."
+        },
+        {
+          "word": "ENDOWMENTS",
+          "meaning": "A term relating to Education.",
+          "example": "Alumni endowments funded new science department chairs."
+        },
+        {
+          "word": "REACCREDITATIONS",
+          "meaning": "A term relating to Education.",
+          "example": "Medical school completed successful reaccreditations review."
+        }
+      ]
+    },
+    {
+      "levelNumber": 29,
+      "title": "Education Level 29",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "MASTERATE",
+          "meaning": "A term relating to Education.",
+          "example": "Candidate completed coursework for masterate in literature."
+        },
+        {
+          "word": "BACCALAUREATE",
+          "meaning": "A term relating to Education.",
+          "example": "International Baccalaureate program prepared high school seniors."
+        },
+        {
+          "word": "HABILITATION",
+          "meaning": "A term relating to Education.",
+          "example": "Dr. Mueller completed habilitation to qualify for professorship."
+        },
+        {
+          "word": "PREPRINTS",
+          "meaning": "A term relating to Education.",
+          "example": "Physicists published preprints on open access repository."
+        },
+        {
+          "word": "REPRINTS",
+          "meaning": "A term relating to Education.",
+          "example": "Author ordered reprints of published journal article."
+        },
+        {
+          "word": "OFFPRINTS",
+          "meaning": "A term relating to Education.",
+          "example": "Professor sent offprints of paper to international colleagues."
+        },
+        {
+          "word": "SOURCEBOOKS",
+          "meaning": "A term relating to Education.",
+          "example": "History sourcebook contained translated medieval charters."
+        },
+        {
+          "word": "CASEBOOKS",
+          "meaning": "A term relating to Education.",
+          "example": "Law students studied precedence in constitutional casebooks."
+        },
+        {
+          "word": "TESTBANKS",
+          "meaning": "A term relating to Education.",
+          "example": "Publisher provided testbanks to introductory psychology instructors."
+        },
+        {
+          "word": "CURRICULA",
+          "meaning": "A term relating to Education.",
+          "example": "Academic committee revised undergraduate STEM curricula."
+        },
+        {
+          "word": "AUDITORIA",
+          "meaning": "A term relating to Education.",
+          "example": "Campus master plan included two modern auditoria."
+        },
+        {
+          "word": "LABORATORIES",
+          "meaning": "A term relating to Education.",
+          "example": "University constructed state-of-the-art research laboratories."
+        },
+        {
+          "word": "CONSERVATORIES",
+          "meaning": "A term relating to Education.",
+          "example": "Graduates of top music conservatories joined symphony orchestra."
+        }
+      ]
+    },
+    {
+      "levelNumber": 30,
+      "title": "Education Level 30",
+      "gridRows": 16,
+      "gridCols": 16,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SEMINARIES",
+          "meaning": "A term relating to Education.",
+          "example": "Historical seminaries trained scholars in ancient languages."
+        },
+        {
+          "word": "RECTORIES",
+          "meaning": "A term relating to Education.",
+          "example": "Campus tour visited historic stone rectories."
+        },
+        {
+          "word": "DEANERIES",
+          "meaning": "A term relating to Education.",
+          "example": "Faculty held quarterly meetings in departmental deaneries."
+        },
+        {
+          "word": "PLANETARIUMS",
+          "meaning": "A term relating to Education.",
+          "example": "Science museum hosted visitors in twin planetariums."
+        },
+        {
+          "word": "OBSERVATORIES",
+          "meaning": "A term relating to Education.",
+          "example": "High-altitude observatories captured deep space images."
+        },
+        {
+          "word": "SCRIPTATORIUMS",
+          "meaning": "A term relating to Education.",
+          "example": "Monastic scriptatoriums preserved classical literature texts."
+        },
+        {
+          "word": "PREKINDERGARTEN",
+          "meaning": "A term relating to Education.",
+          "example": "Prekindergarten program introduced social play and counting skills."
+        },
+        {
+          "word": "KINDERGARTEN",
+          "meaning": "A term relating to Education.",
+          "example": "Kindergarten students learned basic letters and numbers."
+        },
+        {
+          "word": "ELEMENTARY",
+          "meaning": "A term relating to Education.",
+          "example": "Elementary school curriculum emphasized reading and arithmetic."
+        },
+        {
+          "word": "INTERMEDIATE",
+          "meaning": "A term relating to Education.",
+          "example": "Intermediate school students participated in regional science fairs."
+        },
+        {
+          "word": "SCHOOLING",
+          "meaning": "A term relating to Education.",
+          "example": "Formal schooling prepared students for future careers."
+        },
+        {
+          "word": "MATRICULATES",
+          "meaning": "A term relating to Education.",
+          "example": "New matriculates registered for autumn term courses."
+        },
+        {
+          "word": "PEDAGOGIES",
+          "meaning": "A term relating to Education.",
+          "example": "Modern pedagogies embrace interactive project-based learning."
+        }
+      ]
+    },
+    {
+      "levelNumber": 31,
+      "title": "Education Level 31",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "CLASSMATES",
+          "meaning": "A term relating to Education.",
+          "example": "Classmates collaborated on group science project presentation."
+        },
+        {
+          "word": "SCHOOLMATES",
+          "meaning": "A term relating to Education.",
+          "example": "Schoolmates organized charity drive for local hospital."
+        },
+        {
+          "word": "PLAYMATES",
+          "meaning": "A term relating to Education.",
+          "example": "Preschool playmates shared building blocks during recess."
+        },
+        {
+          "word": "HEADTEACHER",
+          "meaning": "A term relating to Education.",
+          "example": "Headteacher addressed school assembly regarding safety rules."
+        },
+        {
+          "word": "INSTRUCTORS",
+          "meaning": "A term relating to Education.",
+          "example": "University instructors guided laboratory experiments."
+        },
+        {
+          "word": "PROFESSORS",
+          "meaning": "A term relating to Education.",
+          "example": "Professors led advanced research seminars."
+        },
+        {
+          "word": "LECTURERS",
+          "meaning": "A term relating to Education.",
+          "example": "Visiting lecturers presented papers on modern history."
+        },
+        {
+          "word": "EDUCATORS",
+          "meaning": "A term relating to Education.",
+          "example": "Dedicated educators gathered at national teaching conference."
+        },
+        {
+          "word": "MENTORS",
+          "meaning": "A term relating to Education.",
+          "example": "Faculty mentors provided academic career advice."
+        },
+        {
+          "word": "ADVISERS",
+          "meaning": "A term relating to Education.",
+          "example": "Academic advisers assisted students with course selection."
+        },
+        {
+          "word": "TUTORS",
+          "meaning": "A term relating to Education.",
+          "example": "Peer tutors helped students prepare for midterms."
+        },
+        {
+          "word": "PRECEPTORS",
+          "meaning": "A term relating to Education.",
+          "example": "Clinical preceptors evaluated medical student bedside skills."
+        },
+        {
+          "word": "PROCTORS",
+          "meaning": "A term relating to Education.",
+          "example": "Exam proctors checked student identification at entrance."
+        }
+      ]
+    },
+    {
+      "levelNumber": 32,
+      "title": "Education Level 32",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "INVIGILATORS",
+          "meaning": "A term relating to Education.",
+          "example": "Exam invigilators distributed question booklets."
+        },
+        {
+          "word": "DEANS",
+          "meaning": "A term relating to Education.",
+          "example": "Deans of academic departments met to plan budget."
+        },
+        {
+          "word": "PROVOSTS",
+          "meaning": "A term relating to Education.",
+          "example": "Provosts coordinated university-wide research initiatives."
+        },
+        {
+          "word": "CHANCELLORS",
+          "meaning": "A term relating to Education.",
+          "example": "University chancellors presided over commencement."
+        },
+        {
+          "word": "RECTORS",
+          "meaning": "A term relating to Education.",
+          "example": "College rectors welcomed international visiting scholars."
+        },
+        {
+          "word": "PEDAGOGUES",
+          "meaning": "A term relating to Education.",
+          "example": "Traditional pedagogues insisted on memorizing grammar rules."
+        },
+        {
+          "word": "TRAINEES",
+          "meaning": "A term relating to Education.",
+          "example": "Teacher trainees completed student teaching rotations."
+        },
+        {
+          "word": "SCHOLARS",
+          "meaning": "A term relating to Education.",
+          "example": "Visiting scholars conducted archival research in library."
+        },
+        {
+          "word": "ALUMNI",
+          "meaning": "A term relating to Education.",
+          "example": "Alumni association raised funds for new campus building."
+        },
+        {
+          "word": "ALUMNAE",
+          "meaning": "A term relating to Education.",
+          "example": "Alumnae network offered mentorship to female undergraduates."
+        },
+        {
+          "word": "FELLOWS",
+          "meaning": "A term relating to Education.",
+          "example": "Research fellows published groundbreaking discovery."
+        },
+        {
+          "word": "GRADUATES",
+          "meaning": "A term relating to Education.",
+          "example": "Proud graduates celebrated commencement with family."
+        },
+        {
+          "word": "VALEDICTORIES",
+          "meaning": "A term relating to Education.",
+          "example": "Valedictories reflected on shared memories and future goals."
+        }
+      ]
+    },
+    {
+      "levelNumber": 33,
+      "title": "Education Level 33",
+      "gridRows": 17,
+      "gridCols": 17,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SALUTATORIES",
+          "meaning": "A term relating to Education.",
+          "example": "Salutatories welcomed families to graduation ceremonies."
+        },
+        {
+          "word": "BACCALAUREATES",
+          "meaning": "A term relating to Education.",
+          "example": "College conferred baccalaureates in arts and sciences."
+        },
+        {
+          "word": "NEUROPATHOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Neuropathology lab examined brain tissue specimens."
+        },
+        {
+          "word": "PSYCHOPATHOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Clinical psychopathology course examined diagnostic criteria."
+        },
+        {
+          "word": "CARDIOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Cardiology fellows studied cardiac imaging techniques."
+        },
+        {
+          "word": "GASTROENTEROLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Gastroenterology lab researched gut microbiome dynamics."
+        },
+        {
+          "word": "NEPHROLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Nephrology clinical rounds evaluated dialysis patients."
+        },
+        {
+          "word": "PULMONOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Pulmonology department tested lung capacity function."
+        },
+        {
+          "word": "RHEUMATOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Rheumatology research evaluated autoimmune treatments."
+        },
+        {
+          "word": "ONCOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Medical oncology lab tested novel immunotherapy agents."
+        },
+        {
+          "word": "RADIOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Diagnostic radiology residency included MRI and CT interpretation."
+        },
+        {
+          "word": "ANESTHESIOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Anesthesiology training covered perioperative patient monitoring."
+        },
+        {
+          "word": "OTOLARYNGOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Otolaryngology clinic treated hearing and speech conditions."
+        }
+      ]
+    },
+    {
+      "levelNumber": 34,
+      "title": "Education Level 34",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "OPHTHALMOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Ophthalmology lab researched retinal gene therapy."
+        },
+        {
+          "word": "UROLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Urology department performed minimally invasive surgeries."
+        },
+        {
+          "word": "GYNECOLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Gynecology clinic provided preventive healthcare screening."
+        },
+        {
+          "word": "OBSTETRICS",
+          "meaning": "A term relating to Education.",
+          "example": "Obstetrics residency trained physicians in maternal care."
+        },
+        {
+          "word": "PEDIATRICS",
+          "meaning": "A term relating to Education.",
+          "example": "Pediatrics department provided specialized child healthcare."
+        },
+        {
+          "word": "GERIATRICS",
+          "meaning": "A term relating to Education.",
+          "example": "Geriatrics specialty focused on age-related cognitive health."
+        },
+        {
+          "word": "ORTHOPEDICS",
+          "meaning": "A term relating to Education.",
+          "example": "Orthopedics clinic treated sports injury joint fractures."
+        },
+        {
+          "word": "PSYCHIATRY",
+          "meaning": "A term relating to Education.",
+          "example": "Psychiatry residency focused on clinical psychotherapy."
+        },
+        {
+          "word": "NEUROLOGY",
+          "meaning": "A term relating to Education.",
+          "example": "Neurology clinic evaluated memory disorder patients."
+        },
+        {
+          "word": "COLLOQUIA",
+          "meaning": "A term relating to Education.",
+          "example": "Departmental colloquia featured invited guest speakers."
+        },
+        {
+          "word": "DISSERTATING",
+          "meaning": "A term relating to Education.",
+          "example": "Doctoral candidate spent final year dissertating on history topic."
+        },
+        {
+          "word": "MATRICULATING",
+          "meaning": "A term relating to Education.",
+          "example": "Incoming freshmen enjoyed matriculating week festivities."
+        },
+        {
+          "word": "ACCREDITING",
+          "meaning": "A term relating to Education.",
+          "example": "National board was responsible for accrediting nursing programs."
+        }
+      ]
+    },
+    {
+      "levelNumber": 35,
+      "title": "Education Level 35",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "REACCREDITNG",
+          "meaning": "A term relating to Education.",
+          "example": "Committee prepared documentation for reaccrediting college."
+        },
+        {
+          "word": "ENROLLMENT",
+          "meaning": "A term relating to Education.",
+          "example": "Spring term enrollment increased significantly in computer science."
+        },
+        {
+          "word": "ENROLMENT",
+          "meaning": "A term relating to Education.",
+          "example": "Total student enrolment reached ten thousand this semester."
+        },
+        {
+          "word": "ADMISSION",
+          "meaning": "A term relating to Education.",
+          "example": "University admissions office reviewed thousands of applications."
+        },
+        {
+          "word": "ADMISSIONS",
+          "meaning": "A term relating to Education.",
+          "example": "Admissions officers hosted campus tours for prospective families."
+        },
+        {
+          "word": "TUITIONS",
+          "meaning": "A term relating to Education.",
+          "example": "University kept tuitions stable for incoming fresh class."
+        },
+        {
+          "word": "DIPLOMAS",
+          "meaning": "A term relating to Education.",
+          "example": "Graduates received official printed diplomas during ceremony."
+        },
+        {
+          "word": "DOCTORATES",
+          "meaning": "A term relating to Education.",
+          "example": "Faculty members held doctorates from top research universities."
+        },
+        {
+          "word": "COMMENCEMENT",
+          "meaning": "A term relating to Education.",
+          "example": "Commencement address inspired graduates to serve society."
+        },
+        {
+          "word": "VALEDICTORY",
+          "meaning": "A term relating to Education.",
+          "example": "Valedictory address highlighted resilience of graduating class."
+        },
+        {
+          "word": "SALUTATORY",
+          "meaning": "A term relating to Education.",
+          "example": "Salutatory address set uplifting tone for graduation."
+        },
+        {
+          "word": "RECITATION",
+          "meaning": "A term relating to Education.",
+          "example": "Weekly physics recitation helped students solve difficult problems."
+        },
+        {
+          "word": "HOMEWORK",
+          "meaning": "A term relating to Education.",
+          "example": "Teacher assigned daily math homework to reinforce algebra concepts."
+        }
+      ]
+    }
+  ]
+}

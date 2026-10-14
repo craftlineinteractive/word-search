@@ -1,0 +1,1822 @@
+[
+  {
+    "word": "TOURNAMENT",
+    "meaning": "Series of contests between several competitors",
+    "example": "The annual tennis tournament attracted international seeds."
+  },
+  {
+    "word": "CHAMPIONSHIP",
+    "meaning": "Competition to determine the overall champion",
+    "example": "Winning the championship crowned a perfect season."
+  },
+  {
+    "word": "PLAYOFFS",
+    "meaning": "Series of games played after regular season to determine champion",
+    "example": "The team advanced to the finals in the playoffs."
+  },
+  {
+    "word": "MATCHUP",
+    "meaning": "Competition pairing between two opponents or teams",
+    "example": "The marquee matchup featured the top two seeded players."
+  },
+  {
+    "word": "FINALS",
+    "meaning": "Concluding games or events deciding overall victory",
+    "example": "Tickets sold out for the grand finals at the arena."
+  },
+  {
+    "word": "SEMIFINALS",
+    "meaning": "Penultimate round of a knockout competition",
+    "example": "Winning the semifinals secured a place in title match."
+  },
+  {
+    "word": "QUARTERFINALS",
+    "meaning": "Round of four matches preceding the semifinals",
+    "example": "Eight teams competed in the intense quarterfinals round."
+  },
+  {
+    "word": "QUALIFIER",
+    "meaning": "Match or event determining entry into main tournament",
+    "example": "She won the regional qualifier to earn a spot in finals."
+  },
+  {
+    "word": "ELIMINATION",
+    "meaning": "Removal of a competitor who loses a match",
+    "example": "Double elimination format gave teams a second chance."
+  },
+  {
+    "word": "KNOCKOUT",
+    "meaning": "Tournament format where losers are immediately eliminated",
+    "example": "The sudden death knockout round tested player nerve."
+  },
+  {
+    "word": "REPECHAGE",
+    "meaning": "Contest allowing runners-up a second chance to advance",
+    "example": "Winning the repechage heat qualified the rower for finals."
+  },
+  {
+    "word": "WILDCARD",
+    "meaning": "Entry granted to a competitor who did not qualify directly",
+    "example": "The wildcard entry surprised fans by reaching final four."
+  },
+  {
+    "word": "SEEDING",
+    "meaning": "Ranking assigned to tournament players based on record",
+    "example": "Top tournament seeding guaranteed an easier first round."
+  },
+  {
+    "word": "FIXTURE",
+    "meaning": "Scheduled match or sporting event",
+    "example": "The weekend derby was the key fixture of the season."
+  },
+  {
+    "word": "DERBY",
+    "meaning": "Match played between two local rival sports teams",
+    "example": "City rivals met in a heated cross-town derby match."
+  },
+  {
+    "word": "REMATCH",
+    "meaning": "Second match between the same two opponents",
+    "example": "The boxer demanded an immediate rematch for the belt."
+  },
+  {
+    "word": "SHOWDOWN",
+    "meaning": "Final decisive confrontation or contest",
+    "example": "The title showdown drew millions of television viewers."
+  },
+  {
+    "word": "LEAGUE",
+    "meaning": "Association of sports clubs competing in a schedule",
+    "example": "Thirty franchises competed across the premier league."
+  },
+  {
+    "word": "PENNANT",
+    "meaning": "Flag awarded to the champion of a league division",
+    "example": "The baseball team raised their division pennant high."
+  },
+  {
+    "word": "DIVISION",
+    "meaning": "Group of teams forming a section of a league",
+    "example": "Winning the division earned home court advantage."
+  },
+  {
+    "word": "STANDINGS",
+    "meaning": "Table showing current ranking of teams in a league",
+    "example": "The team climbed to top position in league standings."
+  },
+  {
+    "word": "SCOREBOARD",
+    "meaning": "Large board displaying live game score and time",
+    "example": "The stadium scoreboard flashed victory animations."
+  },
+  {
+    "word": "RANKING",
+    "meaning": "Position of a player or team on official order",
+    "example": "Her international tennis ranking climbed into top ten."
+  },
+  {
+    "word": "ARENA",
+    "meaning": "Enclosed area used for sports and entertainment",
+    "example": "Thousands cheered inside the indoor basketball arena."
+  },
+  {
+    "word": "STADIUM",
+    "meaning": "Large sports venue surrounded by tiered seating",
+    "example": "The open-air stadium hosted sixty thousand fans."
+  },
+  {
+    "word": "COLISEUM",
+    "meaning": "Large amphitheater or stadium for sporting events",
+    "example": "Gladiatorial contests took place in ancient coliseums."
+  },
+  {
+    "word": "VELODROME",
+    "meaning": "Track for track cycling with steeply banked turns",
+    "example": "Cyclists reached high speeds on the timber velodrome."
+  },
+  {
+    "word": "NATATORIUM",
+    "meaning": "Building containing a swimming pool for competitions",
+    "example": "Swimmers competed in the Olympic natatorium pool."
+  },
+  {
+    "word": "COURT",
+    "meaning": "Rectangular area marked for playing tennis or basketball",
+    "example": "Players dusted their shoes before stepping onto court."
+  },
+  {
+    "word": "RING",
+    "meaning": "Square enclosed area where boxing or wrestling occurs",
+    "example": "Fighters tapped gloves before starting round one in ring."
+  },
+  {
+    "word": "OCTAGON",
+    "meaning": "Eight-sided caged arena used for mixed martial arts",
+    "example": "MMA fighters entered the caged octagon for the bout."
+  },
+  {
+    "word": "TATAMI",
+    "meaning": "Mat used as a surface for martial arts competitions",
+    "example": "Judo athletes bowed before stepping onto the tatami."
+  },
+  {
+    "word": "DIAMOND",
+    "meaning": "Infield area of a baseball ground",
+    "example": "Runners rounded third base on the dirt diamond."
+  },
+  {
+    "word": "FAIRWAY",
+    "meaning": "Closely mown area between tee and green on golf course",
+    "example": "The tee shot landed safely in the center fairway."
+  },
+  {
+    "word": "GRIDIRON",
+    "meaning": "American football field marked with parallel lines",
+    "example": "Players lined up along the fifty-yard gridiron line."
+  },
+  {
+    "word": "TROPHY",
+    "meaning": "Decorative cup or plaque awarded as a prize",
+    "example": "The team captain hoisted the championship silver trophy."
+  },
+  {
+    "word": "MEDAL",
+    "meaning": "Metal disc awarded to commemorate athletic victory",
+    "example": "The champion proudly wore the gold medal around her neck."
+  },
+  {
+    "word": "GOLDMEDAL",
+    "meaning": "Medal awarded for first place in a competition",
+    "example": "Winning the goldmedal set a new Olympic milestone."
+  },
+  {
+    "word": "SILVERMEDAL",
+    "meaning": "Medal awarded for second place in a competition",
+    "example": "The runner-up accepted the silvermedal with pride."
+  },
+  {
+    "word": "BRONZEMEDAL",
+    "meaning": "Medal awarded for third place in a competition",
+    "example": "The third-place sprinter earned the bronzemedal."
+  },
+  {
+    "word": "VICTORY",
+    "meaning": "Act of defeating an opponent in a competition",
+    "example": "The team celebrated a hard-fought victory in overtime."
+  },
+  {
+    "word": "CHAMPION",
+    "meaning": "Winner of a championship or first place in sports",
+    "example": "The reigning champion defended his world title."
+  },
+  {
+    "word": "WINNER",
+    "meaning": "Person or team that wins a competition",
+    "example": "The race winner crossed the finish line with arms raised."
+  },
+  {
+    "word": "TITLIST",
+    "meaning": "Person holding a championship title in sports",
+    "example": "The defending titlist retained her crown in three sets."
+  },
+  {
+    "word": "LAURELS",
+    "meaning": "Wreath of laurel foliage worn as emblem of victory",
+    "example": "Ancient Olympic champions were crowned with green laurels."
+  },
+  {
+    "word": "PLAQUE",
+    "meaning": "Flat engraved plate awarded in recognition of achievement",
+    "example": "The coach accepted an engraved plaque for leadership."
+  },
+  {
+    "word": "HONORS",
+    "meaning": "Awards or distinctions given in recognition of merit",
+    "example": "The swimmer accumulated high athletic honors."
+  },
+  {
+    "word": "TRIUMPH",
+    "meaning": "Great victory or achievement in a competition",
+    "example": "Their unexpected victory was a triumph of teamwork."
+  },
+  {
+    "word": "PURSE",
+    "meaning": "Total prize money offered in a tournament",
+    "example": "The golf tournament featured a ten million dollar purse."
+  },
+  {
+    "word": "PRIZE",
+    "meaning": "Reward given to winner of a contest or race",
+    "example": "The winner received a cash prize and trophy cup."
+  },
+  {
+    "word": "GRANDPRIX",
+    "meaning": "Major international motor racing or sports event",
+    "example": "Monaco hosted the most prestigious Grand Prix event."
+  },
+  {
+    "word": "JACKPOT",
+    "meaning": "Large top prize or accumulated reward pool",
+    "example": "The tournament jackpot went to the undefeated champion."
+  },
+  {
+    "word": "ATHLETE",
+    "meaning": "Person proficient in sports and physical exercise",
+    "example": "The varsity athlete trained daily in track and field."
+  },
+  {
+    "word": "COMPETITOR",
+    "meaning": "Person taking part in a sporting contest",
+    "example": "Every competitor gave maximum effort in the finals."
+  },
+  {
+    "word": "CONTESTANT",
+    "meaning": "Person taking part in a competition or game show",
+    "example": "The contestant answered questions under strict time limits."
+  },
+  {
+    "word": "CHALLENGER",
+    "meaning": "Person who competes against a champion for title",
+    "example": "The young challenger fought bravely against titleholder."
+  },
+  {
+    "word": "RIVAL",
+    "meaning": "Person competing with another for superiority",
+    "example": "Cross-town rivals faced off in the season finale."
+  },
+  {
+    "word": "FAVORITE",
+    "meaning": "Competitor expected to win a contest",
+    "example": "The world record holder was the clear tournament favorite."
+  },
+  {
+    "word": "CAPTAIN",
+    "meaning": "Leader of a sports team during games",
+    "example": "The team captain led the pre-game huddle speech."
+  },
+  {
+    "word": "QUARTERBACK",
+    "meaning": "Player who directs offensive play in football",
+    "example": "The star quarterback threw a fifty-yard touchdown pass."
+  },
+  {
+    "word": "STRIKER",
+    "meaning": "Attacking player in soccer scoring goals",
+    "example": "The striker volleyed the ball into the top corner."
+  },
+  {
+    "word": "FORWARD",
+    "meaning": "Attacking player positioned near opponent's goal",
+    "example": "The forward broke past defenders to score game winner."
+  },
+  {
+    "word": "MIDFIELDER",
+    "meaning": "Player operating between defense and attack in soccer",
+    "example": "The midfielder controlled game tempo with smart passes."
+  },
+  {
+    "word": "DEFENDER",
+    "meaning": "Player protecting goal from opponent attacks",
+    "example": "The defender executed a clean sliding tackle."
+  },
+  {
+    "word": "GOALKEEPER",
+    "meaning": "Player defending the goal preventing scoring",
+    "example": "The goalkeeper made a dramatic diving save in final minutes."
+  },
+  {
+    "word": "GOALIE",
+    "meaning": "Informal term for goalkeeper in hockey or soccer",
+    "example": "The hockey goalie blocked thirty shots on goal."
+  },
+  {
+    "word": "PITCHER",
+    "meaning": "Baseball player throwing ball to batter",
+    "example": "The pitcher threw a ninety-five mph fastball for strike three."
+  },
+  {
+    "word": "CATCHER",
+    "meaning": "Baseball player receiving pitches behind home plate",
+    "example": "The catcher signaled pitch calls to the pitcher."
+  },
+  {
+    "word": "INFELDER",
+    "meaning": "Baseball player positioned in the infield area",
+    "example": "The infielder turned a fast double play at second base."
+  },
+  {
+    "word": "OUTFIELDER",
+    "meaning": "Baseball player positioned in the outfield grass",
+    "example": "The outfielder made a leaping catch against wall."
+  },
+  {
+    "word": "SPRINTER",
+    "meaning": "Runner specializing in short fast distance races",
+    "example": "The 100m sprinter exploded out of starting blocks."
+  },
+  {
+    "word": "MARATHONER",
+    "meaning": "Runner taking part in a 26.2 mile marathon race",
+    "example": "The marathoner paced himself through twenty-six miles."
+  },
+  {
+    "word": "DECATHLETE",
+    "meaning": "Athlete competing in ten track and field events",
+    "example": "The Olympic decathlete demonstrated versatile skill."
+  },
+  {
+    "word": "GYMNAST",
+    "meaning": "Athlete performing gymnastic exercises on apparatus",
+    "example": "The gymnast landed her vault dismount cleanly."
+  },
+  {
+    "word": "WRESTLER",
+    "meaning": "Athlete competing in wrestling matches",
+    "example": "The wrestler pinned his opponent's shoulders to mat."
+  },
+  {
+    "word": "BOXER",
+    "meaning": "Athlete taking part in boxing bouts",
+    "example": "The heavyweight boxer landed a powerful left hook."
+  },
+  {
+    "word": "FENCER",
+    "meaning": "Athlete competing in sword fighting fencing bouts",
+    "example": "The fencer scored a point with a rapid foil thrust."
+  },
+  {
+    "word": "CYCLIST",
+    "meaning": "Person who rides a bicycle competitively",
+    "example": "The lead cyclist sprinted past the peloton at finish."
+  },
+  {
+    "word": "JOCKEY",
+    "meaning": "Professional rider of horses in horse races",
+    "example": "The jockey guided the thoroughbred to victory on rail."
+  },
+  {
+    "word": "REFEREE",
+    "meaning": "Official controlling a game and enforcing rules",
+    "example": "The referee blew the whistle to signal a foul."
+  },
+  {
+    "word": "UMPIRE",
+    "meaning": "Official overseeing play in baseball or tennis",
+    "example": "The tennis umpire called the ball out on the sideline."
+  },
+  {
+    "word": "OFFICIAL",
+    "meaning": "Person holding authority at a sports event",
+    "example": "Race officials verified electronic finish line timing."
+  },
+  {
+    "word": "ARBITER",
+    "meaning": "Person with power to settle disputes in competition",
+    "example": "The chief arbiter settled the chess tournament time dispute."
+  },
+  {
+    "word": "TIMEKEEPER",
+    "meaning": "Official tracking game time or race duration",
+    "example": "The official timekeeper stopped the clock at zero."
+  },
+  {
+    "word": "LINESMAN",
+    "meaning": "Assistant official watching boundary lines in games",
+    "example": "The linesman raised his flag to signal offside."
+  },
+  {
+    "word": "COMMISSIONER",
+    "meaning": "Head of a sports league or governing body",
+    "example": "The league commissioner presented the trophy."
+  },
+  {
+    "word": "STEWARD",
+    "meaning": "Official supervising safety or rules at races",
+    "example": "Track stewards reviewed collision footage after race."
+  },
+  {
+    "word": "WHISTLE",
+    "meaning": "Device blown by referee to pause or stop play",
+    "example": "A sharp whistle blast brought play to an instant stop."
+  },
+  {
+    "word": "YELLOWCARD",
+    "meaning": "Card shown by referee as formal warning to player",
+    "example": "The referee issued a yellowcard for an illegal tackle."
+  },
+  {
+    "word": "REDCARD",
+    "meaning": "Card shown by referee ejecting player from match",
+    "example": "A redcard sent the defender off the field for the game."
+  },
+  {
+    "word": "PENALTY",
+    "meaning": "Punishment imposed for breaking a rule in sports",
+    "example": "The team was awarded a penalty kick inside the box."
+  },
+  {
+    "word": "FOUL",
+    "meaning": "Infraction of rules resulting in penalty",
+    "example": "Committing a personal foul gave opponent free throws."
+  },
+  {
+    "word": "OFFSIDE",
+    "meaning": "Illegal position ahead of ball in soccer or hockey",
+    "example": "The goal was disallowed because the forward was offside."
+  },
+  {
+    "word": "INFRACTION",
+    "meaning": "Violation of a rule or regulation in sports",
+    "example": "Minor technical infractions resulted in warning calls."
+  },
+  {
+    "word": "TIMEOUT",
+    "meaning": "Temporary interruption of game play by team request",
+    "example": "The coach called a timeout to draw up final play."
+  },
+  {
+    "word": "HALFTIME",
+    "meaning": "Intermission between two halves of a game",
+    "example": "Dancers performed during the football halftime show."
+  },
+  {
+    "word": "SHOOTOUT",
+    "meaning": "Tie-breaking procedure of taking individual shots",
+    "example": "The soccer match was decided by a tense penalty shootout."
+  },
+  {
+    "word": "SANCTION",
+    "meaning": "Penalty or punishment for rule violation",
+    "example": "League officials imposed monetary sanctions."
+  },
+  {
+    "word": "SUSPENSION",
+    "meaning": "Temporary ban of a player from competing",
+    "example": "The player received a three-game suspension for fighting."
+  },
+  {
+    "word": "DEFENSE",
+    "meaning": "Action of preventing opponent from scoring",
+    "example": "Stout defensive pressure forced a turnover."
+  },
+  {
+    "word": "OFFENSE",
+    "meaning": "Action of attacking to score points against opponent",
+    "example": "The fast-break offense scored forty points in first half."
+  },
+  {
+    "word": "FORMATION",
+    "meaning": "Arrangement of players in specific team layout",
+    "example": "The manager set up a 4-3-3 defensive formation."
+  },
+  {
+    "word": "PASSING",
+    "meaning": "Action of throwing or kicking ball to a teammate",
+    "example": "Crisp team passing created open shooting opportunities."
+  },
+  {
+    "word": "DRIBBLING",
+    "meaning": "Maneuvering ball with feet or hands past opponents",
+    "example": "Skillful dribbling sliced through double team coverage."
+  },
+  {
+    "word": "SHOOTING",
+    "meaning": "Attempting to score a goal or basket",
+    "example": "Long-range three-point shooting kept the game close."
+  },
+  {
+    "word": "SCORING",
+    "meaning": "Act of gaining points or goals in a contest",
+    "example": "High scoring offense led the league in points per game."
+  },
+  {
+    "word": "TOUCHDOWN",
+    "meaning": "Scoring six points by advancing ball into end zone",
+    "example": "The receiver caught a pass in end zone for touchdown."
+  },
+  {
+    "word": "GOAL",
+    "meaning": "Point scored when ball enters goal net or frame",
+    "example": "A late second-half goal won the championship match."
+  },
+  {
+    "word": "HOMERUN",
+    "meaning": "Baseball hit allowing batter to circle all bases",
+    "example": "The grand slam homerun cleared the outfield fences."
+  },
+  {
+    "word": "BIRDIE",
+    "meaning": "Score of one stroke under par on a golf hole",
+    "example": "Sinking a ten-foot putt earned a birdie on 18th hole."
+  },
+  {
+    "word": "EAGLE",
+    "meaning": "Score of two strokes under par on a golf hole",
+    "example": "An incredible fairway chip-in yielded a rare eagle."
+  },
+  {
+    "word": "STRIKE",
+    "meaning": "Knocking down all ten bowling pins on first ball",
+    "example": "Rolling three consecutive strikes scored a turkey."
+  },
+  {
+    "word": "SPARE",
+    "meaning": "Knocking down remaining bowling pins on second ball",
+    "example": "Picking up a single pin spare kept score clean."
+  },
+  {
+    "word": "TAKEDOWN",
+    "meaning": "Maneuver bringing opponent to mat from standing",
+    "example": "A swift double-leg takedown scored two points in wrestling."
+  },
+  {
+    "word": "INTERCEPTION",
+    "meaning": "Catching a pass intended for an opponent player",
+    "example": "Cornerback intercepted the pass to seal victory."
+  },
+  {
+    "word": "REBOUND",
+    "meaning": "Gaining possession of ball after missed shot",
+    "example": "Center pulled down a crucial offensive rebound."
+  },
+  {
+    "word": "ASSIST",
+    "meaning": "Pass leading directly to a teammate scoring",
+    "example": "Point guard recorded twelve assists in a brilliant game."
+  },
+  {
+    "word": "VOLLEY",
+    "meaning": "Hitting ball back before it touches the ground",
+    "example": "Soprano volley at net won the crucial breakpoint."
+  },
+  {
+    "word": "BACKHAND",
+    "meaning": "Stroke played with back of hand facing direction of swing",
+    "example": "Cross-court backhand winner painted the line."
+  },
+  {
+    "word": "FOREHAND",
+    "meaning": "Stroke played with palm of hand facing direction of swing",
+    "example": "Powerful forehand drive forced an unforced error."
+  },
+  {
+    "word": "FOOTBALL",
+    "meaning": "Sport played with oval ball or round soccer ball",
+    "example": "Millions watched the championship football game live."
+  },
+  {
+    "word": "BASKETBALL",
+    "meaning": "Game played by shooting ball through elevated hoop",
+    "example": "Dunking the basketball electrified home arena crowds."
+  },
+  {
+    "word": "BASEBALL",
+    "meaning": "Bat-and-ball game played between two teams of nine",
+    "example": "Spring training prepared baseball players for opener."
+  },
+  {
+    "word": "SOFTBALL",
+    "meaning": "Variant of baseball played with larger ball",
+    "example": "Underhand pitch pitching dominated softball tournament."
+  },
+  {
+    "word": "VOLLEYBALL",
+    "meaning": "Game where two teams hit ball over high net",
+    "example": "Spiking the volleyball past blockers scored a point."
+  },
+  {
+    "word": "HANDBALL",
+    "meaning": "Team sport where players pass ball to throw into goal",
+    "example": "Fast-paced handball matches featured diving shots."
+  },
+  {
+    "word": "RUGBY",
+    "meaning": "Full-contact team sport played with oval ball",
+    "example": "Rugby scrums pushed fiercely for possession of ball."
+  },
+  {
+    "word": "CRICKET",
+    "meaning": "Bat-and-ball game played between two teams of eleven",
+    "example": "Bowler took three wickets in a tense cricket match."
+  },
+  {
+    "word": "LACROSSE",
+    "meaning": "Sport using crosse sticks with nets to carry ball",
+    "example": "Fast stickwork characterized high-scoring lacrosse."
+  },
+  {
+    "word": "HOCKEY",
+    "meaning": "Sport played on ice or grass with sticks and puck",
+    "example": "Hockey players skated at breakneck speeds across ice."
+  },
+  {
+    "word": "WATERPOLO",
+    "meaning": "Water sport played by teams throwing ball into goal",
+    "example": "Waterpolo athletes treaded water while passing."
+  },
+  {
+    "word": "TENNIS",
+    "meaning": "Racket sport played individually or in pairs over net",
+    "example": "Grand Slam tennis finals tested endurance on clay."
+  },
+  {
+    "word": "BADMINTON",
+    "meaning": "Racket sport played by hitting shuttlecock over net",
+    "example": "Fast shuttlecock smashes exceeded 200 miles an hour."
+  },
+  {
+    "word": "RACQUETBALL",
+    "meaning": "Racket sport played in indoor hollow-ball court",
+    "example": "Rebounding racquetball shots bounced off back walls."
+  },
+  {
+    "word": "DECATHLON",
+    "meaning": "Ten-event track and field athletic contest",
+    "example": "Decathlon events tested running, jumping, and throwing."
+  },
+  {
+    "word": "PENTATHLON",
+    "meaning": "Five-event athletic competition",
+    "example": "Modern pentathlon included fencing, swimming, riding, shooting."
+  },
+  {
+    "word": "HEPTATHLON",
+    "meaning": "Seven-event track and field contest for women",
+    "example": "Heptathlon competitors scored points across seven events."
+  },
+  {
+    "word": "TRIATHLON",
+    "meaning": "Three-stage endurance race combining swim, bike, run",
+    "example": "Ironman triathlon tested mental and physical limits."
+  },
+  {
+    "word": "MARATHON",
+    "meaning": "Long-distance foot race of 26 miles 385 yards",
+    "example": "Runner crossed the marathon finish line to cheers."
+  },
+  {
+    "word": "HURDLES",
+    "meaning": "Track race where runners jump over barrier frames",
+    "example": "Sprinter cleared ten hurdles with smooth rhythm."
+  },
+  {
+    "word": "STEEPLECHASE",
+    "meaning": "Track obstacle race featuring water jumps and barriers",
+    "example": "Runners splashed through water jump in steeplechase."
+  },
+  {
+    "word": "JAVELIN",
+    "meaning": "Track event involving throwing a spear for distance",
+    "example": "Throwing the javelin set a new national track record."
+  },
+  {
+    "word": "DISCUS",
+    "meaning": "Track event throwing a heavy circular disc",
+    "example": "Discus thrower spun inside the ring before release."
+  },
+  {
+    "word": "SHOTPUT",
+    "meaning": "Track event pushing a heavy metal sphere for distance",
+    "example": "Shotput competitor launched sixteen-pound iron ball."
+  },
+  {
+    "word": "POLEVAULT",
+    "meaning": "Track event vaulting over high bar using long pole",
+    "example": "Flexible fiber pole vaulted athlete over eighteen feet."
+  },
+  {
+    "word": "HIGHJUMP",
+    "meaning": "Track event jumping over horizontal bar without dislodging",
+    "example": "Fosbury flop technique revolutionized highjump sport."
+  },
+  {
+    "word": "LONGJUMP",
+    "meaning": "Track event jumping as far forward as possible into sand",
+    "example": "Jumper hit the takeoff board cleanly for longjump gold."
+  },
+  {
+    "word": "TRIPLEJUMP",
+    "meaning": "Track event consisting of hop, step, and jump into pit",
+    "example": "Hop, step, and jump sequence defined the triplejump."
+  },
+  {
+    "word": "GYMNASTICS",
+    "meaning": "Sport involving physical exercises demonstrating balance",
+    "example": "Olympic gymnastics featured flawless balance beam routine."
+  },
+  {
+    "word": "FENCING",
+    "meaning": "Combat sport with swords using epee, foil, or sabre",
+    "example": "Electronic scoring registered valid fencing touches."
+  },
+  {
+    "word": "WRESTLING",
+    "meaning": "Grappling sport attempting to pin opponent",
+    "example": "Freestyle wrestling required leverage and strength."
+  },
+  {
+    "word": "TAEKWONDO",
+    "meaning": "Korean martial art emphasizing fast high kicks",
+    "example": "Spinning hook kick earned maximum taekwondo points."
+  },
+  {
+    "word": "BOXING",
+    "meaning": "Combat sport where two people punch with gloves",
+    "example": "Twelve rounds of intense boxing decided the belt."
+  },
+  {
+    "word": "CYCLING",
+    "meaning": "Riding bicycles in road or track races",
+    "example": "Peloton of riders surged ahead in French cycling race."
+  },
+  {
+    "word": "AUTORACING",
+    "meaning": "Motorized vehicle racing on tracks or circuits",
+    "example": "Formula cars reached 200 mph in autoracing grand prix."
+  },
+  {
+    "word": "BOBSLED",
+    "meaning": "Winter sport sliding down icy track in gravity sled",
+    "example": "Four-man bobsled reached high speeds on ice curves."
+  },
+  {
+    "word": "SKELETON",
+    "meaning": "Winter sport sliding head-first down ice track on sled",
+    "example": "Skeleton sliders faced G-forces hurtling down ice."
+  },
+  {
+    "word": "BIATHLON",
+    "meaning": "Winter sport combining cross-country skiing and shooting",
+    "example": "Biathlon tested cardio skiing control before precision shooting."
+  },
+  {
+    "word": "UNDERDOGS",
+    "meaning": "Competitors predicted to lose but fighting hard",
+    "example": "Underdogs scored a thrilling upset victory."
+  },
+  {
+    "word": "CONTENDERS",
+    "meaning": "Strong athletic competitors in line for title",
+    "example": "Top contenders assembled for championship draw."
+  },
+  {
+    "word": "RECORDHOLDER",
+    "meaning": "Athlete who holds the best historical score",
+    "example": "World recordholder broke her own swimming mark."
+  },
+  {
+    "word": "TITLEHOLDER",
+    "meaning": "Current champion holding title belt or trophy",
+    "example": "Defending titleholder retained title by decision."
+  },
+  {
+    "word": "SHOTCLOCK",
+    "meaning": "Timer counting down allowable time to shoot",
+    "example": "Buzzer sounded as shotclock expired on offense."
+  },
+  {
+    "word": "FREETHROW",
+    "meaning": "Uncontested shot awarded after foul in basketball",
+    "example": "Sinking two freethrow shots sealed the victory."
+  },
+  {
+    "word": "GAMETIMER",
+    "meaning": "Clock tracking remaining duration of play",
+    "example": "Gametimer counted down final five seconds."
+  },
+  {
+    "word": "PHOTOFINISH",
+    "meaning": "Close finish requiring camera review to decide winner",
+    "example": "Race ended in dramatic photofinish sprint."
+  },
+  {
+    "word": "SLAMDUNK",
+    "meaning": "Forceful basketball shot driven straight down through rim",
+    "example": "High-flying slamdunk electrified home crowd."
+  },
+  {
+    "word": "FASTBREAK",
+    "meaning": "Rapid offensive transition attack before defense sets",
+    "example": "Point guard led fastbreak score off turnover."
+  },
+  {
+    "word": "CROSSCOURT",
+    "meaning": "Shot hit diagonally across court to opposite corner",
+    "example": "Laser crosscourt forehand hit line for winner."
+  },
+  {
+    "word": "OVERDRIVE",
+    "meaning": "State of intense high energy performance",
+    "example": "Athletes shifted into overdrive in final quarter."
+  },
+  {
+    "word": "UNFORCED",
+    "meaning": "Error committed without pressure from opponent",
+    "example": "Minimizing unforced errors won the tennis match."
+  },
+  {
+    "word": "MATCHPOINT",
+    "meaning": "Point which if won will win the entire match",
+    "example": "Serving for matchpoint brought intense crowd silence."
+  },
+  {
+    "word": "SETPOINT",
+    "meaning": "Point which if won will win current tennis set",
+    "example": "Ace on setpoint secured first set victory."
+  },
+  {
+    "word": "BREAKPOINT",
+    "meaning": "Point which if won breaks opponent's service game",
+    "example": "Converting breakpoint gave early lead in second set."
+  },
+  {
+    "word": "LEADOFF",
+    "meaning": "First batter or runner in a lineup or relay",
+    "example": "Leadoff hitter opened game with a single hit."
+  },
+  {
+    "word": "ANCHORMAN",
+    "meaning": "Final runner or swimmer on a relay team",
+    "example": "Anchorman closed five-meter deficit to win relay gold."
+  },
+  {
+    "word": "SERVICELINE",
+    "meaning": "Line on tennis court behind which server stands",
+    "example": "Server stepped up to serviceline to launch ace."
+  },
+  {
+    "word": "HALFTIMER",
+    "meaning": "Intermission show performer or match break",
+    "example": "Halftimer show featured marching band pageantry."
+  },
+  {
+    "word": "FULLTIME",
+    "meaning": "End of a complete sporting match or game",
+    "example": "Whistle signaled fulltime with a two-one victory."
+  },
+  {
+    "word": "HOMETEAM",
+    "meaning": "Sports team playing on their own home field",
+    "example": "Hometeam cheered by fifty thousand local fans."
+  },
+  {
+    "word": "AWAYTEAM",
+    "meaning": "Visiting sports team playing on rival field",
+    "example": "Awayteam overcame crowd noise to win road game."
+  },
+  {
+    "word": "CROSSFIT",
+    "meaning": "High-intensity competitive fitness training regimen",
+    "example": "Crossfit games tested endurance, lifting, and agility."
+  },
+  {
+    "word": "HYROX",
+    "meaning": "Global indoor fitness racing competition combining running and workouts",
+    "example": "Hyrox athletes completed eight 1km runs and workouts."
+  },
+  {
+    "word": "PARALYMPICS",
+    "meaning": "Major international multi-sport event for athletes with disabilities",
+    "example": "Paralympics featured world-class athletic performances."
+  },
+  {
+    "word": "SPECIALOLYMPICS",
+    "meaning": "Global sports organization for athletes with intellectual disabilities",
+    "example": "Specialolympics celebrated courage, joy, and inclusion."
+  },
+  {
+    "word": "SUMO",
+    "meaning": "Japanese style of competitive full-contact wrestling",
+    "example": "Sumo wrestlers clashed inside the circular ring."
+  },
+  {
+    "word": "JUDO",
+    "meaning": "Japanese martial art emphasizing throws and takedowns",
+    "example": "Judo practitioner executed an ippon shoulder throw."
+  },
+  {
+    "word": "JUJITSU",
+    "meaning": "Japanese martial art emphasizing joint locks and chokes",
+    "example": "Jujitsu ground game yielded a tapout submission."
+  },
+  {
+    "word": "KARATE",
+    "meaning": "Okinawan martial art focusing on striking and kicking",
+    "example": "Karate master executed precise kata forms."
+  },
+  {
+    "word": "KENDO",
+    "meaning": "Japanese martial art of sword fighting with bamboo swords",
+    "example": "Kendo competitors wore protective armor and struck armors."
+  },
+  {
+    "word": "KABADDI",
+    "meaning": "Contact team sport originating in ancient India",
+    "example": "Kabaddi raider chanted continuously while tagging defenders."
+  },
+  {
+    "word": "WUSHU",
+    "meaning": "Chinese martial arts competitive exhibition and full-contact sport",
+    "example": "Wushu athletes performed acrobatic weapon routines."
+  },
+  {
+    "word": "MUAYTHAI",
+    "meaning": "Thai combat sport using stand-up striking and clinching",
+    "example": "Muaythai fighters utilized eight limbs in clinches."
+  },
+  {
+    "word": "POWERLIFTING",
+    "meaning": "Strength sport consisting of squat, bench press, and deadlift",
+    "example": "Powerlifting athlete set a national deadlift record."
+  },
+  {
+    "word": "WEIGHTLIFTING",
+    "meaning": "Olympic sport consisting of snatch and clean-and-jerk",
+    "example": "Weightlifting athlete lifted double his body weight."
+  },
+  {
+    "word": "BODYBUILDING",
+    "meaning": "Sport of developing muscle physique for aesthetic judging",
+    "example": "Bodybuilding competitors posed under stage lights."
+  },
+  {
+    "word": "SPEEDWAY",
+    "meaning": "Motorcycle racing on flat oval tracks of dirt or cinder",
+    "example": "Speedway racers slid motorcycles around unpaved corners."
+  },
+  {
+    "word": "MOTOCROSS",
+    "meaning": "Off-road motorcycle racing on enclosed dirt circuits",
+    "example": "Motocross riders launched high jumps over dirt tabletop ramps."
+  },
+  {
+    "word": "RALLYING",
+    "meaning": "Point-to-point auto racing on public or off-road courses",
+    "example": "Rallying co-driver read pace notes over intercom."
+  },
+  {
+    "word": "MOUNTAINBIKING",
+    "meaning": "Off-road bicycle racing over rough mountain terrain",
+    "example": "Mountainbiking down rocky descents required suspension."
+  },
+  {
+    "word": "NETBALL",
+    "meaning": "Seven-a-side ball game similar to basketball without backboards",
+    "example": "Netball shooter scored from inside the goal circle."
+  },
+  {
+    "word": "DODGEBALL",
+    "meaning": "Team game throwing soft balls to eliminate opponents",
+    "example": "Dodgeball player ducked and caught thrown ball."
+  },
+  {
+    "word": "DRESSAGE",
+    "meaning": "High school horsemanship demonstrating horse precision",
+    "example": "Dressage horse performed graceful diagonal side steps."
+  },
+  {
+    "word": "HAMMERTHROW",
+    "meaning": "Track event throwing a heavy metal ball attached to wire",
+    "example": "Hammerthrow athlete spun four times in throwing cage."
+  },
+  {
+    "word": "ULTRARUNNING",
+    "meaning": "Foot races longer than standard 26.2 mile marathon",
+    "example": "Ultrarunning 100-mile endurance race crossed mountains."
+  },
+  {
+    "word": "ICEHOCKEY",
+    "meaning": "Fast contact sport played on ice with puck and skates",
+    "example": "Icehockey winger slapped a puck into top shelf."
+  },
+  {
+    "word": "FIELDHOCKEY",
+    "meaning": "Team sport played on grass or turf with curved sticks",
+    "example": "Fieldhockey forward struck a reverse stick shot."
+  },
+  {
+    "word": "BOBSLEIGH",
+    "meaning": "Gravity winter sport sliding down ice track in steel sled",
+    "example": "Bobsleigh team pushed explosive start before loading."
+  },
+  {
+    "word": "LUGE",
+    "meaning": "Winter sport sliding face-up feet-first down ice track",
+    "example": "Luge slider steered sled with subtle shoulder leans."
+  },
+  {
+    "word": "SPEEDSKATING",
+    "meaning": "Ice skating racing over designated distances",
+    "example": "Long track speedskating featured low aerodynamic postures."
+  },
+  {
+    "word": "FIGURESKATING",
+    "meaning": "Ice skating sport combining jumps, spins, and choreography",
+    "example": "Figureknating duo landed triple axel in short program."
+  },
+  {
+    "word": "SHORTTRACK",
+    "meaning": "Speed skating on a small oval ice rink with close passing",
+    "example": "Shorttrack skaters leaned hard around tight rink turns."
+  },
+  {
+    "word": "SLALOM",
+    "meaning": "Skiing or kayaking race following a winding marked course",
+    "example": "Slalom skier clipped flexible gate poles down slope."
+  },
+  {
+    "word": "DOWNHILL",
+    "meaning": "High-speed alpine skiing race down steep mountain slopes",
+    "example": "Downhill skier reached speeds exceeding eighty mph."
+  },
+  {
+    "word": "HALFPIPE",
+    "meaning": "U-shaped snow or skate structure for performing tricks",
+    "example": "Halfpipe riders launched twenty feet above lip."
+  },
+  {
+    "word": "STEEPLECHASER",
+    "meaning": "Runner competing in barrier and water obstacle track race",
+    "example": "Steeplechaser cleared the water pit barrier smoothly."
+  },
+  {
+    "word": "POLEVAULTER",
+    "meaning": "Track athlete using flexible pole to clear high bar",
+    "example": "Polevaulter set new world record clearance."
+  },
+  {
+    "word": "DISCUSTHROWER",
+    "meaning": "Track athlete throwing heavy circular wooden disc",
+    "example": "Discusthrower executed smooth rotational entry."
+  },
+  {
+    "word": "JAVELINTHROWER",
+    "meaning": "Track athlete throwing aerodynamic spear for distance",
+    "example": "Javelinthrower planted foot and launched spear."
+  },
+  {
+    "word": "SHOTPUTTER",
+    "meaning": "Track athlete pushing heavy metal sphere from neck",
+    "example": "Shotputter exploded out of power position."
+  },
+  {
+    "word": "HIGHJUMPER",
+    "meaning": "Track athlete jumping over high horizontal bar",
+    "example": "Highjumper arched back clearing bar gracefully."
+  },
+  {
+    "word": "TRIPLEJUMPER",
+    "meaning": "Track athlete executing hop, step, and jump sequence",
+    "example": "Triplejumper bound forward into sand pit."
+  },
+  {
+    "word": "LONGJUMPER",
+    "meaning": "Track athlete sprinting and leaping into sand pit",
+    "example": "Longjumper hit board for eight-meter leap."
+  },
+  {
+    "word": "DECATHLETS",
+    "meaning": "Athletes competing across ten grueling track events",
+    "example": "Decathlets celebrated completing final 1500m run."
+  },
+  {
+    "word": "HEPTATHLETS",
+    "meaning": "Women track athletes competing in seven-event contest",
+    "example": "Heptathlets demonstrated overall athletic excellence."
+  },
+  {
+    "word": "PENTATHLETS",
+    "meaning": "Athletes competing in multi-discipline five-event contest",
+    "example": "Pentathlets fenced and swam before laser run."
+  },
+  {
+    "word": "TRIATHLETS",
+    "meaning": "Endurance athletes competing in swim, bike, run race",
+    "example": "Triathlets transitioned quickly from bike to run."
+  },
+  {
+    "word": "MARATHONERS",
+    "meaning": "Distance runners tackling 26.2 mile road courses",
+    "example": "Marathoners paced through city streets together."
+  },
+  {
+    "word": "SPRINTERS",
+    "meaning": "Short distance runners exploding out of starting blocks",
+    "example": "Sprinters crossed finish line in tight photo finish."
+  },
+  {
+    "word": "HURDLERS",
+    "meaning": "Runners jumping over barrier hurdles in track race",
+    "example": "Hurdlers cleared ten barriers in three-step rhythm."
+  },
+  {
+    "word": "MARKSMAN",
+    "meaning": "Shooter skilled in precision target shooting",
+    "example": "Marksman hit center bullseye ten times in row."
+  },
+  {
+    "word": "MARKSMANSHIP",
+    "meaning": "Art and skill of accurate target shooting",
+    "example": "Marksmanship required steady breath control."
+  },
+  {
+    "word": "ARCHERS",
+    "meaning": "Shooters using bows and arrows in target competitions",
+    "example": "Archers released arrows simultaneously in end."
+  },
+  {
+    "word": "BULLSEYE",
+    "meaning": "Center target ring scoring maximum points",
+    "example": "Arrow hit exact center of red bullseye."
+  },
+  {
+    "word": "FREEKICK",
+    "meaning": "Uncontested kick awarded after foul in soccer",
+    "example": "Freekick curled over wall into top corner of net."
+  },
+  {
+    "word": "CORNERKICK",
+    "meaning": "Kick awarded from corner arc in soccer",
+    "example": "Header off cornerkick scored winning goal."
+  },
+  {
+    "word": "PENALTYKICK",
+    "meaning": "Direct shot at goal awarded after foul in penalty box",
+    "example": "Penaltykick beat goalkeeper to bottom left corner."
+  },
+  {
+    "word": "FIELDGOAL",
+    "meaning": "Score made by kicking football through goalposts",
+    "example": "Fifty-yard fieldgoal won game as time expired."
+  },
+  {
+    "word": "BATTER",
+    "meaning": "Baseball player standing at plate to hit pitch",
+    "example": "Batter drew a walk on four balls."
+  },
+  {
+    "word": "BATSMAN",
+    "meaning": "Cricket player defending wickets and scoring runs",
+    "example": "Batsman struck a boundary six over long-on."
+  },
+  {
+    "word": "BOWLERS",
+    "meaning": "Cricket players delivering ball toward wickets",
+    "example": "Fast bowlers generated extreme pace and bounce."
+  },
+  {
+    "word": "INNINGS",
+    "meaning": "Division of a game in baseball or cricket",
+    "example": "Home team scored three runs in bottom of ninth innings."
+  },
+  {
+    "word": "RUNNERUP",
+    "meaning": "Competitor finishing in second place behind winner",
+    "example": "Runnerup accepted trophy with grace."
+  },
+  {
+    "word": "FINALIST",
+    "meaning": "Competitor reaching the final round of tournament",
+    "example": "Grand finalist prepared for Sunday title match."
+  },
+  {
+    "word": "SEMIFINALIST",
+    "meaning": "Competitor reaching the semifinal round",
+    "example": "Semi-finalist received prize money for top four finish."
+  },
+  {
+    "word": "GOLDMEDALIST",
+    "meaning": "Athlete who wins first place gold medal",
+    "example": "Olympic goldmedalist stood atop podium."
+  },
+  {
+    "word": "SILVERMEDALIST",
+    "meaning": "Athlete who wins second place silver medal",
+    "example": "Silvermedalist celebrated career best performance."
+  },
+  {
+    "word": "BRONZEMEDALIST",
+    "meaning": "Athlete who wins third place bronze medal",
+    "example": "Bronzemedalist earned historic first medal for country."
+  },
+  {
+    "word": "WORLDRECORD",
+    "meaning": "Best official athletic performance ever recorded in world",
+    "example": "Sprinter set a new 100m worldrecord."
+  },
+  {
+    "word": "NATIONALRECORD",
+    "meaning": "Best athletic performance recorded within a nation",
+    "example": "Swimmer broke nationalrecord by half second."
+  },
+  {
+    "word": "OLYMPICRECORD",
+    "meaning": "Best athletic performance achieved at Olympic Games",
+    "example": "Weightlifter set new Olympicrecord in clean and jerk."
+  },
+  {
+    "word": "VAULTINGPOLE",
+    "meaning": "Flexible pole used in pole vaulting competition",
+    "example": "The athlete planted the vaultingpole in the box."
+  },
+  {
+    "word": "HOMEPLATE",
+    "meaning": "Five-sided rubber plate in baseball where batters stand",
+    "example": "The runner slid under the tag at homeplate."
+  },
+  {
+    "word": "PITCHINGMOUND",
+    "meaning": "Raised dirt mound where baseball pitcher stands",
+    "example": "The pitcher stepped off the pitchingmound."
+  },
+  {
+    "word": "BACKSTOP",
+    "meaning": "Fence behind home plate stopping wild pitches",
+    "example": "The foul ball bounced high off the mesh backstop."
+  },
+  {
+    "word": "GOALPOST",
+    "meaning": "Vertical post forming part of a goal structure",
+    "example": "The ball ricocheted off the left goalpost into net."
+  },
+  {
+    "word": "CROSSBAR",
+    "meaning": "Horizontal beam connecting two goalposts",
+    "example": "The shot rattled off the crossbar into the crowd."
+  },
+  {
+    "word": "GOALNET",
+    "meaning": "Netting attached to goalposts to catch scored balls",
+    "example": "The striker drove the ball into the back of the goalnet."
+  },
+  {
+    "word": "SHUTTLECOCK",
+    "meaning": "High-drag projectile used in badminton games",
+    "example": "The shuttlecock landed inside the baseline court."
+  },
+  {
+    "word": "SHUTTLECOCKS",
+    "meaning": "Feathered projectiles used in badminton matches",
+    "example": "New shuttlecocks were opened for the third set."
+  },
+  {
+    "word": "CUESTICK",
+    "meaning": "Tapered wooden stick used to strike billiard balls",
+    "example": "The player chalked the tip of his cuecstick."
+  },
+  {
+    "word": "CUEBALL",
+    "meaning": "White ball struck by cue stick in billiards",
+    "example": "The player lined up the cueball to pocket the eight ball."
+  },
+  {
+    "word": "SHOULDERPADS",
+    "meaning": "Protective padding worn by football players",
+    "example": "Gridiron players strapped on heavy shoulderpads."
+  },
+  {
+    "word": "SHINGUARDS",
+    "meaning": "Protective pads worn over shins in soccer and hockey",
+    "example": "The defender strapped on foam shinguards under socks."
+  },
+  {
+    "word": "MOUTHGUARD",
+    "meaning": "Protective dental guard worn in contact sports",
+    "example": "The boxer inserted his rubber mouthguard before round one."
+  },
+  {
+    "word": "CLEATS",
+    "meaning": "Studded footwear providing traction on sports turf",
+    "example": "Soccer players laced up firm ground cleats."
+  },
+  {
+    "word": "SINGLET",
+    "meaning": "One-piece tight garment worn by wrestlers and runners",
+    "example": "Wrestlers stepped onto the mat wearing team singlets."
+  },
+  {
+    "word": "JERSEY",
+    "meaning": "Shirt worn by members of a sports team",
+    "example": "The captain wore the legendary number ten jersey."
+  },
+  {
+    "word": "CLEANSHEET",
+    "meaning": "Shutout in soccer where goalkeeper concedes zero goals",
+    "example": "The goalkeeper earned his tenth cleansheet of season."
+  },
+  {
+    "word": "HATTRICK",
+    "meaning": "Scoring three goals in a single match by one player",
+    "example": "The striker celebrated a dramatic second-half hat-trick."
+  },
+  {
+    "word": "INJURYTIME",
+    "meaning": "Additional minutes added at end of match for stoppages",
+    "example": "The winning goal was scored in five minutes of injurytime."
+  },
+  {
+    "word": "STOPPAGETIME",
+    "meaning": "Extra time added at end of halves for delays",
+    "example": "The referee signaled four minutes of stoppagetime."
+  },
+  {
+    "word": "GOLDENGOAL",
+    "meaning": "Rule where first goal scored in overtime wins match",
+    "example": "A sudden goldengoal ended the championship game."
+  },
+  {
+    "word": "PENALTYSHOT",
+    "meaning": "Uncontested shot at goal awarded in hockey or soccer",
+    "example": "The winger scored on a penaltyshot breakaway."
+  },
+  {
+    "word": "FREEKICKS",
+    "meaning": "Uncontested kicks awarded after fouls in soccer",
+    "example": "The team practiced curling freekicks over walls."
+  },
+  {
+    "word": "CORNERKICKS",
+    "meaning": "Kicks taken from corner arc after defender touches ball",
+    "example": "Tall defenders surged forward for cornerkicks."
+  },
+  {
+    "word": "PENALTYKICKS",
+    "meaning": "Kicks from penalty spot during penalty shootouts",
+    "example": "Goalkeepers faced five penaltykicks in shootout."
+  },
+  {
+    "word": "THROWIN",
+    "meaning": "Method of restarting play in soccer by throwing ball from sideline",
+    "example": "The defender executed a long throwin into penalty box."
+  },
+  {
+    "word": "GOALKICK",
+    "meaning": "Restart kick taken by defending team after ball crosses endline",
+    "example": "The goalkeeper launched a long goalkick to midfield."
+  },
+  {
+    "word": "TOUCHBACK",
+    "meaning": "Ruling in football when ball is downed in end zone",
+    "example": "The receiver caught the kickoff for a touchback."
+  },
+  {
+    "word": "PENALTYBOX",
+    "meaning": "Enclosed area in hockey where penalized players sit",
+    "example": "The winger spent two minutes in the penaltybox for tripping."
+  },
+  {
+    "word": "UNFORCEDERRORS",
+    "meaning": "Mistakes made in tennis without pressure from opponent",
+    "example": "Reducing unforcederrors decided the tight second set."
+  },
+  {
+    "word": "BREAKPOINTS",
+    "meaning": "Points in tennis which if won break opponent service",
+    "example": "Converting four breakpoints sealed victory."
+  },
+  {
+    "word": "SETPOINTS",
+    "meaning": "Points in tennis which if won win current set",
+    "example": "The server saved three setpoints before winning set."
+  },
+  {
+    "word": "MATCHPOINTS",
+    "meaning": "Points in tennis which if won win the entire match",
+    "example": "The crowd gasped on the third matchpoints rally."
+  },
+  {
+    "word": "GRANDCHAMPION",
+    "meaning": "Overall top winner of a major tournament series",
+    "example": "The sumotori was crowned grandchampion of tournament."
+  },
+  {
+    "word": "UNDISPUTED",
+    "meaning": "Champion holding all major recognized title belts",
+    "example": "The boxer became the undisputed heavyweight champion."
+  },
+  {
+    "word": "HALLOFFAME",
+    "meaning": "Museum honoring outstanding historical sports figures",
+    "example": "The legend was inducted into the baseball Halloffame."
+  },
+  {
+    "word": "HALLOFFAMER",
+    "meaning": "Inducted member of a sports Hall of Fame",
+    "example": "The retired quarterback was a first-ballot Halloffamer."
+  },
+  {
+    "word": "ALLSTAR",
+    "meaning": "Player selected to an elite exhibition team",
+    "example": "The guard was voted an Allstar starter for fifth year."
+  },
+  {
+    "word": "ALLSTARS",
+    "meaning": "Team composed of top performing league players",
+    "example": "The league Allstars played the international champions."
+  },
+  {
+    "word": "ALLAMERICAN",
+    "meaning": "Honorary title awarded to top US college athletes",
+    "example": "The sprinter was named a first-team Allamerican."
+  },
+  {
+    "word": "ROOKIEOFTHEYEAR",
+    "meaning": "Award given to top performing first-year athlete",
+    "example": "The pitcher won unanimous Rookienoftheyear honors."
+  },
+  {
+    "word": "VETERAN",
+    "meaning": "Player with long experience competing in league",
+    "example": "The seasoned veteran provided leadership in locker room."
+  },
+  {
+    "word": "FREEAGENT",
+    "meaning": "Player not bound by contract free to sign with any team",
+    "example": "The star freeagent signed a five-year contract."
+  },
+  {
+    "word": "DRAFTPICK",
+    "meaning": "Selection of a college athlete by professional team",
+    "example": "The team used their first draftpick on a quarterback."
+  },
+  {
+    "word": "CAPTAINCY",
+    "meaning": "Role or position of leading a sports team",
+    "example": "The midfielder assumed team captaincy after retirement."
+  },
+  {
+    "word": "SPONSORSHIP",
+    "meaning": "Financial support given to athlete or event by brand",
+    "example": "The corporate sponsorship funded tournament prize purse."
+  },
+  {
+    "word": "ENDORSEMENT",
+    "meaning": "Commercial agreement endorsing products by famous athlete",
+    "example": "The track star signed an exclusive shoe endorsement deal."
+  },
+  {
+    "word": "TELECAST",
+    "meaning": "Broadcasting of a sports event on television",
+    "example": "Millions tuned in for the live international telecast."
+  },
+  {
+    "word": "SIMULCAST",
+    "meaning": "Simultaneous broadcast of event across television and radio",
+    "example": "The championship final was available via global simulcast."
+  },
+  {
+    "word": "PAYPERVIEW",
+    "meaning": "Broadcast format where viewers pay fee to watch event",
+    "example": "The title fight broke all payperview sales records."
+  },
+  {
+    "word": "SPECTATORS",
+    "meaning": "People watching a sports event in person",
+    "example": "Eighty thousand spectators packed stadium stands."
+  },
+  {
+    "word": "FANBASE",
+    "meaning": "Collective body of loyal fans supporting a team",
+    "example": "The franchise boasted a passionate worldwide fanbase."
+  },
+  {
+    "word": "SUPPORTERS",
+    "meaning": "Fans actively encouraging and backing a sports club",
+    "example": "Loyal supporters sang team chants throughout match."
+  },
+  {
+    "word": "ULTRAS",
+    "meaning": "Fanatical organized supporters of a soccer club",
+    "example": "The ultras displayed massive banner tifo art in end stands."
+  },
+  {
+    "word": "REBOUNDER",
+    "meaning": "Basketball player skilled at grabbing missed shots",
+    "example": "The power forward was the team's leading rebounder."
+  },
+  {
+    "word": "PLAYMAKER",
+    "meaning": "Player who controls team offense and creates scoring",
+    "example": "The point guard acted as the primary playmaker."
+  },
+  {
+    "word": "SHOTPUTTERS",
+    "meaning": "Track athletes competing in heavy sphere putting",
+    "example": "Shotputters warmed up in the throwing circle."
+  },
+  {
+    "word": "JAVELINTHROWERS",
+    "meaning": "Track athletes throwing spears for distance",
+    "example": "Javelinthrowers planted steps before launching spears."
+  },
+  {
+    "word": "DISCUSTHROWERS",
+    "meaning": "Track athletes spinning inside ring to throw disc",
+    "example": "Discusthrowers executed rotational spinning releases."
+  },
+  {
+    "word": "HAMMERTHROWERS",
+    "meaning": "Track athletes spinning heavy ball on wire",
+    "example": "Hammerthrowers launched four spins before releasing ball."
+  },
+  {
+    "word": "POLEVAULTERS",
+    "meaning": "Track athletes using flexible poles to clear bar",
+    "example": "Polevaulters sprinted down runway with fiber poles."
+  },
+  {
+    "word": "HIGHJUMPERS",
+    "meaning": "Track athletes jumping over horizontal bar",
+    "example": "Highjumpers performed Fosbury flops over bar."
+  },
+  {
+    "word": "TRIPLEJUMPERS",
+    "meaning": "Track athletes executing hop, step, and jump",
+    "example": "Triplejumpers landed deep in sand pit."
+  },
+  {
+    "word": "LONGJUMPERS",
+    "meaning": "Track athletes leaping into sand pit",
+    "example": "Longjumpers hit takeoff board with speed."
+  },
+  {
+    "word": "DECATHLETES",
+    "meaning": "Athletes competing in ten track and field events",
+    "example": "Decathletes rested between high jump and 400m."
+  },
+  {
+    "word": "HEPTATHLETES",
+    "meaning": "Women athletes competing across seven events",
+    "example": "Heptathletes competed in 100m hurdles and shot put."
+  },
+  {
+    "word": "MARKSMEN",
+    "meaning": "Shooters skilled in precision target marksmanship",
+    "example": "Marksmen scored ten ring hits in prone position."
+  },
+  {
+    "word": "ARCHERYRANGE",
+    "meaning": "Facility equipped for target archery competition",
+    "example": "Archers took positions on sixty-meter archeryrange."
+  },
+  {
+    "word": "BOWLINGALLEY",
+    "meaning": "Facility equipped with lanes for tenpin bowling",
+    "example": "The bowlingalley echoed with falling pin strikes."
+  },
+  {
+    "word": "ICERINK",
+    "meaning": "Enclosed frozen ice sheet for hockey and skating",
+    "example": "Zamboni resurfaced the ice rink between periods."
+  },
+  {
+    "word": "TURF",
+    "meaning": "Surface of short grass or artificial turf in sports",
+    "example": "Cleats gripped firm green synthetic turf."
+  },
+  {
+    "word": "GREENS",
+    "meaning": "Closely mown smooth grass putting areas on golf course",
+    "example": "Putt rolled smoothly across fast bentgrass greens."
+  },
+  {
+    "word": "TEEMAT",
+    "meaning": "Designated area where golfers take first drive shot",
+    "example": "Player placed ball on wooden tee at teemat."
+  },
+  {
+    "word": "BALLPARKS",
+    "meaning": "Baseball stadiums and grounds hosting games",
+    "example": "Classic ballparks featured ivy covered outfield walls."
+  },
+  {
+    "word": "DUGOUT",
+    "meaning": "Low sheltered seating area where players sit during game",
+    "example": "Players leaned against dugout railing cheering teammates."
+  },
+  {
+    "word": "PITCHINGMOUNDS",
+    "meaning": "Raised dirt mounds from which pitchers throw",
+    "example": "Groundskeepers packed clay on pitchingmounds."
+  },
+  {
+    "word": "BACKSTOPS",
+    "meaning": "High net or fence structures behind home plate",
+    "example": "Foul tips hit heavy vinyl backstops."
+  },
+  {
+    "word": "GOALPOSTS",
+    "meaning": "Vertical upright posts framing goal scoring area",
+    "example": "Field goal kick passed high between goalposts."
+  },
+  {
+    "word": "CROSSBARS",
+    "meaning": "Horizontal bars connecting pair of vertical goalposts",
+    "example": "Puck hit bottom of crossbar and bounced out."
+  },
+  {
+    "word": "GOALNETS",
+    "meaning": "Mesh netting attached behind goal frames",
+    "example": "Striker's volley bulged back of goalnets."
+  },
+  {
+    "word": "PADDLEBOARD",
+    "meaning": "Board used in paddleboard racing competitions",
+    "example": "Competitor paddled flat water paddleboard fast."
+  },
+  {
+    "word": "PINGPONG",
+    "meaning": "Table tennis sport played with small paddles",
+    "example": "Fast pingpong rallies featured heavy topspin."
+  },
+  {
+    "word": "CUESTICKS",
+    "meaning": "Tapered sticks used by pool and billiard players",
+    "example": "Billiard players selected custom maple cuesticks."
+  },
+  {
+    "word": "CUEBALLS",
+    "meaning": "White striking balls used in cue sports",
+    "example": "Positioning cueballs allowed easy follow-up shots."
+  },
+  {
+    "word": "PUCKS",
+    "meaning": "Vulcanized rubber discs used in ice hockey",
+    "example": "Pucks traveled at ninety miles an hour on ice."
+  },
+  {
+    "word": "SKATES",
+    "meaning": "Footwear fitted with metal blades for ice sliding",
+    "example": "Sharpened steel skates carved ice turns."
+  },
+  {
+    "word": "HELMETS",
+    "meaning": "Hard protective headgear worn in contact sports",
+    "example": "Batter adjusted ear flaps on batting helmets."
+  },
+  {
+    "word": "VISORS",
+    "meaning": "Transparent shields attached to helmets",
+    "example": "Hockey visors protected eyes from high sticks."
+  },
+  {
+    "word": "SCOREKEEPERS",
+    "meaning": "Officials tracking point tallies and fouls",
+    "example": "Scorekeepers updated digital display box."
+  },
+  {
+    "word": "TIMEKEEPERS",
+    "meaning": "Officials measuring game elapsed time",
+    "example": "Timekeepers operated precision stadium clock."
+  },
+  {
+    "word": "LINEJUDGES",
+    "meaning": "Officials watching boundary lines in court matches",
+    "example": "Linejudges called balls in or out."
+  },
+  {
+    "word": "SIDELINES",
+    "meaning": "Boundaries along sides of a playing field",
+    "example": "Coaches walked sidelines giving instructions."
+  },
+  {
+    "word": "BASELINES",
+    "meaning": "Boundary lines at ends of tennis or basketball courts",
+    "example": "Deep drives landed on baselines."
+  },
+  {
+    "word": "ENDLINES",
+    "meaning": "Boundary lines marking end of a sports court",
+    "example": "Serves must clear endlines."
+  },
+  {
+    "word": "MIDFIELD",
+    "meaning": "Central region of a soccer or lacrosse pitch",
+    "example": "The battle for ball control raged in midfield."
+  },
+  {
+    "word": "CENTERCOURT",
+    "meaning": "Main show court in tennis or basketball arena",
+    "example": "Finals were played on centercourt."
+  },
+  {
+    "word": "PENALTYARC",
+    "meaning": "Arc outside soccer penalty box",
+    "example": "Players stood outside penaltyarc during kicks."
+  },
+  {
+    "word": "CENTERRING",
+    "meaning": "Central circle on soccer pitch or boxing ring",
+    "example": "Captains met in centercring for toss."
+  },
+  {
+    "word": "BULLPEN",
+    "meaning": "Area where baseball relief pitchers warm up",
+    "example": "Relievers warmed up in bullpen."
+  },
+  {
+    "word": "SHORTSTOP",
+    "meaning": "Infield baseball player between second and third base",
+    "example": "Shortstop fielded grounders smoothly."
+  },
+  {
+    "word": "FIRSTBASE",
+    "meaning": "First corner bag on baseball diamond",
+    "example": "Runner reached firstbase safely."
+  },
+  {
+    "word": "SECONDBASE",
+    "meaning": "Second corner bag on baseball diamond",
+    "example": "Runner stole secondbase standing up."
+  },
+  {
+    "word": "THIRDBASE",
+    "meaning": "Third corner bag on baseball diamond",
+    "example": "Runner slid into thirdbase."
+  },
+  {
+    "word": "BATBOY",
+    "meaning": "Assistant retrieving equipment for baseball teams",
+    "example": "The batboy gathered discarded bats."
+  },
+  {
+    "word": "BALLBOY",
+    "meaning": "Assistant retrieving loose balls in tennis or soccer",
+    "example": "Ballboy handed towels to players."
+  },
+  {
+    "word": "BALLGIRL",
+    "meaning": "Assistant retrieving loose balls during matches",
+    "example": "Ballgirl quickly fetched stray tennis balls."
+  },
+  {
+    "word": "CADDIE",
+    "meaning": "Assistant carrying golf clubs and advising player",
+    "example": "Caddie suggested a seven iron for distance."
+  },
+  {
+    "word": "CORNERMAN",
+    "meaning": "Coach advising boxer in corner between rounds",
+    "example": "Cornerman treated cut above boxer's eye."
+  },
+  {
+    "word": "CORNERMEN",
+    "meaning": "Coaches supporting boxer between rounds",
+    "example": "Cornermen urged fighter to stay active."
+  },
+  {
+    "word": "CUTMAN",
+    "meaning": "Specialist treating facial cuts on boxers",
+    "example": "Cutman applied ice and vaseline between rounds."
+  },
+  {
+    "word": "WATERBOY",
+    "meaning": "Assistant supplying hydration to athletes",
+    "example": "Waterboy brought bottles during timeout."
+  },
+  {
+    "word": "PITCHSIDE",
+    "meaning": "Area immediately adjacent to sports pitch",
+    "example": "Reporters reported live from pitchside."
+  }
+]

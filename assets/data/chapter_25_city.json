@@ -1,0 +1,2144 @@
+{
+  "id": 25,
+  "key": "city",
+  "title": "City",
+  "iconAsset": "assets/chapter_images/city.png",
+  "themeColor": 4282339765,
+  "levels": [
+    {
+      "levelNumber": 1,
+      "title": "City Level 1",
+      "gridRows": 10,
+      "gridCols": 10,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "DRAINPIPE",
+          "meaning": "Vertical pipe conveying rainwater from roof gutters down to storm drains",
+          "example": "Rainwater rushed through the copper drainpipe and emptied into the cistern."
+        },
+        {
+          "word": "TOWNPRIER",
+          "meaning": "Officer making public announcements on street corners with a bell",
+          "example": "Ringing a brass handbell, the towncrier shouted civic news to market shoppers."
+        },
+        {
+          "word": "BEADLE",
+          "meaning": "Ceremonial parish officer attending courts and maintaining church decorum",
+          "example": "The beadle carried the ceremonial silver mace preceding the civic procession."
+        },
+        {
+          "word": "RAMBLA",
+          "meaning": "Broad pedestrian boulevard lined with trees and central market stalls",
+          "example": "Flower sellers and street artists lined Barcelona famous leafy rambla."
+        },
+        {
+          "word": "LOGGIA",
+          "meaning": "Gallery or room with one or more open sides facing toward a garden court",
+          "example": "Fresco murals decorated the vaulted arches of the Renaissance open loggia."
+        },
+        {
+          "word": "SOFFIT",
+          "meaning": "Exposed underside of an architectural arch, balcony, beam, or overhanging eaves",
+          "example": "Recessed spotlighting was installed into the exterior entrance soffit."
+        },
+        {
+          "word": "PALISADE",
+          "meaning": "Strong wooden fence or wall of pointed stakes forming a defense barrier",
+          "example": "A tall timber palisade protected the early colonial frontier settlement."
+        },
+        {
+          "word": "LANDFILL",
+          "meaning": "Designated site for the disposal of municipal waste materials by burial",
+          "example": "Methane gas capture systems were installed across the closed city landfill."
+        }
+      ]
+    },
+    {
+      "levelNumber": 2,
+      "title": "City Level 2",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "HOARDING",
+          "meaning": "Temporary wooden fence erected around construction building sites",
+          "example": "Street artists painted vibrant community murals across the plywood hoarding."
+        },
+        {
+          "word": "MOAT",
+          "meaning": "Deep wide ditch surrounding a fortified city or castle filled with water",
+          "example": "White swans swam gracefully in the still water of the ancient stone moat."
+        },
+        {
+          "word": "DISCOTHEQUE",
+          "meaning": "Club featuring DJ music, dance floors, and colorful light effects",
+          "example": "Dancers packed the discotheque floor as pulsating electronic music played."
+        },
+        {
+          "word": "ROTISSERIE",
+          "meaning": "Restaurant specializing in meat cooked on rotating spit roasts",
+          "example": "Succulent chickens turned slowly over charcoal coals in the open rotisserie."
+        },
+        {
+          "word": "EXURBIA",
+          "meaning": "Region of prosperous residential settlements located beyond the suburbs",
+          "example": "Commuters traveled an hour from the tranquil rural hills of exurbia each morning."
+        },
+        {
+          "word": "TANNERY",
+          "meaning": "Industrial workshop where animal hides are chemically treated into leather",
+          "example": "The historic riverfront tannery produced supple leather for saddlery and boots."
+        },
+        {
+          "word": "PEDIMENT",
+          "meaning": "Triangular gable forming the roof peak over classical building porticos",
+          "example": "Intricate stone sculptures decorated the classical temple pediment."
+        },
+        {
+          "word": "MANSION",
+          "meaning": "Large impressive and stately private residence built on spacious grounds",
+          "example": "Gilded gates guarded the grand driveway of the Gilded Age waterfront mansion."
+        }
+      ]
+    },
+    {
+      "levelNumber": 3,
+      "title": "City Level 3",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "DINER",
+          "meaning": "Casual roadside restaurant with long counter seating serving all-day comfort food",
+          "example": "Truck drivers ordered hot coffee and blueberry pie in the chrome roadside diner."
+        },
+        {
+          "word": "CHAUFFEUR",
+          "meaning": "Person employed professionally to drive private luxury passenger cars",
+          "example": "The uniformed chauffeur held open the rear limousine door for the foreign dignitary."
+        },
+        {
+          "word": "SOLICITOR",
+          "meaning": "Legal practitioner advising clients, preparing deeds, and managing estates",
+          "example": "The family consulted their solicitor to handle property conveyance paperwork."
+        },
+        {
+          "word": "PINNACLE",
+          "meaning": "High pointed ornamental architectural finial crowning church buttresses",
+          "example": "Stone pinnacles adorned the roofline of the cathedral, pointing toward the clouds."
+        },
+        {
+          "word": "MANHOLECOVER",
+          "meaning": "Heavy round cast-iron plate sealing utility openings on city streets",
+          "example": "Waffle-patterned cast manholecovers rattled as heavy double-decker buses passed."
+        },
+        {
+          "word": "VESTIBULE",
+          "meaning": "Small antechamber or lobby between the outer door and interior building rooms",
+          "example": "Guests wiped snow from their boots inside the warm heated vestibule."
+        },
+        {
+          "word": "BYWAY",
+          "meaning": "Secondary side road or less frequently traveled route through countryside",
+          "example": "Tourists explored tranquil village churches along scenic rural byways."
+        },
+        {
+          "word": "CENSUS",
+          "meaning": "Official periodic governmental counting and demographic survey of populations",
+          "example": "The national decennial census revealed rapid residential growth in suburbs."
+        }
+      ]
+    },
+    {
+      "levelNumber": 4,
+      "title": "City Level 4",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CITADEL",
+          "meaning": "Fortress protecting or dominating a city, often serving as a final refuge",
+          "example": "Stone ramparts of the mountain citadel overlooked the entire coastal valley."
+        },
+        {
+          "word": "FLUME",
+          "meaning": "Deep narrow ravine or artificial wooden water channel guiding streams",
+          "example": "The sawmill was powered by water flowing down a raised wooden timber flume."
+        },
+        {
+          "word": "BUSKER",
+          "meaning": "Street musician or entertainer performing in public places for gratuities",
+          "example": "A talented acoustic guitarist busker played jazz inside the subway concourse."
+        },
+        {
+          "word": "FROMAGERIE",
+          "meaning": "Specialty cheese shop curing and offering artisanal cheeses from farms",
+          "example": "Wooden shelves held wheels of aging Comt\u00e9 and Roquefort inside the fromagerie."
+        },
+        {
+          "word": "ROASTERY",
+          "meaning": "Specialty coffee facility where raw green coffee beans are roasted",
+          "example": "The rich aroma of dark roasted espresso filled the industrial coffee roastery."
+        },
+        {
+          "word": "CABARET",
+          "meaning": "Theatrical entertainment featuring music, comedy, and dance in dining venues",
+          "example": "The vintage cabaret featured satirical sketches and smoky jazz vocals."
+        },
+        {
+          "word": "CONURBATION",
+          "meaning": "Continuous urban region formed by the merging of several growing cities",
+          "example": "The Ruhr valley is a dense industrial conurbation of interconnected towns."
+        },
+        {
+          "word": "PASEO",
+          "meaning": "Leisurely public evening walk taken along town streets or park avenues",
+          "example": "Young couples participated in the traditional Sunday evening paseo around the square."
+        }
+      ]
+    },
+    {
+      "levelNumber": 5,
+      "title": "City Level 5",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "PARAPET",
+          "meaning": "Low protective wall along the edge of a roof, bridge, or balcony",
+          "example": "Visitors leaned against the stone bridge parapet looking down at the river."
+        },
+        {
+          "word": "DENSITY",
+          "meaning": "Number of individuals or residential dwellings per unit of geographic area",
+          "example": "High population density in the core supported frequent mass transit routes."
+        },
+        {
+          "word": "SUBURBIA",
+          "meaning": "Suburbs collectively and the distinct culture and lifestyle of suburbanites",
+          "example": "Quiet culdesacs, manicured green lawns, and shopping malls characterized suburbia."
+        },
+        {
+          "word": "TRAFFICJAM",
+          "meaning": "Severe vehicular congestion where lines of cars crawl or halt entirely",
+          "example": "An afternoon rainstorm triggered a frustrating five-mile freeway trafficjam."
+        },
+        {
+          "word": "PEDESTRIAN",
+          "meaning": "Person traveling on foot along sidewalks, crossings, and public plazas",
+          "example": "The shopping street was closed to cars to create a pedestrian precinct."
+        },
+        {
+          "word": "DRYCLEANER",
+          "meaning": "Business cleaning garments and textiles using chemical solvents rather than water",
+          "example": "She dropped off her wool winter coat at the neighborhood eco drycleaner."
+        },
+        {
+          "word": "BULWARK",
+          "meaning": "Solid wall-like defensive embankment providing protection against attack",
+          "example": "The ancient sea bulwark protected the low-lying medieval port from crashing tides."
+        },
+        {
+          "word": "FOOTPATH",
+          "meaning": "Narrow path reserved for pedestrians walking through parks or between streets",
+          "example": "A gravel footpath wound through the botanical gardens and around the duck pond."
+        }
+      ]
+    },
+    {
+      "levelNumber": 6,
+      "title": "City Level 6",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "EMBANKMENT",
+          "meaning": "Stone or earth wall built along river banks to prevent flooding and form roads",
+          "example": "Walkers enjoyed panoramic sunset river views along the Thames Embankment."
+        },
+        {
+          "word": "GENTRIFICATION",
+          "meaning": "Process of renovating deteriorated urban neighborhoods attracting wealth",
+          "example": "New coffee shops and lofts signaled the rapid gentrification of the old quarter."
+        },
+        {
+          "word": "DELICATESSEN",
+          "meaning": "Store selling fine imported cheeses, cured meats, and prepared gourmet foods",
+          "example": "Office workers lined up for pastrami on rye at the famous Jewish delicatessen."
+        },
+        {
+          "word": "FLANEUR",
+          "meaning": "Leisurely urban stroller observing city society and culture detachedly",
+          "example": "The Parisian flaneur spent afternoons wandering through cafes and bookshops."
+        },
+        {
+          "word": "PALACE",
+          "meaning": "Grand ceremonial residence of a monarch, bishop, or head of state",
+          "example": "Guards in ceremonial uniform stood watch outside the iron gates of the royal palace."
+        },
+        {
+          "word": "PROMENADE",
+          "meaning": "Wide paved walkway designed for leisurely public strolling along waterfronts",
+          "example": "Tourists strolled along the palm-lined seaside promenade at dusk."
+        },
+        {
+          "word": "DETOUR",
+          "meaning": "Alternative temporary route taken when normal thoroughfares are closed",
+          "example": "Orange construction signs guided motorists along a scenic residential detour."
+        },
+        {
+          "word": "JUGGLER",
+          "meaning": "Entertainer who keeps several balls, clubs, or flaming torches in the air",
+          "example": "A colorful street juggler tossed five spinning clubs before the cathedral plaza."
+        }
+      ]
+    },
+    {
+      "levelNumber": 7,
+      "title": "City Level 7",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "ALAMEDA",
+          "meaning": "Public shaded promenade or avenue lined with rows of poplar trees",
+          "example": "Families enjoyed evening walks under the leafy canopy of the central alameda."
+        },
+        {
+          "word": "COUNCILOR",
+          "meaning": "Member of a municipal governing council deliberating city policy",
+          "example": "The city councilor sponsored legislation to expand public cycle lanes."
+        },
+        {
+          "word": "PORTCULLIS",
+          "meaning": "Heavy vertically sliding iron or wooden grating guarding gateway arches",
+          "example": "Guards dropped the heavy iron portcullis to seal the castle entry against intruders."
+        },
+        {
+          "word": "MUNICIPAL",
+          "meaning": "Relating to local city government, institutions, or public administration",
+          "example": "The municipal water department tested drinking water quality across all wards."
+        },
+        {
+          "word": "CREAMERY",
+          "meaning": "Dairy processing plant producing fresh butter, cream, milk, and cheese",
+          "example": "The country creamery delivered fresh glass bottles of whole milk each morning."
+        },
+        {
+          "word": "QUAYSIDE",
+          "meaning": "Paved area alongside a wharf or quay where ships dock for cargo and passengers",
+          "example": "Open-air cafes set out tables along the bustling sunny quayside."
+        },
+        {
+          "word": "COURTYARD",
+          "meaning": "Enclosed open-air space surrounded by the walls of a building or complex",
+          "example": "Potted citrus trees surrounded the peaceful inner stone courtyard."
+        },
+        {
+          "word": "TAQUERIA",
+          "meaning": "Casual Mexican restaurant or street stand serving freshly made tacos",
+          "example": "Lines formed outside the corner taqueria for al pastor tacos with fresh cilantro."
+        }
+      ]
+    },
+    {
+      "levelNumber": 8,
+      "title": "City Level 8",
+      "gridRows": 10,
+      "gridCols": 10,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "NEONSIGN",
+          "meaning": "Illuminated electric sign glowing with ionized gas inside shaped glass tubes",
+          "example": "The diner neon sign flickered bright pink through the evening rain."
+        },
+        {
+          "word": "SOOT",
+          "meaning": "Black powdery carbon residue produced by the incomplete combustion of fuel",
+          "example": "Centuries of coal soot were power-washed from the limestone cathedral walls."
+        },
+        {
+          "word": "FORUM",
+          "meaning": "Public square and marketplace at the center of ancient Roman cities",
+          "example": "Orators addressed crowds gathered in the marble colonnades of the forum."
+        },
+        {
+          "word": "ALLEYWAY",
+          "meaning": "Narrow passage or lane between buildings connecting urban streets",
+          "example": "Delivery vans backed down the narrow brick alleyway behind restaurants."
+        },
+        {
+          "word": "BEDSIT",
+          "meaning": "One-room rented lodging serving as both bedroom and living room",
+          "example": "The university student rented an affordable furnished bedsit near the tram line."
+        },
+        {
+          "word": "SIGHTSEER",
+          "meaning": "Tourist or visitor traveling around to see places and objects of interest",
+          "example": "Sightseers snapped photos of the historic cathedral from the open-top bus."
+        },
+        {
+          "word": "ESCALATOR",
+          "meaning": "Power-driven moving stairway carrying passengers between building levels",
+          "example": "Commuters rode the deep subway escalator down to the lower transit platform."
+        },
+        {
+          "word": "TOWNHALL",
+          "meaning": "Municipal building housing local civic administration and public council chambers",
+          "example": "Citizens attended the open budget meeting inside the historic townhall."
+        }
+      ]
+    },
+    {
+      "levelNumber": 9,
+      "title": "City Level 9",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "PIAZZA",
+          "meaning": "Open public square surrounded by buildings in Italian or European towns",
+          "example": "Tourists sipped espresso while watching street musicians in the sunny piazza."
+        },
+        {
+          "word": "HOSPICE",
+          "meaning": "Specialized healthcare facility providing palliative comfort care for terminal patients",
+          "example": "Dedicated nurses provided gentle holistic care inside the peaceful hospice garden."
+        },
+        {
+          "word": "MERCANTILE",
+          "meaning": "Commercial trading business or general store selling diverse dry goods",
+          "example": "The nineteenth-century mercantile supplied pioneer towns with tools and canvas."
+        },
+        {
+          "word": "STROLLER",
+          "meaning": "Person taking a leisurely stroll or a wheeled carriage for infants",
+          "example": "Parents pushed baby strollers along the quiet paved park loop path."
+        },
+        {
+          "word": "ZONING",
+          "meaning": "Municipal division of land into specific zones for residential or commercial use",
+          "example": "City zoning regulations prevented industrial factories from building near schools."
+        },
+        {
+          "word": "KIOSK",
+          "meaning": "Small open-fronted street pavilion selling refreshments, maps, or newspapers",
+          "example": "The corner kiosk sold hot roasted chestnuts and postcards to passing tourists."
+        },
+        {
+          "word": "TOWNSCAPE",
+          "meaning": "Visual collective arrangement of buildings, lanes, and trees within a town",
+          "example": "Church steeples and thatched cottages created an idyllic English townscape."
+        },
+        {
+          "word": "MAISONETTE",
+          "meaning": "Two-story apartment occupying two floors with an interior private staircase",
+          "example": "The bright maisonette featured bedrooms upstairs and living rooms below."
+        }
+      ]
+    },
+    {
+      "levelNumber": 10,
+      "title": "City Level 10",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "SMITHY",
+          "meaning": "Blacksmith workshop equipped with an open fire forge, bellows, and anvil",
+          "example": "Sparks showered over the stone floor as the blacksmith hammered iron at the smithy."
+        },
+        {
+          "word": "MOTORIST",
+          "meaning": "Driver of an automobile traveling along city streets and expressways",
+          "example": "Digital message boards warned motorists of upcoming construction detours."
+        },
+        {
+          "word": "POPULATION",
+          "meaning": "Total number of inhabitants living within a municipal city territory",
+          "example": "The municipal population reached two million following boundary annexations."
+        },
+        {
+          "word": "ROOFTOP",
+          "meaning": "Top exterior surface of a building often utilized for gardens or lounges",
+          "example": "Solar panels were installed across the flat urban rooftop."
+        },
+        {
+          "word": "PHARMACY",
+          "meaning": "Store where medicinal drugs, health prescriptions, and toiletries are sold",
+          "example": "The pharmacist filled the antibiotic prescription at the corner pharmacy."
+        },
+        {
+          "word": "BROWNSTONE",
+          "meaning": "Classic urban townhouse built with reddish-brown sandstone masonry",
+          "example": "Ivy climbed the exterior walls of the stately Brooklyn brownstone."
+        },
+        {
+          "word": "PATIO",
+          "meaning": "Paved outdoor area adjoining a house used for outdoor dining and lounging",
+          "example": "The bistro set out umbrella tables on the sunny terracotta courtyard patio."
+        },
+        {
+          "word": "TAVERN",
+          "meaning": "Historic establishment providing drinks, hearty food, and communal gathering",
+          "example": "A crackling log fire warmed patrons drinking ale inside the timber-framed tavern."
+        },
+        {
+          "word": "COURIER",
+          "meaning": "Messenger transporting urgent documents, packages, or mail across cities",
+          "example": "Bicycle couriers weaved through dense traffic to deliver architectural blueprints."
+        }
+      ]
+    },
+    {
+      "levelNumber": 11,
+      "title": "City Level 11",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "MAGISTRATE",
+          "meaning": "Civil judicial officer administering local summary courts and minor offenses",
+          "example": "The stipendiary magistrate heard traffic violation appeals in the city courtroom."
+        },
+        {
+          "word": "LOCALITY",
+          "meaning": "Particular neighborhood, district, or geographic area within an urban region",
+          "example": "Small craft breweries sprang up across the post-industrial locality."
+        },
+        {
+          "word": "NOTARY",
+          "meaning": "Public legal officer authorized to witness signatures and certify deeds",
+          "example": "A notary public stamped and embossed the international business power of attorney."
+        },
+        {
+          "word": "LINTEL",
+          "meaning": "Horizontal architectural beam supporting the masonry weight above doorways",
+          "example": "A heavy carved limestone lintel spanned the grand doorway of the bank."
+        },
+        {
+          "word": "GARGOLYE",
+          "meaning": "Carved grotesque stone spout projecting from gutters to drain roof water",
+          "example": "Carved stone gargoyles leered down from the high cathedral eaves across streets."
+        },
+        {
+          "word": "MANOR",
+          "meaning": "Historic estate residence and grounds belonging to a wealthy landowner",
+          "example": "The historic stone manor was gifted to the city to serve as a public arts museum."
+        },
+        {
+          "word": "RESIDENT",
+          "meaning": "Person who maintains a permanent or long-term home within a city or town",
+          "example": "Neighborhood residents voted unanimously to preserve the community garden."
+        },
+        {
+          "word": "GROCER",
+          "meaning": "Merchant selling fresh food produce and everyday household foodstuffs",
+          "example": "The green grocer arranged pyramids of crisp red apples outside his storefront."
+        },
+        {
+          "word": "AGORA",
+          "meaning": "Public open-air assembly and marketplace in ancient Greek city-states",
+          "example": "Citizens debated democracy and philosophy inside the open city agora."
+        }
+      ]
+    },
+    {
+      "levelNumber": 12,
+      "title": "City Level 12",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "DIVERSION",
+          "meaning": "Alternative routing of traffic away from blocked or repairing roads",
+          "example": "Highway police set up a traffic diversion following an overturned fuel truck."
+        },
+        {
+          "word": "URBANITE",
+          "meaning": "Person who lives in, appreciates, and embraces life in a metropolitan city",
+          "example": "Dedicated urbanites rarely own cars, preferring subways, walking, and shared bikes."
+        },
+        {
+          "word": "NIGHTLIFE",
+          "meaning": "Social entertainment, dancing, and dining available in cities during late hours",
+          "example": "Tourists flocked to the entertainment district to experience the famous nightlife."
+        },
+        {
+          "word": "BOOTH",
+          "meaning": "Small temporary or permanent enclosed cubicle for sales, tickets, or calls",
+          "example": "Travelers purchased transit tokens at the glass ticket booth inside the station."
+        },
+        {
+          "word": "SANATORIUM",
+          "meaning": "Medical facility treating long-term chronic illnesses such as tuberculosis",
+          "example": "High-altitude mountain sanatoriums provided clean crisp air for patient recovery."
+        },
+        {
+          "word": "WATERMAIN",
+          "meaning": "Principal underground supply pipe carrying drinking water along city streets",
+          "example": "Crews repaired a fractured twelve-inch cast-iron watermain under Main Street."
+        },
+        {
+          "word": "EMBASSY",
+          "meaning": "Official diplomatic headquarters and residence of an ambassador in a capital",
+          "example": "Protesters gathered outside the foreign embassy gates holding signs."
+        },
+        {
+          "word": "OUTSKIRTS",
+          "meaning": "Outer border areas of a town or city furthest from the commercial center",
+          "example": "Industrial distribution logistics centers were located on the city outskirts."
+        },
+        {
+          "word": "INNERCITY",
+          "meaning": "Older densely populated central residential area of a metropolitan city",
+          "example": "Community youth programs flourished across neighborhood innercity centers."
+        }
+      ]
+    },
+    {
+      "levelNumber": 13,
+      "title": "City Level 13",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "ARCHITRAVE",
+          "meaning": "Main beam resting directly across the top of columns in classical architecture",
+          "example": "The stone architrave spanned the distance between the two central marble pillars."
+        },
+        {
+          "word": "BOROUGH",
+          "meaning": "Administrative division or chartered municipal district within a large city",
+          "example": "New York City is composed of five distinct administrative boroughs."
+        },
+        {
+          "word": "FISHMONGER",
+          "meaning": "Merchant selling fresh seafood, fish, and shellfish on crushed ice",
+          "example": "The fishmonger recommended fresh wild salmon fillets caught that morning."
+        },
+        {
+          "word": "AUTOMAT",
+          "meaning": "Self-service restaurant dispensing meals and beverages from coin lockers",
+          "example": "Historic diners inserted nickels into glass door slots to claim pies at the automat."
+        },
+        {
+          "word": "CIRCUS",
+          "meaning": "Circular open intersection or public space where multiple streets converge",
+          "example": "London famous Piccadilly Circus buzzed with illuminated billboards and traffic."
+        },
+        {
+          "word": "QUARTER",
+          "meaning": "Distinct neighborhood or historic section characterized by specific culture",
+          "example": "Visitors sampled fresh beignets in the historic French Quarter."
+        },
+        {
+          "word": "PURIFICATION",
+          "meaning": "Process of extracting contaminants from water to make it safe for drinking",
+          "example": "The multi-stage water purification plant used ozone filtration and chlorination."
+        },
+        {
+          "word": "PAYPHONE",
+          "meaning": "Public telephone operated by inserting coins, prepaid cards, or credit cards",
+          "example": "A rare surviving payphone booth stood on the corner outside the depot."
+        },
+        {
+          "word": "BOOTBLACK",
+          "meaning": "Person who shines, buffs, and polishes shoes and boots for pedestrians",
+          "example": "Pedestrians sat on high leather chairs while the bootblack polished their shoes."
+        }
+      ]
+    },
+    {
+      "levelNumber": 14,
+      "title": "City Level 14",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "CHIMNEYSWEEP",
+          "meaning": "Tradesman sweeping soot and creosote buildup from masonry fireplace flues",
+          "example": "The chimney sweep used circular wire brushes to clean the old brick chimney."
+        },
+        {
+          "word": "DOORMAN",
+          "meaning": "Attendant stationed at building portals greeting guests and hailing cabs",
+          "example": "The apartment doorman tipped his cap and held the glass door open for tenants."
+        },
+        {
+          "word": "HUSTLE",
+          "meaning": "Fast-paced energetic striving and busy purposeful motion in urban environments",
+          "example": "Young entrepreneurs thrived on the nonstop hustle of the tech corridor."
+        },
+        {
+          "word": "QUOIN",
+          "meaning": "Prominent dressed stone at the corner angle of a masonry wall",
+          "example": "Rusticated granite quoins reinforced the exterior corners of the manor."
+        },
+        {
+          "word": "BIKEPATH",
+          "meaning": "Off-road path separated from motorized traffic reserved for cyclists",
+          "example": "Commuters cycled smoothly along the scenic asphalt bikepath through the greenway."
+        },
+        {
+          "word": "CLERESTORY",
+          "meaning": "High section of wall containing windows above eye level admitting sunlight",
+          "example": "Sunlight poured through the clerestory windows into the central nave."
+        },
+        {
+          "word": "GAZEBO",
+          "meaning": "Freestanding open-sided roofed pavilion in parks providing shade and views",
+          "example": "The wedding party posed for photographs beneath the white wooden gazebo."
+        },
+        {
+          "word": "ENCLAVE",
+          "meaning": "Distinct cultural or ethnic community enclosed within a larger urban territory",
+          "example": "The historic neighborhood functioned as a vibrant cultural enclave."
+        },
+        {
+          "word": "GELATERIA",
+          "meaning": "Artisanal Italian ice cream parlor serving fresh churned gelato",
+          "example": "Tourists queued outside the Roman gelateria for scoops of dark chocolate."
+        }
+      ]
+    },
+    {
+      "levelNumber": 15,
+      "title": "City Level 15",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "POWERPLANT",
+          "meaning": "Industrial facility generating bulk electricity for municipal city grids",
+          "example": "The hydroelectric powerplant generated clean energy using river current flow."
+        },
+        {
+          "word": "PUMPSTATION",
+          "meaning": "Pumping facility boosting water pressure or moving sewage through pipes",
+          "example": "The automated lift pumpstation pumped storm runoff over the coastal levee."
+        },
+        {
+          "word": "GUTTER",
+          "meaning": "Shallow channel along street edges designed to drain off rainwater",
+          "example": "Rainwater cascaded down the concrete street gutter into storm drains."
+        },
+        {
+          "word": "CITIZEN",
+          "meaning": "Legally recognized subject or national member of a city or sovereign state",
+          "example": "Active citizens participated in municipal townhall forums to debate civic parks."
+        },
+        {
+          "word": "LITTERBIN",
+          "meaning": "Public receptacle placed on streets for small pedestrian garbage disposal",
+          "example": "The city council installed solar-powered compactor litterbins on high streets."
+        },
+        {
+          "word": "DISTRICT",
+          "meaning": "Defined administrative, commercial, or historic zone within an urban area",
+          "example": "The historic warehouse district was revitalized with cafes and art galleries."
+        },
+        {
+          "word": "AMBULATORY",
+          "meaning": "Covered circular aisle or walkway wrapping around the choir in cathedrals",
+          "example": "Visitors walked quietly along the vaulted stone ambulatory aisle."
+        },
+        {
+          "word": "PILASTER",
+          "meaning": "Rectangular architectural column projecting slightly from the face of a wall",
+          "example": "Fluted classical pilasters gave visual vertical rhythm to the exterior facade."
+        },
+        {
+          "word": "TRESTLE",
+          "meaning": "Supporting bridge frame consisting of braced diagonal timber or steel legs",
+          "example": "A timber railroad trestle spanned the deep gorge on the outskirts of the town."
+        }
+      ]
+    },
+    {
+      "levelNumber": 16,
+      "title": "City Level 16",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "STANDPIPE",
+          "meaning": "Vertical water pipe rising through buildings supplying fire hose lines",
+          "example": "Firefighters connected their high-pressure hoses to the building standpipe."
+        },
+        {
+          "word": "HABITATION",
+          "meaning": "State of living in a place or an occupied domestic residential dwelling",
+          "example": "Ancient ruins revealed centuries of continuous urban human habitation."
+        },
+        {
+          "word": "DRAPERY",
+          "meaning": "Shop or business manufacturing and selling cloth, textiles, and curtains",
+          "example": "She selected rich velvet drapery fabric to adorn the parlor bay windows."
+        },
+        {
+          "word": "ALDERMAN",
+          "meaning": "Elected member of a city council representing a municipal ward",
+          "example": "The local alderman held weekly open office hours to address constituent concerns."
+        },
+        {
+          "word": "CAMBER",
+          "meaning": "Slight convex curve given to a road surface to facilitate rainwater drainage",
+          "example": "Engineers designed roads with gentle camber so rain sheds immediately to gutters."
+        },
+        {
+          "word": "PASSERBY",
+          "meaning": "Person walking past a place or event casually by chance",
+          "example": "A friendly passerby gave directions to the lost tourists looking for the museum."
+        },
+        {
+          "word": "EDIFICE",
+          "meaning": "Large, imposing, and substantial building or monumental public structure",
+          "example": "The neoclassical marble edifice housed the municipal supreme court."
+        },
+        {
+          "word": "CREPERIE",
+          "meaning": "Specialty restaurant preparing sweet dessert and savory buckwheat crepes",
+          "example": "The chef folded thin galettes with gruyere and ham at the busy creperie."
+        },
+        {
+          "word": "CANTINA",
+          "meaning": "Lively Mexican bar or tavern serving drinks, music, and light fare",
+          "example": "A mariachi band played lively songs inside the colorful neighborhood cantina."
+        }
+      ]
+    },
+    {
+      "levelNumber": 17,
+      "title": "City Level 17",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "WATERWORKS",
+          "meaning": "Municipal facility treating, purifying, and pumping public drinking water",
+          "example": "The historic brick waterworks facility was powered by giant steam pumps."
+        },
+        {
+          "word": "MAYORALTY",
+          "meaning": "Office, term, or official jurisdiction of a municipal city mayor",
+          "example": "During her successful mayoralty, new parks and light rail extensions were built."
+        },
+        {
+          "word": "CREMATORIUM",
+          "meaning": "Facility equipped with furnaces for the legal cremation of deceased bodies",
+          "example": "A tranquil memorial garden surrounded the stone chapel of the crematorium."
+        },
+        {
+          "word": "DUMPSTER",
+          "meaning": "Large metal commercial trash container emptied by hydraulic garbage trucks",
+          "example": "The restaurant staff tossed bagged kitchen refuse into the back alley dumpster."
+        },
+        {
+          "word": "GARRISON",
+          "meaning": "Military base or body of troops stationed in a fortified town to defend it",
+          "example": "The old brick garrison was decommissioned and turned into a technology park."
+        },
+        {
+          "word": "GASPIPE",
+          "meaning": "Subterranean utility pipe delivering pressurized natural fuel gas to homes",
+          "example": "Utility crews marked street asphalt where yellow gaspipe lines ran underground."
+        },
+        {
+          "word": "CAMPO",
+          "meaning": "Open public piazza or square in Venice paved with historic stone bricks",
+          "example": "Children chased pigeons across the quiet sunlit stones of the Venetian campo."
+        },
+        {
+          "word": "CARILLON",
+          "meaning": "Musical instrument composed of tuned bronze bells played from a keyboard",
+          "example": "The noon carillon melody echoed melodically from the gothic university tower."
+        },
+        {
+          "word": "JAIL",
+          "meaning": "Municipal confinement facility holding persons awaiting trial or short terms",
+          "example": "Deputies booked arrested suspects into the county central jail facility."
+        }
+      ]
+    },
+    {
+      "levelNumber": 18,
+      "title": "City Level 18",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "BOULANGERIE",
+          "meaning": "Traditional French bakery dedicated to baking fresh baguettes and batards",
+          "example": "Locals queued before sunrise to buy warm baguettes from the neighborhood boulangerie."
+        },
+        {
+          "word": "POSTBOX",
+          "meaning": "Public roadside receptacle where outgoing mail letters are deposited",
+          "example": "He dropped his stamped postcard through the brass flap of the red postbox."
+        },
+        {
+          "word": "ARCHIVES",
+          "meaning": "Public repository preserving historic civic documents, records, and manuscripts",
+          "example": "Historians examined eighteenth-century city maps in the climate-controlled archives."
+        },
+        {
+          "word": "MENAGERIE",
+          "meaning": "Historic collection of captive wild and exotic animals kept for display",
+          "example": "Royal courts maintained private menageries of lions, leopards, and peacocks."
+        },
+        {
+          "word": "SIREN",
+          "meaning": "Loud noise-making device sounded by emergency police and fire vehicles",
+          "example": "The wail of a police siren echoed between downtown highrise buildings."
+        },
+        {
+          "word": "PRECINCT",
+          "meaning": "Designated urban policing or administrative electoral district",
+          "example": "Detectives reported to the neighborhood police precinct headquarters."
+        },
+        {
+          "word": "PERIMETER",
+          "meaning": "Continuous outer boundary line enclosing a city, fortress, or civic precinct",
+          "example": "Mounted police officers patrolled the outer security perimeter of the venue."
+        },
+        {
+          "word": "VIBRANCY",
+          "meaning": "State of being full of dynamic energy, diverse life, and cultural activity",
+          "example": "Street art, live music, and outdoor cafes added immense vibrancy to the district."
+        },
+        {
+          "word": "REFUGE",
+          "meaning": "Pedestrian safety island placed in the center of wide multi-lane streets",
+          "example": "Elderly walkers paused on the central concrete refuge before crossing the boulevard."
+        },
+        {
+          "word": "TENEMENT",
+          "meaning": "Older multistory urban apartment building divided into smaller rental units",
+          "example": "Historic tenements on the Lower East Side housed generations of immigrants."
+        },
+        {
+          "word": "METROPOLIS",
+          "meaning": "Major capital or chief city of a country or region with vast population",
+          "example": "The coastal metropolis served as the commercial hub of the nation."
+        }
+      ]
+    },
+    {
+      "levelNumber": 19,
+      "title": "City Level 19",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "OSTERIA",
+          "meaning": "Informal Italian wine bar and tavern serving simple home-cooked meals",
+          "example": "Patrons sipped Chianti and nibbled cured olives inside the rustic osteria."
+        },
+        {
+          "word": "ODEON",
+          "meaning": "Ancient roofed building or modern theater used for musical performances and cinema",
+          "example": "Crowds queued beneath the glowing marquee of the downtown art-deco odeon."
+        },
+        {
+          "word": "BARRICADE",
+          "meaning": "Improvised or permanent barrier erected to block vehicular or foot traffic",
+          "example": "Police placed wooden barricades along the marathon race spectator route."
+        },
+        {
+          "word": "CORNICHE",
+          "meaning": "Dramatic coastal cliff road or shoreline promenade overlooking the ocean",
+          "example": "Luxury automobiles cruised slowly along the glittering Mediterranean corniche."
+        },
+        {
+          "word": "SUBDIVISION",
+          "meaning": "Parcel of suburban land partitioned into individual residential house lots",
+          "example": "Construction crews framed twenty identical homes in the new suburban subdivision."
+        },
+        {
+          "word": "MEGALOPOLIS",
+          "meaning": "Vast continuous urban corridor linking multiple metropolitan centers",
+          "example": "The northeastern seaboard forms a densely populated megalopolis."
+        },
+        {
+          "word": "PERFORMER",
+          "meaning": "Artist entertaining audiences through music, acrobatics, or drama",
+          "example": "Street performers drew cheerful crowds of spectators to the river plaza."
+        },
+        {
+          "word": "ROADHUMP",
+          "meaning": "Elongated raised pavement section calming traffic speeds on local roads",
+          "example": "Buses slowed gently as they mounted the broad concrete neighborhood roadhump."
+        },
+        {
+          "word": "TRAFFIC",
+          "meaning": "Vehicles moving along a road or public highway network in cities",
+          "example": "Morning commuter traffic moved smoothly across the six-lane bridge."
+        },
+        {
+          "word": "COSMOPOLIS",
+          "meaning": "Vast international city composed of citizens from nations worldwide",
+          "example": "London has stood as a global cosmopolis where hundreds of languages are spoken."
+        },
+        {
+          "word": "COLUMN",
+          "meaning": "Vertical upright architectural pillar supporting building lintels or arches",
+          "example": "Corinthian columns framed the entrance of the municipal art museum."
+        }
+      ]
+    },
+    {
+      "levelNumber": 20,
+      "title": "City Level 20",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "COBBLER",
+          "meaning": "Artisan repairing and resoling worn shoes, boots, and leather footwear",
+          "example": "The neighborhood cobbler replaced the worn leather soles of my favorite boots."
+        },
+        {
+          "word": "BANDSTAND",
+          "meaning": "Raised circular outdoor pavilion structure sheltering musicians during park concerts",
+          "example": "The brass band played lively marches from the ornate Victorian park bandstand."
+        },
+        {
+          "word": "BREWPUB",
+          "meaning": "Combination microbrewery and sit-down restaurant serving house-brewed ales",
+          "example": "The brewpub served wood-fired pizza alongside house-brewed pale ales."
+        },
+        {
+          "word": "ACROBAT",
+          "meaning": "Gymnastic entertainer performing daring feats of balance and agility in public",
+          "example": "The street acrobat dazzled pedestrians by somersaulting over five volunteers."
+        },
+        {
+          "word": "GASLIGHT",
+          "meaning": "Historic street lighting powered by municipal illuminating coal gas flames",
+          "example": "Flickering gaslight cast atmospheric shadows along the cobblestone mews."
+        },
+        {
+          "word": "CIVIC",
+          "meaning": "Relating to a city, citizen duties, or communal municipal affairs",
+          "example": "Citizens volunteered at the civic center during the annual municipal cleanup day."
+        },
+        {
+          "word": "MEGAPOLIS",
+          "meaning": "Very large urban complex formed by the continuous growth of metropolitan areas",
+          "example": "A sprawling megapolis linked five coastal cities into a continuous urban corridor."
+        },
+        {
+          "word": "BELLHOP",
+          "meaning": "Hotel attendant escorting arriving guests to rooms and carrying suitcases",
+          "example": "The bellhop placed the luggage in the closet and demonstrated room amenities."
+        },
+        {
+          "word": "DENIZEN",
+          "meaning": "Inhabitant or frequent visitor of a particular locality or neighborhood",
+          "example": "Nighttime jazz clubs attracted local denizens and curious visitors alike."
+        },
+        {
+          "word": "SIGNBOARD",
+          "meaning": "Board displaying business names, directions, or notices in public places",
+          "example": "A hand-carved wooden signboard hung outside the cozy neighborhood tavern."
+        },
+        {
+          "word": "PARKLAND",
+          "meaning": "Open public landscape of natural meadows, lawns, and tree groves in cities",
+          "example": "Rolling meadows and shaded oak groves provided hundreds of acres of parkland."
+        }
+      ]
+    },
+    {
+      "levelNumber": 21,
+      "title": "City Level 21",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "NIGHTCLUB",
+          "meaning": "Entertainment venue operating late at night with dancing, drinks, and DJs",
+          "example": "A velvet rope partitioned the glamorous line outside the popular downtown nightclub."
+        },
+        {
+          "word": "VAUDEVILLE",
+          "meaning": "Theatrical genre featuring variety entertainment, comedy, and music",
+          "example": "The restored theater once staged legendary comedy and magic vaudeville acts."
+        },
+        {
+          "word": "NEONLIGHT",
+          "meaning": "Bright glowing light emitted by neon gas tubes used in urban night displays",
+          "example": "The electric pink neonlight cast an evocative glow over the wet midnight street."
+        },
+        {
+          "word": "PAVEMENT",
+          "meaning": "Hard durable outdoor surfaced path or walkway for pedestrian foot travel",
+          "example": "The rain created mirror-like puddles along the busy asphalt pavement."
+        },
+        {
+          "word": "APSE",
+          "meaning": "Semicircular or polygonal vaulted recess terminating the end of a basilica",
+          "example": "Mosaics adorned the curved ceiling of the grand cathedral apse."
+        },
+        {
+          "word": "BODEGA",
+          "meaning": "Small neighborhood grocery and convenience store typical in urban areas",
+          "example": "Residents stopped by the 24-hour corner bodega for milk and daily newspapers."
+        },
+        {
+          "word": "INCINERATOR",
+          "meaning": "Apparatus or facility designed to burn municipal solid waste at high heat",
+          "example": "Modern waste-to-energy incinerators produce municipal district heating."
+        },
+        {
+          "word": "BIERGARTEN",
+          "meaning": "Open-air outdoor garden terrace serving beer and food under shaded trees",
+          "example": "Patrons sat at long wooden picnic tables under chestnut trees in the biergarten."
+        },
+        {
+          "word": "GREENBELT",
+          "meaning": "Protected ring of open parkland and countryside surrounding an urban area",
+          "example": "Strict environmental laws preserved the agricultural greenbelt around the city."
+        },
+        {
+          "word": "BARRISTER",
+          "meaning": "Legal advocate qualified to argue cases in higher judicial courtrooms",
+          "example": "Wigged barristers presented arguments before the High Court of Justice."
+        },
+        {
+          "word": "CONDOMINIUM",
+          "meaning": "Privately owned individual residential unit within a larger building complex",
+          "example": "She purchased a bright two-bedroom condominium overlooking the park."
+        }
+      ]
+    },
+    {
+      "levelNumber": 22,
+      "title": "City Level 22",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "STATIONER",
+          "meaning": "Retailer selling writing paper, envelopes, pens, and office supplies",
+          "example": "She selected embossed linen stationery and fountain pen ink at the stationer."
+        },
+        {
+          "word": "POLICESTATION",
+          "meaning": "Headquarters building of a local police force containing desks and cells",
+          "example": "Witnesses gave statements to detectives inside the downtown policestation."
+        },
+        {
+          "word": "TRIPLEX",
+          "meaning": "Three-story residential building containing three independent living suites",
+          "example": "The historic victorian building was tastefully converted into a triplex."
+        },
+        {
+          "word": "DUPLEX",
+          "meaning": "Single residential building divided into two separate family living units",
+          "example": "The family rented the upper floor of a charming suburban duplex."
+        },
+        {
+          "word": "THRONG",
+          "meaning": "Dense multitude or closely packed pressing mass of people in urban streets",
+          "example": "A bustling throng of shoppers navigated the narrow market lanes before holidays."
+        },
+        {
+          "word": "MESSENGER",
+          "meaning": "Person carrying letters, packages, or urgent dispatches across towns",
+          "example": "The legal messenger rushed the signed contract across the financial district."
+        },
+        {
+          "word": "TREASURY",
+          "meaning": "Government department and building administering public finance and revenue",
+          "example": "The state treasury building housed secure currency reserves."
+        },
+        {
+          "word": "TRASHCAN",
+          "meaning": "Public receptacle placed along sidewalks for disposal of litter and refuse",
+          "example": "Pedestrians responsibly deposited coffee cups into the municipal trashcan."
+        },
+        {
+          "word": "CANTON",
+          "meaning": "Small territorial division or administrative district in certain republics",
+          "example": "Each Swiss canton maintains sovereign authority over local municipal policing."
+        },
+        {
+          "word": "COMMUTER",
+          "meaning": "Person traveling regularly between a suburban home and city workplace",
+          "example": "Thousands of daily commuters boarded the express train into the central depot."
+        },
+        {
+          "word": "USHER",
+          "meaning": "Person seating theater patrons and escorting visitors inside public halls",
+          "example": "A flashlight-bearing usher guided the late arrivals to their balcony seats."
+        }
+      ]
+    },
+    {
+      "levelNumber": 23,
+      "title": "City Level 23",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "SUBURB",
+          "meaning": "Outlying residential district situated on the periphery of a central city",
+          "example": "Commuters traveled by commuter train from the quiet green suburb."
+        },
+        {
+          "word": "BURGHER",
+          "meaning": "Prosperous citizen or bourgeois inhabitant of a medieval chartered town",
+          "example": "Wealthy burghers commissioned oil portraits to decorate the merchant guildhall."
+        },
+        {
+          "word": "GRIDLOCK",
+          "meaning": "Complete traffic stoppage where intersecting vehicle lines block each other",
+          "example": "Rain and construction caused total gridlock across downtown intersections."
+        },
+        {
+          "word": "ENVIRONS",
+          "meaning": "Surrounding parts or outskirts bordering an urban metropolitan city",
+          "example": "Wealthy merchants built country estates in the scenic green environs of the city."
+        },
+        {
+          "word": "REDOUBT",
+          "meaning": "Enclosed defensive work without flanking defenses built outside walls",
+          "example": "Soldiers manned the earthen redoubt defending the approach to the city gate."
+        },
+        {
+          "word": "CHANDLERY",
+          "meaning": "Ship supply merchant selling ropes, sails, and marine hardware in ports",
+          "example": "Yacht owners purchased brass cleats and braided cordage at the harbor chandlery."
+        },
+        {
+          "word": "FRIEZE",
+          "meaning": "Horizontal decorative sculptured band along building upper walls or cornices",
+          "example": "A carved marble frieze depicting mythological scenes ran beneath the roofline."
+        },
+        {
+          "word": "STORMSEWER",
+          "meaning": "Underground drainage pipe network carrying surface rainfall to rivers",
+          "example": "Engineers expanded the capacity of the downtown stormsewer to prevent street pooling."
+        },
+        {
+          "word": "SIDEWALK",
+          "meaning": "Paved walkway running alongside streets designed for foot pedestrians",
+          "example": "Shopkeepers swept fallen autumn leaves off the concrete sidewalk."
+        },
+        {
+          "word": "CLATTER",
+          "meaning": "Continuous rattling sound made by hard objects striking together on streets",
+          "example": "The morning clatter of delivery trucks echoed down narrow brick alleys."
+        },
+        {
+          "word": "DWELLER",
+          "meaning": "Inhabitant or person living in a specified city or urban environment",
+          "example": "Urban dwellers enjoy walking access to public libraries, markets, and transit."
+        }
+      ]
+    },
+    {
+      "levelNumber": 24,
+      "title": "City Level 24",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "THOROUGHFARE",
+          "meaning": "Main public road or artery through which heavy city traffic passes",
+          "example": "Commercial buses and delivery trucks crowded the busy urban thoroughfare."
+        },
+        {
+          "word": "STREETLIGHT",
+          "meaning": "Illuminated lamp mounted on tall roadside posts to light streets at night",
+          "example": "Sodium vapor streetlights cast a warm amber glow over wet evening asphalt."
+        },
+        {
+          "word": "BUSTLE",
+          "meaning": "Energetic, hurried, and excited activity characteristic of city centers",
+          "example": "The cheerful bustle of the holiday farmers market filled the morning square."
+        },
+        {
+          "word": "MULTIPLEX",
+          "meaning": "Large modern movie cinema complex housing multiple screening auditoriums",
+          "example": "The shopping mall multiplex featured twenty movie screens with reclining seats."
+        },
+        {
+          "word": "CONDUIT",
+          "meaning": "Channel, tube, or pipe designed for conveying municipal water or cables",
+          "example": "Utility workers ran underground fiber-optic cables through the concrete conduit."
+        },
+        {
+          "word": "BALLROOM",
+          "meaning": "Large formal hall designed for hosting ceremonial public and private dances",
+          "example": "Couples glided across the polished parquet floor of the grand hotel ballroom."
+        },
+        {
+          "word": "CENOTAPH",
+          "meaning": "Monumenal empty tomb erected in memory of fallen soldiers or citizens",
+          "example": "Citizens laid red poppy wreaths at the granite base of the city cenotaph."
+        },
+        {
+          "word": "SOUK",
+          "meaning": "Traditional Arab marketplace or commercial bazaar street lined with stalls",
+          "example": "Spices, woven rugs, and hand-beaten brass lamps gleamed inside the maze-like souk."
+        },
+        {
+          "word": "ESPLANADE",
+          "meaning": "Long open level stretch of ground or pavement alongside a shore or river",
+          "example": "Cyclists and joggers shared the wide breezy esplanade along the river."
+        },
+        {
+          "word": "SPEAKEASY",
+          "meaning": "Retro hidden cocktail bar styled after historic prohibition-era taverns",
+          "example": "Guests entered the cozy speakeasy through a disguised phone booth door."
+        },
+        {
+          "word": "MANHOLE",
+          "meaning": "Opening in street surfaces with a heavy cast-iron lid giving sewer access",
+          "example": "Steam vented through the circular holes of the cast-iron manhole cover."
+        }
+      ]
+    },
+    {
+      "levelNumber": 25,
+      "title": "City Level 25",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "PERISTYLE",
+          "meaning": "Continuous colonnade or row of columns surrounding a courtyard or garden",
+          "example": "Philosophers walked and debated beneath the shaded marble peristyle walkway."
+        },
+        {
+          "word": "PIZZERIA",
+          "meaning": "Restaurant specializing in baking traditional wood-fired pizzas",
+          "example": "The aroma of melted mozzarella and basil wafted from the brick oven pizzeria."
+        },
+        {
+          "word": "CANALSIDE",
+          "meaning": "Paved footpath or walkway running alongside historic urban canal channels",
+          "example": "Joggers followed the tree-shaded canalside trail under arched brick bridges."
+        },
+        {
+          "word": "HIPPODROME",
+          "meaning": "Ancient stadium course designed for equestrian and chariot racing",
+          "example": "Four teams of horses galloped around the center spina of the hippodrome."
+        },
+        {
+          "word": "ACROPOLIS",
+          "meaning": "Fortified upper citadel built upon an elevated rocky outcrop in ancient cities",
+          "example": "The Parthenon stood majestically atop the historic Athenian acropolis."
+        },
+        {
+          "word": "MAIDAN",
+          "meaning": "Vast open public park or parade ground in South Asian cities",
+          "example": "Locals played weekend cricket on the sprawling green lawns of the maidan."
+        },
+        {
+          "word": "SKYSCRAPER",
+          "meaning": "Very tall multistory building dominating an urban city skyline",
+          "example": "Glass panels on the skyscraper reflected the brilliant morning sunrise."
+        },
+        {
+          "word": "BELLRINGER",
+          "meaning": "Person tolling civic or church bells to announce hours, alarms, and festivals",
+          "example": "The bellringer pulled the braided rope to toll the noon chimes across the valley."
+        },
+        {
+          "word": "BLOCK",
+          "meaning": "Rectangular area of city land bounded on all four sides by streets",
+          "example": "The children walked three city blocks to reach the public elementary school."
+        },
+        {
+          "word": "BARTER",
+          "meaning": "Exchange of goods and wares directly in public markets without money",
+          "example": "Traders engaged in lively barter exchanging wool blankets for handmade pottery."
+        },
+        {
+          "word": "CLOCKTOWER",
+          "meaning": "Prominent tower structure featuring one or more large public clock faces",
+          "example": "The chime of the historic clocktower echoed across the city every hour."
+        },
+        {
+          "word": "BRAZIER",
+          "meaning": "Metal container holding burning coals placed on streets to provide warmth",
+          "example": "Street night watchmen warmed frostbitten hands over an iron charcoal brazier."
+        },
+        {
+          "word": "CORONER",
+          "meaning": "Municipal judicial officer investigating sudden, violent, or suspicious deaths",
+          "example": "The county coroner conducted a formal inquest into the industrial accident."
+        }
+      ]
+    },
+    {
+      "levelNumber": 26,
+      "title": "City Level 26",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SEWERAGE",
+          "meaning": "System of sewers and underground pipes carrying off municipal waste and runoff",
+          "example": "Upgrading the city sewerage system prevented wastewater overflows into the bay."
+        },
+        {
+          "word": "VERANDA",
+          "meaning": "Roofed open-air gallery or porch attached to the exterior of a building",
+          "example": "Wicker rocking chairs lined the wide shaded veranda overlooking the lawn."
+        },
+        {
+          "word": "FOOTBRIDGE",
+          "meaning": "Bridge constructed exclusively for pedestrian foot traffic crossing waterways",
+          "example": "The modern cable-stayed footbridge linked the arts center to the park."
+        },
+        {
+          "word": "ORPHANAGE",
+          "meaning": "Residential institution providing housing and care for children without parents",
+          "example": "The historic charity orphanage was founded by municipal benefactors in 1890."
+        },
+        {
+          "word": "COBBLE",
+          "meaning": "Smooth naturally rounded water-worn stone used for historic paving",
+          "example": "Rain washed across the dark granite cobbles of the historic marketplace."
+        },
+        {
+          "word": "BASTION",
+          "meaning": "Projecting part of a fortification work built at an angle to the wall",
+          "example": "Cannons were mounted on the angular stone bastion guarding the harbor entrance."
+        },
+        {
+          "word": "PARVIS",
+          "meaning": "Enclosed space, courtyard, or open square in front of a grand cathedral",
+          "example": "Flower stalls scented the sunny stone parvis before the cathedral entrance."
+        },
+        {
+          "word": "OBELISK",
+          "meaning": "Tall four-sided tapering stone monument terminating in a pyramid top",
+          "example": "The granite obelisk stood in the center of the memorial park."
+        },
+        {
+          "word": "CHANCERY",
+          "meaning": "Principal building housing an embassy office and administrative diplomatic staff",
+          "example": "The modern glass chancery stood in the diplomatic enclave of the national capital."
+        },
+        {
+          "word": "ROADBED",
+          "meaning": "Foundation layer of compacted crushed gravel upon which roads are constructed",
+          "example": "Heavy rollers compacted the crushed limestone roadbed before asphalt was poured."
+        },
+        {
+          "word": "DOWNTOWN",
+          "meaning": "Central business district and commercial core of a metropolitan city",
+          "example": "Office workers gathered in downtown plazas during lunch hours."
+        },
+        {
+          "word": "ZOCALO",
+          "meaning": "Central town square and civic heart of Mexican cities and towns",
+          "example": "A gigantic national flag fluttered in the center of the historic zocalo."
+        },
+        {
+          "word": "HONKING",
+          "meaning": "Repeated pressing of car horns by impatient motorists in congested traffic",
+          "example": "The chaotic intersection was filled with the deafening honking of yellow cabs."
+        }
+      ]
+    },
+    {
+      "levelNumber": 27,
+      "title": "City Level 27",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "BRASSERIE",
+          "meaning": "Informal French restaurant serving beer, wine, and traditional hot meals all day",
+          "example": "Waiters in long white aprons carried seafood platters across the bustling brasserie."
+        },
+        {
+          "word": "CORSO",
+          "meaning": "Wide central promenade street in Italian cities used for evening strolling",
+          "example": "Boutique storefronts lined the busy pedestrian corso leading to the cathedral."
+        },
+        {
+          "word": "CRESCENT",
+          "meaning": "Street or row of houses arranged in a graceful semicircular curve",
+          "example": "Georgian architecture characterized the sweeping stone crescent of houses."
+        },
+        {
+          "word": "CHURRERIA",
+          "meaning": "Spanish cafe specializing in fried churros dipped in thick melted chocolate",
+          "example": "Night owls gathered at the 24-hour churreria for crispy churros and hot cocoa."
+        },
+        {
+          "word": "COMMUNE",
+          "meaning": "Cooperative community where residents share resources, work, and housing",
+          "example": "Artists shared studios and communal garden plots inside the urban commune."
+        },
+        {
+          "word": "VICINITY",
+          "meaning": "Surrounding area or neighborhood immediately adjacent to a specific location",
+          "example": "Several convenient grocery stores and cafes were located in the near vicinity."
+        },
+        {
+          "word": "COSMOPOLITAN",
+          "meaning": "Reflecting diverse cultural influences from cities all around the globe",
+          "example": "The metropolis boasted a vibrant cosmopolitan food scene with cuisine from 50 nations."
+        },
+        {
+          "word": "NEWSBOY",
+          "meaning": "Youth selling printed daily newspapers on bustling urban street corners",
+          "example": "Extra, extra, read all about it, shouted the eager newsboy on the corner."
+        },
+        {
+          "word": "FACADE",
+          "meaning": "Principal exterior architectural front face of a building facing streets",
+          "example": "Architects restored the ornate limestone facade of the century-old bank."
+        },
+        {
+          "word": "CURBING",
+          "meaning": "Concrete or granite border barrier separating vehicular roads from sidewalks",
+          "example": "Precast concrete curbing framed the new bus rapid transit lanes."
+        },
+        {
+          "word": "PAVER",
+          "meaning": "Interlocking concrete block or brick stone laid to form durable public plazas",
+          "example": "Artisans tapped each sandstone paver into place with rubber mallets."
+        },
+        {
+          "word": "BALUSTRADE",
+          "meaning": "Railing supported by balusters on balconies, bridges, or monumental stairs",
+          "example": "A carved stone balustrade bordered the grand marble staircase of the library."
+        },
+        {
+          "word": "TRAFFICLIGHT",
+          "meaning": "Set of automatically operated red, amber, and green road signal lights",
+          "example": "Cars came to a halt as the intersection trafficlight switched to red."
+        }
+      ]
+    },
+    {
+      "levelNumber": 28,
+      "title": "City Level 28",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SQUARE",
+          "meaning": "Open four-sided public space situated at the junction of city streets",
+          "example": "Street performers drew large crowds in the bustling cobblestone square."
+        },
+        {
+          "word": "STORMDRAIN",
+          "meaning": "Grated street inlet designed to drain excess surface rainwater from streets",
+          "example": "Street sweepers cleared autumn leaves clogging the corner stormdrain."
+        },
+        {
+          "word": "MILLINERY",
+          "meaning": "Retail shop designing, making, and selling women hats and headwear",
+          "example": "Silk ribbons and feathers decorated custom straw hats inside the millinery."
+        },
+        {
+          "word": "TAVERNA",
+          "meaning": "Traditional Greek waterfront cafe serving grilled seafood, meze, and wine",
+          "example": "Octopus hung drying in the sea breeze outside the whitewashed island taverna."
+        },
+        {
+          "word": "TOWNSHIP",
+          "meaning": "Distinct municipal division, settlement, or administrative urban subdivision",
+          "example": "The fast-growing township approved construction of a new public library."
+        },
+        {
+          "word": "STREETSIGN",
+          "meaning": "Metal plaque mounted on posts displaying the official name of a roadway",
+          "example": "Green and white reflective streetsigns marked each intersection along the avenue."
+        },
+        {
+          "word": "CHAWL",
+          "meaning": "Historic multi-story residential building with single tenement rooms on balconies",
+          "example": "Generations of textile mill workers lived communally in the historic Mumbai chawl."
+        },
+        {
+          "word": "MARQUEE",
+          "meaning": "Canopy extending over a theater entrance displaying show titles in lights",
+          "example": "Bright flashing bulbs spelled out the movie title on the vintage cinema marquee."
+        },
+        {
+          "word": "KLAXON",
+          "meaning": "Electric horn or warning siren making a loud, piercing, harsh sound",
+          "example": "The harbor klaxon blared three times before the swing bridge began opening."
+        },
+        {
+          "word": "SUPERMARKET",
+          "meaning": "Large self-service grocery store offering wide selections of food and goods",
+          "example": "Shoppers wheeled loaded carts through the aisles of the bright supermarket."
+        },
+        {
+          "word": "PATISSERIE",
+          "meaning": "French bakery specializing in delicate pastries, cakes, and sweet confections",
+          "example": "Golden croissants and fruit tarts filled the glass cases of the patisserie."
+        },
+        {
+          "word": "MULLION",
+          "meaning": "Vertical bar dividing the panes of glass in an urban window frame",
+          "example": "Slender stone mullions divided the tall stained-glass church windows."
+        },
+        {
+          "word": "PERIPHERY",
+          "meaning": "Outer boundary edges or marginal zones surrounding an urban metropolitan area",
+          "example": "Light manufacturing and logistics parks clustered on the southern city periphery."
+        }
+      ]
+    },
+    {
+      "levelNumber": 29,
+      "title": "City Level 29",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "FOYER",
+          "meaning": "Large entrance hall or reception lobby inside theaters, hotels, or apartments",
+          "example": "Chandelier light illuminated the marble floor of the grand opera foyer."
+        },
+        {
+          "word": "BATTLEMENT",
+          "meaning": "Parapet at the top of a city wall featuring alternating indentations",
+          "example": "Archers took aim through the crenels along the high castle battlement."
+        },
+        {
+          "word": "BUTTRESS",
+          "meaning": "Projecting masonry structure built against a wall to provide lateral support",
+          "example": "Flying buttresses supported the towering glass clerestory walls of the cathedral."
+        },
+        {
+          "word": "DISTILLERY",
+          "meaning": "Commercial facility distilling spirits, whiskeys, and alcohol beverages",
+          "example": "Copper pot stills gleamed inside the historic urban whiskey distillery."
+        },
+        {
+          "word": "TURNOUT",
+          "meaning": "Short paved roadside pull-off area allowing slow vehicles to let others pass",
+          "example": "The loaded logging truck used the mountain turnout to let passenger cars pass."
+        },
+        {
+          "word": "BITUMEN",
+          "meaning": "Black viscous petroleum residue used as binder in asphalt road pavements",
+          "example": "Heated liquid bitumen was sprayed across crushed stone to bind the new road surface."
+        },
+        {
+          "word": "SANITATION",
+          "meaning": "Public services dealing with hygiene, sewage, and municipal waste removal",
+          "example": "Sanitation workers collected recycling bins along city residential streets."
+        },
+        {
+          "word": "PORTICO",
+          "meaning": "Classical porch structure leading to a building entrance supported by columns",
+          "example": "Dignitaries gathered beneath the shaded marble courthouse portico."
+        },
+        {
+          "word": "DISPENSARY",
+          "meaning": "Public room or clinic where medical advice and medicines are distributed",
+          "example": "Free childhood vaccines were administered at the neighborhood health dispensary."
+        },
+        {
+          "word": "INHABITANT",
+          "meaning": "Person or animal residing permanently in a particular place or city",
+          "example": "Every registered inhabitant of the district received official municipal ballots."
+        },
+        {
+          "word": "DOCKLANDS",
+          "meaning": "Urban district around commercial shipping docks, often redeveloped into lofts",
+          "example": "Luxury apartments and modern offices replaced old warehouses in the docklands."
+        },
+        {
+          "word": "CORBEL",
+          "meaning": "Architectural stone bracket projecting from a wall to support weight",
+          "example": "Carved stone corbels supported the projecting timber bay window."
+        },
+        {
+          "word": "SALON",
+          "meaning": "Beauty parlor offering hair styling, manicures, and cosmetic treatments",
+          "example": "Clients relaxed in reclining chairs having their hair styled at the salon."
+        }
+      ]
+    },
+    {
+      "levelNumber": 30,
+      "title": "City Level 30",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "ARCADES",
+          "meaning": "Covered passageways lined with shops arched with glazed glass roofs",
+          "example": "Shoppers strolled through the elegant Victorian shopping arcades."
+        },
+        {
+          "word": "GASWORKS",
+          "meaning": "Industrial facility where domestic coal gas was manufactured and stored",
+          "example": "The towering iron frame of the Victorian gasworks was preserved as an urban monument."
+        },
+        {
+          "word": "ROOFSCAPE",
+          "meaning": "Panoramic architectural view of rooftops, chimneys, dormers, and gables",
+          "example": "From the belltower, the terracotta roofscape of the medieval town stretched out."
+        },
+        {
+          "word": "GASLAMP",
+          "meaning": "Historic street lamp illuminating pedestrian walkways with gas flames",
+          "example": "A soft golden flicker emanated from the Victorian brass gaslamp in the courtyard."
+        },
+        {
+          "word": "CLINIC",
+          "meaning": "Medical facility providing healthcare and diagnosis to outpatient visitors",
+          "example": "The community clinic offered affordable dental and eye checkups to families."
+        },
+        {
+          "word": "PORTER",
+          "meaning": "Person employed to carry luggage and cargo at transport depots and hotels",
+          "example": "A uniformed station porter wheeled heavy suitcases on a brass luggage cart."
+        },
+        {
+          "word": "BAILEY",
+          "meaning": "Outer courtyard or ward enclosed within the defensive walls of a castle",
+          "example": "Blacksmiths and stables occupied the bustling lower stone bailey."
+        },
+        {
+          "word": "MERLON",
+          "meaning": "Solid upright section of a castle battlement between two crenel embrasures",
+          "example": "Guards stood behind the stone merlon protected from incoming arrows."
+        },
+        {
+          "word": "OCULUS",
+          "meaning": "Circular window or opening in the center of a domed ceiling",
+          "example": "Blue sky was visible through the open round oculus of the Roman dome."
+        },
+        {
+          "word": "OYSTERBAR",
+          "meaning": "Seafood counter serving fresh chilled oysters on the half shell and stout",
+          "example": "The shucker pried open cold oysters on beds of crushed ice at the oysterbar."
+        },
+        {
+          "word": "JAYWALKER",
+          "meaning": "Pedestrian crossing streets unlawfully or carelessly without using crosswalks",
+          "example": "Police issued warnings to jaywalkers darting between lanes of stopped traffic."
+        },
+        {
+          "word": "TERRACE",
+          "meaning": "Paved outdoor platform adjoining a building offering elevated views",
+          "example": "Dinner was served under string lights on the rooftop dining terrace."
+        },
+        {
+          "word": "APOTHECARY",
+          "meaning": "Historic druggist or chemist preparing medicinal herbal remedies and potions",
+          "example": "Antique glass jars of dried herbs lined the shelves of the historic apothecary."
+        }
+      ]
+    },
+    {
+      "levelNumber": 31,
+      "title": "City Level 31",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "PARAMEDIC",
+          "meaning": "Healthcare emergency professional providing advanced life support on scenes",
+          "example": "Paramedics stabilized the patient before transporting him by ambulance."
+        },
+        {
+          "word": "CHATEAU",
+          "meaning": "Grand French stately residence or castle situated on country estate lands",
+          "example": "Tourists toured the manicured formal boxwood gardens of the historic chateau."
+        },
+        {
+          "word": "PENITENTIARY",
+          "meaning": "Maximum security prison facility for the long-term custody of convicted felons",
+          "example": "High concrete guard towers overlooked the perimeter of the state penitentiary."
+        },
+        {
+          "word": "RUSHHOUR",
+          "meaning": "Peak time of day when commuter traffic is heaviest in morning and evening",
+          "example": "Subway trains ran every two minutes to accommodate the evening rushhour."
+        },
+        {
+          "word": "PARLIAMENT",
+          "meaning": "Supreme legislative body of a nation holding debates and passing statutes",
+          "example": "Television cameras broadcast fiery prime minister debates from parliament."
+        },
+        {
+          "word": "BARBICAN",
+          "meaning": "Outer fortified gatehouse or tower defending the entrance to a walled city",
+          "example": "Visitors entered the historic walled town through the arched red-brick barbican."
+        },
+        {
+          "word": "FORECOURT",
+          "meaning": "Open paved courtyard or arrival area directly in front of a grand building",
+          "example": "Dignitaries stepped from limousines onto the grand granite forecourt."
+        },
+        {
+          "word": "STREETSCAPE",
+          "meaning": "Visual appearance and collective character of a street and its buildings",
+          "example": "Widened brick sidewalks and flowering planter urns enhanced the downtown streetscape."
+        },
+        {
+          "word": "LAMPOST",
+          "meaning": "Stout upright metal or concrete post supporting public street lanterns",
+          "example": "Banners advertising the city arts festival hung from decorative lamposts."
+        },
+        {
+          "word": "WARD",
+          "meaning": "Administrative electoral division of a city represented by local councilors",
+          "example": "Voters in the third municipal ward elected a new representative to city council."
+        },
+        {
+          "word": "URBANISM",
+          "meaning": "Study, lifestyle, and design character of cities and town planning",
+          "example": "New urbanism promotes walkable neighborhoods with mixed residential and retail uses."
+        },
+        {
+          "word": "DEMOGRAPHICS",
+          "meaning": "Statistical characteristics of human populations such as age and income",
+          "example": "City planners analyzed neighborhood demographics before proposing new schools."
+        },
+        {
+          "word": "BARBERSHOP",
+          "meaning": "Establishment where hair is cut, trimmed, and shaven for male patrons",
+          "example": "The red, white, and blue striped pole spun outside the vintage barbershop."
+        }
+      ]
+    },
+    {
+      "levelNumber": 32,
+      "title": "City Level 32",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "PLAZA",
+          "meaning": "Open public urban square surrounded by shops, buildings, and cafes",
+          "example": "Locals sat around the central fountain in the sunny brick plaza."
+        },
+        {
+          "word": "CORNICE",
+          "meaning": "Ornamental horizontal molded projection crowning a building or exterior wall",
+          "example": "Decorative terra-cotta cornices trimmed the top of the brick building."
+        },
+        {
+          "word": "URBANITY",
+          "meaning": "Refined sophistication and polished urban elegance of city culture",
+          "example": "The upscale bistro exuded contemporary urbanity with jazz and modern art."
+        },
+        {
+          "word": "BURGOMASTER",
+          "meaning": "Chief magistrate or executive mayor of a town in northern Europe",
+          "example": "The burgomaster welcomed foreign trade delegates to the annual town banquet."
+        },
+        {
+          "word": "LEGISLATURE",
+          "meaning": "Deliberative assembly body empowered to make and enact statutory laws",
+          "example": "State representatives debated budget bills inside the vaulted legislature chamber."
+        },
+        {
+          "word": "MANSARD",
+          "meaning": "Roof having two slopes on each side, the lower slope being steeper than upper",
+          "example": "Dormer windows projected from the steep slate tiles of the Parisian mansard roof."
+        },
+        {
+          "word": "NEIGHBORHOOD",
+          "meaning": "District or community forming a cohesive social unit within a town or city",
+          "example": "Neighbors organized an annual summer street block party in the neighborhood."
+        },
+        {
+          "word": "MACADAM",
+          "meaning": "Road surfacing method made of compacted stone chippings bound with tar",
+          "example": "Nineteenth-century engineers paved turnpikes with durable compacted macadam."
+        },
+        {
+          "word": "CROSSWALK",
+          "meaning": "Marked lane across a roadway indicating legal pedestrian street crossing",
+          "example": "Flashing yellow beacon lights warned drivers approaching the school crosswalk."
+        },
+        {
+          "word": "CUPOLA",
+          "meaning": "Small rounded dome or turret structure crowning the top of a roof",
+          "example": "A gilded weather vane spun atop the white wooden cupola of the civic library."
+        },
+        {
+          "word": "MEWS",
+          "meaning": "Quiet lane or alley converted from historic stables into quaint townhouses",
+          "example": "Potted plants and cobblestones gave the residential mews a peaceful charm."
+        },
+        {
+          "word": "JUICEBAR",
+          "meaning": "Health-conscious beverage kiosk serving fresh squeezed juices and smoothies",
+          "example": "Gymgoers ordered post-workout wheatgrass and ginger smoothies at the juicebar."
+        },
+        {
+          "word": "KEEP",
+          "meaning": "Massive fortified central tower serving as the strongest point of a citadel",
+          "example": "The stone keep offered safety during long sieges in medieval centuries."
+        }
+      ]
+    },
+    {
+      "levelNumber": 33,
+      "title": "City Level 33",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "LOFT",
+          "meaning": "Spacious open-concept apartment converted from former industrial factories",
+          "example": "High ceilings and exposed brick walls defined the trendy artist loft."
+        },
+        {
+          "word": "BOUTIQUE",
+          "meaning": "Small fashionable retail shop selling specialty clothing, jewelry, or gifts",
+          "example": "Shoppers browsed unique designer scarves inside the trendy boutique."
+        },
+        {
+          "word": "LAMPLIGHTER",
+          "meaning": "Historical town worker who lit and serviced municipal street lanterns",
+          "example": "With a long pole, the lamplighter ignited the gas jets at dusk each evening."
+        },
+        {
+          "word": "EXURB",
+          "meaning": "Prosperous residential district situated beyond the suburbs of a metropolis",
+          "example": "Telecommuters chose homes with large acreage in the wooded mountain exurb."
+        },
+        {
+          "word": "ARMORY",
+          "meaning": "Secure municipal building where weapons and military militia gear are kept",
+          "example": "The castellated stone armory hosted antique exhibitions and indoor athletics."
+        },
+        {
+          "word": "POWERGRID",
+          "meaning": "Network of transmission lines, transformers, and stations supplying power",
+          "example": "Engineers stabilized the regional powergrid during the summer heatwave."
+        },
+        {
+          "word": "TURRET",
+          "meaning": "Small slender tower projecting vertically from the wall or corner of buildings",
+          "example": "The fairytale Victorian mansion featured a picturesque round corner turret."
+        },
+        {
+          "word": "CHARTER",
+          "meaning": "Official municipal document granting sovereign privileges to a city",
+          "example": "King John granted the royal charter establishing the chartered city in 1215."
+        },
+        {
+          "word": "VOUSSOIR",
+          "meaning": "Wedge-shaped stone or brick used in constructing an architectural arch",
+          "example": "The central keystone locked all adjacent voussoirs firmly in place."
+        },
+        {
+          "word": "CYCLEPATH",
+          "meaning": "Paved off-road path dedicated for the exclusive use of bicycle riders",
+          "example": "The commuter cyclepath followed the scenic riverbank directly into the core."
+        },
+        {
+          "word": "OUTLET",
+          "meaning": "Retail store selling goods directly from manufacturers at discounted rates",
+          "example": "Shoppers found bargains on designer clothing at the suburban factory outlet."
+        },
+        {
+          "word": "FIREESCAPE",
+          "meaning": "External emergency metal staircase attached to the outside of buildings",
+          "example": "Historic brick tenements were framed by black wrought-iron fireescapes."
+        },
+        {
+          "word": "RINGROAD",
+          "meaning": "Orbital highway bypass encircling the perimeter of an urban metropolis",
+          "example": "Heavy commercial trucks took the outer ringroad to bypass downtown traffic jams."
+        }
+      ]
+    },
+    {
+      "levelNumber": 34,
+      "title": "City Level 34",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "RECEPTACLE",
+          "meaning": "Container placed in public areas designed to receive litter or recyclable cans",
+          "example": "Clear signage on the recycling receptacle reminded citizens to sort paper."
+        },
+        {
+          "word": "CRENEL",
+          "meaning": "Open notch or indentation between merlons in a fortified battlement",
+          "example": "Archers took aim through the crenel openings of the city wall."
+        },
+        {
+          "word": "CONGESTION",
+          "meaning": "Overcrowded state of roadways resulting in clogged, slowed vehicle traffic",
+          "example": "A bottleneck at the river bridge caused severe morning highway congestion."
+        },
+        {
+          "word": "UPTOWN",
+          "meaning": "Residential district of a city situated away from the central business core",
+          "example": "Families walked along the quiet tree-lined avenues of uptown."
+        },
+        {
+          "word": "EATERY",
+          "meaning": "Casual unpretentious restaurant, cafe, or diner serving cooked meals",
+          "example": "The neighborhood eatery was famous for its homemade buttermilk pancakes."
+        },
+        {
+          "word": "CHAMBERLAIN",
+          "meaning": "High municipal financial officer overseeing town revenues and properties",
+          "example": "The city chamberlain presented the annual audited civic accounts to councilors."
+        },
+        {
+          "word": "RAMPART",
+          "meaning": "Defensive wall of earth or stone built around a fortified town or city",
+          "example": "Citizens walked along the grassy ramparts that once encircled the old city."
+        },
+        {
+          "word": "HABERDASHERY",
+          "meaning": "Shop selling small sewing items, buttons, ribbons, and men clothing accessories",
+          "example": "The tailor purchased silk thread and horn buttons at the local haberdashery."
+        },
+        {
+          "word": "CASINO",
+          "meaning": "Facility housing and accommodating gambling games, poker, and roulette tables",
+          "example": "Chandelier lights twinkled above rows of slot machines and tables in the casino."
+        },
+        {
+          "word": "SPANDREL",
+          "meaning": "Triangular space between the curve of an arch and a rectangular enclosing molding",
+          "example": "Sculpted bronze angels decorated the spandrel above the church portal."
+        },
+        {
+          "word": "BELLTOWER",
+          "meaning": "Tall architectural campanile structure housing tuned church or civic bells",
+          "example": "The historic belltower chimed every quarter hour across the harbor town."
+        },
+        {
+          "word": "ORDINANCE",
+          "meaning": "Piece of municipal legislation or local law enacted by a city council",
+          "example": "The city council passed an ordinance restricting late-night commercial noise."
+        },
+        {
+          "word": "FLASHER",
+          "meaning": "Warning amber beacon blinking rhythmically at pedestrian school crossings",
+          "example": "An overhead solar flasher alerted approaching drivers of children crossing."
+        }
+      ]
+    },
+    {
+      "levelNumber": 35,
+      "title": "City Level 35",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "COURTHOUSE",
+          "meaning": "Civic building where judicial trials and legal hearings are conducted",
+          "example": "Stone steps led up to the grand classical portico of the county courthouse."
+        },
+        {
+          "word": "VALET",
+          "meaning": "Attendant parking and retrieving automobiles for restaurant and hotel guests",
+          "example": "She handed her car keys to the valet outside the luxury hotel entrance."
+        },
+        {
+          "word": "TRATTORIA",
+          "meaning": "Casual Italian neighborhood restaurant serving regional pasta dishes",
+          "example": "The family-run trattoria was renowned for handmade potato gnocchi."
+        },
+        {
+          "word": "LAUNDROMAT",
+          "meaning": "Self-service establishment equipped with coin-operated washers and dryers",
+          "example": "Students folded laundry while studying at tables inside the laundromat."
+        },
+        {
+          "word": "EMPORIUM",
+          "meaning": "Large retail store or commercial marketplace offering diverse merchandise",
+          "example": "The historic downtown emporium offered three floors of imported luxury goods."
+        },
+        {
+          "word": "CULVERT",
+          "meaning": "Tunnel or drain structure channeling water under roads, railways, or paths",
+          "example": "Concrete culverts directed flash flood runoff safely beneath the highway."
+        },
+        {
+          "word": "HIGHRISE",
+          "meaning": "Tall building equipped with multiple elevators used for offices or residences",
+          "example": "The modern residential highrise offered panoramic views over the bay."
+        },
+        {
+          "word": "MIDRISE",
+          "meaning": "Medium-height multistory building typically four to eight stories tall",
+          "example": "The urban avenue was lined with attractive brick midrise apartments."
+        },
+        {
+          "word": "BOTTLENECK",
+          "meaning": "Narrow section of roadway where traffic flow constricts and slows down",
+          "example": "A single-lane bridge created a frustrating five-mile rush-hour bottleneck."
+        },
+        {
+          "word": "SHERIFF",
+          "meaning": "Elected county officer managing law enforcement, court security, and jails",
+          "example": "Deputies followed orders from the county sheriff during emergency flood evacuations."
+        },
+        {
+          "word": "SEWER",
+          "meaning": "Underground network of pipes and conduits carrying wastewater away from cities",
+          "example": "Civil engineers inspected the vaulted brick sewer lines beneath old districts."
+        },
+        {
+          "word": "CATCHBASIN",
+          "meaning": "Street drainage reservoir trapping debris before runoff enters sewers",
+          "example": "Municipal road crews suctioned silt from the corner concrete catchbasin."
+        },
+        {
+          "word": "INTERCHANGE",
+          "meaning": "Grade-separated junction allowing traffic to transition between highways",
+          "example": "Cars navigated the looping flyovers of the four-level highway interchange."
+        }
+      ]
+    }
+  ]
+}

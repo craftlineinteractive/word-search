@@ -1,0 +1,2144 @@
+{
+  "id": 23,
+  "key": "sports",
+  "title": "Sports",
+  "iconAsset": "assets/chapter_images/sports.png",
+  "themeColor": 4283215696,
+  "levels": [
+    {
+      "levelNumber": 1,
+      "title": "Sports Level 1",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "TIGHTEND",
+          "meaning": "Hybrid football player combining offensive line blocking with receiving skills",
+          "example": "The tightend caught a third-down pass over the middle to extend the drive."
+        },
+        {
+          "word": "PENALTYAREA",
+          "meaning": "Eighteen-yard rectangular zone where soccer goalkeepers may handle the ball",
+          "example": "A foul inside the penaltyarea resulted in a penalty kick award."
+        },
+        {
+          "word": "SPEEDROPE",
+          "meaning": "Thin lightweight wire jump rope designed for rapid double-under training",
+          "example": "Boxers skipped rhythmically with a steel speedrope to build foot speed."
+        },
+        {
+          "word": "PROTEIN",
+          "meaning": "Macronutrient vital for muscle repair, synthesis, and recovery after training",
+          "example": "The lifter drank a whey protein shake within thirty minutes of finishing his workout."
+        },
+        {
+          "word": "DEUCE",
+          "meaning": "Tied score of forty-all in a game of tennis requiring two consecutive points to win",
+          "example": "After three deuce games, the champion finally earned a break opportunity."
+        },
+        {
+          "word": "GROUNDOUT",
+          "meaning": "Out recorded when fielders throw fielded ground balls to first base",
+          "example": "The pitcher induced a routine groundout to the second baseman."
+        },
+        {
+          "word": "SPLITTIME",
+          "meaning": "Time taken to complete a specific intermediate section of a longer race",
+          "example": "The swim coach recorded negative splittimes on every hundred-meter interval."
+        },
+        {
+          "word": "SNOWSHOES",
+          "meaning": "Wide lightweight frames strapped to boots allowing walking on deep snow",
+          "example": "Winter trail guides wore snowshoes to trek across fresh powder banks."
+        }
+      ]
+    },
+    {
+      "levelNumber": 2,
+      "title": "Sports Level 2",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CRASHPAD",
+          "meaning": "Thick dense foam mattress placed beneath boulderers to cushion falls",
+          "example": "Spotters dragged the folding crashpad directly under the high rock problem."
+        },
+        {
+          "word": "SQUATRACK",
+          "meaning": "Sturdy metal frame supporting heavy barbells for safe squatting exercises",
+          "example": "He racked the loaded bar inside the steel squatrack after completing his set."
+        },
+        {
+          "word": "SLIPSTREAM",
+          "meaning": "Low-drag suction zone directly behind a high-speed vehicle or racer",
+          "example": "The cyclist tucked into the slipstream to conserve precious energy."
+        },
+        {
+          "word": "DIPBAR",
+          "meaning": "Parallel horizontal bars used to perform chest and triceps dips",
+          "example": "He completed three sets of fifteen dips on the weighted dipbar station."
+        },
+        {
+          "word": "PUTTER",
+          "meaning": "Specialized golf club with a flat face designed for rolling balls on greens",
+          "example": "The golfer sank a twenty-foot birdie putt using his balanced steel putter."
+        },
+        {
+          "word": "HEADBAND",
+          "meaning": "Elastic band worn across forehead to hold hair and absorb sweat",
+          "example": "Basketball players sported retro headbands during throwback jersey nights."
+        },
+        {
+          "word": "SETTER",
+          "meaning": "Volleyball playmaker whose primary role is placing balls for hitters to spike",
+          "example": "The setter delivered a backward quick set right into the middle hitter stride."
+        },
+        {
+          "word": "PIN",
+          "meaning": "Metal flagstick standing upright inside the golf hole cup",
+          "example": "The approach shot landed six inches from the pin for an easy tap-in."
+        }
+      ]
+    },
+    {
+      "levelNumber": 3,
+      "title": "Sports Level 3",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "SMASH",
+          "meaning": "Powerful downward overhead strike hitting a ball or shuttlecock at high speed",
+          "example": "The badminton player leaped high to execute an unreturnable smash."
+        },
+        {
+          "word": "WILDPITCH",
+          "meaning": "Pitch thrown so erratically that catchers cannot stop it with normal effort",
+          "example": "A wildpitch bounced to the backstop, allowing the winning run to score."
+        },
+        {
+          "word": "BEEPTEST",
+          "meaning": "Multi-stage progressive aerobic fitness test running between audio beeps",
+          "example": "Soccer recruits reached level fourteen on the demanding preseason beeptest."
+        },
+        {
+          "word": "BIOMECHANICS",
+          "meaning": "Study of mechanical laws governing muscular movement and athletic form",
+          "example": "High-speed video analysis helped optimize the sprinter stride biomechanics."
+        },
+        {
+          "word": "FATIGUE",
+          "meaning": "Extreme physical or mental tiredness resulting from prolonged exertion",
+          "example": "Muscle fatigue caused the runner pacing to drop slightly in the final mile."
+        },
+        {
+          "word": "LANDINGMAT",
+          "meaning": "Thick padded foam mattress cushioning high jump and pole vault landings",
+          "example": "The high jumper fell backward safely onto the soft landingmat."
+        },
+        {
+          "word": "GIMMIE",
+          "meaning": "Very short putt conceded by opponents in casual match play golf",
+          "example": "His playing partner conceded the three-inch putt as a friendly gimmie."
+        },
+        {
+          "word": "WICKET",
+          "meaning": "Set of three wooden stumps topped by two bails in cricket",
+          "example": "The fast bowler shattered the middle stump of the batsman wicket."
+        }
+      ]
+    },
+    {
+      "levelNumber": 4,
+      "title": "Sports Level 4",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "TAPING",
+          "meaning": "Applying athletic adhesive tape to stabilize joints and protect ligaments",
+          "example": "The trainer applied rigid zinc oxide taping to reinforce the sprained ankle."
+        },
+        {
+          "word": "REPETITIONS",
+          "meaning": "Number of times a single exercise movement is performed within a set",
+          "example": "The trainer prescribed three sets of twelve repetitions for leg presses."
+        },
+        {
+          "word": "CARTWHEEL",
+          "meaning": "Sideways acrobatic rotation with hands and feet touching floor sequentially",
+          "example": "Young gymnasts practiced fast cartwheels across the spring tumbling floor."
+        },
+        {
+          "word": "ROVAL",
+          "meaning": "Hybrid racing circuit combining an oval superspeedway with an interior road course",
+          "example": "Teams set up high-downforce wings for the challenging roval circuit."
+        },
+        {
+          "word": "DRAGRACING",
+          "meaning": "Acceleration motorsport where two cars or bikes race down a straight quarter-mile",
+          "example": "Loud engines roared at green lights during weekend dragracing trials."
+        },
+        {
+          "word": "BICYCLEKICK",
+          "meaning": "Acrobatic airborne soccer strike kicking backward over the player head",
+          "example": "His overhead bicyclekick flew into the top corner for goal of the year."
+        },
+        {
+          "word": "BASEPAD",
+          "meaning": "Square canvas bag anchored to the dirt diamond marking baseball bases",
+          "example": "The runner slid headfirst to touch the corner of the basepad."
+        },
+        {
+          "word": "SETUPMAN",
+          "meaning": "Eighth-inning relief pitcher setting up the game for the closer",
+          "example": "The setupman pitched a scoreless frame to hand the lead to the ninth inning."
+        }
+      ]
+    },
+    {
+      "levelNumber": 5,
+      "title": "Sports Level 5",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CATCHERMITT",
+          "meaning": "Specialized heavy leather glove built to catch ninety-mile-per-hour pitches",
+          "example": "A loud pop echoed as the strike hit the pocket of the catchermitt."
+        },
+        {
+          "word": "ADVANTAGE",
+          "meaning": "Next point scored after deuce in tennis putting the player one point from victory",
+          "example": "Holding advantage, the server closed out the game with a service winner."
+        },
+        {
+          "word": "OFFSIDETRAP",
+          "meaning": "Defensive tactic stepping up together in unison to catch attackers offside",
+          "example": "The disciplined back four sprang an offsidetrap to nullify the through ball."
+        },
+        {
+          "word": "BOARDS",
+          "meaning": "Wood and plastic perimeter walls enclosing an ice hockey rink",
+          "example": "Defenders checked opponents firmly against the protective boards."
+        },
+        {
+          "word": "FLIGHTS",
+          "meaning": "Finned plastic wings at the tail of a dart stabilizing its flight path",
+          "example": "The dart player changed to slim flights for tighter grouping on the board."
+        },
+        {
+          "word": "TOPSPIN",
+          "meaning": "Forward rotation applied to a ball causing it to dip sharply and kick forward",
+          "example": "Heavy topspin kept the high-speed groundstroke safely inside the baseline."
+        },
+        {
+          "word": "WINDSURF",
+          "meaning": "Surface water sport combining elements of surfing and sailing on a board",
+          "example": "Strong coastal winds propelled the windsurf board over cresting waves."
+        },
+        {
+          "word": "ISOMETRIC",
+          "meaning": "Muscle contraction without visible movement or change in muscle length",
+          "example": "Holding a static plank is an effective isometric abdominal exercise."
+        }
+      ]
+    },
+    {
+      "levelNumber": 6,
+      "title": "Sports Level 6",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "WATERHAZARD",
+          "meaning": "Pond, lake, or creek crossing a golf course resulting in penalty strokes",
+          "example": "A wayward tee shot splashed into the middle of the waterhazard."
+        },
+        {
+          "word": "FULLBACK",
+          "meaning": "Powerful football backfield player primarily blocking for tailbacks",
+          "example": "The fullback plowed through the defensive front to clear a running lane."
+        },
+        {
+          "word": "ROUGH",
+          "meaning": "Thick unmown grass bordering fairways designed to penalize wild shots",
+          "example": "Hacking the ball out of deep clover rough cost the golfer an extra stroke."
+        },
+        {
+          "word": "UPPERCUT",
+          "meaning": "Vertical upward punch aimed toward an opponent chin from close range",
+          "example": "The fighter dipped low and uncorked a devastating right uppercut."
+        },
+        {
+          "word": "TRAPEZOID",
+          "meaning": "Marked zone behind hockey goal lines restricting goalie puck handling",
+          "example": "The NHL goalie avoided handling the puck outside the trapezoid area."
+        },
+        {
+          "word": "BALLMARKER",
+          "meaning": "Small coin or disc placed on green turf to mark a ball position",
+          "example": "She marked her golf ball with a flat plastic ballmarker before picking it up."
+        },
+        {
+          "word": "ENDURANCE",
+          "meaning": "Capacity to withstand strenuous exercise and prolonged exertion over time",
+          "example": "Marathon runners spend months building leg endurance and mental grit."
+        },
+        {
+          "word": "VAULT",
+          "meaning": "Gymnastics apparatus and event involving explosive takeoff over a padded table",
+          "example": "The gymnast stuck a flawless landing after a double twist vault."
+        }
+      ]
+    },
+    {
+      "levelNumber": 7,
+      "title": "Sports Level 7",
+      "gridRows": 10,
+      "gridCols": 10,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "MOBILITY",
+          "meaning": "Range of active, controlled movement around a specific joint structure",
+          "example": "Hip mobility drills helped the hockey goalie drop cleanly into butterflies."
+        },
+        {
+          "word": "ISOTONIC",
+          "meaning": "Muscle contractions with constant tension while muscles lengthen or shorten",
+          "example": "Bicep curls are classic isotonic exercises moving resistance through space."
+        },
+        {
+          "word": "FOOTFAULT",
+          "meaning": "Illegal service step touching the baseline before striking the tennis ball",
+          "example": "The baseline umpire called a footfault on the server left sneaker."
+        },
+        {
+          "word": "ECHELON",
+          "meaning": "Diagonal paceline formed by cyclists to draft through harsh crosswinds",
+          "example": "A strong crosswind split the peloton into three distinct echelons."
+        },
+        {
+          "word": "SCOUT",
+          "meaning": "Talent evaluator traveling to observe and recruit prospective athletes",
+          "example": "The baseball scout charted pitch velocities with a radar gun."
+        },
+        {
+          "word": "DELTOIDS",
+          "meaning": "Triangular shoulder muscles responsible for lifting and rotating arms",
+          "example": "Swimmers develop broad deltoids through repetitive overhead stroke motions."
+        },
+        {
+          "word": "GOGGLES",
+          "meaning": "Tight-fitting protective eyewear worn in pools, snow, or muddy tracks",
+          "example": "The swimmer adjusted the silicone strap of her leakproof goggles."
+        },
+        {
+          "word": "LANYARD",
+          "meaning": "Cord worn around the neck to carry whistles, timing badges, or keys",
+          "example": "The referee wore a bright yellow whistle on an official lanyard."
+        }
+      ]
+    },
+    {
+      "levelNumber": 8,
+      "title": "Sports Level 8",
+      "gridRows": 10,
+      "gridCols": 10,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "FADEAWAY",
+          "meaning": "Jump shot taken while falling backward away from a contesting defender",
+          "example": "His signature fadeaway jumper was impossible for defenders to block."
+        },
+        {
+          "word": "RUCK",
+          "meaning": "Phase of rugby play where players bind around the ball on the ground after tackles",
+          "example": "The team secured quick ball by cleaning out the defenders at the ruck."
+        },
+        {
+          "word": "HYDROFOIL",
+          "meaning": "Board equipped with an underwater wing providing lift above water surface",
+          "example": "The hydrofoil surfboard hovered silently two feet above calm bay waters."
+        },
+        {
+          "word": "BICEPS",
+          "meaning": "Two-headed upper arm muscle flexing the elbow and supinating the forearm",
+          "example": "He gripped the chin-up bar tightly and pulled using back and biceps."
+        },
+        {
+          "word": "FACEOFF",
+          "meaning": "Method of starting play in ice hockey by dropping pucks between two centers",
+          "example": "The center won the offensive zone faceoff back to the blue line."
+        },
+        {
+          "word": "FREESTYLE",
+          "meaning": "Sporting discipline where athletes perform self-choreographed tricks and maneuvers",
+          "example": "The ski champion earned gold with a daring freestyle aerial trick."
+        },
+        {
+          "word": "AGILITY",
+          "meaning": "Ability to move quickly and change direction with balance and speed",
+          "example": "Cone drills sharpened the soccer player footwork and lateral agility."
+        },
+        {
+          "word": "PIKE",
+          "meaning": "Gymnastics body position bending sharply at hips with legs straight",
+          "example": "The diver entered the water with minimal splash after a graceful pike dive."
+        }
+      ]
+    },
+    {
+      "levelNumber": 9,
+      "title": "Sports Level 9",
+      "gridRows": 10,
+      "gridCols": 10,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CROQUET",
+          "meaning": "Lawn game where players hit wooden balls through wire hoops with mallets",
+          "example": "Guests played croquet on the manicured country club lawn."
+        },
+        {
+          "word": "PEDOMETER",
+          "meaning": "Portable electronic device that counts the number of steps taken by walking",
+          "example": "The walker checked her pedometer to see if she met her ten thousand step goal."
+        },
+        {
+          "word": "CHUTE",
+          "meaning": "Parachute apparatus deployed to slow rapid descent from air or dragsters",
+          "example": "The skydiver pulled the rip cord and felt the colorful chute snap open."
+        },
+        {
+          "word": "OVERHEAD",
+          "meaning": "Forceful downward smash struck above the player head in racquet sports",
+          "example": "She anticipated the weak defensive lob and crushed an overhead winner."
+        },
+        {
+          "word": "LINEOUT",
+          "meaning": "Set-piece restart in rugby where forwards contest thrown balls from sidelines",
+          "example": "Jumpers were hoisted high into the air to win possession at the lineout."
+        },
+        {
+          "word": "STOPWATCH",
+          "meaning": "Handheld precision timepiece used to measure elapsed athletic run splits",
+          "example": "The track coach pressed the stopwatch button as runners crossed the line."
+        },
+        {
+          "word": "ANKLEWRAP",
+          "meaning": "Elastic compression wrap supporting weakened joints after twists",
+          "example": "The basketball guard laced on an anklewrap before warmups."
+        },
+        {
+          "word": "PUNTER",
+          "meaning": "Special teams player kicking the football from hands on fourth down",
+          "example": "The punter pinned the opposing offense inside their own five-yard line."
+        }
+      ]
+    },
+    {
+      "levelNumber": 10,
+      "title": "Sports Level 10",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "RIPOSTE",
+          "meaning": "Rapid return thrust delivered immediately following a successful parry",
+          "example": "A lightning-fast riposte scored the winning touch on the fencer jacket."
+        },
+        {
+          "word": "PULLUPBAR",
+          "meaning": "Elevated overhead horizontal bar used for upper body pullup workouts",
+          "example": "Athletes performed wide-grip repetitions on the outdoor pullupbar."
+        },
+        {
+          "word": "CHALK",
+          "meaning": "Magnesium carbonate powder applied to hands to absorb sweat and improve grip",
+          "example": "Gymnasts dusted white chalk over their palms before tackling high bars."
+        },
+        {
+          "word": "BATTERBOX",
+          "meaning": "Chalk-outlined rectangular area flanking home plate where batters stand",
+          "example": "The hitter stepped into the batterbox and settled into his stance."
+        },
+        {
+          "word": "FOIL",
+          "meaning": "Flexible light thrusting weapon used in classical sport fencing",
+          "example": "Foil fencers score exclusively with thrusts to the torso vest."
+        },
+        {
+          "word": "HYPERTROPHY",
+          "meaning": "Growth and enlargement of muscular tissue cells from resistance training",
+          "example": "Progressive overload weight training stimulates muscle protein hypertrophy."
+        },
+        {
+          "word": "FLAGSTICK",
+          "meaning": "Tall slender pole topped with a flag indicating the cup position on greens",
+          "example": "The caddy pulled the flagstick from the cup as the golfer lined up his putt."
+        },
+        {
+          "word": "SNOCROSS",
+          "meaning": "Winter motorsport racing high-performance snowmobiles on specialized tracks",
+          "example": "Snocross drivers leapt forty feet into the air over snow ramp moguls."
+        },
+        {
+          "word": "TRAMLINES",
+          "meaning": "Outer parallel strips on tennis courts expanding width for doubles play",
+          "example": "In singles competition, any ball landing in the tramlines is called out."
+        }
+      ]
+    },
+    {
+      "levelNumber": 11,
+      "title": "Sports Level 11",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "CANYONEERING",
+          "meaning": "Outdoor sport navigating down steep river gorges by jumping and rappelling",
+          "example": "The adventure guide led visitors through breathtaking canyoneering chutes."
+        },
+        {
+          "word": "BINDINGS",
+          "meaning": "Mechanical fixtures holding ski or snowboard boots firmly onto boards",
+          "example": "The ski tech adjusted the release tension of the downhill bindings."
+        },
+        {
+          "word": "CORNERARC",
+          "meaning": "One-yard quarter circle at pitch corners where corner kicks are taken",
+          "example": "The midfielder placed the soccer ball inside the cornerarc for a cross."
+        },
+        {
+          "word": "SAFETY",
+          "meaning": "Deep defensive football back providing last line of coverage against long passes",
+          "example": "The free safety read the quarterback eyes and intercepted the deep throw."
+        },
+        {
+          "word": "FALSE",
+          "meaning": "Unconventional soccer forward dropping deep to disrupt center back lines",
+          "example": "Playing as a false9, the forward created huge gaps for charging wingers."
+        },
+        {
+          "word": "CHICANE",
+          "meaning": "Artificial sharp serpentine curve introduced to slow cars on racing tracks",
+          "example": "Drivers downshifted rapidly as they entered the tight chicane complex."
+        },
+        {
+          "word": "CENTERSPOT",
+          "meaning": "Central mark on soccer pitches from which kickoffs start each half",
+          "example": "Both teams lined up on their respective halves facing the centerspot."
+        },
+        {
+          "word": "MARTINGALE",
+          "meaning": "Strap attachment preventing horses from tossing or raising heads too high",
+          "example": "A standing martingale kept the spirited jumper head in correct position."
+        },
+        {
+          "word": "RABONA",
+          "meaning": "Kicking method where the kicking leg wraps behind the standing leg",
+          "example": "The winger whipped in a cross using a flashy rabona technique."
+        }
+      ]
+    },
+    {
+      "levelNumber": 12,
+      "title": "Sports Level 12",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "CENTERCIRCLE",
+          "meaning": "Marked ten-yard radius circle in the center of football and basketball courts",
+          "example": "The referee prepared to toss the jump ball inside the centercircle."
+        },
+        {
+          "word": "POPOUT",
+          "meaning": "High weakly hit pop fly caught easily by an infielder for an out",
+          "example": "A harmless popout to the second baseman extinguished the scoring threat."
+        },
+        {
+          "word": "AIKIDO",
+          "meaning": "Japanese martial art emphasizing redirection of opponent momentum",
+          "example": "Aikido students practice graceful joint locks and breakfalls."
+        },
+        {
+          "word": "CENTER",
+          "meaning": "Tallest interior basketball player dominating rim defense and rebounding",
+          "example": "The basketball center swatted away three consecutive layup attempts."
+        },
+        {
+          "word": "BUNT",
+          "meaning": "Intentionally tapping a baseball softly into the infield with a squared bat",
+          "example": "The batter laid down a sacrifice bunt to advance the runner to third base."
+        },
+        {
+          "word": "SCRUMHALF",
+          "meaning": "Rugby halfback linking forwards and backs and passing from base of rucks",
+          "example": "The nimble scrumhalf fed quick ball out to his charging backline."
+        },
+        {
+          "word": "DOJO",
+          "meaning": "Traditional training hall or school where Japanese martial arts are studied",
+          "example": "Students bowed respectfully before stepping onto the polished dojo floor."
+        },
+        {
+          "word": "HANDWRAP",
+          "meaning": "Protective cotton cloth wrapped around wrists and knuckles under gloves",
+          "example": "Trainers wrapped boxer hands carefully to safeguard delicate carpal bones."
+        },
+        {
+          "word": "BACKSPIN",
+          "meaning": "Reverse rotation applied to a ball making it float and check upon bounce",
+          "example": "The iron shot landed on the putting green and bit hard with backspin."
+        }
+      ]
+    },
+    {
+      "levelNumber": 13,
+      "title": "Sports Level 13",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "MIDOFF",
+          "meaning": "Cricket fielding position near the bowler on the off-side",
+          "example": "The bowler fielded the straight drive and threw to the wicketkeeper."
+        },
+        {
+          "word": "DIVOTTOOL",
+          "meaning": "Two-pronged metal fork used to repair pitch marks on putting greens",
+          "example": "Courteous players use a brass divottool to repair green ball marks."
+        },
+        {
+          "word": "HORSESHOES",
+          "meaning": "Target game where players pitch metal shoes toward a ground stake",
+          "example": "Campers spent sunny afternoons playing horseshoes near the lake."
+        },
+        {
+          "word": "INFIELD",
+          "meaning": "Central open grass or dirt area inside a racing oval or athletics track",
+          "example": "Spectators parked RV campers inside the sprawling speedway infield."
+        },
+        {
+          "word": "HOOP",
+          "meaning": "Circular metal ring with suspended netting through which basketballs are shot",
+          "example": "The guard drained a three-pointer that snapped cleanly through the hoop."
+        },
+        {
+          "word": "VOMAX",
+          "meaning": "Maximum rate of oxygen consumption measured during incremental exercise",
+          "example": "Elite endurance cyclists record exceptionally high VO2max fitness scores."
+        },
+        {
+          "word": "SAMBO",
+          "meaning": "Russian martial art and combat sport focusing on throws and submissions",
+          "example": "The wrestler trained extensively in sambo ground fighting techniques."
+        },
+        {
+          "word": "PIROUETTE",
+          "meaning": "Controlled spinning rotation on one foot in gymnastics and figure skating",
+          "example": "The rhythmic gymnast completed three rapid pirouettes while balancing a hoop."
+        },
+        {
+          "word": "INTERVALS",
+          "meaning": "High-intensity work bursts alternated with measured recovery periods",
+          "example": "Track athletes sprinted two-hundred-meter intervals with sixty seconds rest."
+        }
+      ]
+    },
+    {
+      "levelNumber": 14,
+      "title": "Sports Level 14",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "TURNSTILE",
+          "meaning": "Mechanical gate with revolving arms admitting ticketed fans one by one",
+          "example": "Crowds passed through the turnstiles an hour before kickoff."
+        },
+        {
+          "word": "OUTFIELD",
+          "meaning": "Grass playing area extending beyond the dirt diamond in baseball parks",
+          "example": "The center fielder sprinted to the deep outfield wall to make the catch."
+        },
+        {
+          "word": "PETANQUE",
+          "meaning": "French boules sport where metal balls are thrown closest to a cochonnet",
+          "example": "Locals gathered under shaded village trees to play petanque."
+        },
+        {
+          "word": "PULLBUOY",
+          "meaning": "Foam flotation block placed between legs to focus on arm stroke mechanics",
+          "example": "Swimmers isolated upper body endurance by gripping a pullbuoy in pool laps."
+        },
+        {
+          "word": "PADDLE",
+          "meaning": "Short flat wooden or composite blade used to hit balls in table tennis or paddle boats",
+          "example": "Table tennis champions impart heavy spin with textured paddle rubber."
+        },
+        {
+          "word": "CUTTER",
+          "meaning": "Fastball featuring late sharp lateral breaking action toward the glove side",
+          "example": "The legendary closer shattered wooden bats with his unhittable cutter."
+        },
+        {
+          "word": "GUILLOTINE",
+          "meaning": "Front headlock choke submission encircling an opponent neck from the front",
+          "example": "The fighter trapped his opponent in a tight guillotine as he shot for a takedown."
+        },
+        {
+          "word": "SNATCH",
+          "meaning": "Olympic weightlifting lift moving barbells overhead in one explosive motion",
+          "example": "The lifter dropped smoothly beneath the bar to stabilize the heavy snatch."
+        },
+        {
+          "word": "SLAPSHOT",
+          "meaning": "High-velocity ice hockey shot taking a full backswing before striking pucks",
+          "example": "The defenseman blasted a hundred-mile-per-hour slapshot past the screen."
+        }
+      ]
+    },
+    {
+      "levelNumber": 15,
+      "title": "Sports Level 15",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "WINGER",
+          "meaning": "Attacking player operating along field sidelines to deliver crosses",
+          "example": "The speedy winger beat his fullback and swung an accurate cross into the box."
+        },
+        {
+          "word": "BOGEY",
+          "meaning": "Golf score of one stroke over par on an individual hole",
+          "example": "A three-putt on the slippery green resulted in an unfortunate bogey."
+        },
+        {
+          "word": "BUNKER",
+          "meaning": "Sand-filled depression hazard guarding greens and fairways on golf courses",
+          "example": "The golfer blasted a shower of sand escaping the deep greenside bunker."
+        },
+        {
+          "word": "SQUARELEG",
+          "meaning": "Cricket fielding position directly square of the batsman on leg-side",
+          "example": "The leg umpire stood level with the popping crease behind squareleg."
+        },
+        {
+          "word": "RAFTING",
+          "meaning": "Whitewater navigation sport steering inflatable rafts down river rapids",
+          "example": "Whitewater rafting down roaring mountain canyons tested team teamwork."
+        },
+        {
+          "word": "ENDZONE",
+          "meaning": "Scored area at each end of an American football field between goal line and end line",
+          "example": "The wide receiver caught the game-winning pass in the corner of the endzone."
+        },
+        {
+          "word": "SPURS",
+          "meaning": "Small metal attachments worn on boot heels to give refined riding cues",
+          "example": "The dressage master gave subtle heel cues without ever gouging his spurs."
+        },
+        {
+          "word": "SKIPPER",
+          "meaning": "Captain or commanding leader of a sailboat, yacht, or sports team",
+          "example": "The yacht skipper adjusted course to catch fresh morning breezes."
+        },
+        {
+          "word": "MOGULS",
+          "meaning": "Freestyle skiing event racing down steep slopes covered in tightly packed snow bumps",
+          "example": "Mogul skiers absorbed heavy impacts while carving rapid rhythmic turns."
+        }
+      ]
+    },
+    {
+      "levelNumber": 16,
+      "title": "Sports Level 16",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "WEDGE",
+          "meaning": "High-lofted golf club designed for steep trajectory out of sand and rough",
+          "example": "She swung her sand wedge to pop the ball gently onto the putting surface."
+        },
+        {
+          "word": "CARABINER",
+          "meaning": "Metal loop with a spring-loaded gate used to link climbing ropes and gear",
+          "example": "The climber clipped the rope into a locking screwgate carabiner."
+        },
+        {
+          "word": "PHYSIO",
+          "meaning": "Healthcare therapist treating sports injuries and rehabilitating athletes",
+          "example": "The team physio applied ultrasound therapy to soothe a sore shoulder tendon."
+        },
+        {
+          "word": "SPRINT",
+          "meaning": "High-speed running race over short distances requiring explosive burst",
+          "example": "The track sprinter set a national record in the hundred-meter dash."
+        },
+        {
+          "word": "FULCRUM",
+          "meaning": "Pivot point on which bone levers rotate during bodily sports motion",
+          "example": "The human elbow joint acts as a fulcrum during bicep curls and throwing."
+        },
+        {
+          "word": "PINCHRUNNER",
+          "meaning": "Speedy replacement inserted on base to run for a slower teammate",
+          "example": "A pinchrunner stole second base on the very first pitch thrown."
+        },
+        {
+          "word": "DESCENDER",
+          "meaning": "Friction device allowing controlled descent down a climbing rope",
+          "example": "Rappellers rigged an eight-ring descender to lower smoothly down cliffs."
+        },
+        {
+          "word": "DERAILLEUR",
+          "meaning": "Bicycle gear shifting mechanism moving chains across sprockets",
+          "example": "The cyclist tuned the rear derailleur for crisp, seamless shifting."
+        },
+        {
+          "word": "TEE",
+          "meaning": "Small peg inserted into grass to support a golf ball before driving",
+          "example": "The golfer placed a white wooden tee into the grass of the tee box."
+        }
+      ]
+    },
+    {
+      "levelNumber": 17,
+      "title": "Sports Level 17",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "ICEPACK",
+          "meaning": "Cold gel compress applied to soothe acute athletic swelling and bruises",
+          "example": "The pitcher iced his throwing elbow with a frozen icepack after seven innings."
+        },
+        {
+          "word": "LAGPUTT",
+          "meaning": "Long golf putt aimed primarily at stopping close to the hole to avoid three-putting",
+          "example": "The golfer executed a sixty-foot lagputt that settled two inches from the cup."
+        },
+        {
+          "word": "ANAEROBIC",
+          "meaning": "Short-burst high-intensity exercise occurring without sufficient oxygen",
+          "example": "Weightlifting and sprint intervals rely on anaerobic energy pathways."
+        },
+        {
+          "word": "DEEPWATER",
+          "meaning": "Solo rock climbing discipline practiced above deep water without ropes or pads",
+          "example": "Climbers leaped safely into the sea after tackling deepwater sea cliffs."
+        },
+        {
+          "word": "BELAY",
+          "meaning": "Technique and device used to secure a climbing rope for a partner safety",
+          "example": "The partner maintained an attentive belay while watching the climber lead."
+        },
+        {
+          "word": "METABOLISM",
+          "meaning": "Biological processes converting nutrients into cellular energy for sports",
+          "example": "Endurance athletes maintain an efficient aerobic metabolism during long runs."
+        },
+        {
+          "word": "DUMBBELL",
+          "meaning": "Short-handled weight with balanced discs at each end for one-handed lifting",
+          "example": "Fitness trainees performed bicep curls using twenty-pound dumbbells."
+        },
+        {
+          "word": "LINEDRIVE",
+          "meaning": "Sharply hit batted ball traveling low, hard, and fast through the air",
+          "example": "The batter ripped a scorched linedrive into the right field gap."
+        },
+        {
+          "word": "HAMSTRING",
+          "meaning": "Large posterior thigh muscles responsible for bending knees and extending hips",
+          "example": "The sprinter pulled his hamstring while accelerating down the home stretch."
+        }
+      ]
+    },
+    {
+      "levelNumber": 18,
+      "title": "Sports Level 18",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "ROOKIE",
+          "meaning": "First-year player participating in their inaugural professional sports season",
+          "example": "The exciting rookie scored eighteen points in his opening league debut."
+        },
+        {
+          "word": "SUBSTITUTE",
+          "meaning": "Backup player entering active match play to replace a teammate",
+          "example": "The tactical substitute scored the winning goal minutes after coming on."
+        },
+        {
+          "word": "WAZAARI",
+          "meaning": "Substantial half-point score in judo awarded for near-flawless throws",
+          "example": "Two wazaari scores combined to award the competitor victory by total ippon."
+        },
+        {
+          "word": "GLYCOGEN",
+          "meaning": "Stored carbohydrate form in muscles and liver fueling intense workouts",
+          "example": "Distance runners carb-load before races to top off essential glycogen stores."
+        },
+        {
+          "word": "POMMEL",
+          "meaning": "Raised curved handle mounted on a gymnastics vaulting horse apparatus",
+          "example": "Gymnasts grip the leather pommel horse handles during circular leg routines."
+        },
+        {
+          "word": "HASHMARKS",
+          "meaning": "Two rows of interior tick marks indicating ball placement in football",
+          "example": "The referee placed the football on the right hashmarks for third down."
+        },
+        {
+          "word": "BANKING",
+          "meaning": "Sloped incline of a racing circuit or velodrome assisting high-speed turns",
+          "example": "Stock cars hugged the high banking at two hundred miles per hour."
+        },
+        {
+          "word": "VISOR",
+          "meaning": "Curved brim or clear shield shielding athlete eyes from sun or impacts",
+          "example": "The golfer wore an embroidered visor to keep blazing sun from eyes."
+        },
+        {
+          "word": "BOCCE",
+          "meaning": "Ancient lawn bowling game where players roll heavy balls near a jack",
+          "example": "Retirees enjoyed a leisurely game of bocce in the park court."
+        },
+        {
+          "word": "PAR",
+          "meaning": "Standard predetermined number of strokes expected for expert golfers on a hole",
+          "example": "He scrambled from the bunker to save a hard-earned par."
+        },
+        {
+          "word": "PASS",
+          "meaning": "Transferring a ball or puck deliberately to a teammate in team sports",
+          "example": "A crisp one-touch pass unlocked the crowded penalty box."
+        }
+      ]
+    },
+    {
+      "levelNumber": 19,
+      "title": "Sports Level 19",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "CHINUP",
+          "meaning": "Upper body strength exercise pulling chins above bars with underhand grips",
+          "example": "Trainees built broad lats and biceps performing weighted chinups."
+        },
+        {
+          "word": "SLACKLINE",
+          "meaning": "Balance sport of walking across a flat strip of tensioned webbing",
+          "example": "Tightrope walkers practiced slackline balance between two park trees."
+        },
+        {
+          "word": "POLO",
+          "meaning": "Horseback team sport where riders hit a wooden ball with mallets",
+          "example": "The polo match took place on a vast grassy field."
+        },
+        {
+          "word": "STRETCHING",
+          "meaning": "Extending muscles to improve flexibility, joint range, and prevent injury",
+          "example": "Daily hamstring stretching reduced risk of muscular strains during sprints."
+        },
+        {
+          "word": "KERB",
+          "meaning": "Raised striped border curbing marking apexes and track limits on race circuits",
+          "example": "Drivers bounced aggressively over the painted red and white kerb."
+        },
+        {
+          "word": "RACKET",
+          "meaning": "Handheld bat with a netted mesh frame used in tennis and badminton",
+          "example": "The tennis pro chose a lightweight graphite racket for extra control."
+        },
+        {
+          "word": "UNFORCEDERROR",
+          "meaning": "Mistake made on a playable ball resulting in a lost point without heavy pressure",
+          "example": "Minimizing unforcederrors was the key to his consistent tournament victory."
+        },
+        {
+          "word": "SPRAWL",
+          "meaning": "Defensive wrestling reaction driving hips back and down to block takedowns",
+          "example": "A textbook sprawl stuffed the low single-leg takedown attempt."
+        },
+        {
+          "word": "PADEL",
+          "meaning": "Racquet sport typically played in doubles on an enclosed court",
+          "example": "Padel has become one of the fastest growing club sports worldwide."
+        },
+        {
+          "word": "HELMET",
+          "meaning": "Hard protective headgear designed to prevent head trauma across sports",
+          "example": "Cyclists must strap on an approved aerodynamic safety helmet."
+        },
+        {
+          "word": "GLUTEALS",
+          "meaning": "Powerful buttocks muscles driving hip extension and running propulsion",
+          "example": "Squats and hip thrusts build strength in the posterior gluteals."
+        }
+      ]
+    },
+    {
+      "levelNumber": 20,
+      "title": "Sports Level 20",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "STABLEFORD",
+          "meaning": "Golf scoring system awarding points relative to par on each individual hole",
+          "example": "Golfers enjoyed the relaxed pace of the club weekend Stableford tournament."
+        },
+        {
+          "word": "SKINS",
+          "meaning": "Golf competition format where each hole represents a separate wager purse",
+          "example": "The player scooped a massive five-hole carryover in the weekend skins game."
+        },
+        {
+          "word": "WAKEBOARDING",
+          "meaning": "Towed watersport where a rider performs aerial tricks on a wakeboard",
+          "example": "The motorboat pulled the athlete wakeboarding across calm lake waters."
+        },
+        {
+          "word": "TREADMILL",
+          "meaning": "Stationary motorized exercise machine with a rolling belt for running",
+          "example": "Rainy weather drove runners inside to complete tempo runs on the treadmill."
+        },
+        {
+          "word": "BASEPATH",
+          "meaning": "Dirt lane connecting baseball bases along which baserunners must sprint",
+          "example": "The runner sprinted hard down the basepath trying to beat the throw."
+        },
+        {
+          "word": "SUPERSET",
+          "meaning": "Pairing two exercises back-to-back without rest between them",
+          "example": "He performed a superset of bicep curls immediately followed by tricep dips."
+        },
+        {
+          "word": "REGISTA",
+          "meaning": "Deep-lying playmaker dictating tempo and distribution from deep zones",
+          "example": "The veteran regista controlled match tempo with effortless sixty-yard passes."
+        },
+        {
+          "word": "MENISCUS",
+          "meaning": "Crescent-shaped fibrocartilaginous pad cushioning and stabilizing knee joints",
+          "example": "The soccer striker underwent minor arthroscopic surgery to trim a torn meniscus."
+        },
+        {
+          "word": "KICKER",
+          "meaning": "Special teams specialist kicking field goals, extra points, and kickoffs",
+          "example": "The clutch kicker drilled a forty-five yard field goal as time expired."
+        },
+        {
+          "word": "CRAMPONS",
+          "meaning": "Steel traction spikes strapped to mountaineering boots for walking on ice",
+          "example": "Crampons bit firmly into the steep blue ice wall during the glacier ascent."
+        },
+        {
+          "word": "SLING",
+          "meaning": "Supportive fabric loop suspending and immobilizing injured arms or shoulders",
+          "example": "The injured quarterback wore an arm sling on the sideline after a hard hit."
+        }
+      ]
+    },
+    {
+      "levelNumber": 21,
+      "title": "Sports Level 21",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "PINCHHITTER",
+          "meaning": "Substitute batter brought in off the bench to bat at a clutch moment",
+          "example": "The manager called on a veteran pinchhitter with runners in scoring position."
+        },
+        {
+          "word": "CROP",
+          "meaning": "Short lightweight riding whip used to encourage speed in show jumping",
+          "example": "The jockey tapped the horse shoulder with the crop entering the home stretch."
+        },
+        {
+          "word": "LOB",
+          "meaning": "High arching shot sending balls over an opponent head to deep court",
+          "example": "The tennis player countered an aggressive net rush with a delicate lob."
+        },
+        {
+          "word": "KITESURF",
+          "meaning": "Action watersport using wind power via a large kite to pull riders on water",
+          "example": "The kitesurfer caught tremendous air launching off choppy coastal swells."
+        },
+        {
+          "word": "LIGAMENT",
+          "meaning": "Tough fibrous connective tissue band binding bones together at joints",
+          "example": "The athlete wore a hinged knee brace to protect a healing collateral ligament."
+        },
+        {
+          "word": "POSTUP",
+          "meaning": "Backing down an opponent inside the paint near the basket to score",
+          "example": "The power forward posted up on the low block to draw a defensive foul."
+        },
+        {
+          "word": "PANENKA",
+          "meaning": "Deceptive penalty kick chipped softly down the center as goalies dive",
+          "example": "The ice-cool forward chipped a panenka into the net to seal victory."
+        },
+        {
+          "word": "WINGBACK",
+          "meaning": "Attacking fullback patrolling entire flank lines with elite stamina",
+          "example": "The energetic wingback delivered pinpoint crosses from deep in the final third."
+        },
+        {
+          "word": "SKIJUMP",
+          "meaning": "Winter sport where skiers accelerate down an inrun ramp to fly through the air",
+          "example": "Spectators gasped as the competitor soared off the ski jump hill."
+        },
+        {
+          "word": "ARABESQUE",
+          "meaning": "Posture balancing on one leg while extending the other straight behind",
+          "example": "The figure skater glided across the center ice in a breathtaking arabesque."
+        },
+        {
+          "word": "SANDTRAP",
+          "meaning": "Common hazard feature on golf links filled with soft loose sand",
+          "example": "Careful golfers avoid the yawning sandtrap flanking the eighteenth hole."
+        }
+      ]
+    },
+    {
+      "levelNumber": 22,
+      "title": "Sports Level 22",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "CORNERBACK",
+          "meaning": "Defensive back covering wide receivers and defending perimeter passes",
+          "example": "The lockdown cornerback batted away the sideline pass with fingertips."
+        },
+        {
+          "word": "MIDWICKET",
+          "meaning": "Cricket fielding area forward of square on the leg-side",
+          "example": "He pulled the short pitch delivery over midwicket for a towering six."
+        },
+        {
+          "word": "COUNTERATTACK",
+          "meaning": "Fast offensive thrust launched immediately upon dispossessing the opposition",
+          "example": "The team soaked up defensive pressure and scored on a blistering counterattack."
+        },
+        {
+          "word": "SHUTTLERUN",
+          "meaning": "Agility sprint running back and forth between two parallel floor lines",
+          "example": "The basketball coach ran the squad through high-intensity shuttlerun drills."
+        },
+        {
+          "word": "LONGBOARDING",
+          "meaning": "Board sport riding a longer skateboard for smooth cruising and downhill",
+          "example": "The teen carved smooth turns longboarding down gentle neighborhood hills."
+        },
+        {
+          "word": "BLEACHERS",
+          "meaning": "Tiered wooden or metal bench seating for spectators in sports stadiums",
+          "example": "Passionate fans sat in the sun-drenched centerfield bleachers."
+        },
+        {
+          "word": "SLIP",
+          "meaning": "Cricket fielding position placed behind the batsman on the off-side",
+          "example": "The fast delivery took the outside edge and flew straight into first slip."
+        },
+        {
+          "word": "SNOOKER",
+          "meaning": "Cue sport played on a large green baize table with twenty-two balls",
+          "example": "The champion sank the final black ball to win the snooker crown."
+        },
+        {
+          "word": "ALPINISM",
+          "meaning": "Mountain climbing sport focusing on technical ascents in snowy ranges",
+          "example": "Elite climbers trained in alpinism across steep Alpine peaks."
+        },
+        {
+          "word": "GOALAREA",
+          "meaning": "Six-yard box bordering goalposts from which soccer goal kicks are taken",
+          "example": "The goalkeeper set the ball on the corner of the goalarea for a goal kick."
+        },
+        {
+          "word": "LIBERO",
+          "meaning": "Specialized defensive volleyball player wearing contrasting jersey color",
+          "example": "The agile libero made a diving dig to keep the rally alive."
+        }
+      ]
+    },
+    {
+      "levelNumber": 23,
+      "title": "Sports Level 23",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "AEROBICS",
+          "meaning": "Rhythmic cardiovascular exercise classes performed to upbeat music",
+          "example": "Morning aerobics classes helped gym members boost cardiac endurance."
+        },
+        {
+          "word": "BARBELL",
+          "meaning": "Long metal bar loaded with weighted plates used in strength training",
+          "example": "The weightlifter loaded two hundred pounds onto the steel barbell."
+        },
+        {
+          "word": "WARMUP",
+          "meaning": "Preparatory physical activity raising heart rates and muscle temperature",
+          "example": "Athletes completed dynamic warmups before beginning speed training."
+        },
+        {
+          "word": "IRON",
+          "meaning": "Golf club with a solid metal head used for mid-range approach shots",
+          "example": "The player selected a seven iron to fly the ball over the water hazard."
+        },
+        {
+          "word": "STRIKEOUT",
+          "meaning": "Retiring a batter who accumulates three strikes during an at-bat",
+          "example": "The flame-throwing closer notched the final strikeout with high heat."
+        },
+        {
+          "word": "CAMOGIE",
+          "meaning": "Irish outdoor team contact sport played by women using hurleys",
+          "example": "The all-Ireland camogie final drew thousands of roaring spectators."
+        },
+        {
+          "word": "HEARTRATE",
+          "meaning": "Number of heartbeats per unit of time typically expressed in beats per minute",
+          "example": "His heartrate soared to 180 beats per minute during uphill intervals."
+        },
+        {
+          "word": "KNEEPAD",
+          "meaning": "Cushioned protective guard worn over knees during court sports",
+          "example": "Volleyball players rely on thick foam kneepads when diving on wood courts."
+        },
+        {
+          "word": "TRACKLANE",
+          "meaning": "Marked numbered paths guiding runners along athletic sprint tracks",
+          "example": "The champion stayed centered in his designated tracklane around the turn."
+        },
+        {
+          "word": "TRIPLEPLAY",
+          "meaning": "Rare defensive baseball feat retiring three opposing batters on one play",
+          "example": "The third baseman snagged a liner, stepped on third, and fired to first for a tripleplay."
+        },
+        {
+          "word": "CREATINE",
+          "meaning": "Natural organic compound supporting rapid ATP cellular energy recycling in muscles",
+          "example": "Strength athletes supplement with creatine to enhance explosive power output."
+        }
+      ]
+    },
+    {
+      "levelNumber": 24,
+      "title": "Sports Level 24",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "ATTACKER",
+          "meaning": "Offensive player tasked with mounting offensive threats in soccer and volleyball",
+          "example": "The outside attacker leaped high above the net to spike past blockers."
+        },
+        {
+          "word": "CONTUSION",
+          "meaning": "Bruise caused by direct blunt impact damaging underlying blood capillaries",
+          "example": "The hockey player iced a deep thigh contusion sustained from blocking a puck."
+        },
+        {
+          "word": "NORDIC",
+          "meaning": "Traditional northern European ski discipline encompassing crosscountry and jumping",
+          "example": "Nordic skiing enthusiasts explored miles of scenic snowy backcountry trails."
+        },
+        {
+          "word": "SCRUM",
+          "meaning": "Restart in rugby where forwards bind together to contest possession of balls",
+          "example": "Eight forwards engaged powerfully in the set-piece scrum."
+        },
+        {
+          "word": "BUNKERRAKE",
+          "meaning": "Toothed ground tool used to smooth sand traps after golf shots",
+          "example": "Golfers rake the sand trap smooth with the bunkerrake after escaping bunkers."
+        },
+        {
+          "word": "SUPERG",
+          "meaning": "High-speed alpine skiing event combining downhill speed with giant slalom turns",
+          "example": "Ski racers tackled icy turns at high speed in the Olympic SuperG race."
+        },
+        {
+          "word": "FREEDIVING",
+          "meaning": "Underwater diving reliant on breath-holding rather than breathing gear",
+          "example": "The freediving athlete held their breath for four minutes at deep depths."
+        },
+        {
+          "word": "HAIRPIN",
+          "meaning": "Extremely sharp 180-degree bend on racing circuits requiring hard braking",
+          "example": "Cars queued single file through the famous Monaco hairpin bend."
+        },
+        {
+          "word": "ICING",
+          "meaning": "Ice hockey infraction shooting the puck across both center and goal lines",
+          "example": "The referee blew the whistle for icing, forcing a faceoff in the defensive zone."
+        },
+        {
+          "word": "TIREWALL",
+          "meaning": "Stack of bound rubber tires cushioning impacts along motorsport runoffs",
+          "example": "The car slid into the tirewall, preventing severe chassis damage."
+        },
+        {
+          "word": "ALLEYOOP",
+          "meaning": "High-flying basketball play catching a lofted pass mid-air and slamming it home",
+          "example": "The guard lobbed a pinpoint alleyoop that the center jammed home."
+        }
+      ]
+    },
+    {
+      "levelNumber": 25,
+      "title": "Sports Level 25",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SPIKES",
+          "meaning": "Specialized track running shoes fitted with metal pins for grip",
+          "example": "Sprinters screwed sharp steel spikes into their track shoe soles."
+        },
+        {
+          "word": "OVAL",
+          "meaning": "Traditional closed-circuit track shape featuring banked continuous turns",
+          "example": "NASCAR stock cars raced side-by-side around the two-mile asphalt oval."
+        },
+        {
+          "word": "LUNGE",
+          "meaning": "Explosive forward stepping attack extending the weapon arm in fencing",
+          "example": "The fencer executed a deep forward lunge to touch the opponent shoulder."
+        },
+        {
+          "word": "CAPOEIRA",
+          "meaning": "Afro-Brazilian martial art combining acrobatics, dance, and music",
+          "example": "Dancers executed fluid kicks inside the rhythmic capoeira circle."
+        },
+        {
+          "word": "LOCKERROOM",
+          "meaning": "Team dressing facility equipped with lockers, showers, and tactics boards",
+          "example": "The coach delivered an inspiring halftime address inside the lockerroom."
+        },
+        {
+          "word": "SLOPESTYLE",
+          "meaning": "Winter or bike course featuring varied terrain park rails, boxes, and jumps",
+          "example": "Snowboarders threw creative rail slides along the slopestyle course."
+        },
+        {
+          "word": "SINBIN",
+          "meaning": "Penalty box area where rugby or lacrosse players serve temporary suspensions",
+          "example": "The flanker was sent to the sinbin for ten minutes after repeated infringements."
+        },
+        {
+          "word": "PHYSIOTHERAPY",
+          "meaning": "Rehabilitation therapy restoring movement and function after athletic injury",
+          "example": "Months of intensive physiotherapy helped the skiing star recover from surgery."
+        },
+        {
+          "word": "MEGAPHONE",
+          "meaning": "Cone-shaped acoustic horn used to amplify a coach or cheerleader voice",
+          "example": "The rowing coach shouted split times through a battery megaphone."
+        },
+        {
+          "word": "DEADLIFT",
+          "meaning": "Fundamental powerlifting movement lifting loaded barbells off the floor",
+          "example": "He locked out five hundred pounds to complete his winning deadlift attempt."
+        },
+        {
+          "word": "STEAL",
+          "meaning": "Legally taking the ball away from an opposing ball handler",
+          "example": "The guard poked the ball loose from behind to record a clean steal."
+        },
+        {
+          "word": "KNOCKDOWN",
+          "meaning": "Striking an opponent to the canvas in boxing forcing a mandatory eight count",
+          "example": "A vicious right hook produced the first knockdown in round four."
+        },
+        {
+          "word": "SOCCER",
+          "meaning": "Global team sport where players kick a round ball into goal nets",
+          "example": "Soccer matches draw passionate supporters in packed stadiums."
+        }
+      ]
+    },
+    {
+      "levelNumber": 26,
+      "title": "Sports Level 26",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "CHANGEUP",
+          "meaning": "Deceptive off-speed baseball pitch delivered with fastball arm speed",
+          "example": "The batter swung way ahead of an eighty-mile-per-hour changeup."
+        },
+        {
+          "word": "CLOSER",
+          "meaning": "Elite relief pitcher brought in during the ninth inning to protect leads",
+          "example": "The flame-throwing closer slammed the door with three straight strikeouts."
+        },
+        {
+          "word": "BURPEE",
+          "meaning": "Full-body conditioning exercise combining a squat, pushup, and jump",
+          "example": "Athletes completed fifty burpees as a grueling metabolic conditioning test."
+        },
+        {
+          "word": "SABRE",
+          "meaning": "Modern fencing weapon allowing points with both cutting edge and tip",
+          "example": "Sabre matches feature lightning fast blade attacks and parries."
+        },
+        {
+          "word": "ACHILLES",
+          "meaning": "Major tendon at the back of the calf connecting to the heel bone",
+          "example": "High-intensity plyometrics demand extraordinary elasticity from the Achilles."
+        },
+        {
+          "word": "STRIDE",
+          "meaning": "Distance covered in a single running step or the characteristic manner of running",
+          "example": "The tall sprinter chewed up distance with an exceptionally long stride length."
+        },
+        {
+          "word": "LINEBACKER",
+          "meaning": "Defensive football player positioned behind linemen to tackle and cover",
+          "example": "The middle linebacker stepped up to stuff the run behind the line."
+        },
+        {
+          "word": "FLANKER",
+          "meaning": "Rugby forward possessing high speed and tackling work rate at breakdowns",
+          "example": "The openside flanker stole the ball at the ruck with lightning quick hands."
+        },
+        {
+          "word": "PUCK",
+          "meaning": "Hard vulcanized rubber disc struck across ice in ice hockey games",
+          "example": "The goalie deflected a blistering ninety-mile-per-hour rubber puck."
+        },
+        {
+          "word": "FINELEG",
+          "meaning": "Cricket fielding position behind the wicketkeeper on the leg-side",
+          "example": "A flick off the pads rolled past fineleg all the way to the boundary."
+        },
+        {
+          "word": "STRAIN",
+          "meaning": "Tearing or overstretching injury to muscle fibers or tendons",
+          "example": "Improper lifting technique resulted in an acute lower back muscular strain."
+        },
+        {
+          "word": "BLITZ",
+          "meaning": "Defensive football scheme sending extra linebackers or safeties to rush passers",
+          "example": "The defensive coordinator called an all-out blitz to disrupt the play."
+        },
+        {
+          "word": "DOUBLEFAULT",
+          "meaning": "Two consecutive service faults in tennis conceding the point to opponents",
+          "example": "A nervous doublefault on game point handed the break of serve away."
+        }
+      ]
+    },
+    {
+      "levelNumber": 27,
+      "title": "Sports Level 27",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SKYDIVING",
+          "meaning": "Extreme air sport jumping from an airplane and deploying a parachute",
+          "example": "The tandem skydiving team free-fell through clouds before pulling their rip cord."
+        },
+        {
+          "word": "CHEERLEADER",
+          "meaning": "Athletic performer energizing crowds with choreographed cheers and stunts",
+          "example": "Cheerleaders executed basket tosses during fourth-quarter timeouts."
+        },
+        {
+          "word": "BELLLAP",
+          "meaning": "Final lap of a distance race signaled by a ringing trackside bell",
+          "example": "The stadium roared as the belllap sounded with three runners shoulder to shoulder."
+        },
+        {
+          "word": "ROUNDERS",
+          "meaning": "Traditional bat-and-ball field game played in schools and parks",
+          "example": "Children played rounders during summer physical education class."
+        },
+        {
+          "word": "ATBAT",
+          "meaning": "A completed plate appearance by a baseball batter against a pitcher",
+          "example": "The slugger walked away with two hits in four official atbats."
+        },
+        {
+          "word": "CLINCH",
+          "meaning": "Close-quarters grappling hold tying up an opponent in boxing or combat sports",
+          "example": "The tired boxer tied up his opponent in a tight clinch along the ropes."
+        },
+        {
+          "word": "PITCHSTRIP",
+          "meaning": "Central rectangular strip of clay or grass where cricket bowling occurs",
+          "example": "The dry pitchstrip offered generous spin to slow bowlers on day four."
+        },
+        {
+          "word": "FAULT",
+          "meaning": "Failed serve in tennis that lands outside the boundary service box",
+          "example": "The server missed his first serve wide, resulting in a first fault."
+        },
+        {
+          "word": "CONCOURSE",
+          "meaning": "Wide public walkway inside stadiums lined with concessions and entrances",
+          "example": "Fans grabbed snacks along the busy arena concourse during halftime."
+        },
+        {
+          "word": "BALK",
+          "meaning": "Illegal motion by a pitcher deemed intended to deceive base runners",
+          "example": "The umpire called a balk, advancing the runner from second to third base."
+        },
+        {
+          "word": "PROP",
+          "meaning": "Rugby front-row forward providing power and stability during contested scrums",
+          "example": "The loosehead prop locked down his side of the scrum against heavy push."
+        },
+        {
+          "word": "FLYHALF",
+          "meaning": "Rugby playmaker directing backline strategy and kicking for territory",
+          "example": "The flyhalf hoisted a spiral kick into the opposing twenty-two meter zone."
+        },
+        {
+          "word": "KARTING",
+          "meaning": "Open-wheel motorsport racing small four-wheeled vehicles around tight circuits",
+          "example": "Future Formula drivers honed racing reflexes during youth karting leagues."
+        }
+      ]
+    },
+    {
+      "levelNumber": 28,
+      "title": "Sports Level 28",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "GUNLAP",
+          "meaning": "Final lap of a distance running race signaled by an official starter shot",
+          "example": "The gunlap triggered an all-out sprint for the championship ribbon."
+        },
+        {
+          "word": "INSWINGER",
+          "meaning": "Delivery or kick curving inward toward the batter or goalkeeper",
+          "example": "The bowler bowled a vicious inswinger that clipped the top of off-stump."
+        },
+        {
+          "word": "ROSIN",
+          "meaning": "Sticky pine resin powder used by baseball pitchers to improve ball grip",
+          "example": "The pitcher grabbed the rosin bag behind the mound on humid evenings."
+        },
+        {
+          "word": "SHINGUARD",
+          "meaning": "Protective padding strapped to the lower leg to absorb kicking impacts",
+          "example": "Soccer regulations require all outfield players to wear a shinguard."
+        },
+        {
+          "word": "GOLF",
+          "meaning": "Club sport where players aim to sink balls into eighteen holes in fewest strokes",
+          "example": "Early morning golfers teed off under quiet misty fairways."
+        },
+        {
+          "word": "SPEEDCLIMB",
+          "meaning": "Competitive climbing discipline racing up a standardized fifteen-meter wall",
+          "example": "The athlete sprinted up vertical walls in seconds during speedclimbing finals."
+        },
+        {
+          "word": "RALLY",
+          "meaning": "Continuous exchange of shots between players before points are decided",
+          "example": "Spectators erupted after a breathtaking thirty-shot baseline rally."
+        },
+        {
+          "word": "HIGHPRESS",
+          "meaning": "Aggressive tactical system pressuring opposing defenders high up their pitch",
+          "example": "The coach instructed his forwards to initiate an intense highpress from kickoff."
+        },
+        {
+          "word": "STIRRUP",
+          "meaning": "Light metal loop suspended from a horse saddle to support a rider foot",
+          "example": "The equestrian placed his riding boot into the polished steel stirrup."
+        },
+        {
+          "word": "SPRAIN",
+          "meaning": "Wrenching or tearing injury to joint ligaments caused by sudden twist",
+          "example": "The basketball guard suffered a mild ankle sprain landing on a foot."
+        },
+        {
+          "word": "ARMBAR",
+          "meaning": "Hyperextension submission hold targeting an opponent elbow joint",
+          "example": "The judoka secured an armbar from the guard to force a quick tap-out."
+        },
+        {
+          "word": "DUNK",
+          "meaning": "High-flying basketball move slamming the ball forcefully down through the rim",
+          "example": "The forward energized the arena with a thunderous one-handed slam dunk."
+        },
+        {
+          "word": "SUPLEX",
+          "meaning": "Dramatic wrestling throw lifting an opponent and slamming them backward",
+          "example": "The heavyweight wrestler lifted his rival off his feet with a thunderous suplex."
+        }
+      ]
+    },
+    {
+      "levelNumber": 29,
+      "title": "Sports Level 29",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "CATCHERBOX",
+          "meaning": "Chalked area directly behind home plate where baseball catchers crouch",
+          "example": "The umpire crouched directly behind the catcherbox to judge balls and strikes."
+        },
+        {
+          "word": "PRESSBOX",
+          "meaning": "Elevated booth accommodating sports journalists, broadcasters, and scouts",
+          "example": "Radio commentators provided live play-by-play from the stadium pressbox."
+        },
+        {
+          "word": "TUCK",
+          "meaning": "Gymnastics position pulling knees tightly to the chest during rotations",
+          "example": "Pulling into a tight tuck accelerated the gymnast spinning momentum."
+        },
+        {
+          "word": "BRIDLE",
+          "meaning": "Harness and headgear assembly used to control and steer a riding horse",
+          "example": "The rider slipped the leather bridle gently over the thoroughbred ears."
+        },
+        {
+          "word": "EPEE",
+          "meaning": "Heaviest fencing sword with a triangular blade and large bell guard",
+          "example": "Fencers scored points on whole-body target areas using the stiff epee."
+        },
+        {
+          "word": "FORCEOUT",
+          "meaning": "Out recorded when a baserunner must advance and fielders tag the base",
+          "example": "The second baseman stepped on second base for an easy forceout."
+        },
+        {
+          "word": "DRIBBLE",
+          "meaning": "Maneuvering a ball past defenders with short controlled foot taps or bounces",
+          "example": "The midfielder dribbled past two defenders before unleashing a curling shot."
+        },
+        {
+          "word": "JAB",
+          "meaning": "Quick straight punch thrown with the leading hand from defensive stance",
+          "example": "The boxer controlled distance and peppered his rival with stiff jabs."
+        },
+        {
+          "word": "CARTILAGE",
+          "meaning": "Resilient smooth elastic tissue padding joint surfaces against friction",
+          "example": "Articular cartilage provides shock absorption inside the human knee joint."
+        },
+        {
+          "word": "EQUILIBRIUM",
+          "meaning": "State of balance and physical stability maintained throughout movements",
+          "example": "A tightrope artist maintains perfect physical equilibrium over narrow cables."
+        },
+        {
+          "word": "BOWSTRING",
+          "meaning": "Tensioned cord connecting the two limb tips of an archery bow",
+          "example": "Drawing back the bowstring stored immense kinetic energy in composite limbs."
+        },
+        {
+          "word": "BMX",
+          "meaning": "Bicycle motocross racing and stunt riding over dirt tracks and ramps",
+          "example": "BMX riders launched spectacular aerial flips off the dirt jump ramps."
+        },
+        {
+          "word": "PITCHMOUND",
+          "meaning": "Elevated dirt hill in the center of a baseball diamond where pitchers throw",
+          "example": "The ace pitcher stood atop the pitchmound staring down the batter."
+        }
+      ]
+    },
+    {
+      "levelNumber": 30,
+      "title": "Sports Level 30",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "TACKLE",
+          "meaning": "Physical maneuver stopping an opposing ball carrier in football or rugby",
+          "example": "The safety made an open-field tackle to prevent a breakaway score."
+        },
+        {
+          "word": "DRAGSTRIP",
+          "meaning": "Straight purpose-built strip of asphalt used for quarter-mile drag races",
+          "example": "Tire smoke covered the starting line of the straight quarter-mile dragstrip."
+        },
+        {
+          "word": "PLANKS",
+          "meaning": "Isometric core exercise maintaining straight body alignment on forearms",
+          "example": "Holding two-minute planks strengthened the runner deep abdominal wall."
+        },
+        {
+          "word": "FOAMROLLER",
+          "meaning": "Dense foam cylinder used for self-myofascial release and muscle recovery",
+          "example": "The runner rolled tight calf muscles across the dense foamroller."
+        },
+        {
+          "word": "PILATES",
+          "meaning": "Low-impact exercise system improving flexibility, core strength, and posture",
+          "example": "Dancers practice pilates daily to maintain deep postural alignment."
+        },
+        {
+          "word": "HALFBACK",
+          "meaning": "Speedy football ball carrier receiving handoffs and catching short passes",
+          "example": "The halfback cut sharply through the off-tackle gap for a twenty-yard gain."
+        },
+        {
+          "word": "TARGETMAN",
+          "meaning": "Tall physical center forward holding up play and winning aerial duels",
+          "example": "The team cleared long balls to their targetman to relieve defensive pressure."
+        },
+        {
+          "word": "QUADRICEPS",
+          "meaning": "Large four-part anterior thigh muscle group extending the knee joint",
+          "example": "Cycling up steep mountain passes built immense power in his quadriceps."
+        },
+        {
+          "word": "CREASE",
+          "meaning": "White marked area in cricket or hockey defining legal batter or goalie zones",
+          "example": "The hockey goalie remained poised inside his blue crease."
+        },
+        {
+          "word": "SLUGGER",
+          "meaning": "Powerful baseball batter known for hitting long extra-base hits",
+          "example": "The cleanup slugger drove the ball deep into the center field seats."
+        },
+        {
+          "word": "FLYOUT",
+          "meaning": "Out recorded when fielders catch batted balls in the air before bouncing",
+          "example": "A routine flyout to center field ended the bottom of the seventh inning."
+        },
+        {
+          "word": "FLIPTURN",
+          "meaning": "Rapid underwater somersault executed by swimmers off pool walls",
+          "example": "A lightning-fast flipturn helped the swimmer pull ahead on the final lap."
+        },
+        {
+          "word": "LAYOUT",
+          "meaning": "Completely extended straight body position during airborne aerial flips",
+          "example": "The champion launched a towering layout double twist off the high bar."
+        }
+      ]
+    },
+    {
+      "levelNumber": 31,
+      "title": "Sports Level 31",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "FLEXIBILITY",
+          "meaning": "Passive range of motion through which joints and muscles can stretch",
+          "example": "Gymnasts demonstrate extraordinary flexibility in their splits and backbends."
+        },
+        {
+          "word": "MITT",
+          "meaning": "Thickly padded glove with no separate finger slots used by baseball catchers",
+          "example": "The pitcher threw a fastball directly into the catcher leather mitt."
+        },
+        {
+          "word": "FOOTVOLLEY",
+          "meaning": "Beach sport combining beach volleyball and soccer rules without hand touches",
+          "example": "Brazilian players demonstrated acrobatic headers in beach footvolley."
+        },
+        {
+          "word": "FOULPOLE",
+          "meaning": "Tall vertical yellow pole marking fair territory boundary at outfield walls",
+          "example": "The line drive caromed off the foulpole for an automatic home run."
+        },
+        {
+          "word": "QUIVER",
+          "meaning": "Container strapped to an archer back or hip holding hunting arrows",
+          "example": "The archer reached smoothly into his quiver for another target shaft."
+        },
+        {
+          "word": "TRAINER",
+          "meaning": "Fitness professional overseeing physical preparation and injury recovery",
+          "example": "The athletic trainer stretched the runner tight hamstrings before heats."
+        },
+        {
+          "word": "MIDON",
+          "meaning": "Cricket fielding position near the bowler on the leg-side",
+          "example": "The batsman pushed a single toward midon to rotate the strike."
+        },
+        {
+          "word": "ELBOWPAD",
+          "meaning": "Impact-absorbing guard protecting elbow joints in contact games",
+          "example": "Roller derby skaters must wear certified hard shell elbowpads."
+        },
+        {
+          "word": "WICKETKEEPER",
+          "meaning": "Cricket fielder crouching behind wickets wearing protective gloves",
+          "example": "The wicketkeeper took a brilliant one-handed catch diving to his right."
+        },
+        {
+          "word": "DOUBLEPLAY",
+          "meaning": "Defensive baseball sequence recording two outs on a single continuous play",
+          "example": "The infield turned a textbook six-four-three doubleplay to escape the inning."
+        },
+        {
+          "word": "SPLINT",
+          "meaning": "Rigid support used to immobilize and protect strained or fractured bones",
+          "example": "Paramedics applied a padded splint to stabilize the runner fractured forearm."
+        },
+        {
+          "word": "PLATES",
+          "meaning": "Heavy cast-iron or rubber discs loaded onto barbell sleeves for lifting",
+          "example": "The weightlifter stacked forty-five-pound bumper plates on each end of the bar."
+        },
+        {
+          "word": "SCUBADIVING",
+          "meaning": "Underwater exploration using self-contained underwater breathing apparatus",
+          "example": "Scubadiving enthusiasts explored colorful coral reefs and sunken wrecks."
+        }
+      ]
+    },
+    {
+      "levelNumber": 32,
+      "title": "Sports Level 32",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "PLYOMETRICS",
+          "meaning": "Jump training exercises exerting maximum muscle force in short bursts",
+          "example": "Box jumps and bounding drills are classic plyometrics for explosive speed."
+        },
+        {
+          "word": "IPPON",
+          "meaning": "Highest score in judo awarding an immediate and decisive match victory",
+          "example": "A thunderous shoulder throw earned a clean ippon ending the bout."
+        },
+        {
+          "word": "SERVICEBOX",
+          "meaning": "Marked court rectangles into which tennis serves must legally land",
+          "example": "The ace landed right on the outer chalk of the servicebox."
+        },
+        {
+          "word": "ELLIPTICAL",
+          "meaning": "Stationary exercise machine simulating stair climbing and running with low joint impact",
+          "example": "She completed thirty minutes of smooth low-impact cardio on the elliptical."
+        },
+        {
+          "word": "SKATING",
+          "meaning": "Sport or leisure activity of gliding across ice or pavement on blades or wheels",
+          "example": "Crowds enjoyed winter skating around the illuminated outdoor rink."
+        },
+        {
+          "word": "RALLYCROSS",
+          "meaning": "Sprint motorsport racing on mixed surface tracks combining asphalt and gravel",
+          "example": "Rallycross cars drifted aggressively around tight dirt corners."
+        },
+        {
+          "word": "HOCKEYPUCK",
+          "meaning": "Flat cylindrical black rubber disc used as the scoring object in hockey",
+          "example": "The hockeypuck zipped along the slick ice toward the open net."
+        },
+        {
+          "word": "CRAMP",
+          "meaning": "Painful involuntary muscle contraction triggered by fatigue or dehydration",
+          "example": "Severe calf cramps forced the exhausted tennis player to call an injury timeout."
+        },
+        {
+          "word": "CADDY",
+          "meaning": "Assistant carrying golfer bags, offering advice, and measuring yardages",
+          "example": "The experienced caddy recommended hitting a smooth five iron into wind."
+        },
+        {
+          "word": "SINKER",
+          "meaning": "Pitch with sharp downward sinking action as it crosses home plate",
+          "example": "The groundball pitcher relied on a heavy sinker to induce double plays."
+        },
+        {
+          "word": "KIMURA",
+          "meaning": "Double-wristlock shoulder submission hold wrenching arms behind backs",
+          "example": "He locked up a figure-four grip and finished the match with a kimura."
+        },
+        {
+          "word": "RINK",
+          "meaning": "Enclosed frozen ice surface surrounded by dasher boards for winter sports",
+          "example": "Zamboni ice resurfacers smoothed the frozen rink before the hockey match."
+        },
+        {
+          "word": "TENDON",
+          "meaning": "Strong flexible cord of fibrous tissue attaching muscles to bones",
+          "example": "The Achilles tendon withstands enormous forces during jumping takeoffs."
+        }
+      ]
+    },
+    {
+      "levelNumber": 33,
+      "title": "Sports Level 33",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "CROSSCOUNTRY",
+          "meaning": "Long-distance racing sport over natural terrain like fields, dirt, and forests",
+          "example": "High school runners paced each other through crosscountry trail loops."
+        },
+        {
+          "word": "THIRDMAN",
+          "meaning": "Cricket fielding position behind the wicketkeeper on the off-side",
+          "example": "The batsman angled his bat to steer the ball fine of thirdman."
+        },
+        {
+          "word": "KETTLEBELL",
+          "meaning": "Cast-iron or steel ball with a top handle used for ballistic workouts",
+          "example": "Swinging the heavy kettlebell strengthened hip extensors and core muscles."
+        },
+        {
+          "word": "HYDRATION",
+          "meaning": "Maintaining adequate fluid balance in body tissues during athletic output",
+          "example": "The marathoner grabbed electrolyte water bottles to ensure proper hydration."
+        },
+        {
+          "word": "TAGOUT",
+          "meaning": "Retiring a runner off base by touching them with the ball or gloved ball",
+          "example": "The catcher applied a quick tagout on the sliding runner at the plate."
+        },
+        {
+          "word": "PICKLEBALL",
+          "meaning": "Paddleball sport combining elements of badminton, tennis, and pingpong",
+          "example": "Seniors packed the indoor gymnasium courts to play pickleball."
+        },
+        {
+          "word": "COACHBOX",
+          "meaning": "Outlined coaching box on first and third base sidelines on baseball fields",
+          "example": "The third base coach flashed steal signals from the coachbox."
+        },
+        {
+          "word": "EARPLUGS",
+          "meaning": "Soft silicone plugs protecting ears from pool water and infection",
+          "example": "Open water swimmers wear silicone earplugs during cold ocean races."
+        },
+        {
+          "word": "COXWAIN",
+          "meaning": "Steersman directing navigation and stroke cadence in a rowing crew boat",
+          "example": "The coxwain yelled rhythmic stroke counts through the crew intercom."
+        },
+        {
+          "word": "MASCOT",
+          "meaning": "Costumed character entertaining stadium crowds and rallying team spirit",
+          "example": "The lion mascot fired rolled t-shirts into the grandstand with a cannon."
+        },
+        {
+          "word": "COASTEERING",
+          "meaning": "Coastal adventure sport involving cliff jumping, sea swimming, and rock scrambling",
+          "example": "Adventure groups explored hidden sea caves while coasteering rocky shorelines."
+        },
+        {
+          "word": "HOOKER",
+          "meaning": "Rugby front-row forward packing down in the center of scrums and throwing lineouts",
+          "example": "The hooker threw a pinpoint spiral into the lineout jumper hands."
+        },
+        {
+          "word": "PUSHUP",
+          "meaning": "Calisthenics exercise pressing bodyweight upward from prone positions",
+          "example": "The boxer completed one hundred pushups each morning to build shoulder strength."
+        }
+      ]
+    },
+    {
+      "levelNumber": 34,
+      "title": "Sports Level 34",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SOMERSAULT",
+          "meaning": "Complete acrobatic body roll performed in the air or on the floor mat",
+          "example": "The diver tucked tightly and executed a triple forward somersault."
+        },
+        {
+          "word": "SWEEPER",
+          "meaning": "Free defensive back roaming behind the backline to clear loose balls",
+          "example": "The veteran sweeper anticipated long passes and cleared them to touch."
+        },
+        {
+          "word": "CUESICK",
+          "meaning": "Tapered wooden stick used to strike cue balls in pool and billiards",
+          "example": "The pool player chalked the leather tip of his maple cuesick."
+        },
+        {
+          "word": "WRISTBAND",
+          "meaning": "Absorbent terrycloth band worn around wrists to wipe sweat during play",
+          "example": "The tennis player wiped brow perspiration with his cotton wristband."
+        },
+        {
+          "word": "HALFVOLLEY",
+          "meaning": "Striking a ball immediately after it bounces up from the playing surface",
+          "example": "The midfielder scored a thunderous goal with a sweet strike off a halfvolley."
+        },
+        {
+          "word": "MARSHAL",
+          "meaning": "Track official ensuring safety, waving flags, and recovering vehicles",
+          "example": "Course marshals waved double yellow flags following an engine fire."
+        },
+        {
+          "word": "WALLSIT",
+          "meaning": "Isometric quadriceps exercise holding a seated position against flat walls",
+          "example": "Skiers endure ninety-second wallsits to condition thighs for downhill skiing."
+        },
+        {
+          "word": "ARMBAND",
+          "meaning": "Strip worn around the upper arm designating team captains or leaders",
+          "example": "The skipper pulled the yellow captain armband securely over his sleeve."
+        },
+        {
+          "word": "SHINTY",
+          "meaning": "Traditional Scottish outdoor team sport played with curved sticks",
+          "example": "Highland athletes competed fiercely in the annual shinty cup."
+        },
+        {
+          "word": "PENALTYSPOT",
+          "meaning": "Marked circular dot twelve yards from soccer goal lines for penalty kicks",
+          "example": "The captain placed the ball carefully on the penaltyspot before shooting."
+        },
+        {
+          "word": "PELOTON",
+          "meaning": "Main pack of tightly grouped riders in road bicycle races",
+          "example": "The peloton chased down the breakaway group before the final sprint."
+        },
+        {
+          "word": "MAUL",
+          "meaning": "Rugby contest formed when ball carriers are held by opponents without going down",
+          "example": "The forward pack drove the rolling maul ten meters over the goal line."
+        },
+        {
+          "word": "HURDLEBAR",
+          "meaning": "Lightweight wooden or composite crossbar forming track obstacle hurdles",
+          "example": "The hurdler brushed the hurdlebar with her trail leg without toppling it."
+        }
+      ]
+    },
+    {
+      "levelNumber": 35,
+      "title": "Sports Level 35",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "CROSSOVER",
+          "meaning": "Rapid dribbling move shifting the ball quickly across hands in basketball",
+          "example": "The point guard ankle-breaking crossover created space for a jumper."
+        },
+        {
+          "word": "HANDSTAND",
+          "meaning": "Balancing upside down vertically on hands with body extended straight",
+          "example": "Gymnasts must hold a solid handstand on the balance beam for three seconds."
+        },
+        {
+          "word": "REINS",
+          "meaning": "Long leather straps attached to a horse bit held by riders to steer",
+          "example": "Gentle pressure on the reins cued the jumping horse to change gaits."
+        },
+        {
+          "word": "ICEAXE",
+          "meaning": "Mountaineering pick tool used for balance, step-cutting, and arresting falls",
+          "example": "The alpine climber plunged his iceaxe into the frozen glacier crest."
+        },
+        {
+          "word": "TRICEPS",
+          "meaning": "Three-headed posterior arm muscle extending the elbow joint",
+          "example": "Triceps extension exercises strengthened his arms for overhead throwing."
+        },
+        {
+          "word": "CALISTHENICS",
+          "meaning": "Gymnastic bodyweight exercises designed to develop strength and grace",
+          "example": "Athletes practiced calisthenics routines on outdoor pullup bars."
+        },
+        {
+          "word": "NOSECLIP",
+          "meaning": "Small clamp worn over nostrils to prevent water entry during maneuvers",
+          "example": "Synchronized swimmers secure a tight noseclip before underwater routines."
+        },
+        {
+          "word": "TIKITAKA",
+          "meaning": "Possession soccer style characterized by short rapid passing and fluid movement",
+          "example": "The national team dominated possession with mesmerizing tikitaka passing."
+        },
+        {
+          "word": "GREEN",
+          "meaning": "Smooth closely cropped turf surrounding the golf hole where putting occurs",
+          "example": "Putting greens were rolled to tournament speeds before morning rounds."
+        },
+        {
+          "word": "CUSHION",
+          "meaning": "Felt-covered rubber rail lining the inner borders of a billiard table",
+          "example": "The cue ball rebounded cleanly off the cushion toward the corner pocket."
+        },
+        {
+          "word": "LEADCLIMB",
+          "meaning": "Technical climbing discipline clipping protection ropes while ascending tall routes",
+          "example": "Leadclimbing demands precise endurance and mental calmness on steep rock."
+        },
+        {
+          "word": "HANGGLIDING",
+          "meaning": "Air sport where a pilot flies a light non-motorized foot-launched glider",
+          "example": "The daredevil soared gracefully while hanggliding along ocean cliffs."
+        },
+        {
+          "word": "BUNGEE",
+          "meaning": "Extreme sport of jumping from a tall structure while tied to elastic cord",
+          "example": "Thrilled tourists took a bungee leap from the river gorge bridge."
+        }
+      ]
+    }
+  ]
+}

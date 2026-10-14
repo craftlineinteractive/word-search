@@ -1,0 +1,2144 @@
+{
+  "id": 24,
+  "key": "vehicles",
+  "title": "Vehicles",
+  "iconAsset": "assets/chapter_images/vehicles.png",
+  "themeColor": 4294198070,
+  "levels": [
+    {
+      "levelNumber": 1,
+      "title": "Vehicles Level 1",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "BLACKBOX",
+          "meaning": "Indestructible flight data and cockpit voice recorder fitted in aircraft",
+          "example": "Search teams recovered the bright orange underwater blackbox beacon."
+        },
+        {
+          "word": "REGENERATIVE",
+          "meaning": "Braking mechanism converting kinetic momentum back into stored battery energy",
+          "example": "Regenerative braking slowed the electric car while recharging battery cells down hills."
+        },
+        {
+          "word": "PALANQUIN",
+          "meaning": "Enclosed litter carried on poles by human porters transporting royalty",
+          "example": "Nobles traveled across mountains carried inside hand-carved cedar palanquins."
+        },
+        {
+          "word": "GPS",
+          "meaning": "Satellite-based global positioning system providing precise location coordinates",
+          "example": "The car navigation screen used GPS satellites to calculate optimal detour routes."
+        },
+        {
+          "word": "BALLJOINT",
+          "meaning": "Spherical mechanical bearing connecting control arms to steering knuckles",
+          "example": "Worn suspension balljoints cause knocking clunks over potholes and loose steering."
+        },
+        {
+          "word": "TIPPER",
+          "meaning": "Heavy truck whose rear bed can be raised hydraulically to tip out bulk loads",
+          "example": "The tipper truck dumped ten tons of gravel at the road construction depot."
+        },
+        {
+          "word": "REFUELING",
+          "meaning": "Replenishing fuel tanks of motor vehicles, aircraft, or ships with fresh fuel",
+          "example": "A tanker truck pulled alongside the airliner on the ramp for pre-flight refueling."
+        },
+        {
+          "word": "LUGNUT",
+          "meaning": "Threaded fastener used to secure a wheel assembly firmly onto vehicle axle studs",
+          "example": "The pit crew tightened all five lugnuts in under two seconds with pneumatic guns."
+        }
+      ]
+    },
+    {
+      "levelNumber": 2,
+      "title": "Vehicles Level 2",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "TELEHANDLER",
+          "meaning": "Telescopic handler vehicle combining forklift lifting with crane reach",
+          "example": "The telehandler hoisted roofing tile pallets three stories onto scaffolding."
+        },
+        {
+          "word": "TENDER",
+          "meaning": "Small auxiliary vessel attending a larger ship to transport passengers or cargo",
+          "example": "The cruise ship dropped anchor and launched motor tenders to ferry guests ashore."
+        },
+        {
+          "word": "ETHANOL",
+          "meaning": "Renewable alcohol fuel derived from fermented corn or sugarcane biomass",
+          "example": "Flex-fuel vehicles can operate smoothly on blends up to eighty-five percent ethanol."
+        },
+        {
+          "word": "GIG",
+          "meaning": "Light two-wheeled horse carriage designed for quick one-person transit",
+          "example": "The country doctor drove his one-horse gig to make house calls on distant farms."
+        },
+        {
+          "word": "SLOOP",
+          "meaning": "Single-masted sailboat with a mainsail and a single headsail jib",
+          "example": "Weekend sailors hoisted the jib on their thirty-foot fiberglass sloop."
+        },
+        {
+          "word": "MANIFOLD",
+          "meaning": "Pipe assembly branching air-fuel mixtures to cylinders or gathering exhaust gas",
+          "example": "The tuned aluminum intake manifold delivered balanced airflow to all combustion chambers."
+        },
+        {
+          "word": "CHARGING",
+          "meaning": "Replenishing electrical potential energy inside depleted vehicle battery cells",
+          "example": "The driver plugged the charging cable into the front fender port of the EV."
+        },
+        {
+          "word": "HOOD",
+          "meaning": "Hinged metal or composite cover over the forward engine compartment of cars",
+          "example": "The mechanic propped open the steel hood to inspect the alternator belt."
+        }
+      ]
+    },
+    {
+      "levelNumber": 3,
+      "title": "Vehicles Level 3",
+      "gridRows": 10,
+      "gridCols": 10,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "PROPELLER",
+          "meaning": "Revolving hub with angled blades driving aircraft or boats forward",
+          "example": "Twin bronze propellers churned white foaming water at the ferry stern."
+        },
+        {
+          "word": "TUGBOAT",
+          "meaning": "Powerful marine vessel maneuvering massive container ships into harbor berths",
+          "example": "Two harbor tugboats nudged the colossal cargo ship into its docking slip."
+        },
+        {
+          "word": "LANDER",
+          "meaning": "Spacecraft designed to descend to and rest stably upon celestial body surfaces",
+          "example": "The lunar lander touched down safely on the powdery surface of the Moon."
+        },
+        {
+          "word": "CARAVEL",
+          "meaning": "Small maneuverable Portuguese sailing ship with lateen sails used in exploration",
+          "example": "Explorers navigated uncharted ocean coasts aboard agile wooden caravels."
+        },
+        {
+          "word": "SPREADER",
+          "meaning": "Implement distributing granular fertilizer, lime, or manure over cropland",
+          "example": "The broadcast spreader scattered enriched compost evenly over the pasture."
+        },
+        {
+          "word": "PITOT",
+          "meaning": "Pressure-measuring tube mounted on aircraft exteriors calculating airspeed",
+          "example": "Heated pitot tubes prevent ice formation that could disrupt cockpit airspeed readings."
+        },
+        {
+          "word": "TRANSIT",
+          "meaning": "Public passenger transportation system operating buses, trains, and ferries",
+          "example": "City planners invested in mass transit to reduce highway vehicular gridlock."
+        },
+        {
+          "word": "STRUT",
+          "meaning": "Structural rod or brace designed to resist longitudinal compression forces",
+          "example": "MacPherson suspension struts integrate coil springs with hydraulic shock absorbers."
+        }
+      ]
+    },
+    {
+      "levelNumber": 4,
+      "title": "Vehicles Level 4",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "SAMPAN",
+          "meaning": "Relatively flat-bottomed wooden Chinese boat used for coastal and river transport",
+          "example": "Fishermen steered traditional sampans through busy harbor channels."
+        },
+        {
+          "word": "JUNK",
+          "meaning": "Ancient Chinese sailing vessel featuring fully battened sails and watertight hulls",
+          "example": "Red-sailed junks silhouetted against the sunset in Hong Kong harbor."
+        },
+        {
+          "word": "FENDER",
+          "meaning": "Curved body panel framing wheel wells to prevent dirt from spraying outward",
+          "example": "The classic hot rod featured sweeping flared fenders over its wide rear tires."
+        },
+        {
+          "word": "CRANKSHAFT",
+          "meaning": "Engine shaft converting reciprocating linear piston strokes into rotational torque",
+          "example": "Forged steel crankshafts withstand immense rotational stresses at seven thousand RPM."
+        },
+        {
+          "word": "DINGHY",
+          "meaning": "Small inflatable or rigid open boat used as a yacht tender or for rowing",
+          "example": "The skipper rowed the inflatable dinghy ashore to buy fresh supplies."
+        },
+        {
+          "word": "ORBITER",
+          "meaning": "Spacecraft designed to orbit planetary bodies without landing on surfaces",
+          "example": "The robotic orbiter mapped lunar craters from fifty miles above the moon."
+        },
+        {
+          "word": "BYPASS",
+          "meaning": "Roadway skirting around congested town centers to route through-traffic smoothly",
+          "example": "Heavy commercial trucks took the outer bypass road to avoid downtown bottlenecks."
+        },
+        {
+          "word": "CHARIOT",
+          "meaning": "Two-wheeled horse-drawn cart used in ancient warfare and ceremonial races",
+          "example": "Roman gladiators raced gilded chariots around the Circus Maximus."
+        }
+      ]
+    },
+    {
+      "levelNumber": 5,
+      "title": "Vehicles Level 5",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "SUMP",
+          "meaning": "Low reservoir at the bottom of an engine crankcase collecting lubricating oil",
+          "example": "The cast aluminum oil sump holds seven quarts of synthetic motor oil."
+        },
+        {
+          "word": "MOTOR",
+          "meaning": "Device imparting mechanical motive power from electricity or fuel",
+          "example": "Electric cars utilize dual permanent-magnet motors on front and rear axles."
+        },
+        {
+          "word": "PANTOGRAPH",
+          "meaning": "Roof-mounted jointed frame collecting electric current from overhead wires",
+          "example": "High-speed electric bullet trains raise roof pantographs to draw high-voltage power."
+        },
+        {
+          "word": "SHROUDS",
+          "meaning": "Heavy wire rigging supporting masts laterally against powerful wind loads",
+          "example": "Turnbuckles tightened the stainless steel shrouds to tune mast bend."
+        },
+        {
+          "word": "DIFFERENTIAL",
+          "meaning": "Gear assembly allowing drive wheels on the same axle to rotate at varied speeds",
+          "example": "A limited-slip differential transferred traction to the outside tire through corners."
+        },
+        {
+          "word": "GEARBOX",
+          "meaning": "Enclosed casing holding intermeshing gears to alter torque and speed",
+          "example": "The mechanic rebuilt the gearbox with new synchros and roller bearings."
+        },
+        {
+          "word": "MONORAIL",
+          "meaning": "Railway system running along a single elevated steel or concrete beam",
+          "example": "Theme park visitors rode the futuristic monorail across the resort."
+        },
+        {
+          "word": "SNOWPLOW",
+          "meaning": "Vehicle mounted with an angled steel blade to clear heavy snow from roadways",
+          "example": "Municipal snowplows worked through the blizzard to keep main roads passable."
+        }
+      ]
+    },
+    {
+      "levelNumber": 6,
+      "title": "Vehicles Level 6",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CYLINDER",
+          "meaning": "Chamber within which pistons travel to compress and combust fuel-air mixtures",
+          "example": "The V8 engine features eight cast-iron cylinders arranged in two angled banks."
+        },
+        {
+          "word": "SUNROOF",
+          "meaning": "Operable aperture in passenger vehicle roofs allowing fresh air and sunlight",
+          "example": "Passengers slid open the tinted glass sunroof to enjoy the warm summer breeze."
+        },
+        {
+          "word": "COWL",
+          "meaning": "Removable metallic covering enclosing an engine compartment or air intake",
+          "example": "The mechanic lifted the fiberglass engine cowl to inspect the aircraft oil lines."
+        },
+        {
+          "word": "DIFFUSER",
+          "meaning": "Shaped aerodynamic underbody section accelerating airflow to create downforce",
+          "example": "The rear carbon-fiber diffuser sucked the race car down onto the asphalt at speed."
+        },
+        {
+          "word": "TAILPIPE",
+          "meaning": "Terminal outlet pipe venting treated exhaust gases behind motor vehicles",
+          "example": "Dual chrome tailpipes projected neatly below the rear bumper diffuser."
+        },
+        {
+          "word": "FLYWHEEL",
+          "meaning": "Heavy rotating mechanical wheel storing rotational kinetic energy to smooth pulses",
+          "example": "A heavy steel flywheel smoothed out individual cylinder firing impulses."
+        },
+        {
+          "word": "HANSOM",
+          "meaning": "Two-wheeled horse-drawn cab with the driver seated behind on an elevated perch",
+          "example": "Sherlock Holmes hailed a hansom cab through dense London evening fog."
+        },
+        {
+          "word": "METRO",
+          "meaning": "Urban grade-separated rapid transit railway providing frequent transit",
+          "example": "The clean underground metro connected the airport directly to downtown."
+        }
+      ]
+    },
+    {
+      "levelNumber": 7,
+      "title": "Vehicles Level 7",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "INTERCEPTOR",
+          "meaning": "Specialized fast fighter aircraft designed to scramble and stop enemy bombers",
+          "example": "The supersonic interceptor climbed to forty thousand feet in less than two minutes."
+        },
+        {
+          "word": "SLEEPER",
+          "meaning": "Heavy rectangular wooden or concrete tie supporting railroad steel rails",
+          "example": "Prestressed concrete sleepers anchor continuous welded rail across high-speed lines."
+        },
+        {
+          "word": "GONDOLA",
+          "meaning": "Traditional narrow flat-bottomed Venetian rowing boat with high tapered prows",
+          "example": "Couples drifted under stone bridges while singing gondoliers rowed the gondola."
+        },
+        {
+          "word": "SLED",
+          "meaning": "Low runner-mounted vehicle used for sliding over snow or frozen ice",
+          "example": "Huskies pulled the wooden sled smoothly across arctic tundra trails."
+        },
+        {
+          "word": "TUNNEL",
+          "meaning": "Underground or underwater passageway excavated through mountains or subsea terrain",
+          "example": "Drivers switched on headlights before entering the two-mile alpine road tunnel."
+        },
+        {
+          "word": "FRIGATE",
+          "meaning": "Fast maneuverable naval warship protecting larger fleet vessels from submarines",
+          "example": "The naval frigate deployed anti-submarine sonar during fleet maneuvers."
+        },
+        {
+          "word": "HORSEPOWER",
+          "meaning": "Standard unit measuring the mechanical rate at which vehicle engine work is done",
+          "example": "The sports car V8 engine developed four hundred and fifty horsepower on test benches."
+        },
+        {
+          "word": "JUMBOJET",
+          "meaning": "Wide-body multi-deck commercial airliner capable of carrying hundreds of travelers",
+          "example": "The four-engine jumbojet transformed mass global international air travel."
+        }
+      ]
+    },
+    {
+      "levelNumber": 8,
+      "title": "Vehicles Level 8",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "SLIPROAD",
+          "meaning": "Short road connecting motorways to local streets for entering or exiting",
+          "example": "The driver signaled right and decelerated along the curved exit sliproad."
+        },
+        {
+          "word": "TIMINGBELT",
+          "meaning": "Toothed rubber belt synchronizing crankshaft and camshaft rotations precisely",
+          "example": "Interference engines require timely timingbelt replacement to avoid valve damage."
+        },
+        {
+          "word": "TRACTOR",
+          "meaning": "Heavy agricultural vehicle used to pull plows, harrows, and farm implements",
+          "example": "The farmer steered the diesel tractor across freshly tilled fields."
+        },
+        {
+          "word": "TAILLIGHT",
+          "meaning": "Red illumination lamp at vehicle rears signaling presence and braking",
+          "example": "The bright red taillights warned following drivers that traffic was slowing ahead."
+        },
+        {
+          "word": "OILFILTER",
+          "meaning": "Cartridge containing pleated filter media removing contaminants from engine oil",
+          "example": "Mechanics replace the spin-on oilfilter with every scheduled engine oil service."
+        },
+        {
+          "word": "GRITTER",
+          "meaning": "Municipal maintenance truck spreading rock salt and sand over icy roads",
+          "example": "Highway gritters treated icy bypass bridges before morning rush hour began."
+        },
+        {
+          "word": "SEAPORT",
+          "meaning": "Harbor town or city equipped with deepwater docks for ocean-going merchant ships",
+          "example": "The busy seaport handled millions of cargo containers arriving from overseas."
+        },
+        {
+          "word": "INTERSECTION",
+          "meaning": "At-grade junction where two or more roadways cross or join together",
+          "example": "Traffic signal lights directed vehicular flow through the busy four-way intersection."
+        }
+      ]
+    },
+    {
+      "levelNumber": 9,
+      "title": "Vehicles Level 9",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "WINDSHIELD",
+          "meaning": "Laminated safety glass window at the front of motor vehicle passenger cabs",
+          "example": "A stray highway gravel pebble chipped the driver side of the windshield."
+        },
+        {
+          "word": "COOLANT",
+          "meaning": "Liquid mixture of water and ethylene glycol circulating to regulate engine heat",
+          "example": "The water pump circulates green coolant through engine jackets and the radiator."
+        },
+        {
+          "word": "DIPSTICK",
+          "meaning": "Graduated metal rod inserted into engine oil sumps to measure fluid levels",
+          "example": "The driver pulled out the dipstick, wiped it clean, and verified full oil level."
+        },
+        {
+          "word": "SIDING",
+          "meaning": "Short stretch of railroad track auxiliary to main lines used for switching cars",
+          "example": "The freight train pulled into a rail siding to allow the faster passenger train to pass."
+        },
+        {
+          "word": "SCHOONER",
+          "meaning": "Fore-and-aft rigged sailing vessel with two or more masts, the foremast shorter",
+          "example": "The wooden schooner sailed gracefully through the fog of Maine harbors."
+        },
+        {
+          "word": "LOWBOY",
+          "meaning": "Semi-trailer with a drop-deck bed positioned extremely low to haul heavy machinery",
+          "example": "The heavy equipment operator chained the bulldozer onto a sturdy lowboy."
+        },
+        {
+          "word": "WAGONETTE",
+          "meaning": "Light four-wheeled pleasure carriage featuring facing longitudinal seats",
+          "example": "Estate guests rode in the open wagonette to the lakeside picnic pavilion."
+        },
+        {
+          "word": "OUTRIGGER",
+          "meaning": "Canoe equipped with one or more lateral stabilizing floats extending outward",
+          "example": "Polynesian outrigger canoes sliced effortlessly through rolling blue surf."
+        }
+      ]
+    },
+    {
+      "levelNumber": 10,
+      "title": "Vehicles Level 10",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "BICYCLE",
+          "meaning": "Human-powered two-wheeled vehicle propelled by foot pedals and chains",
+          "example": "City bike lanes encourage residents to commute to work by bicycle."
+        },
+        {
+          "word": "FUELPUMP",
+          "meaning": "Pump delivering pressurized fuel from storage tanks to engine fuel injectors",
+          "example": "The submerged high-pressure electric fuelpump hummed quietly inside the tank."
+        },
+        {
+          "word": "TOLLGATE",
+          "meaning": "Barrier gate across toll highways where road usage tariffs are collected",
+          "example": "The automated barrier lifted at the tollgate as the contactless fee was confirmed."
+        },
+        {
+          "word": "GLIDER",
+          "meaning": "Light non-motorized aircraft designed to soar on rising atmospheric thermal currents",
+          "example": "The silent glider circled inside a warm thermal climbing hundreds of feet."
+        },
+        {
+          "word": "DEPOT",
+          "meaning": "Central transit facility or station where buses, trains, or goods are stored",
+          "example": "Transit buses returned to the municipal depot for overnight cleaning and refueling."
+        },
+        {
+          "word": "DRAUGHT",
+          "meaning": "Vertical distance between a ship waterline and the lowest point of its keel",
+          "example": "The loaded oil tanker drew thirty-five feet of draught entering the shallow harbor."
+        },
+        {
+          "word": "TORQUE",
+          "meaning": "Rotational turning force generated by vehicle engines turning axles and wheels",
+          "example": "Electric motors generate peak torque instantly from zero revolutions per minute."
+        },
+        {
+          "word": "BRAKEFLUID",
+          "meaning": "Hydraulic fluid transmitting pressure from pedals to wheel brake calipers",
+          "example": "Mechanics bled air bubbles from the brake lines and topped off DOT 4 brakefluid."
+        },
+        {
+          "word": "CANARD",
+          "meaning": "Small forewing placed forward of main wings for pitch control and stability",
+          "example": "Modern delta-wing fighters use forward canards for exceptional high-alpha agility."
+        }
+      ]
+    },
+    {
+      "levelNumber": 11,
+      "title": "Vehicles Level 11",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "INJECTOR",
+          "meaning": "Precision solenoid valve spraying atomized fuel directly into engine cylinders",
+          "example": "High-pressure direct injectors sprayed fuel mist at two thousand pounds per square inch."
+        },
+        {
+          "word": "BARGE",
+          "meaning": "Flat-bottomed cargo vessel towed or pushed along inland canals and rivers",
+          "example": "Barges hauled thousands of tons of grain down the Mississippi River."
+        },
+        {
+          "word": "WHARF",
+          "meaning": "Level landing place built along the water edge where ships tie up and unload",
+          "example": "Warehouses lined the historic timber wharf where merchant ships unloaded spices."
+        },
+        {
+          "word": "BRAKEPAD",
+          "meaning": "Replaceable friction lining pressed against brake rotors to generate stopping force",
+          "example": "Ceramic brakepads generate minimal dark brake dust on luxury automobile wheels."
+        },
+        {
+          "word": "TURBOCHARGER",
+          "meaning": "Exhaust-driven turbine compressor boosting engine power and fuel efficiency",
+          "example": "Twin turbochargers boosted the small six-cylinder engine to five hundred horsepower."
+        },
+        {
+          "word": "LUBRICANT",
+          "meaning": "Substance such as oil or grease reducing friction between moving machine parts",
+          "example": "Synthetic motor lubricant prevents metal-to-metal wear inside spinning engine bearings."
+        },
+        {
+          "word": "HUB",
+          "meaning": "Central part of a wheel where the axle connects and lug nuts are secured",
+          "example": "Sealed wheel hub bearings ensure silent and smooth rotation at highway speeds."
+        },
+        {
+          "word": "JUNCTION",
+          "meaning": "Point where multiple roads, railway lines, or transit pathways converge",
+          "example": "Take the left fork at the highway junction toward the international airport."
+        },
+        {
+          "word": "THRUST",
+          "meaning": "Forward mechanical force produced by engines pushing aircraft or rockets",
+          "example": "The twin turbofan engines produced eighty thousand pounds of takeoff thrust."
+        }
+      ]
+    },
+    {
+      "levelNumber": 12,
+      "title": "Vehicles Level 12",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "BRAKE",
+          "meaning": "Device used to slow or stop vehicle movement by applying mechanical friction",
+          "example": "The driver stepped firmly on the brake pedal as red traffic lights appeared."
+        },
+        {
+          "word": "BULLDOZER",
+          "meaning": "Powerful tracked crawler equipped with a broad steel blade to push earth",
+          "example": "The yellow bulldozer pushed piles of rubble at the demolition site."
+        },
+        {
+          "word": "QUADCOPTER",
+          "meaning": "Rotorcraft lifted and propelled by four balanced horizontal rotors",
+          "example": "Hobbyists raced nimble quadcopters through obstacle gates using video goggles."
+        },
+        {
+          "word": "TUMBRIL",
+          "meaning": "Two-wheeled open farm cart designed to tip backward to unload muck or manure",
+          "example": "Farmhands used the wooden tumbril to spread compost across orchard rows."
+        },
+        {
+          "word": "LIGHTER",
+          "meaning": "Barge-type vessel used in loading or unloading ships not berthed at wharves",
+          "example": "Harbor lighters ferried crates of bananas from the anchored cargo ship to shore."
+        },
+        {
+          "word": "DREDGER",
+          "meaning": "Vessel fitted with excavation gear to scoop sediment and deepen navigation channels",
+          "example": "The hopper dredger suctioned silt from the harbor channel to allow deep ships."
+        },
+        {
+          "word": "DREADNOUGHT",
+          "meaning": "Dominant early twentieth-century battleship armed with all-big-gun armament",
+          "example": "The launch of HMS Dreadnought rendered all earlier battleships obsolete."
+        },
+        {
+          "word": "OVERPASS",
+          "meaning": "Bridge carrying one road or railway track over the top of another roadway",
+          "example": "Pedestrians crossed the busy four-lane thoroughfare via the covered steel overpass."
+        },
+        {
+          "word": "GRILLE",
+          "meaning": "Lattice or mesh opening at vehicle fronts admitting cooling air to radiators",
+          "example": "The distinctive chrome honeycomb grille identified the luxury automotive brand."
+        }
+      ]
+    },
+    {
+      "levelNumber": 13,
+      "title": "Vehicles Level 13",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "MINIVAN",
+          "meaning": "Boxy passenger van designed for family transport with sliding side doors",
+          "example": "The minivan comfortably seated seven passengers with camping equipment."
+        },
+        {
+          "word": "EXHAUST",
+          "meaning": "System piping combustion gases away from the engine out to atmosphere",
+          "example": "The stainless steel dual exhaust emitted a deep, throaty rumble under throttle."
+        },
+        {
+          "word": "HANDBRAKE",
+          "meaning": "Manually actuated emergency mechanical lever securing parked cars firmly",
+          "example": "Always pull up firmly on the center handbrake when parking on steep hills."
+        },
+        {
+          "word": "LIFT",
+          "meaning": "Aerodynamic upward force generated by wing airfoils overcoming gravity",
+          "example": "Air flowing faster over curved upper wing surfaces generates aerodynamic lift."
+        },
+        {
+          "word": "DOWNFORCE",
+          "meaning": "Downward aerodynamic force pressing race car tires onto asphalt for grip",
+          "example": "Front wings and rear spoilers generate thousands of pounds of high-speed downforce."
+        },
+        {
+          "word": "JETLINER",
+          "meaning": "Large commercial jet-powered transport aircraft carrying airline passengers",
+          "example": "The intercontinental jetliner flew non-stop for twelve hours from Tokyo to Paris."
+        },
+        {
+          "word": "AIRSHIP",
+          "meaning": "Powered steerable lighter-than-air flying craft incorporating gas bags",
+          "example": "Steampunk novels depict Victorian cities navigated by majestic steam airships."
+        },
+        {
+          "word": "SUPERCHARGER",
+          "meaning": "Engine-driven air compressor forcing dense oxygen into combustion chambers",
+          "example": "The supercharger delivered instantaneous throttle response with zero boost lag."
+        },
+        {
+          "word": "HEADLIGHT",
+          "meaning": "Powerful forward illumination lamp mounted on vehicle fronts for night driving",
+          "example": "Bright LED headlights illuminated the dark winding highway for two hundred meters."
+        }
+      ]
+    },
+    {
+      "levelNumber": 14,
+      "title": "Vehicles Level 14",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "SHALLOP",
+          "meaning": "Light open boat equipped with oars and sails used for coastal trading",
+          "example": "Early colonists rowed wooden shallops to explore sheltered coastal bays."
+        },
+        {
+          "word": "OCEANLINER",
+          "meaning": "Enormous passenger ship built for scheduled transatlantic ocean voyages",
+          "example": "Historic oceanliners transported millions of emigrants across the Atlantic."
+        },
+        {
+          "word": "FREIGHT",
+          "meaning": "Heavy goods and merchandise hauled collectively across rail or sea networks",
+          "example": "Transcontinental freight trains carried containerized goods from ports."
+        },
+        {
+          "word": "TRANSOM",
+          "meaning": "Flat vertical or curved surface forming the stern frame of a boat hull",
+          "example": "Twin outboard motors were clamped securely to the reinforced fiberglass transom."
+        },
+        {
+          "word": "FUSELAGE",
+          "meaning": "Central structural body of an aircraft holding crew, passengers, and cargo",
+          "example": "The pressurized airplane fuselage insulated passengers from subzero air."
+        },
+        {
+          "word": "ROTOR",
+          "meaning": "Assembly of revolving blades providing aerodynamic lift for helicopters",
+          "example": "The spinning main rotor generated thousands of pounds of upward vertical lift."
+        },
+        {
+          "word": "DUMPER",
+          "meaning": "Compact open-bed construction truck that discharges dirt or gravel forward",
+          "example": "The site worker backed the dumper up to the trench and tipped the gravel."
+        },
+        {
+          "word": "DRIFTER",
+          "meaning": "Commercial fishing boat utilizing extensive floating drift nets to harvest herring",
+          "example": "The Scottish drifter fleet returned to port packed with glistening fresh fish."
+        },
+        {
+          "word": "CARBURETOR",
+          "meaning": "Device blending air and liquid fuel in correct ratios for internal combustion",
+          "example": "Vintage car mechanics tuned twin side-draft carburetors with vacuum gauges."
+        }
+      ]
+    },
+    {
+      "levelNumber": 15,
+      "title": "Vehicles Level 15",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "JEEP",
+          "meaning": "Rugged four-wheel-drive utility vehicle capable of navigating rough terrain",
+          "example": "The tour guide drove the open-top jeep along rocky canyon trails."
+        },
+        {
+          "word": "RUMBLESTRIP",
+          "meaning": "Grooved pavement strip vibrating tires to alert inattentive drifting drivers",
+          "example": "Milled shoulder rumblestrips buzzed loudly under the truck drifting tires."
+        },
+        {
+          "word": "FIN",
+          "meaning": "Fixed vertical stabilizer surface ensuring directional yaw stability",
+          "example": "The vertical fin prevented the aircraft from fishtailing in turbulent gusty winds."
+        },
+        {
+          "word": "GENOA",
+          "meaning": "Large overlapping headsail extending aft past the mast on sailing yachts",
+          "example": "The helmsman trimmed the genoa sheet tightly as the sloop headed upwind."
+        },
+        {
+          "word": "ENGINE",
+          "meaning": "Machine converting thermal or electrical energy into mechanical movement",
+          "example": "The race car engine produced six hundred horsepower on the dynamometer."
+        },
+        {
+          "word": "BUGGY",
+          "meaning": "Lightweight recreational vehicle designed for sand dunes or rough dirt",
+          "example": "The sand buggy hopped over desert dunes with balloon tires."
+        },
+        {
+          "word": "CORVETTE",
+          "meaning": "Small agile surface combatant warship designed for coastal defense and escort",
+          "example": "The patrol corvette intercepted illegal fishing vessels in territorial waters."
+        },
+        {
+          "word": "SPARKPLUG",
+          "meaning": "Electrical device delivering high-voltage sparks to ignite cylinder fuel mixtures",
+          "example": "Replacing worn sparkplugs restored smooth idling and optimal fuel efficiency."
+        },
+        {
+          "word": "JITNEY",
+          "meaning": "Small passenger bus or minibus carrying passengers along regular routes for small fares",
+          "example": "Locals caught the neighborhood jitney to travel to the coastal market."
+        }
+      ]
+    },
+    {
+      "levelNumber": 16,
+      "title": "Vehicles Level 16",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "SUBFRAME",
+          "meaning": "Structural sub-assembly carrying engine or suspension components under vehicle bodies",
+          "example": "Mechanics unbolted the front subframe to access the transmission bell housing."
+        },
+        {
+          "word": "TIRE",
+          "meaning": "Rubber ring-shaped casing fitted around wheel rims providing road traction",
+          "example": "Checking tire pressure monthly prevents uneven tread wear and improves mileage."
+        },
+        {
+          "word": "CRUISER",
+          "meaning": "Large multi-deck passenger ocean liner or fast medium-sized naval warship",
+          "example": "Families booked a seven-day tropical island vacation on the luxury cruiser."
+        },
+        {
+          "word": "BUSHING",
+          "meaning": "Flexible rubber or polyurethane isolator absorbing suspension vibrations",
+          "example": "Replacing cracked suspension bushings restored tight, quiet road handling."
+        },
+        {
+          "word": "ROCKET",
+          "meaning": "Cylindrical vehicle propelled by reaction to high-speed exhaust gases",
+          "example": "The launch pad shook violently as the orbital rocket blasted off toward the stars."
+        },
+        {
+          "word": "TURNPIKE",
+          "meaning": "Toll highway where traveling vehicles pay user fees for roadway maintenance",
+          "example": "Electronic transponders allowed commuters to breeze through turnpike toll gantries."
+        },
+        {
+          "word": "BALER",
+          "meaning": "Agricultural implement compressing cut hay and straw into compact bales",
+          "example": "The tractor pulled a round baler dropping dense straw cylinders across fields."
+        },
+        {
+          "word": "HOVERCRAFT",
+          "meaning": "Vehicle supported by a cushion of pressurized air traveling over land and sea",
+          "example": "The passenger hovercraft glided smoothly over shallow mudflats and choppy waves."
+        },
+        {
+          "word": "ANTIFREEZE",
+          "meaning": "Additive lowering the freezing point of engine cooling liquids to prevent burst",
+          "example": "Pouring fresh antifreeze into the cooling system protected the radiator against winter freezes."
+        }
+      ]
+    },
+    {
+      "levelNumber": 17,
+      "title": "Vehicles Level 17",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "BROUGHAM",
+          "meaning": "Four-wheeled enclosed carriage with a low floor and forward driving seat",
+          "example": "Aristocratic city residents traveled to theater premieres in private broughams."
+        },
+        {
+          "word": "COCKPIT",
+          "meaning": "Enclosed forward compartment housing the pilot, controls, and instruments",
+          "example": "Pilots ran through pre-flight checklist procedures inside the digital glass cockpit."
+        },
+        {
+          "word": "PARKING",
+          "meaning": "Allocated space or multi-story structure where vehicles may be safely parked",
+          "example": "Finding convenient underground parking near the theater saved time before the show."
+        },
+        {
+          "word": "ALTERNATOR",
+          "meaning": "Electrical generator converting mechanical engine rotation into battery charge",
+          "example": "A failing alternator triggered the red battery warning lamp on the dashboard."
+        },
+        {
+          "word": "CULDESAC",
+          "meaning": "Circular turnaround dead-end street in suburban residential neighborhoods",
+          "example": "Children rode bicycles safely around the quiet suburban culdesac circle."
+        },
+        {
+          "word": "VIADUCT",
+          "meaning": "Long elevated bridge structure consisting of multiple short arches or piers",
+          "example": "The stone railroad viaduct spanned the wide river valley with towering arches."
+        },
+        {
+          "word": "CLOVERLEAF",
+          "meaning": "Two-level highway interchange with looping ramps resembling four clover leaves",
+          "example": "Cars entered the sweeping cloverleaf ramp to change interstate highways."
+        },
+        {
+          "word": "FUNICULAR",
+          "meaning": "Cable railway system counterbalancing two cars ascending steep hillsides",
+          "example": "Tourists rode the scenic hillside funicular to the panoramic monastery peak."
+        },
+        {
+          "word": "AIRPLANE",
+          "meaning": "Fixed-wing powered aircraft kept aloft by aerodynamic lift across wings",
+          "example": "The commercial airplane climbed steadily through clouds toward cruising altitude."
+        }
+      ]
+    },
+    {
+      "levelNumber": 18,
+      "title": "Vehicles Level 18",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "NACELLE",
+          "meaning": "Streamlined housing holding an engine, fuel tank, or equipment externally",
+          "example": "Large turbofan engines hung in aerodynamic nacelles beneath passenger jetliner wings."
+        },
+        {
+          "word": "SEMIRIG",
+          "meaning": "Large commercial tractor unit hitched to one or more cargo semi-trailers",
+          "example": "Long-haul semirigs crossed interstate highways delivering goods across states."
+        },
+        {
+          "word": "SUV",
+          "meaning": "Sport utility vehicle combining passenger car comfort with off-road capabilities",
+          "example": "Families favor the all-wheel-drive SUV for winter ski vacations."
+        },
+        {
+          "word": "ROUNDABOUT",
+          "meaning": "Circular road junction where traffic flows continuously around a central island",
+          "example": "Vehicles entering the roundabout yield right-of-way to circulating traffic."
+        },
+        {
+          "word": "MICROLIGHT",
+          "meaning": "Lightweight aviation category aircraft requiring minimal runway lengths",
+          "example": "The pilot kept his folding-wing microlight inside a simple farm garden shed."
+        },
+        {
+          "word": "FORECASTLE",
+          "meaning": "Forward upper deck or crew living quarters situated near the vessel bow",
+          "example": "Sailors gathered on the raised forecastle head as the ship made harbor."
+        },
+        {
+          "word": "MOTORCYCLE",
+          "meaning": "Two-wheeled motor-driven vehicle designed for highway and street travel",
+          "example": "The rider zipped up his leather jacket before mounting his motorcycle."
+        },
+        {
+          "word": "COUPE",
+          "meaning": "Two-door passenger car with a sleek sloping rear roofline",
+          "example": "The stylish sports coupe turned heads as it drove down the boulevard."
+        },
+        {
+          "word": "GASSTATION",
+          "meaning": "Retail facility selling motor fuel, lubricants, and convenience refreshments",
+          "example": "The family pulled into the interstate gasstation to refuel the tank and buy snacks."
+        },
+        {
+          "word": "TURBOPROP",
+          "meaning": "Gas turbine aircraft engine driving a reduction gearbox and propeller",
+          "example": "Regional commuter airlines operate reliable twin-engine turboprop airliners."
+        },
+        {
+          "word": "CAB",
+          "meaning": "Taxicab or the enclosed driving compartment of a truck or locomotive",
+          "example": "The truck driver climbed into the spacious sleeper cab after fueling up."
+        }
+      ]
+    },
+    {
+      "levelNumber": 19,
+      "title": "Vehicles Level 19",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "TRUNK",
+          "meaning": "Enclosed luggage compartment situated at the rear of traditional automobiles",
+          "example": "Three large travel suitcases fit neatly inside the spacious sedan trunk."
+        },
+        {
+          "word": "MACH",
+          "meaning": "Ratio of vehicle travel speed to the local speed of sound in surrounding air",
+          "example": "The jet fighter accelerated effortlessly through Mach one with a sonic boom."
+        },
+        {
+          "word": "ROADSTER",
+          "meaning": "Open-top two-seater sports car designed for spirited open-air driving",
+          "example": "The vintage British roadster handled winding mountain roads with ease."
+        },
+        {
+          "word": "TRIMARAN",
+          "meaning": "Vessel featuring three parallel hulls delivering exceptional high-speed sailing",
+          "example": "The racing trimaran flew across ocean swells at thirty-five knots."
+        },
+        {
+          "word": "VALVESTEM",
+          "meaning": "Self-contained valve on wheel rims through which tire inflation air is added",
+          "example": "He unscrewed the plastic cap from the valvestem to check tire pressure with a gauge."
+        },
+        {
+          "word": "SPEEDBUMP",
+          "meaning": "Raised asphalt ridge across parking lots slowing vehicular transit speeds",
+          "example": "Vehicles crawled over the parking lot speedbumps at five miles per hour."
+        },
+        {
+          "word": "BIODIESEL",
+          "meaning": "Renewable diesel substitute produced from recycled vegetable oils or animal fats",
+          "example": "The university bus fleet ran cleanly on recycled cooking oil biodiesel."
+        },
+        {
+          "word": "CABOOSE",
+          "meaning": "Traditional railroad crew car coupled at the very end of freight trains",
+          "example": "The train conductor waved from the cupola window of the red caboose."
+        },
+        {
+          "word": "YAWL",
+          "meaning": "Two-masted sailboat with the small mizzen mast stepped aft of the rudder post",
+          "example": "The classic yawl displayed balanced sailing trim while beating into headwinds."
+        },
+        {
+          "word": "HELICOPTER",
+          "meaning": "Rotorcraft achieving vertical lift and propulsion from overhead spinning blades",
+          "example": "The rescue helicopter hovered above the mountain peak to winch the hiker."
+        },
+        {
+          "word": "UNDERPASS",
+          "meaning": "Roadway passing underneath another road, railway, or pedestrian structure",
+          "example": "The street dipped into a lit concrete underpass to clear the mainline railway tracks."
+        }
+      ]
+    },
+    {
+      "levelNumber": 20,
+      "title": "Vehicles Level 20",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "HANGAR",
+          "meaning": "Enclosed building structure used for housing, maintaining, and repairing aircraft",
+          "example": "The vintage airplane was parked safely inside the climate-controlled steel hangar."
+        },
+        {
+          "word": "DIESEL",
+          "meaning": "Internal combustion engine fuel ignited by compression heat without spark plugs",
+          "example": "Commercial trucks rely on energy-dense diesel fuel for long-haul highway pulling."
+        },
+        {
+          "word": "TRIREME",
+          "meaning": "Ancient maritime galley with three tiers of oarsmen used by Greeks and Romans",
+          "example": "Athenian triremes rammed enemy hulls during the historic battle of Salamis."
+        },
+        {
+          "word": "TIEROD",
+          "meaning": "Steering linkage rod transmitting rack motion to turn wheel steering knuckles",
+          "example": "A bent outer tierod caused the car steering wheel to pull sharply to the right."
+        },
+        {
+          "word": "SHIFTER",
+          "meaning": "Cabin gear lever manipulated by drivers to select transmission gears",
+          "example": "The driver grabbed the leather-wrapped shifter and slotted into third gear."
+        },
+        {
+          "word": "AIRBAG",
+          "meaning": "Inflatable safety cushion deploying instantly in severe vehicle collisions",
+          "example": "Curtain airbags deployed along side windows to cushion passengers during side impacts."
+        },
+        {
+          "word": "CRANE",
+          "meaning": "Tall hoisting machine equipped with wire cables and sheaves to lift heavy loads",
+          "example": "Tower cranes hovered above downtown construction sites lifting steel beams."
+        },
+        {
+          "word": "JACKSTAND",
+          "meaning": "Sturdy mechanical support stand holding raised vehicles safely during repairs",
+          "example": "Never work underneath raised cars without placing rated steel jackstands beneath frames."
+        },
+        {
+          "word": "CAMSHAFT",
+          "meaning": "Rotating shaft equipped with egg-shaped lobes opening and closing engine valves",
+          "example": "Dual overhead camshafts precisely govern the timing of intake and exhaust valves."
+        },
+        {
+          "word": "WINGLET",
+          "meaning": "Vertical wingtip extension reducing induced drag and boosting fuel efficiency",
+          "example": "Curved winglets on airliner wingtips save thousands of gallons of jet fuel."
+        },
+        {
+          "word": "SWAYBAR",
+          "meaning": "Torsion spring bar connecting opposite wheels to reduce vehicle body lean in corners",
+          "example": "Stiffening the rear swaybar neutralized understeer and sharpened cornering balance."
+        }
+      ]
+    },
+    {
+      "levelNumber": 21,
+      "title": "Vehicles Level 21",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "LORRY",
+          "meaning": "Large heavy motor vehicle designed for transporting bulk commercial goods",
+          "example": "The logistics firm dispatched a fleet of articulated lorries across ports."
+        },
+        {
+          "word": "MEDIAN",
+          "meaning": "Central dividing strip separating opposing directions of highway traffic flow",
+          "example": "A wide grassy median with cable barriers separated opposing interstate lanes."
+        },
+        {
+          "word": "TRAWLER",
+          "meaning": "Commercial fishing boat equipped to pull large drag nets along ocean seabeds",
+          "example": "The deep-sea trawler hauled in net loads of North Atlantic cod and haddock."
+        },
+        {
+          "word": "STEERING",
+          "meaning": "Mechanical linkage allowing drivers to control vehicle travel direction",
+          "example": "Rack-and-pinion steering provided sharp, precise feedback through turns."
+        },
+        {
+          "word": "HULL",
+          "meaning": "Watertight body and outer structural shell of a ship or boat",
+          "example": "The vessel reinforced steel hull sliced cleanly through ocean swells."
+        },
+        {
+          "word": "HANDCAR",
+          "meaning": "Light human-powered rail car pumped by hand levers along railroad tracks",
+          "example": "Railroad track inspectors pumped the wooden handcar along the mountain line."
+        },
+        {
+          "word": "PLATFORM",
+          "meaning": "Raised walkway alongside railway tracks where passengers board and disembark",
+          "example": "Commuters gathered on platform four awaiting the arrival of the express train."
+        },
+        {
+          "word": "MOPED",
+          "meaning": "Low-powered motorized cycle equipped with pedals or a small engine",
+          "example": "Island tourists rented colorful mopeds to explore coastal fishing villages."
+        },
+        {
+          "word": "ICEBREAKER",
+          "meaning": "Specially reinforced ship designed to crush, cut, and break through sea ice",
+          "example": "The nuclear icebreaker cleared a navigation lane through frozen Arctic seas."
+        },
+        {
+          "word": "TRAILER",
+          "meaning": "Unpowered transport platform hitched behind motor vehicles to haul cargo",
+          "example": "The landscaper hitched a heavy utility trailer loaded with lawnmowers."
+        },
+        {
+          "word": "TANDEM",
+          "meaning": "Bicycle built for two riders seated one behind the other pedaling together",
+          "example": "The couple enjoyed a scenic lakefront ride on their two-person tandem."
+        }
+      ]
+    },
+    {
+      "levelNumber": 22,
+      "title": "Vehicles Level 22",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "ROVER",
+          "meaning": "Exploration vehicle designed to traverse extraterrestrial terrain autonomously",
+          "example": "The Mars rover analyzed red desert rock samples with onboard chemical lasers."
+        },
+        {
+          "word": "EMPENNAGE",
+          "meaning": "Tail assembly of an aircraft providing aerodynamic stability and control",
+          "example": "The empennage houses the horizontal stabilizer, elevators, fin, and rudder."
+        },
+        {
+          "word": "BACKHOE",
+          "meaning": "Tractor-style machine fitted with a front loader and rear digging arm",
+          "example": "Utility crews used a versatile backhoe to repair broken water mains."
+        },
+        {
+          "word": "PHAETON",
+          "meaning": "Sporty open four-wheeled horse-drawn carriage with minimal bodywork",
+          "example": "Wealthy Victorian gentlemen drove light phaetons for brisk afternoon rides."
+        },
+        {
+          "word": "SEEDER",
+          "meaning": "Agricultural implement distributing and planting seeds evenly across soil",
+          "example": "Tractors pulled precision seeders across vast midwestern soybean acreage."
+        },
+        {
+          "word": "DESTROYER",
+          "meaning": "Fast multi-mission naval warship armed with guided missiles and radar",
+          "example": "Guided-missile destroyers formed an escort perimeter around the aircraft carrier."
+        },
+        {
+          "word": "HORN",
+          "meaning": "Acoustic warning device sounded by drivers to alert pedestrians or other vehicles",
+          "example": "A tap on the steering wheel horn alerted the distracted driver at the green light."
+        },
+        {
+          "word": "LIMOUSINE",
+          "meaning": "Luxury executive vehicle with an elongated wheelbase driven by chauffeurs",
+          "example": "The VIP arrived at the gala in a sleek black limousine."
+        },
+        {
+          "word": "CARPOOL",
+          "meaning": "Arrangement where multiple travelers share rides in a single vehicle",
+          "example": "Vehicles with two or more occupants gained access to the high-speed carpool lane."
+        },
+        {
+          "word": "CONVERTIBLE",
+          "meaning": "Automobile equipped with a retractable or removable roof structure",
+          "example": "Driving a red convertible along Pacific Coast Highway made a dream vacation."
+        },
+        {
+          "word": "ULTRALIGHT",
+          "meaning": "Very lightweight, single- or two-person low-speed recreational aircraft",
+          "example": "Flying an open-cockpit ultralight at sunrise offered breathtaking panoramic views."
+        }
+      ]
+    },
+    {
+      "levelNumber": 23,
+      "title": "Vehicles Level 23",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "CALIPER",
+          "meaning": "Hydraulic clamp squeezing brake pads against rotating brake discs to slow wheels",
+          "example": "Bright red four-piston calipers clamped down on drilled carbon ceramic rotors."
+        },
+        {
+          "word": "BUMPER",
+          "meaning": "Horizontal impact-absorbing structure mounted at front and rear of motor vehicles",
+          "example": "Sturdy reinforced bumpers protected car sheet metal during low-speed parking bumps."
+        },
+        {
+          "word": "PYLON",
+          "meaning": "Structural support strut attaching engine nacelles or fuel pods to wings",
+          "example": "Heavy titanium wing pylons secure the massive jet engines to the wing spar."
+        },
+        {
+          "word": "LOCK",
+          "meaning": "Enclosed water chamber with gates raising or lowering vessels between water levels",
+          "example": "Canal locks raised the freight barge twenty feet to match the upper canal elevation."
+        },
+        {
+          "word": "STEAMROLLER",
+          "meaning": "Heavy road construction roller machine compacting asphalt using massive cylinders",
+          "example": "The diesel steamroller flattened fresh blacktop on the newly paved highway."
+        },
+        {
+          "word": "HALYARD",
+          "meaning": "Rope or wire cable used to hoist sails, flags, or yard spars aloft",
+          "example": "The crew pulled hand over hand on the main halyard to raise the mainsail."
+        },
+        {
+          "word": "BRIGANTINE",
+          "meaning": "Two-masted sailing ship with a square-rigged foremast and fore-and-aft mainmast",
+          "example": "The tall ship festival featured a beautifully restored wooden brigantine."
+        },
+        {
+          "word": "GLOVEBOX",
+          "meaning": "Enclosed storage compartment built into the passenger-side dashboard",
+          "example": "Vehicle registration papers and owner manuals are stored inside the dashboard glovebox."
+        },
+        {
+          "word": "GRADER",
+          "meaning": "Heavy equipment vehicle with a long adjustable blade used to create flat surfaces",
+          "example": "The road grader smoothed washboard ruts along the gravel mountain road."
+        },
+        {
+          "word": "AUTOGYRO",
+          "meaning": "Aircraft lifted by autorotating unpowered blades and pulled by engine propellers",
+          "example": "Pioneer aviators tested autogyro craft as early precursors to modern helicopters."
+        },
+        {
+          "word": "DRAINPLUG",
+          "meaning": "Threaded bolt removed to drain dirty fluids during vehicle oil services",
+          "example": "The technician installed a fresh crush washer before torquing the oil drainplug."
+        }
+      ]
+    },
+    {
+      "levelNumber": 24,
+      "title": "Vehicles Level 24",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "PISTON",
+          "meaning": "Cylindrical engine component sliding inside cylinders to compress fuel mixture",
+          "example": "Exploding fuel vapor forced the forged aluminum piston down the cylinder bore."
+        },
+        {
+          "word": "FLATBED",
+          "meaning": "Truck or trailer featuring an open level cargo deck without fixed side walls",
+          "example": "The transport firm secured heavy industrial generators onto a flatbed trailer."
+        },
+        {
+          "word": "HEADREST",
+          "meaning": "Adjustable padded support atop seat backs designed to prevent whiplash trauma",
+          "example": "Adjusting the headrest level with head centers protects cervical vertebrae in rear collisions."
+        },
+        {
+          "word": "TRAM",
+          "meaning": "Light rail passenger car running on tracks embedded in urban city streets",
+          "example": "Historic wooden trams clattered past cafes along the European avenue."
+        },
+        {
+          "word": "CAIQUE",
+          "meaning": "Traditional light wooden fishing boat used along the Aegean and Mediterranean",
+          "example": "Greek fishermen anchored their colorful painted caiques in the island harbor."
+        },
+        {
+          "word": "HARVESTER",
+          "meaning": "Agricultural machine that cuts, threshes, and cleans ripe grain crops in fields",
+          "example": "The automated harvester reaped wheat fields under golden afternoon sun."
+        },
+        {
+          "word": "SLAT",
+          "meaning": "Aerodynamic surface on wing leading edges delaying stall during steep angles",
+          "example": "Leading-edge slats deployed automatically to maintain lift at slow landing speeds."
+        },
+        {
+          "word": "FELUCCA",
+          "meaning": "Traditional wooden sailing boat used on the Nile River rigged with lateen sails",
+          "example": "Tourists relaxed aboard a white-sailed felucca watching sunset over the Nile."
+        },
+        {
+          "word": "CART",
+          "meaning": "Open two-wheeled vehicle drawn by horses, oxen, or mules to haul farm loads",
+          "example": "Farmers loaded wooden carts with fresh pumpkins for the autumn harvest market."
+        },
+        {
+          "word": "TAILGATE",
+          "meaning": "Hinged rear gate of a pickup truck or station wagon that drops down for loading",
+          "example": "Fans lowered the pickup tailgate to set up barbecue grills outside the stadium."
+        },
+        {
+          "word": "ROUTE",
+          "meaning": "Designated path, road, or itinerary taken to travel from origins to destinations",
+          "example": "The bus transit company updated its express route to service the new university campus."
+        }
+      ]
+    },
+    {
+      "levelNumber": 25,
+      "title": "Vehicles Level 25",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SEDAN",
+          "meaning": "Enclosed automobile with four doors and a separate trunk compartment",
+          "example": "The family packed their luggage into the spacious sedan trunk."
+        },
+        {
+          "word": "BALLAST",
+          "meaning": "Heavy material placed in ships or balloons to improve stability and trim",
+          "example": "Submarines flood internal ballast tanks with seawater to dive beneath the surface."
+        },
+        {
+          "word": "VARIOMETER",
+          "meaning": "Rate-of-climb flight instrument indicating vertical climb or descent speed",
+          "example": "The glider variometer beeped urgently as the aircraft entered strong lift."
+        },
+        {
+          "word": "PORTHOLE",
+          "meaning": "Small circular watertight glass window installed in ship hull sides",
+          "example": "Heavy brass dogs clamped the thick glass porthole shut against crashing waves."
+        },
+        {
+          "word": "CEMENTMIXER",
+          "meaning": "Truck equipped with a rotating revolving drum keeping wet concrete liquefied",
+          "example": "The cementmixer poured fresh concrete into building foundation footings."
+        },
+        {
+          "word": "JETTY",
+          "meaning": "Structure projecting into water to protect harbors or direct currents",
+          "example": "Anglers cast fishing lines from the granite boulders of the harbor entrance jetty."
+        },
+        {
+          "word": "COMMUTE",
+          "meaning": "Daily journey traveled between home and workplace using vehicles or transit",
+          "example": "Her morning train commute provided forty quiet minutes to read books."
+        },
+        {
+          "word": "RADIATOR",
+          "meaning": "Heat exchanger cooling circulating engine fluid via passing ambient airflow",
+          "example": "A swarm of bugs clogged the cooling fins of the truck front aluminum radiator."
+        },
+        {
+          "word": "SPOILER",
+          "meaning": "Device disrupting lift over aerodynamic wings or generating rear downforce",
+          "example": "Wing spoilers popped up upon touchdown to dump lift and engage wheel brakes."
+        },
+        {
+          "word": "DRAY",
+          "meaning": "Heavy low-sided flat cart designed for carrying bulky beer barrels or timber",
+          "example": "Brewery dray horses pulled heavy wooden drays laden with oak beer casks."
+        },
+        {
+          "word": "AILERON",
+          "meaning": "Hinged flight control surface on wing trailing edges controlling roll banks",
+          "example": "Deflecting the left aileron upward initiated a smooth banked left turn."
+        },
+        {
+          "word": "TARMAC",
+          "meaning": "Colloquial term for airport runway, taxiway, or apron paved surfaces",
+          "example": "Passengers waited patiently as the plane was held on the tarmac awaiting a gate."
+        },
+        {
+          "word": "AIRFILTER",
+          "meaning": "Device removing dust and debris from incoming air before combustion induction",
+          "example": "A clean pleated paper airfilter ensures clean airflow into the engine cylinders."
+        }
+      ]
+    },
+    {
+      "levelNumber": 26,
+      "title": "Vehicles Level 26",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "ODOMETER",
+          "meaning": "Instrument recording the total cumulative distance traveled by a motor vehicle",
+          "example": "The odometer on the reliable station wagon reached two hundred thousand miles."
+        },
+        {
+          "word": "LOCOMOTIVE",
+          "meaning": "Self-propelled railway engine providing motive power to pull train cars",
+          "example": "The massive diesel locomotive hauled one hundred coal wagons uphill."
+        },
+        {
+          "word": "BOOM",
+          "meaning": "Horizontal spar pivoted to a mast holding the bottom edge of a fore-and-aft sail",
+          "example": "The sailboat crew ducked quickly as the mainsail boom swung across the cockpit."
+        },
+        {
+          "word": "WHEELWELL",
+          "meaning": "Formed cavity in vehicle bodywork within which wheels revolve and turn",
+          "example": "Plastic inner fender liners prevent stones from chipping paint inside the wheelwell."
+        },
+        {
+          "word": "CABRIOLET",
+          "meaning": "Car with a folding textile or retractable hard roof",
+          "example": "The driver lowered the cabriolet roof to enjoy the sunny ocean breeze."
+        },
+        {
+          "word": "LEAFSPRING",
+          "meaning": "Semi-elliptic laminated spring pack supporting heavy loads on truck axles",
+          "example": "Traditional leafsprings on pickup trucks offer rugged, durable load-carrying capacity."
+        },
+        {
+          "word": "FIGHTER",
+          "meaning": "Fast agile military aircraft designed primarily for air-to-air combat",
+          "example": "Supersonic fighter jets escorted the transport plane through international airspace."
+        },
+        {
+          "word": "SURREY",
+          "meaning": "Four-wheeled open pleasure carriage featuring two bench seats and fringe tops",
+          "example": "The vintage surrey featured cheerful fringed fringe along its canvas canopy."
+        },
+        {
+          "word": "MERGE",
+          "meaning": "Gradual joining of two separate traffic lanes into a single continuous stream",
+          "example": "Drivers zippered smoothly into the through lane at the highway merge ramp."
+        },
+        {
+          "word": "TRIMTAB",
+          "meaning": "Small auxiliary hinged tab fine-tuning aerodynamic control surface forces",
+          "example": "Adjusting the elevator trimtab relieved forward control stick pressure in cruise."
+        },
+        {
+          "word": "SPARETIRE",
+          "meaning": "Extra tire and wheel stored in vehicles for emergency use during flats",
+          "example": "The driver jacked up the car to swap the flat tire for the compact spareuire."
+        },
+        {
+          "word": "RAFT",
+          "meaning": "Flat buoyant floating structure constructed from logs, planks, or inflatables",
+          "example": "Castaways drifted across the open sea on a makeshift bamboo raft."
+        },
+        {
+          "word": "BILGE",
+          "meaning": "Lowest internal compartment of a ship hull collecting drainage wastewater",
+          "example": "Automated electric bilge pumps discharge accumulated seawater overboard."
+        }
+      ]
+    },
+    {
+      "levelNumber": 27,
+      "title": "Vehicles Level 27",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "BOWSPRIT",
+          "meaning": "Sturdy spar extending forward from vessel stems to anchor forward headsails",
+          "example": "Sailors climbed out along the netting beneath the wooden bowsprit."
+        },
+        {
+          "word": "OCTOCOPTER",
+          "meaning": "Heavy-lift multirotor aircraft equipped with eight spinning rotor blades",
+          "example": "Commercial filmmakers mount heavy cinema cameras onto high-payload octocopters."
+        },
+        {
+          "word": "PETROL",
+          "meaning": "Refined liquid petroleum fuel commonly used to power internal combustion engines",
+          "example": "The price of unleaded petrol fluctuated based on global crude market trends."
+        },
+        {
+          "word": "ROTORDISC",
+          "meaning": "Circular metal disc squeezed by brake caliper pads to halt wheels",
+          "example": "Ventilated rotordiscs cool rapidly to resist brake fade under heavy track driving."
+        },
+        {
+          "word": "TOLLBOOTH",
+          "meaning": "Kiosk staffed by toll collectors or automated machines on turnpikes",
+          "example": "Drivers tossed exact change into the hopper basket at the turnpike tollbooth."
+        },
+        {
+          "word": "TONNAGE",
+          "meaning": "Total internal cubic cargo capacity or displacement weight of ships",
+          "example": "The naval dockyard built merchant vessels exceeding one hundred thousand gross tonnage."
+        },
+        {
+          "word": "TRANSMISSION",
+          "meaning": "Mechanism transferring engine power to driveshafts with varied gear ratios",
+          "example": "The six-speed manual transmission delivered crisp and direct gear shifts."
+        },
+        {
+          "word": "TOBOGGAN",
+          "meaning": "Narrow flat-bottomed wooden sled curved upward at the front for snow sliding",
+          "example": "Children shrieked with delight racing their toboggan down the steep hill."
+        },
+        {
+          "word": "HEARSE",
+          "meaning": "Specially equipped vehicle used to carry a coffin in funeral ceremonies",
+          "example": "The solemn funeral procession was led by a dignified black hearse."
+        },
+        {
+          "word": "SUBWAY",
+          "meaning": "Underground electric railway network operating rapid transit across cities",
+          "example": "Millions of city workers rely on the subway system for daily commuting."
+        },
+        {
+          "word": "COMBINE",
+          "meaning": "All-in-one agricultural harvesting vehicle combining multiple crop steps",
+          "example": "The massive combine harvester filled grain trucks alongside the field."
+        },
+        {
+          "word": "SEATBELT",
+          "meaning": "Harness strap securing vehicle occupants against injury during sudden deceleration",
+          "example": "Always click your three-point seatbelt securely into the latch before driving."
+        },
+        {
+          "word": "BUCKBOARD",
+          "meaning": "Simple open four-wheeled horse-drawn wagon with seats resting on a flexible board",
+          "example": "Homesteaders traveled into town over bumpy dirt trails in a wooden buckboard."
+        }
+      ]
+    },
+    {
+      "levelNumber": 28,
+      "title": "Vehicles Level 28",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "DRYDOCK",
+          "meaning": "Enclosed basin that can be pumped dry to allow construction or repair of ship hulls",
+          "example": "The naval cruiser sat upright on wooden keel blocks inside the drained drydock."
+        },
+        {
+          "word": "HYPERSONIC",
+          "meaning": "Speeds exceeding five times the speed of sound requiring heat shielding",
+          "example": "Experimental hypersonic gliders withstand extreme friction heating upon reentry."
+        },
+        {
+          "word": "ALTIMETER",
+          "meaning": "Flight instrument displaying vehicle elevation altitude above sea level",
+          "example": "The barometric altimeter indicated the airplane was descending through five thousand feet."
+        },
+        {
+          "word": "COILSPRING",
+          "meaning": "Helical steel spring absorbing road impacts and supporting vehicle weight",
+          "example": "Heavy-duty coilsprings kept the loaded work truck level over bumpy gravel roads."
+        },
+        {
+          "word": "BLIMP",
+          "meaning": "Non-rigid steerable airship maintaining its shape solely by internal gas pressure",
+          "example": "The advertising blimp floated serenely above the outdoor football stadium."
+        },
+        {
+          "word": "WHALER",
+          "meaning": "Specialized vessel built with heavy timbers historically used to hunt whales",
+          "example": "Nineteenth-century whalers set out on three-year voyages across the Pacific."
+        },
+        {
+          "word": "THIRDRAIL",
+          "meaning": "Electrified rigid metal rail supplying traction electric current to trains",
+          "example": "Subway trains draw six hundred volts of direct current through thirdrail shoes."
+        },
+        {
+          "word": "OCTANE",
+          "meaning": "Standard rating measuring motor fuel resistance to premature engine knocking",
+          "example": "High-performance sports cars require ninety-three octane premium fuel for optimal timing."
+        },
+        {
+          "word": "ROADROLLER",
+          "meaning": "Heavy vehicular compactor with smooth steel drums smoothing road surfaces",
+          "example": "The roadroller flattened steaming asphalt during late-night freeway paving."
+        },
+        {
+          "word": "WIPER",
+          "meaning": "Rubber blade sweeping rain and snow across vehicle windshields to clear vision",
+          "example": "The automatic rain-sensing wiper cleared the torrential rain from the windshield."
+        },
+        {
+          "word": "RADOME",
+          "meaning": "Weatherproof aerodynamic enclosure protecting radar antennas from elements",
+          "example": "The bullet-shaped nose radome of the jet houses sensitive weather radar dishes."
+        },
+        {
+          "word": "DEFROSTER",
+          "meaning": "HVAC duct blowing warm dry air onto windshields to clear frost and condensation",
+          "example": "Switching on the electric rear defroster melted winter ice off the back window."
+        },
+        {
+          "word": "AMPERAGE",
+          "meaning": "Strength of electric current measured in amperes flowing through vehicle motors",
+          "example": "Heavy copper cables carry hundreds of amperes to the drive motor during acceleration."
+        }
+      ]
+    },
+    {
+      "levelNumber": 29,
+      "title": "Vehicles Level 29",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "HELIPAD",
+          "meaning": "Designated landing area marked with an 'H' for helicopters on roofs or ground",
+          "example": "The air ambulance landed smoothly on the hospital rooftop helipad."
+        },
+        {
+          "word": "SKIFF",
+          "meaning": "Light open rowboat or small motorboat used for recreational fishing and transport",
+          "example": "Anglers navigated the shallow coastal saltwater marsh in a center-console skiff."
+        },
+        {
+          "word": "RICKSHAW",
+          "meaning": "Two-wheeled passenger cart pulled by a runner or pedaled by a cyclist",
+          "example": "Tourists hopped into a cycle rickshaw to navigate crowded night markets."
+        },
+        {
+          "word": "GYROCOPTER",
+          "meaning": "Rotorcraft with an unpowered freewheeling rotor providing lift and engine for thrust",
+          "example": "The lightweight gyrocopter landed in a tiny clearing with virtually no rollout."
+        },
+        {
+          "word": "TAILROTOR",
+          "meaning": "Small sideways vertical rotor on helicopter tails counteracting main rotor torque",
+          "example": "Pedal inputs control tailrotor pitch to swing the helicopter nose left or right."
+        },
+        {
+          "word": "CHASSIS",
+          "meaning": "Base structural frame upon which the vehicle body and running gear are mounted",
+          "example": "The carbon-fiber monocoque chassis offered immense torsional stiffness."
+        },
+        {
+          "word": "WINGSPAR",
+          "meaning": "Primary internal structural beam running spanwise through airplane wings",
+          "example": "The massive carbon-fiber wingspar absorbs all flight bending and gust loads."
+        },
+        {
+          "word": "IRONCLAD",
+          "meaning": "Nineteenth-century armored warship protected by thick exterior iron plating",
+          "example": "The historic clash of ironclads revolutionized naval warfare forever."
+        },
+        {
+          "word": "TROLLEY",
+          "meaning": "Electric passenger vehicle drawing power from overhead wires via poles",
+          "example": "The electric trolley climbed the steep hills of San Francisco."
+        },
+        {
+          "word": "MUFFLER",
+          "meaning": "Device fitted in vehicle exhaust lines to attenuate sound and engine noise",
+          "example": "A punctured muffler caused the old sedan to roar loudly on neighborhood streets."
+        },
+        {
+          "word": "OILPAN",
+          "meaning": "Metal reservoir bolted beneath engine blocks holding engine lubricating oil",
+          "example": "A reinforced steel skid plate protected the cast oilpan from trail rocks."
+        },
+        {
+          "word": "BIPLANE",
+          "meaning": "Fixed-wing aircraft equipped with two wings stacked vertically one above the other",
+          "example": "A vintage biplane performed barrel rolls and loops at the regional airshow."
+        },
+        {
+          "word": "DISPLACEMENT",
+          "meaning": "Total swept volume of all engine cylinders or weight of water displaced by ships",
+          "example": "The vintage muscle car boasted an enormous seven-liter engine displacement."
+        }
+      ]
+    },
+    {
+      "levelNumber": 30,
+      "title": "Vehicles Level 30",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "TACHOMETER",
+          "meaning": "Instrument indicating engine crankshaft rotational speed in revolutions per minute",
+          "example": "The tachometer needle approached the eight-thousand-RPM redline before upshifting."
+        },
+        {
+          "word": "PROPULSION",
+          "meaning": "Action or force driving a vehicle forward through air, water, or ground",
+          "example": "Jet propulsion generates forward momentum by exhausting high-velocity hot gases."
+        },
+        {
+          "word": "GUARDRAIL",
+          "meaning": "Protective corrugated steel barrier along roadway edges preventing runoffs",
+          "example": "Galvanized steel guardrails deflected the skidding car safely along the shoulder."
+        },
+        {
+          "word": "CARWASH",
+          "meaning": "Facility equipped with automated brushes and high-pressure jets to clean vehicles",
+          "example": "Rotating foam brushes scrubbed road salt from car panels inside the tunnel carwash."
+        },
+        {
+          "word": "FERRY",
+          "meaning": "Merchant vessel designed to transport passengers and vehicles across water bodies",
+          "example": "Commuters boarded the morning passenger ferry across Puget Sound."
+        },
+        {
+          "word": "STAGECOACH",
+          "meaning": "Enclosed four-wheeled public coach pulled by horses across overland routes",
+          "example": "The nineteenth-century stagecoach carried mail and passengers across frontiers."
+        },
+        {
+          "word": "DIRIGIBLE",
+          "meaning": "Steerable lighter-than-air aircraft powered by engines and rudders",
+          "example": "Early twentieth-century aeronauts navigated dirigibles through calm twilight skies."
+        },
+        {
+          "word": "DORY",
+          "meaning": "Shallow-draft lightweight wooden boat with flared sides used by traditional fishermen",
+          "example": "Grand Banks fishermen launched dories into cold northern waters to handline cod."
+        },
+        {
+          "word": "MAST",
+          "meaning": "Tall upright spar supporting sails, rigging, radar, or antennas on vessels",
+          "example": "Sailors climbed the rigging of the wooden main mast to furl upper canvas sails."
+        },
+        {
+          "word": "FAIRING",
+          "meaning": "Aerodynamic external structure smoothing airflow over vehicle frames",
+          "example": "Streamlined plastic fairings reduced wind drag on the high-speed motorcycle."
+        },
+        {
+          "word": "PICKUP",
+          "meaning": "Light motor vehicle with an enclosed front cab and open rear cargo cargo bed",
+          "example": "Contractors prefer four-wheel-drive pickup trucks to haul tools and lumber."
+        },
+        {
+          "word": "BOGIE",
+          "meaning": "Chassis framework carrying wheelsets beneath railroad cars allowing swiveling",
+          "example": "Modern train bogies incorporate air suspension springs for quiet high-speed rides."
+        },
+        {
+          "word": "BLINKER",
+          "meaning": "Flashing directional indicator light signaling an upcoming vehicle turn",
+          "example": "Always activate your blinker before changing lanes on high-speed expressways."
+        }
+      ]
+    },
+    {
+      "levelNumber": 31,
+      "title": "Vehicles Level 31",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "DRUMBRAKE",
+          "meaning": "Brake assembly expanding curved friction shoes outward against rotating drums",
+          "example": "Rear drumbrakes provide reliable holding power for vehicle parking systems."
+        },
+        {
+          "word": "CATALYTIC",
+          "meaning": "Exhaust emission device converting toxic exhaust gases into harmless vapors",
+          "example": "The catalytic converter treats engine exhaust using precious platinum catalysts."
+        },
+        {
+          "word": "SCRAPER",
+          "meaning": "Large earthmoving machine that digs, carries, and dumps soil over distances",
+          "example": "Twin-engine scrapers leveled hillsides during airport runway expansion."
+        },
+        {
+          "word": "BOLLARD",
+          "meaning": "Stout vertical iron post on quays used to secure ship mooring lines",
+          "example": "The deckhand tossed a braided eye splice over the harbor dock bollard."
+        },
+        {
+          "word": "KEROSENE",
+          "meaning": "Combustible hydrocarbon liquid fuel refined for use in jet turbine engines",
+          "example": "Jet A-1 aviation kerosene was pumped into the airliner wing fuel tanks."
+        },
+        {
+          "word": "WARBIRD",
+          "meaning": "Vintage historic military combat aircraft preserved and flown for exhibitions",
+          "example": "Aviation enthusiasts gathered to watch restored WWII warbirds fly in formation."
+        },
+        {
+          "word": "BRIG",
+          "meaning": "Two-masted vessel with both masts fully square-rigged for ocean voyaging",
+          "example": "The historic naval brig fired a ceremonial salute from its wooden deck guns."
+        },
+        {
+          "word": "ARMORED",
+          "meaning": "Vehicle reinforced with hardened steel plate and ballistic bulletproof glass",
+          "example": "Bank couriers transferred cash canisters into the reinforced armored van."
+        },
+        {
+          "word": "CARRIAGE",
+          "meaning": "Four-wheeled horse-drawn vehicle designed for carrying passengers",
+          "example": "A horse-drawn carriage offered romantic evening tours around Central Park."
+        },
+        {
+          "word": "PUNT",
+          "meaning": "Flat-bottomed square-ended boat propelled by pushing long poles against riverbeds",
+          "example": "Students enjoyed afternoon punting along the scenic River Cam in Cambridge."
+        },
+        {
+          "word": "BUSSTOP",
+          "meaning": "Designated curbside location where public transit buses halt to load passengers",
+          "example": "A covered glass shelter shielded waiting commuters at the corner busstop."
+        },
+        {
+          "word": "PERISCOPE",
+          "meaning": "Optical tubular device allowing submerged submarines to view surface waters",
+          "example": "The submarine commander raised the periscope to scan the foggy horizon for ships."
+        },
+        {
+          "word": "DRONE",
+          "meaning": "Unmanned aerial vehicle controlled remotely or navigating autonomously",
+          "example": "The filmmaker flew a camera drone above coastal cliffs to capture scenic footage."
+        }
+      ]
+    },
+    {
+      "levelNumber": 32,
+      "title": "Vehicles Level 32",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "BREAKWATER",
+          "meaning": "Offshore barrier constructed of rock or concrete to break the force of waves",
+          "example": "The massive stone breakwater created calm, protected water inside the bay."
+        },
+        {
+          "word": "SNOWMOBILE",
+          "meaning": "Motorized vehicle running on rear rubber tracks with front skis for snow travel",
+          "example": "Rescue rangers patrolled backcountry ski slopes on reliable snowmobiles."
+        },
+        {
+          "word": "ELEVATOR",
+          "meaning": "Horizontal hinged flight control surface controlling an aircraft pitch angle",
+          "example": "Pulling back on the control yoke deflected elevators upward to pitch up."
+        },
+        {
+          "word": "LANDAU",
+          "meaning": "Luxury carriage with a convertible two-part folding leather canopy roof",
+          "example": "The royal procession featured dignitaries riding in an open ceremonial landau."
+        },
+        {
+          "word": "GARAGE",
+          "meaning": "Enclosed building or commercial facility used for storing and repairing vehicles",
+          "example": "The mechanic raised the coupe on hydraulic lifts inside the automotive garage."
+        },
+        {
+          "word": "SPEEDOMETER",
+          "meaning": "Instrument displaying real-time vehicle travel speed in miles or kilometers per hour",
+          "example": "The digital speedometer read sixty-five miles per hour on the open highway."
+        },
+        {
+          "word": "TANK",
+          "meaning": "Armored combat fighting vehicle traveling on tracks armed with large cannons",
+          "example": "The armored tank maneuvered across battlefield trenches during maneuvers."
+        },
+        {
+          "word": "ZEPPELIN",
+          "meaning": "Rigid airship constructed around an internal metal skeleton holding gas cells",
+          "example": "Historic zeppelins carried transatlantic passengers in luxurious staterooms."
+        },
+        {
+          "word": "SUPERSONIC",
+          "meaning": "Speed of travel exceeding the local speed of sound in the surrounding atmosphere",
+          "example": "The Concorde flew transatlantic passengers at supersonic speeds above Mach two."
+        },
+        {
+          "word": "RIM",
+          "meaning": "Outer metallic edge of a wheel holding the tire bead securely in place",
+          "example": "Polished chrome rims glistened beneath the streetlights at the vintage cruise night."
+        },
+        {
+          "word": "KEEL",
+          "meaning": "Longitudinal structural spine running along the center bottom of a ship hull",
+          "example": "The heavy lead bulb keel provided righting moment against heel from wind."
+        },
+        {
+          "word": "SKIDDER",
+          "meaning": "Heavy forestry vehicle dragging felled tree logs out of rugged woods",
+          "example": "The wheeled skidder hauled massive timber trunks to the logging landing."
+        },
+        {
+          "word": "FLAP",
+          "meaning": "Extendable hinged surface on wing trailing edges boosting low-speed lift",
+          "example": "Pilots extended thirty degrees of flaps to execute a steep, slow approach."
+        }
+      ]
+    },
+    {
+      "levelNumber": 33,
+      "title": "Vehicles Level 33",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "GUNWALE",
+          "meaning": "Upper edge or rim of a boat side providing longitudinal structural rigidity",
+          "example": "The canoeist rested his wooden paddle across the ash gunwales of the canoe."
+        },
+        {
+          "word": "TRANSPONDER",
+          "meaning": "Electronic receiver-transmitter broadcasting aircraft altitude and squawk code",
+          "example": "Air traffic control instructed the flight crew to squawk transponder code 4215."
+        },
+        {
+          "word": "WHEEL",
+          "meaning": "Circular frame revolving on an axle allowing vehicles to roll smoothly",
+          "example": "Mechanics bolted the lightweight alloy wheel onto the hub with torque wrenches."
+        },
+        {
+          "word": "CORACLE",
+          "meaning": "Small rounded keel-less boat made of waterproofed animal hides or canvas",
+          "example": "Welsh fishermen netted salmon from traditional circular woven coracles."
+        },
+        {
+          "word": "SPRAYER",
+          "meaning": "Agricultural vehicle applying liquid fertilizers and protective crop treatments",
+          "example": "The high-clearance crop sprayer navigated tall cornfields without snapping stalks."
+        },
+        {
+          "word": "IGNITION",
+          "meaning": "Electrical switch mechanism initiating engine starting and spark firing",
+          "example": "The driver turned the key in the ignition cylinder to start the starter motor."
+        },
+        {
+          "word": "TREAD",
+          "meaning": "Pattern of grooves grooved into tire surfaces for grip and water evacuation",
+          "example": "Deep rain sipes in the tire tread channel water away to prevent hydroplaning."
+        },
+        {
+          "word": "ELEVON",
+          "meaning": "Combined pitch and roll aerodynamic control surface used on delta wings",
+          "example": "Delta-wing fighters deflect elevons differentially for rapid rolling banks."
+        },
+        {
+          "word": "CHOPPER",
+          "meaning": "Colloquial term for a helicopter or customized motorcycle with long front forks",
+          "example": "The news reporter broadcast live rush hour traffic reports from a chopper."
+        },
+        {
+          "word": "HATCHBACK",
+          "meaning": "Car featuring a rear door that swings upward to provide cargo access",
+          "example": "Folding down the rear seats gave the compact hatchback huge storage room."
+        },
+        {
+          "word": "SHUTTLE",
+          "meaning": "Reclaimable spacecraft or transport vehicle shuttling between fixed stations",
+          "example": "The space shuttle glided onto the runway after a fourteen-day orbital mission."
+        },
+        {
+          "word": "PAYLOAD",
+          "meaning": "Weight of passengers, cargo, or instruments carried by vehicles or spacecraft",
+          "example": "The heavy cargo plane carried an eighty-ton payload across transoceanic distances."
+        },
+        {
+          "word": "THROTTLE",
+          "meaning": "Valve mechanism regulating airflow and engine power output in vehicles",
+          "example": "Stepping on the gas pedal opened the butterfly throttle to unleash full power."
+        }
+      ]
+    },
+    {
+      "levelNumber": 34,
+      "title": "Vehicles Level 34",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "PROA",
+          "meaning": "Multi-hull Pacific outrigger canoe featuring asymmetric hulls and crab-claw sails",
+          "example": "Micronesian voyagers navigated immense ocean distances aboard swift proas."
+        },
+        {
+          "word": "INTERCOOLER",
+          "meaning": "Heat exchanger cooling compressed air from turbochargers before entering engines",
+          "example": "The front-mount intercooler chilled hot intake air to increase oxygen density."
+        },
+        {
+          "word": "AUTOTHROTTLE",
+          "meaning": "Flight control computer automatically regulating aircraft engine thrust",
+          "example": "The autothrottle system maintained a steady 250 knots during descent."
+        },
+        {
+          "word": "BRAKELINE",
+          "meaning": "Hydraulic steel or braided tubing conducting high-pressure brake fluid",
+          "example": "Braided stainless steel brakelines eliminate spongy pedal feel under hard stops."
+        },
+        {
+          "word": "DHOW",
+          "meaning": "Traditional Arab sailing vessel equipped with one or more triangular lateen sails",
+          "example": "Spice traders sailed wooden dhows across the Arabian Sea for centuries."
+        },
+        {
+          "word": "LANE",
+          "meaning": "Designated marked strip of a roadway allocated for a single line of vehicles",
+          "example": "Motorists remained centered in their designated highway lane around curves."
+        },
+        {
+          "word": "EXCAVATOR",
+          "meaning": "Heavy construction vehicle with a rotating cab, boom, and digging bucket",
+          "example": "The hydraulic excavator dug a deep foundation trench for the high-rise."
+        },
+        {
+          "word": "TRAJECTORY",
+          "meaning": "Curved flight path followed by a moving projectile, rocket, or spacecraft",
+          "example": "Mission control calculated a lunar transfer trajectory to reach moon orbit."
+        },
+        {
+          "word": "FLYOVER",
+          "meaning": "High-level overpass carrying a roadway over another road or railway intersection",
+          "example": "The concrete flyover carried highway traffic high above congested rail yards."
+        },
+        {
+          "word": "SCOW",
+          "meaning": "Wide flat-bottomed rectangular cargo boat towed along calm inland waterways",
+          "example": "The gravel scow delivered hundreds of tons of crushed stone to harbor docks."
+        },
+        {
+          "word": "PIROGUE",
+          "meaning": "Small flat-bottomed boat hollowed from a tree trunk used in bayous and swamps",
+          "example": "Hunters paddled a cypress pirogue through tangled Louisiana cypress bayous."
+        },
+        {
+          "word": "THRESHER",
+          "meaning": "Mechanical farm implement separating grain seeds from husks and straw",
+          "example": "Modern combines integrate the functions of reapers and stationary threshers."
+        },
+        {
+          "word": "AMBULANCE",
+          "meaning": "Specialized medical emergency vehicle equipped to transport patients to hospitals",
+          "example": "The ambulance raced through city traffic with sirens blaring."
+        }
+      ]
+    },
+    {
+      "levelNumber": 35,
+      "title": "Vehicles Level 35",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SCOOTER",
+          "meaning": "Lightweight two-wheeled motorized vehicle with a step-through floorboard",
+          "example": "Commuters zipped past gridlocked traffic on nimble electric scooters."
+        },
+        {
+          "word": "DRIVESHAFT",
+          "meaning": "Rotating tubular shaft delivering torque from the transmission to the differential",
+          "example": "The balanced aluminum driveshaft spun silently beneath the floor of the sedan."
+        },
+        {
+          "word": "TAREWEIGHT",
+          "meaning": "Unloaded weight of an empty vehicle or container without cargo or passengers",
+          "example": "Truck scales subtracted tareweight from gross vehicle weight to measure payload."
+        },
+        {
+          "word": "COMPACTOR",
+          "meaning": "Heavy machine with weighted steel rollers used to compress soil and gravel",
+          "example": "Soil compactors ensured building pads reached mandatory structural density."
+        },
+        {
+          "word": "QUAY",
+          "meaning": "Concrete, stone, or metal platform running along shores for loading ships",
+          "example": "Cranes unloaded shipping containers directly from cargo holds onto the quay."
+        },
+        {
+          "word": "WINDLASS",
+          "meaning": "Horizontal winch machine used to raise and lower heavy ground anchors",
+          "example": "The electric windlass hauled thirty fathoms of galvanized anchor chain."
+        },
+        {
+          "word": "TRENCHER",
+          "meaning": "Construction vehicle using a continuous chain blade to dig narrow ditches",
+          "example": "The tracked trencher cut a neat trench for underground fiber optic cables."
+        },
+        {
+          "word": "HOWDAH",
+          "meaning": "Canopied passenger seat fitted securely on the back of an elephant or camel",
+          "example": "Maharajas observed hunting expeditions from decorative velvet-lined howdahs."
+        },
+        {
+          "word": "KETCH",
+          "meaning": "Two-masted sailboat with the shorter mizzen mast stepped forward of the rudder",
+          "example": "The cruising ketch provided balanced sail handling for long-distance ocean hops."
+        },
+        {
+          "word": "RUNABOUT",
+          "meaning": "Small open recreational motorboat carrying up to eight passengers for joyrides",
+          "example": "The family pulled water skiers behind their vintage wooden mahogany runabout."
+        },
+        {
+          "word": "BOMBER",
+          "meaning": "Military combat aircraft designed to carry and drop air-to-ground ordnance",
+          "example": "The long-range strategic bomber patrolled high above the clouds on alert."
+        },
+        {
+          "word": "FORKLIFT",
+          "meaning": "Industrial powered vehicle equipped with pronged forks to lift cargo pallets",
+          "example": "The warehouse worker drove the electric forklift down narrow aisles."
+        },
+        {
+          "word": "TAXI",
+          "meaning": "Licensed commercial motor vehicle available for hire with a driver and meter",
+          "example": "Commuters raised hands to hail a yellow taxi outside the central train depot."
+        }
+      ]
+    }
+  ]
+}

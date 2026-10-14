@@ -1,0 +1,1822 @@
+[
+  {
+    "word": "PLATEAU",
+    "meaning": "Area of high flat land elevated above surrounding area",
+    "example": "The high plateau offered panoramic desert views."
+  },
+  {
+    "word": "VOLCANO",
+    "meaning": "Mountain or hill with a vent erupting lava and ash",
+    "example": "Ash rose from the active volcanic crater."
+  },
+  {
+    "word": "CRATER",
+    "meaning": "Large bowl-shaped cavity in the ground",
+    "example": "The volcanic crater filled with clear rainwater over time."
+  },
+  {
+    "word": "GORGE",
+    "meaning": "Narrow valley between hills or mountains with steep walls",
+    "example": "A rushing river thundered through the narrow gorge."
+  },
+  {
+    "word": "RAVINE",
+    "meaning": "Deep narrow gorge created by running water",
+    "example": "Ferns grew along the shady walls of the damp ravine."
+  },
+  {
+    "word": "PRECIPICE",
+    "meaning": "Very steep cliff or rock face",
+    "example": "Eagles nested on the high granite precipice."
+  },
+  {
+    "word": "ESTUARY",
+    "meaning": "Tidal mouth of a large river where tide meets stream",
+    "example": "Mangroves thrived along the sheltered estuarine waters."
+  },
+  {
+    "word": "DELTA",
+    "meaning": "Triangular tract of sediment deposited at river mouth",
+    "example": "The fertile river delta nourished agricultural crops."
+  },
+  {
+    "word": "DUNES",
+    "meaning": "Mounds or ridges of sand formed by wind action",
+    "example": "Wind sculpted shifting sand dunes in the desert sunset."
+  },
+  {
+    "word": "SAVANNA",
+    "meaning": "Grassy plain in tropical and subtropical regions",
+    "example": "Herds of zebras roamed across the African savanna."
+  },
+  {
+    "word": "STEPPE",
+    "meaning": "Large area of flat unforested grassland in SE Europe or Asia",
+    "example": "Nomadic herders traversed the vast open Eurasian steppe."
+  },
+  {
+    "word": "TUNDRA",
+    "meaning": "Vast flat treeless Arctic region where subsoil is frozen",
+    "example": "Wild caribou crossed the frozen Arctic tundra plains."
+  },
+  {
+    "word": "TAIGA",
+    "meaning": "Boreal forest biome featuring evergreen conifer trees",
+    "example": "Snow covered the dense pine trees of the northern taiga."
+  },
+  {
+    "word": "SWAMP",
+    "meaning": "Area of low-lying uncultivated ground where water collects",
+    "example": "Cypress trees rooted in the quiet waters of the swamp."
+  },
+  {
+    "word": "MARSH",
+    "meaning": "Area of low wet land characterized by grasses and reeds",
+    "example": "Herons waded through tall reeds in the coastal marsh."
+  },
+  {
+    "word": "PRAIRIE",
+    "meaning": "Large open area of grassland in North America",
+    "example": "Bison grazed across the vast tallgrass prairie."
+  },
+  {
+    "word": "RAINFOREST",
+    "meaning": "Luxuriant dense forest rich in biodiversity with high rainfall",
+    "example": "Exotic birds sang in the tropical rainforest canopy."
+  },
+  {
+    "word": "WOODLAND",
+    "meaning": "Land covered with trees and open understory growth",
+    "example": "Sunlight filtered through leaves in the oak woodland."
+  },
+  {
+    "word": "GROVE",
+    "meaning": "Small group of trees without undergrowth",
+    "example": "A quiet grove of ancient olive trees shaded the hill."
+  },
+  {
+    "word": "CAVERN",
+    "meaning": "Large cave or chamber under the earth surface",
+    "example": "Stalactites hung from the ceiling of the underground cavern."
+  },
+  {
+    "word": "GROTTO",
+    "meaning": "Small picturesque cave near water or in a garden",
+    "example": "Sea waves lapped gently inside the coastal grotto."
+  },
+  {
+    "word": "SINKHOLE",
+    "meaning": "Cavity in ground caused by collapse of surface layer",
+    "example": "Underground water dissolved limestone forming a cenote sinkhole."
+  },
+  {
+    "word": "KARST",
+    "meaning": "Landscape formed from dissolution of soluble rocks",
+    "example": "Towering karst limestone formations rose from the river."
+  },
+  {
+    "word": "BASIN",
+    "meaning": "Depression in earth's surface containing water or sediment",
+    "example": "The drainage basin funneled rainfall into the river."
+  },
+  {
+    "word": "FJORD",
+    "meaning": "Long narrow deep inlet of sea between high cliffs",
+    "example": "Glacial meltwaters filled the deep Norwegian fjord."
+  },
+  {
+    "word": "SOUND",
+    "meaning": "Narrow stretch of sea or ocean water between two landmasses",
+    "example": "Whales swam gracefully through the coastal island sound."
+  },
+  {
+    "word": "BAY",
+    "meaning": "Broad inlet of the sea where land curves inward",
+    "example": "Sailboats anchored safely inside the quiet ocean bay."
+  },
+  {
+    "word": "GULF",
+    "meaning": "Deep inlet of sea almost surrounded by land",
+    "example": "Warmer ocean currents flowed through the tropical gulf."
+  },
+  {
+    "word": "COVE",
+    "meaning": "Small sheltered bay or coastal recess",
+    "example": "Rocky cliffs enclosed the quiet secluded pebble cove."
+  },
+  {
+    "word": "HEADLAND",
+    "meaning": "Narrow piece of land projecting high into sea",
+    "example": "Crashing waves battered the dramatic coastal headland."
+  },
+  {
+    "word": "PROMONTORY",
+    "meaning": "Point of high land jutting out into sea or water",
+    "example": "The historic lighthouse overlooked the stormy promontory."
+  },
+  {
+    "word": "BLUFF",
+    "meaning": "Steep cliff or bank beside river or sea",
+    "example": "River bluffs provided panoramic views of the valley."
+  },
+  {
+    "word": "BUTTE",
+    "meaning": "Isolated hill with steep sides and flat top",
+    "example": "Red sandstone buttes rose dramatically from desert floor."
+  },
+  {
+    "word": "MESA",
+    "meaning": "Flat-topped mountain or hill with steep sides",
+    "example": "The mesa stood tall above the arid canyon landscape."
+  },
+  {
+    "word": "ESCARPMENT",
+    "meaning": "Long steep slope or cliff resulting from erosion",
+    "example": "The limestone escarpment extended across three counties."
+  },
+  {
+    "word": "MORAINE",
+    "meaning": "Mass of rocks and sediment carried down by glacier",
+    "example": "Glaciers deposited glacial moraine boulders along edges."
+  },
+  {
+    "word": "CALDERA",
+    "meaning": "Large volcanic crater formed by collapsed volcano",
+    "example": "Lake filled the massive ancient volcanic caldera."
+  },
+  {
+    "word": "GEYSER",
+    "meaning": "Hot spring in which water intermittently boils and shoots",
+    "example": "Old Faithful geyser erupted towering plumes of steam."
+  },
+  {
+    "word": "HOTSPRING",
+    "meaning": "Spring produced by emergence of geothermally heated water",
+    "example": "Bathers relaxed in mineral-rich geothermal hotspring pools."
+  },
+  {
+    "word": "BROOK",
+    "meaning": "Small stream of natural fresh water",
+    "example": "A babbling brook meandered through the quiet meadow."
+  },
+  {
+    "word": "CREEK",
+    "meaning": "Natural stream of water smaller than a river",
+    "example": "Children splashed in the shallow gravelly creek."
+  },
+  {
+    "word": "TRIBUTARY",
+    "meaning": "Stream or river flowing into a larger main river",
+    "example": "Mountain streams fed into the river as tributaries."
+  },
+  {
+    "word": "CASCADE",
+    "meaning": "Small waterfall or series of small steep falls",
+    "example": "Water cascaded down mossy granite rock steps."
+  },
+  {
+    "word": "RAPIDS",
+    "meaning": "Fast-flowing turbulent section of a river course",
+    "example": "Kayakers navigated white-water river rapids."
+  },
+  {
+    "word": "TORRENT",
+    "meaning": "Strong fast-moving stream of water or rain",
+    "example": "Spring rains turned dry stream beds into raging torrents."
+  },
+  {
+    "word": "RESERVOIR",
+    "meaning": "Large natural or artificial lake used as water supply",
+    "example": "The mountain reservoir supplied fresh drinking water."
+  },
+  {
+    "word": "SURF",
+    "meaning": "Mass of white foam formed by crashing ocean waves",
+    "example": "Surfers paddled through crashing coastal surf."
+  },
+  {
+    "word": "TIDE",
+    "meaning": "Alternate rising and falling of the sea caused by moon",
+    "example": "Low tide revealed tidepools filled with sea stars."
+  },
+  {
+    "word": "RIPCURRENT",
+    "meaning": "Strong narrow current of water flowing away from shore",
+    "example": "Swimmers were warned about hazardous ripcurrent hazards."
+  },
+  {
+    "word": "WHIRLPOOL",
+    "meaning": "Swirling rapid vortex of water produced by currents",
+    "example": "Swirling eddies formed a powerful ocean whirlpool."
+  },
+  {
+    "word": "STREAMBED",
+    "meaning": "Channel bottom occupied by a flowing stream",
+    "example": "Smooth colored pebbles lined the clear streambed."
+  },
+  {
+    "word": "RIVERBANK",
+    "meaning": "Terrain bordering a river along its course",
+    "example": "Willow trees dipped branches along the quiet riverbank."
+  },
+  {
+    "word": "SHORELINE",
+    "meaning": "Fringe of land at the edge of a large body of water",
+    "example": "Shorebirds fed on sand insects along the shoreline."
+  },
+  {
+    "word": "WETLAND",
+    "meaning": "Land consisting of marshes or swamps; saturated soil",
+    "example": "Wetland preserves protected vital migrating waterfowl."
+  },
+  {
+    "word": "AQUIFER",
+    "meaning": "Underground layer of water-bearing permeable rock",
+    "example": "Deep aquifer wells pumped fresh groundwater to farms."
+  },
+  {
+    "word": "BAYOU",
+    "meaning": "Marshy outlet of a lake or river in southern US",
+    "example": "Cypress trees draped in Spanish moss lined the bayou."
+  },
+  {
+    "word": "CHANNEL",
+    "meaning": "Length of water joining two larger areas of sea",
+    "example": "Ships navigated the deep ocean shipping channel."
+  },
+  {
+    "word": "STRAIT",
+    "meaning": "Narrow passage of water connecting two seas",
+    "example": "The Strait of Gibraltar connected the Atlantic to the sea."
+  },
+  {
+    "word": "MOONLIGHT",
+    "meaning": "Light shed by the moon at night",
+    "example": "Moonlight reflected silvery ripples across the lake."
+  },
+  {
+    "word": "RAINBOW",
+    "meaning": "Arch of colors formed by refraction of sun in rain",
+    "example": "A double rainbow arched over the valley after storm."
+  },
+  {
+    "word": "RAINDROP",
+    "meaning": "Single drop of rain falling from clouds",
+    "example": "A single raindrop rippled the surface of the pond."
+  },
+  {
+    "word": "DOWNPOUR",
+    "meaning": "Heavy torrential fall of rain",
+    "example": "A sudden afternoon downpour soaked the forest trail."
+  },
+  {
+    "word": "MONSOON",
+    "meaning": "Seasonal prevailing wind bringing heavy rainfall",
+    "example": "Monsoon rains revitalized dry agricultural fields."
+  },
+  {
+    "word": "DRIZZLE",
+    "meaning": "Light rain falling in very fine drops",
+    "example": "Gentle drizzle dampened the pine needle forest floor."
+  },
+  {
+    "word": "SHOWERS",
+    "meaning": "Brief rainfall events occurring over an area",
+    "example": "Scattered spring showers refreshed blooming meadow flowers."
+  },
+  {
+    "word": "SNOWFALL",
+    "meaning": "Fall of snow or total amount fallen",
+    "example": "Heavy snowfall accumulated two feet on mountain passes."
+  },
+  {
+    "word": "AVALANCHE",
+    "meaning": "Mass of snow, ice, and rocks falling rapidly down slope",
+    "example": "Explosives triggered a controlled avalanche safety drop."
+  },
+  {
+    "word": "HOARFROST",
+    "meaning": "Deposit of needle-like ice crystals on cold surfaces",
+    "example": "Hoarfrost glistened like diamonds on winter tree branches."
+  },
+  {
+    "word": "ICEBERGS",
+    "meaning": "Large floating masses of ice detached from glaciers",
+    "example": "Icebergs drifted slowly through polar fjord waters."
+  },
+  {
+    "word": "HAILSTONE",
+    "meaning": "Pellet of ice falling in hail shower",
+    "example": "Large hailstones bounced off greenhouse glass roofs."
+  },
+  {
+    "word": "SLEET",
+    "meaning": "Rain containing mixture of snow and ice pellets",
+    "example": "Freezing sleet coated roads in slippery winter ice."
+  },
+  {
+    "word": "THUNDER",
+    "meaning": "Loud rumbling sound following a flash of lightning",
+    "example": "Peals of thunder echoed across the stormy valley."
+  },
+  {
+    "word": "LIGHTNING",
+    "meaning": "Flash of bright light produced by atmospheric electricity",
+    "example": "Jagged lightning illuminated dark storm clouds."
+  },
+  {
+    "word": "THUNDERSTORM",
+    "meaning": "Weather storm with lightning, thunder, and rain",
+    "example": "A summer thunderstorm cooled off the humid air."
+  },
+  {
+    "word": "TEMPEST",
+    "meaning": "Violent windy storm with rain, hail, or snow",
+    "example": "The sailing ship weathered the furious sea tempest."
+  },
+  {
+    "word": "TORNADO",
+    "meaning": "Mobile destructive vortex of violently rotating winds",
+    "example": "The funnel cloud of the tornado touched down in fields."
+  },
+  {
+    "word": "HURRICANE",
+    "meaning": "Tropical cyclone with violent winds and heavy rain",
+    "example": "Coastal towns prepared for the approaching hurricane."
+  },
+  {
+    "word": "TYPHOON",
+    "meaning": "Tropical storm in western Pacific Ocean region",
+    "example": "Typhoon winds generated massive coastal sea surges."
+  },
+  {
+    "word": "CYCLONE",
+    "meaning": "System of winds rotating inward to low pressure area",
+    "example": "The tropical cyclone brought torrential island rains."
+  },
+  {
+    "word": "GALE",
+    "meaning": "Very strong wind between breeze and storm force",
+    "example": "Gale force winds whipped sea foam across the ocean."
+  },
+  {
+    "word": "ZEPHYR",
+    "meaning": "Gentle mild soft breeze from the west",
+    "example": "A zephyr blew gently across the warm summer garden."
+  },
+  {
+    "word": "CUMULUS",
+    "meaning": "Puffy white clouds with flat bases and rounded tops",
+    "example": "Fluffy white cumulus clouds drifted across blue skies."
+  },
+  {
+    "word": "STRATUS",
+    "meaning": "Flat featureless cloud layer covering the sky",
+    "example": "A low stratus cloud deck shrouded coastal hills in gray."
+  },
+  {
+    "word": "CIRRUS",
+    "meaning": "High wispy clouds formed of ice crystals",
+    "example": "Thin wispy cirrus clouds signaled approaching warm fronts."
+  },
+  {
+    "word": "NIMBUS",
+    "meaning": "Dark rain-bearing cloud covering the sky",
+    "example": "Dark nimbus clouds gathered before the downpour."
+  },
+  {
+    "word": "HUMIDITY",
+    "meaning": "Amount of water vapor present in atmospheric air",
+    "example": "High tropical humidity made the rainforest air feel dense."
+  },
+  {
+    "word": "STRATOSPHERE",
+    "meaning": "Layer of earth's atmosphere above troposphere",
+    "example": "Commercial jets cruised in the calm upper stratosphere."
+  },
+  {
+    "word": "AURORA",
+    "meaning": "Natural light display in sky especially high latitudes",
+    "example": "Green lights of the aurora danced across Arctic skies."
+  },
+  {
+    "word": "NORTHERNLIGHTS",
+    "meaning": "Aurora borealis visible in northern high latitudes",
+    "example": "Tourists traveled north to witness the northernlights."
+  },
+  {
+    "word": "SOLSTICE",
+    "meaning": "Time when sun reaches highest or lowest point in sky",
+    "example": "Summer solstice featured the longest daylight of year."
+  },
+  {
+    "word": "EQUINOX",
+    "meaning": "Time when day and night are of equal duration",
+    "example": "Vernal equinox marked the official arrival of spring."
+  },
+  {
+    "word": "TWILIGHT",
+    "meaning": "Soft glowing light from sky between sunset and night",
+    "example": "Bats emerged during the peaceful evening twilight."
+  },
+  {
+    "word": "DAWN",
+    "meaning": "First appearance of light in the morning sky",
+    "example": "Birds began singing in the forest at the break of dawn."
+  },
+  {
+    "word": "DUSK",
+    "meaning": "Period of twilight between sunset and darkness",
+    "example": "Crickets chirped as dusk fell over the countryside."
+  },
+  {
+    "word": "AFTERGLOW",
+    "meaning": "Light emitted by sky after sun has set",
+    "example": "A pink afterglow painted mountain peaks after sunset."
+  },
+  {
+    "word": "BIOSPHERE",
+    "meaning": "Regions of surface, atmosphere, and hydrosphere occupied",
+    "example": "The global biosphere encompasses all living ecosystems."
+  },
+  {
+    "word": "ECOSYSTEM",
+    "meaning": "Biological community of interacting organisms and environment",
+    "example": "Coral reefs represent vibrant marine ecosystems."
+  },
+  {
+    "word": "HABITAT",
+    "meaning": "Natural home or environment of an animal or plant",
+    "example": "Old growth forests provided vital owl habitat."
+  },
+  {
+    "word": "ENVIRONMENT",
+    "meaning": "Surroundings or conditions in which an organism lives",
+    "example": "Clean air and water support a healthy environment."
+  },
+  {
+    "word": "PRESERVATION",
+    "meaning": "Maintenance of wild areas in their natural state",
+    "example": "Wilderness preservation protected untouched valleys."
+  },
+  {
+    "word": "ECOLOGY",
+    "meaning": "Branch of biology dealing with relations of organisms",
+    "example": "Ecology studies energy flow through food webs."
+  },
+  {
+    "word": "WILDLIFE",
+    "meaning": "Wild animals collectively native to an area",
+    "example": "Infrared cameras monitored nocturnal forest wildlife."
+  },
+  {
+    "word": "CLEARING",
+    "meaning": "Open space in a forest cleared of trees",
+    "example": "Deer grazed in a sunny forest clearing at dawn."
+  },
+  {
+    "word": "PASTURE",
+    "meaning": "Land covered with grass suitable for grazing",
+    "example": "Cattle grazed peacefully on green rolling pastures."
+  },
+  {
+    "word": "GLADE",
+    "meaning": "Open space in a forest filled with light",
+    "example": "Wildflowers bloomed in a sunlit forest glade."
+  },
+  {
+    "word": "UNDERSTORY",
+    "meaning": "Layer of vegetation beneath main forest canopy",
+    "example": "Shade-tolerant ferns thrived in the damp understory."
+  },
+  {
+    "word": "TIMBERLINE",
+    "meaning": "Elevation limit beyond which trees cannot grow",
+    "example": "Stunted pine trees grew just below the mountain timberline."
+  },
+  {
+    "word": "SUBALPINE",
+    "meaning": "Relating to region just below snow line on mountains",
+    "example": "Subalpine meadows featured vibrant lupine blooms."
+  },
+  {
+    "word": "TEMPERATE",
+    "meaning": "Region characterized by mild moderate temperatures",
+    "example": "Temperate rainforests produced massive cedar trees."
+  },
+  {
+    "word": "BEDROCK",
+    "meaning": "Solid rock underlying loose surface deposits",
+    "example": "Glaciers scraped bare granite bedrock clean."
+  },
+  {
+    "word": "SEDIMENT",
+    "meaning": "Matter that settles to the bottom of a liquid",
+    "example": "River currents deposited fine mineral sediment."
+  },
+  {
+    "word": "ALLUVIUM",
+    "meaning": "Deposit of clay, silt, and sand left by flowing water",
+    "example": "Alluvium soil deposits created rich agricultural delta land."
+  },
+  {
+    "word": "PEBBLES",
+    "meaning": "Small smooth rounded stones worn by water",
+    "example": "Waves rolled smooth colored pebbles along beach."
+  },
+  {
+    "word": "BOULDERS",
+    "meaning": "Large smooth rocks worn by water or weather",
+    "example": "Moss covered giant glacial boulders in the woods."
+  },
+  {
+    "word": "GRANITE",
+    "meaning": "Hard igneous rock consisting of quartz and feldspar",
+    "example": "Climbers ascended the sheer granite face of El Capitan."
+  },
+  {
+    "word": "BASALT",
+    "meaning": "Dark fine-grained volcanic rock forming columns",
+    "example": "Hexagonal basalt columns formed along ancient lava flows."
+  },
+  {
+    "word": "LIMESTONE",
+    "meaning": "Hard sedimentary rock composed mainly of calcium",
+    "example": "Underground rivers carved caves into limestone strata."
+  },
+  {
+    "word": "SANDSTONE",
+    "meaning": "Sedimentary rock consisting of sand grains cemented",
+    "example": "Wind sculpted red sandstone arches in the canyon."
+  },
+  {
+    "word": "OBSIDIAN",
+    "meaning": "Dark natural glass formed by cooling lava",
+    "example": "Ancient peoples knapped sharp obsidian arrowheads."
+  },
+  {
+    "word": "FOSSIL",
+    "meaning": "Remains or impression of a prehistoric organism",
+    "example": "Fossil imprints of ancient fern leaves were found in shale."
+  },
+  {
+    "word": "MAGMA",
+    "meaning": "Hot fluid or semi-fluid material below earth crust",
+    "example": "Magma chambers beneath volcanoes fed geothermal vents."
+  },
+  {
+    "word": "LAVA",
+    "meaning": "Hot molten rock erupted from a volcano",
+    "example": "Glowing red lava flows cooled into black basalt rock."
+  },
+  {
+    "word": "PUMICE",
+    "meaning": "Very light porous volcanic rock that floats on water",
+    "example": "Pumice stones floated along the volcanic lake shore."
+  },
+  {
+    "word": "EROSION",
+    "meaning": "Process of eroding by wind, water, or natural agents",
+    "example": "Canyon walls showed millions of years of water erosion."
+  },
+  {
+    "word": "WEATHERING",
+    "meaning": "Wear away or change texture by long exposure to atmosphere",
+    "example": "Chemical weathering broke down ancient granite cliffs."
+  },
+  {
+    "word": "GEOTHERMAL",
+    "meaning": "Relating to internal heat of the earth planet",
+    "example": "Geothermal power plants harnessed subterranean steam."
+  },
+  {
+    "word": "SEISMIC",
+    "meaning": "Relating to earthquakes or earth vibrations",
+    "example": "Seismic sensors detected minor earth fault tremors."
+  },
+  {
+    "word": "TREMOR",
+    "meaning": "Involuntary vibration or slight earthquake shock",
+    "example": "A mild seismic tremor shook tea cups on shelves."
+  },
+  {
+    "word": "EARTHQUAKE",
+    "meaning": "Sudden violent shaking of ground caused by tectonic movement",
+    "example": "Fault line movements triggered an earthquake."
+  },
+  {
+    "word": "TSUNAMI",
+    "meaning": "Long high sea wave caused by an earthquake",
+    "example": "Coastal warning systems alerted towns to tsunami waves."
+  },
+  {
+    "word": "LANDSLIDE",
+    "meaning": "Sliding down of a mass of earth or rock from cliff",
+    "example": "Heavy rains triggered a massive mountain landslide."
+  },
+  {
+    "word": "ADAPTATION",
+    "meaning": "Process of change by which an organism becomes suited",
+    "example": "Thick fur was a arctic adaptation to freezing cold."
+  },
+  {
+    "word": "PERMAFROST",
+    "meaning": "ThICK subsurface layer of soil remaining frozen",
+    "example": "Building on permafrost required specialized insulated stilts."
+  },
+  {
+    "word": "RIPARIAN",
+    "meaning": "Relating to wetlands or land adjacent to rivers",
+    "example": "Riparian vegetation prevented riverbank soil erosion."
+  },
+  {
+    "word": "SINKHOLES",
+    "meaning": "Cavities in ground caused by collapse of surface",
+    "example": "Limestone sinkholes formed natural freshwater swimming holes."
+  },
+  {
+    "word": "GEYSERS",
+    "meaning": "Geothermal hot springs shooting plumes of steam and water",
+    "example": "Yellowstone park preserves world famous erupting geysers."
+  },
+  {
+    "word": "CREVASSE",
+    "meaning": "Deep open crack or fissure in a glacier",
+    "example": "Glacier mountaineers stepped carefully over a deep crevasse."
+  },
+  {
+    "word": "MONADNOCK",
+    "meaning": "Isolated hill or mountain standing above plain",
+    "example": "Mount Monadnock rose dramatically above surrounding hills."
+  },
+  {
+    "word": "MORAINES",
+    "meaning": "Accumulations of glacial debris and boulders",
+    "example": "Receding glaciers left lateral moraines along valley walls."
+  },
+  {
+    "word": "DRUMLIN",
+    "meaning": "Oval or elongated hill formed by glacial ice",
+    "example": "Glacial movement sculpted smooth drumlin hills."
+  },
+  {
+    "word": "ESKER",
+    "meaning": "Long winding ridge of gravel deposited by meltwater stream",
+    "example": "The winding esker ridge stretched across tundra plains."
+  },
+  {
+    "word": "SPIT",
+    "meaning": "Narrow coastal landform extending into sea or bay",
+    "example": "Sandy spit sheltered the quiet bay from open ocean waves."
+  },
+  {
+    "word": "BARRIERISLAND",
+    "meaning": "Long narrow offshore sand island parallel to coast",
+    "example": "Barrierisland dunes protected mainland salt marshes."
+  },
+  {
+    "word": "SHALE",
+    "meaning": "Soft finely stratified sedimentary rock",
+    "example": "Fossilized marine shells were preserved in black shale."
+  },
+  {
+    "word": "SCHIST",
+    "meaning": "Coarse-grained metamorphic rock with layered minerals",
+    "example": "Glittering mica schist rocks sparkled in sunlight."
+  },
+  {
+    "word": "GNEISS",
+    "meaning": "Metamorphic rock with distinct light and dark bands",
+    "example": "Banded gneiss rock formed ancient mountain roots."
+  },
+  {
+    "word": "TUFF",
+    "meaning": "Light porous rock formed from consolidated volcanic ash",
+    "example": "Ancient dwellers carved homes into soft volcanic tuff cliffs."
+  },
+  {
+    "word": "REGOLITH",
+    "meaning": "Layer of loose heterogeneous material covering solid rock",
+    "example": "Weathered regolith soil layer supported mountain plants."
+  },
+  {
+    "word": "LOESS",
+    "meaning": "Windblown silt forming fertile yellowish dust deposits",
+    "example": "Windblown loess deposits created rich agricultural soils."
+  },
+  {
+    "word": "TALUS",
+    "meaning": "Sloping mass of loose rock debris at base of cliff",
+    "example": "Hikers carefully crossed the steep rock talus slope."
+  },
+  {
+    "word": "SCREE",
+    "meaning": "Mass of small loose stones covering a mountain slope",
+    "example": "Scree slid underfoot as climbers descended steep gullies."
+  },
+  {
+    "word": "HEADWATERS",
+    "meaning": "Streams forming the source of a river",
+    "example": "Protected wilderness preserves mountain headwaters."
+  },
+  {
+    "word": "BACKWATER",
+    "meaning": "Part of a river not reached by current; quiet marsh",
+    "example": "Quiet backwater channels hosted nesting water birds."
+  },
+  {
+    "word": "MEANDER",
+    "meaning": "Winding curve or bend in a river or stream",
+    "example": "The slow river formed wide loops in a graceful meander."
+  },
+  {
+    "word": "OXBOW",
+    "meaning": "U-shaped lake formed when river meander is cut off",
+    "example": "An oxbow lake marked the former river course."
+  },
+  {
+    "word": "CHINOOK",
+    "meaning": "Warm dry wind blowing down eastern slopes of Rockies",
+    "example": "Warm chinook winds melted winter snow cover rapidly."
+  },
+  {
+    "word": "HABOOB",
+    "meaning": "Violent dust storm or sandstorm in arid regions",
+    "example": "A towering haboob dust wall advanced across desert."
+  },
+  {
+    "word": "SIROCCO",
+    "meaning": "Hot wind blowing from Sahara across Mediterranean",
+    "example": "Warm sirocco winds brought desert dust to Southern Europe."
+  },
+  {
+    "word": "MISTRAL",
+    "meaning": "Strong cold dry northwesterly wind in southern France",
+    "example": "Cold mistral winds cleared skies over coastal valleys."
+  },
+  {
+    "word": "BOREAS",
+    "meaning": "Ancient Greek term for cold north wind",
+    "example": "Boreas brought icy northern gales in deep winter."
+  },
+  {
+    "word": "DOLDUMS",
+    "meaning": "Equatorial ocean region noted for calm windless weather",
+    "example": "Sailing ships lay becalmed for days in the ocean doldrums."
+  },
+  {
+    "word": "HORSELATITUDES",
+    "meaning": "Subtropical high pressure regions with light winds",
+    "example": "Light winds prevailed across oceanic horselatitudes."
+  },
+  {
+    "word": "PLATEAUS",
+    "meaning": "Multiple elevated high flat land landforms",
+    "example": "Desert plateaus offered sweeping panoramic vistas."
+  },
+  {
+    "word": "GLACIERS",
+    "meaning": "Massive rivers of moving ice in alpine valleys",
+    "example": "Alpine glaciers carved deep trough valleys."
+  },
+  {
+    "word": "VOLCANOES",
+    "meaning": "Erupting mountains venting lava and ash clouds",
+    "example": "Island volcanoes formed new land masses."
+  },
+  {
+    "word": "CRATERS",
+    "meaning": "Bowl-shaped volcanic or impact land depressions",
+    "example": "Impact craters dotted the ancient lunar surface."
+  },
+  {
+    "word": "GORGES",
+    "meaning": "Deep narrow river valleys with sheer rock walls",
+    "example": "Kayakers paddled through deep river gorges."
+  },
+  {
+    "word": "RAVINES",
+    "meaning": "Narrow steep-sided valleys carved by water runoff",
+    "example": "Shady ravines hosted lush fern colonies."
+  },
+  {
+    "word": "PRECIPICES",
+    "meaning": "Sheer vertical cliff faces or rock drops",
+    "example": "Falcons soared past rocky mountain precipices."
+  },
+  {
+    "word": "ESTUARIES",
+    "meaning": "Tidal river mouths where fresh and salt water mix",
+    "example": "Estuaries protected rich juvenile fish nurseries."
+  },
+  {
+    "word": "DELTAS",
+    "meaning": "Triangular sediment deposits at river mouths",
+    "example": "Silt deposits built fertile river deltas."
+  },
+  {
+    "word": "PENINSULAS",
+    "meaning": "Land masses projected into ocean or sea",
+    "example": "Scenic coastal roads traversed rocky peninsulas."
+  },
+  {
+    "word": "ARCHIPELAGOS",
+    "meaning": "Groups or chains of islands in open ocean",
+    "example": "Tropical archipelagos featured pristine coral reefs."
+  },
+  {
+    "word": "LAGOONS",
+    "meaning": "Shallow ocean bodies protected by barrier reefs",
+    "example": "Tranquil lagoons shimmered in turquoise hues."
+  },
+  {
+    "word": "SAVANNAS",
+    "meaning": "Tropical grasslands scattered with individual trees",
+    "example": "Savannas hosted migrating wildebeest herds."
+  },
+  {
+    "word": "STEPPES",
+    "meaning": "Vast treeless grassland plains of Eurasia",
+    "example": "Wind swept across wide Eurasian steppes."
+  },
+  {
+    "word": "TUNDRAS",
+    "meaning": "Treeless Arctic regions with permafrost soils",
+    "example": "Summer tundras bloomed with low dwarf shrubs."
+  },
+  {
+    "word": "TAIGAS",
+    "meaning": "Subarctic conifer forest biomes of pine and spruce",
+    "example": "Taigas spanned vast northern continents."
+  },
+  {
+    "word": "SWAMPS",
+    "meaning": "Forested wetlands flooded with slow moving water",
+    "example": "Cypress swamps sheltered alligators and egrets."
+  },
+  {
+    "word": "MARSHES",
+    "meaning": "Grassy wetlands saturated with fresh or salt water",
+    "example": "Salt marshes cushioned coastal erosion."
+  },
+  {
+    "word": "PRAIRIES",
+    "meaning": "Vast North American tallgrass ecosystems",
+    "example": "Prairie grasses swayed in afternoon winds."
+  },
+  {
+    "word": "WOODLANDS",
+    "meaning": "Open canopy forests filled with ground flowers",
+    "example": "Deciduous woodlands changed colors in autumn."
+  },
+  {
+    "word": "GROVES",
+    "meaning": "Small clusters of trees growing in open fields",
+    "example": "Pine groves provided fragrant shaded trails."
+  },
+  {
+    "word": "CAVERNS",
+    "meaning": "Large subterranean cave systems with formations",
+    "example": "Calcite dripstones decorated underground caverns."
+  },
+  {
+    "word": "GROTTOS",
+    "meaning": "Picturesque small caves near water or rocks",
+    "example": "Blue grottos sparkled with azure water light."
+  },
+  {
+    "word": "KARSTS",
+    "meaning": "Limestone landscapes characterized by caves and sinkholes",
+    "example": "Towering karst peaks rose over river valleys."
+  },
+  {
+    "word": "BASINS",
+    "meaning": "Large structural depressions in earth's crust",
+    "example": "Interior drainage basins collected rain runoff."
+  },
+  {
+    "word": "FJORDS",
+    "meaning": "Glacial sea inlets bounded by steep mountain walls",
+    "example": "Cruise ships navigated deep icy fjords."
+  },
+  {
+    "word": "SOUNDS",
+    "meaning": "Large sea or ocean inlets broader than fjords",
+    "example": "Orcas hunted within sheltered coastal sounds."
+  },
+  {
+    "word": "BAYS",
+    "meaning": "Body of water partially enclosed by curved land",
+    "example": "Fishermen anchored boats in calm ocean bays."
+  },
+  {
+    "word": "GULFS",
+    "meaning": "Large ocean inlets penetrating deep into land",
+    "example": "Warm currents circulated inside tropical gulfs."
+  },
+  {
+    "word": "COVES",
+    "meaning": "Small sheltered coastal inlets with narrow entrances",
+    "example": "Secluded sandy coves offered quiet swimming."
+  },
+  {
+    "word": "HEADLANDS",
+    "meaning": "High coastal cliffs jutting out into sea waves",
+    "example": "Crashing waves carved sea arches into headlands."
+  },
+  {
+    "word": "PROMONTORIES",
+    "meaning": "Prominent high land masses overlooking water",
+    "example": "Lighthouses stood atop dramatic promontories."
+  },
+  {
+    "word": "BLUFFS",
+    "meaning": "High steep banks or cliffs overlooking rivers",
+    "example": "River bluffs offered views across agricultural plains."
+  },
+  {
+    "word": "BUTTES",
+    "meaning": "Isolated steep-sided flat-topped desert towers",
+    "example": "Red rock buttes stood like desert sentinels."
+  },
+  {
+    "word": "MESAS",
+    "meaning": "Broad flat-topped elevated landforms with steep sides",
+    "example": "Mesas rose dramatically above dry canyon floors."
+  },
+  {
+    "word": "ESCARPMENTS",
+    "meaning": "Long continuous cliffs formed by faulting or erosion",
+    "example": "Limestone escarpments stretched for miles."
+  },
+  {
+    "word": "CALDERAS",
+    "meaning": "Massive volcanic craters formed by collapsed magmas",
+    "example": "Calderas filled with deep blue volcanic lakes."
+  },
+  {
+    "word": "HOTSPRINGS",
+    "meaning": "Geothermally heated natural mineral spring pools",
+    "example": "Mineral hotsprings warmed mountain valley pools."
+  },
+  {
+    "word": "SIERRA",
+    "meaning": "Jagged range of steep snow-capped mountains",
+    "example": "The granite peaks of the mountain sierra sparkled."
+  },
+  {
+    "word": "CORDILLERA",
+    "meaning": "Extensive system of parallel mountain chains",
+    "example": "The continental cordillera spanned the coast."
+  },
+  {
+    "word": "MOUNTAINSIDE",
+    "meaning": "Sloping side of a mountain towering over valley",
+    "example": "Pine forests covered the steep mountainside."
+  },
+  {
+    "word": "OUTWASH",
+    "meaning": "Deposit of sand and gravel dropped by glacial meltwater",
+    "example": "Outwash plains spread out below glacier snouts."
+  },
+  {
+    "word": "ERRATIC",
+    "meaning": "Large boulder transported and dropped by glacial ice",
+    "example": "Glacial erratic boulders rested on bedrock."
+  },
+  {
+    "word": "CIRQUE",
+    "meaning": "Amphitheater-shaped valley hollow carved by glacial head",
+    "example": "Alpine tarn lakes filled deep glacial cirques."
+  },
+  {
+    "word": "ARETE",
+    "meaning": "Sharp narrow mountain ridge between two glacial cirques",
+    "example": "Climbers traversed the knife-edge granite arete."
+  },
+  {
+    "word": "HORNPEAK",
+    "meaning": "Pyramidal mountain peak formed by surrounding cirques",
+    "example": "The Matterhorn is a famous alpine hornpeak."
+  },
+  {
+    "word": "TARN",
+    "meaning": "Small mountain lake formed in a glacial cirque",
+    "example": "Crystal clear waters filled the high alpine tarn."
+  },
+  {
+    "word": "SALTFLAT",
+    "meaning": "Flat expanse of land covered with salt crust",
+    "example": "Reflective water covered the vast desert saltflat."
+  },
+  {
+    "word": "PLAYA",
+    "meaning": "Dry vegetation-free flat basin in arid regions",
+    "example": "Wind blew dust across the dry desert playa."
+  },
+  {
+    "word": "SLOUGH",
+    "meaning": "Swamp or shallow lake system in river backwater",
+    "example": "Herons waded through the calm muddy slough."
+  },
+  {
+    "word": "MOOR",
+    "meaning": "Tract of open uncultivated peaty upland covered in heather",
+    "example": "Purple heather bloomed across Scottish moors."
+  },
+  {
+    "word": "HEATH",
+    "meaning": "Area of wild uncultivated land with dwarf shrubs",
+    "example": "Golden gorse covered the open coastal heath."
+  },
+  {
+    "word": "EVERGLADES",
+    "meaning": "Subtropical wetland marsh ecosystem in Florida",
+    "example": "Alligators glided through sawgrass everglades."
+  },
+  {
+    "word": "SCREES",
+    "meaning": "Slopes of loose rock debris at mountain base",
+    "example": "Footsteps slid descending steep gravel screes."
+  },
+  {
+    "word": "TALUSES",
+    "meaning": "Slopes formed by accumulated rockfall debris",
+    "example": "Climbers scrambled up steep granite taluses."
+  },
+  {
+    "word": "ALLUVIAL",
+    "meaning": "Relating to clay, silt, and gravel deposited by rivers",
+    "example": "Alluvial fan deposits spread across valley floors."
+  },
+  {
+    "word": "STREAMBEDS",
+    "meaning": "Bottom channels occupied by flowing streams",
+    "example": "Golden sand lined clear mountain streambeds."
+  },
+  {
+    "word": "RIVERBANKS",
+    "meaning": "Earthen borders bounding river water flow",
+    "example": "Willows grew along grassy riverbanks."
+  },
+  {
+    "word": "SHORELINES",
+    "meaning": "Fringes of land bordering oceans or lakes",
+    "example": "Migrating shorebirds fed along ocean shorelines."
+  },
+  {
+    "word": "WETLANDS",
+    "meaning": "Saturated land ecosystems like marshes and bogs",
+    "example": "Wetlands filtered water and absorbed floodwaters."
+  },
+  {
+    "word": "AQUIFERS",
+    "meaning": "Underground layers of water-bearing rock or gravel",
+    "example": "Subterranean aquifers supplied pristine spring water."
+  },
+  {
+    "word": "WATERWAY",
+    "meaning": "Navigable body of water such as river or canal",
+    "example": "Barges navigated the wide inland waterway."
+  },
+  {
+    "word": "RIVERBED",
+    "meaning": "Ground over which a river flows or used to flow",
+    "example": "Dry riverbed exposed smooth river stones."
+  },
+  {
+    "word": "WATERSHED",
+    "meaning": "Area of land draining all water to a common outlet",
+    "example": "Forest protection preserved clean watershed runoff."
+  },
+  {
+    "word": "CASCADES",
+    "meaning": "Series of small waterfalls cascading over rocks",
+    "example": "Foaming water tumbled down mountain cascades."
+  },
+  {
+    "word": "WATERFALLS",
+    "meaning": "Roaring vertical descents of river water",
+    "example": "Mist cooled the air near towering waterfalls."
+  },
+  {
+    "word": "TORRENTS",
+    "meaning": "Violent rushing streams of water from storms",
+    "example": "Flash floods created dangerous mud torrents."
+  },
+  {
+    "word": "RIPPLES",
+    "meaning": "Small waves or undulations on water surface",
+    "example": "Gentle breezes created light water ripples."
+  },
+  {
+    "word": "SURFS",
+    "meaning": "Foaming ocean waves breaking on coastal shores",
+    "example": "Crashing surfs echoed along sandy beaches."
+  },
+  {
+    "word": "UNDERTOW",
+    "meaning": "Subsurface current pulling water out to sea",
+    "example": "Swimmers watched for strong ocean undertow."
+  },
+  {
+    "word": "SWELL",
+    "meaning": "Series of long open ocean waves traveling far",
+    "example": "Surfers waited for massive ocean swell sets."
+  },
+  {
+    "word": "WHITECAPS",
+    "meaning": "White foamy crests on wind-blown ocean waves",
+    "example": "Strong winds whipped up ocean whitecaps."
+  },
+  {
+    "word": "GYRE",
+    "meaning": "Large system of circulating ocean currents",
+    "example": "Ocean gyre systems circulated across basins."
+  },
+  {
+    "word": "EDDIES",
+    "meaning": "Circular movement of water counter to main current",
+    "example": "Trout rested in calm river eddies behind rocks."
+  },
+  {
+    "word": "WHIRLPOOLS",
+    "meaning": "Swirling vortices of water created by opposing tides",
+    "example": "Tidal currents created dangerous sea whirlpools."
+  },
+  {
+    "word": "UPWELLING",
+    "meaning": "Rising of cold nutrient-rich water from ocean depth",
+    "example": "Ocean upwelling fed rich marine plankton blooms."
+  },
+  {
+    "word": "THERMOCLINE",
+    "meaning": "Layer in water body where temperature changes rapidly",
+    "example": "Divers felt cold water crossing the thermocline."
+  },
+  {
+    "word": "PELAGIC",
+    "meaning": "Relating to open ocean waters away from coast",
+    "example": "Pelagic seabirds soared over deep blue water."
+  },
+  {
+    "word": "ABYSSAL",
+    "meaning": "Relating to deep ocean depths below 2000 meters",
+    "example": "Abyssal plain creatures adapted to pitch dark."
+  },
+  {
+    "word": "BENTHIC",
+    "meaning": "Relating to the lowest level of ocean or lake floor",
+    "example": "Benthic organisms lived in seafloor sediments."
+  },
+  {
+    "word": "HYDROTHERMAL",
+    "meaning": "Relating to heated water vents on ocean floor",
+    "example": "Hydrothermal vents spewed mineral-rich black smoke."
+  },
+  {
+    "word": "SEAFLOOR",
+    "meaning": "Bottom floor surface of an ocean or sea",
+    "example": "Submarines mapped uncharted deep seafloor rifts."
+  },
+  {
+    "word": "SEAMOUNT",
+    "meaning": "Submerged mountain rising from ocean floor",
+    "example": "Seamount structures created rich marine habitats."
+  },
+  {
+    "word": "TRENCH",
+    "meaning": "Long narrow deep depression in ocean floor",
+    "example": "Mariana Trench is the deepest ocean rift."
+  },
+  {
+    "word": "ABYSS",
+    "meaning": "Vast unfathomable depth of the ocean floor",
+    "example": "Deep sea rovers explored the silent ocean abyss."
+  },
+  {
+    "word": "SUNBEAM",
+    "meaning": "Ray of sunlight shining through clouds or trees",
+    "example": "A sunbeam illuminated dust motes in the woods."
+  },
+  {
+    "word": "SUNRAYS",
+    "meaning": "Rays of light radiating from the sun",
+    "example": "Sunrays warmed cool morning mountain air."
+  },
+  {
+    "word": "MOONBEAM",
+    "meaning": "Ray of light shed by the bright moon",
+    "example": "A moonbeam glowed across calm lake waters."
+  },
+  {
+    "word": "MOONRISE",
+    "meaning": "Appearance of the moon above the horizon",
+    "example": "Full moonrise cast silver light across night hills."
+  },
+  {
+    "word": "LIGHTNINGS",
+    "meaning": "Electric discharge flashes during storms",
+    "example": "Multiple lightnings illuminated dark night skies."
+  },
+  {
+    "word": "THUNDERCLAP",
+    "meaning": "Sudden loud crash of thunder sound",
+    "example": "A sudden thunderclap rattled cabin windows."
+  },
+  {
+    "word": "THUNDERBOLT",
+    "meaning": "Flash of lightning accompanied by sudden thunder",
+    "example": "A bolt of thunderbolt struck the tall pine tree."
+  },
+  {
+    "word": "DOWNPOURS",
+    "meaning": "Heavy torrential rainfall events",
+    "example": "Sudden summer downpours filled rain barrels."
+  },
+  {
+    "word": "MONSOONS",
+    "meaning": "Seasonal wind systems bringing heavy rains",
+    "example": "Monsoons filled dry lakes and rivers."
+  },
+  {
+    "word": "DRIZZLES",
+    "meaning": "Light fine rain falling continuously",
+    "example": "Cool misty drizzles dampened morning trails."
+  },
+  {
+    "word": "SNOWFALLS",
+    "meaning": "Accumulations of snow falling from clouds",
+    "example": "Heavy winter snowfalls blanketed ski slopes."
+  },
+  {
+    "word": "SNOWDRIFT",
+    "meaning": "Bank of snow heaped up by the wind",
+    "example": "Deep snowdrift blocked mountain forest roads."
+  },
+  {
+    "word": "SNOWBANK",
+    "meaning": "Large mound or heap of accumulated snow",
+    "example": "Snowplows cleared roads building tall snowbanks."
+  },
+  {
+    "word": "SNOWPACK",
+    "meaning": "Accumulated mass of snow compressing over winter",
+    "example": "Mountain snowpack provided summer water runoff."
+  },
+  {
+    "word": "SNOWFLURRY",
+    "meaning": "Very light brief snowfall event",
+    "example": "A light snowflurry dusted evergreen branches."
+  },
+  {
+    "word": "FROSTS",
+    "meaning": "Deposits of minute ice crystals on cold surfaces",
+    "example": "Autumn frosts turned maple leaves crimson."
+  },
+  {
+    "word": "HOARFROSTS",
+    "meaning": "Feathery ice crystal deposits on frozen trees",
+    "example": "Crystalline hoarfrosts transformed winter woods."
+  },
+  {
+    "word": "ICICLES",
+    "meaning": "Hanging tapered spears of frozen drip ice",
+    "example": "Melting icicles dripped from cabin roof eaves."
+  },
+  {
+    "word": "ICECAP",
+    "meaning": "Mass of glacial ice covering high mountain area",
+    "example": "Polar icecap preserves paleoclimate ice cores."
+  },
+  {
+    "word": "ICESHEET",
+    "meaning": "Vast glacier mass covering continental land",
+    "example": "Greenland icesheet stores freshwater reserves."
+  },
+  {
+    "word": "ICEFIELD",
+    "meaning": "Extensive area of interconnected mountain glaciers",
+    "example": "Columbia Icefield fed major river headwaters."
+  },
+  {
+    "word": "HAILSTONES",
+    "meaning": "Pellets of frozen rain falling from thunderstorms",
+    "example": "Large hailstones damaged orchard fruit crops."
+  },
+  {
+    "word": "WINDBREAK",
+    "meaning": "Line of trees planted to block wind forces",
+    "example": "Pine windbreak sheltered farmhouse fields."
+  },
+  {
+    "word": "WINDSTORM",
+    "meaning": "Storm with high damaging wind speeds",
+    "example": "A fierce windstorm knocked down dead branches."
+  },
+  {
+    "word": "DUSTSTORM",
+    "meaning": "Wall of blowing dust whipped by high winds",
+    "example": "A duststorm reduced desert road visibility."
+  },
+  {
+    "word": "SANDSTORM",
+    "meaning": "Desert gale blowing high clouds of sand",
+    "example": "Camels crouched down during the desert sandstorm."
+  },
+  {
+    "word": "DOWNDRAFT",
+    "meaning": "Downward current of air during thunderstorm",
+    "example": "Severe downdraft winds pushed air to ground."
+  },
+  {
+    "word": "UPDRAFT",
+    "meaning": "Upward current of warm air feeding storm cloud",
+    "example": "Gliders soared on warm mountain thermal updrafts."
+  },
+  {
+    "word": "THERMAL",
+    "meaning": "Rising column of warm air used by soaring birds",
+    "example": "Hawks circled high on an ascending thermal air current."
+  },
+  {
+    "word": "CUMULONIMBUS",
+    "meaning": "Dense towering thunderstorm cloud of high vertical growth",
+    "example": "An anvil-topped cumulonimbus cloud brought hail."
+  },
+  {
+    "word": "ALTOCUMULUS",
+    "meaning": "Mid-level grey or white cloud patches or sheets",
+    "example": "Altocumulus clouds created a dappled mackerel sky."
+  },
+  {
+    "word": "ALTOSTRATUS",
+    "meaning": "Grayish mid-level cloud sheet covering whole sky",
+    "example": "Altostratus clouds dimmed the sun like frosted glass."
+  },
+  {
+    "word": "STRATOCUMULUS",
+    "meaning": "Low lumpy gray or whitish cloud masses",
+    "example": "Stratocumulus clouds rolled in over ocean waters."
+  },
+  {
+    "word": "CIRROCUMULUS",
+    "meaning": "High small cloud patches formed of ice crystals",
+    "example": "Cirrocumulus clouds formed delicate rippled skies."
+  },
+  {
+    "word": "CIRROSTRATUS",
+    "meaning": "High thin sheet-like cloud veil causing halos",
+    "example": "Cirrostratus clouds produced a halo around moon."
+  },
+  {
+    "word": "NIMBOSTRATUS",
+    "meaning": "Dark continuous rain cloud producing steady precipitation",
+    "example": "Nimbostratus clouds brought daylong steady rain."
+  },
+  {
+    "word": "DEWDROPS",
+    "meaning": "Drops of water condensed on cool morning grass",
+    "example": "Glistening dewdrops hung from spider web threads."
+  },
+  {
+    "word": "STRATOSPHERIC",
+    "meaning": "Relating to the upper atmospheric ozone layer",
+    "example": "Stratospheric ozone absorbed ultraviolet solar radiation."
+  },
+  {
+    "word": "TROPOSPHERIC",
+    "meaning": "Relating to lowest atmospheric weather layer",
+    "example": "Tropospheric air currents drove global weather patterns."
+  },
+  {
+    "word": "AURORAS",
+    "meaning": "Luminous night sky light displays in polar regions",
+    "example": "Shimmering green auroras illuminated Arctic night."
+  },
+  {
+    "word": "CREPUSCULAR",
+    "meaning": "Relating to twilight hours or sunbeams through clouds",
+    "example": "Crepuscular rays radiated from behind sunlit clouds."
+  },
+  {
+    "word": "SEDIMENTS",
+    "meaning": "Settled mineral particles deposited by water or wind",
+    "example": "River sediments formed rich delta bottom soil."
+  },
+  {
+    "word": "GRAVELS",
+    "meaning": "Coarse sand and small water-worn stones",
+    "example": "Gravels lined clear mountain trout streams."
+  },
+  {
+    "word": "GRANITES",
+    "meaning": "Hard coarse-grained igneous rocks forming mountains",
+    "example": "Sheer granites formed massive canyon cliffs."
+  },
+  {
+    "word": "BASALTS",
+    "meaning": "Dark dense volcanic rocks forming ocean floor",
+    "example": "Cooling basalts formed hexagonal pillar columns."
+  },
+  {
+    "word": "LIMESTONES",
+    "meaning": "Sedimentary calcium rocks formed from marine shells",
+    "example": "Limestones dissolved forming underground caverns."
+  },
+  {
+    "word": "SANDSTONES",
+    "meaning": "Sedimentary rocks composed of cemented sand grains",
+    "example": "Wind sculpted red sandstones into natural arches."
+  },
+  {
+    "word": "OBSIDIANS",
+    "meaning": "Dark glassy volcanic rocks created by flash cooling",
+    "example": "Volcanic obsidian produced razor-sharp edges."
+  },
+  {
+    "word": "PUMICES",
+    "meaning": "Light porous volcanic rocks that float on water",
+    "example": "Frothy pumices drifted ashore after eruptions."
+  },
+  {
+    "word": "EROSIONS",
+    "meaning": "Gradual wearing away of rocks by wind and water",
+    "example": "Erosions sculpted dramatic desert hoodoos."
+  },
+  {
+    "word": "WEATHERINGS",
+    "meaning": "Physical breaking down of rocks by atmospheric forces",
+    "example": "Frost weatherings split granite boulders apart."
+  },
+  {
+    "word": "GEOTHERMALS",
+    "meaning": "Internal natural earth heat energy sources",
+    "example": "Subterranean geothermals heated natural hot springs."
+  },
+  {
+    "word": "SEISMICS",
+    "meaning": "Vibrations and shock waves produced by earthquakes",
+    "example": "Seismics instruments recorded deep tectonic shifts."
+  },
+  {
+    "word": "TREMORS",
+    "meaning": "Minor earthquake shocks or vibrations in ground",
+    "example": "Subtle earth tremors registered on seismographs."
+  },
+  {
+    "word": "EARTHQUAKES",
+    "meaning": "Sudden tectonic ruptures causing ground shaking",
+    "example": "Earthquakes reshaped coastline rock formations."
+  },
+  {
+    "word": "TSUNAMIS",
+    "meaning": "Giant sea waves generated by underwater earthquakes",
+    "example": "Oceanic tsunamis surged across low coastal reefs."
+  },
+  {
+    "word": "LANDSLIDES",
+    "meaning": "Mass downward movements of earth and rock debris",
+    "example": "Heavy monsoon rains caused sudden hillside landslides."
+  },
+  {
+    "word": "ROCKFALLS",
+    "meaning": "Falling of detached rock masses down steep cliffs",
+    "example": "Spring thaws triggered dangerous cliff rockfalls."
+  },
+  {
+    "word": "TECTONICS",
+    "meaning": "Large-scale structural features and movements of crust",
+    "example": "Plate tectonics built massive mountain ranges."
+  },
+  {
+    "word": "FAULTLINE",
+    "meaning": "Fracture line in earth's crust along which movement occurs",
+    "example": "Tectonic tension built up along the active faultline."
+  },
+  {
+    "word": "IGNEOUS",
+    "meaning": "Rocks formed by cooling of molten magma or lava",
+    "example": "Granite and basalt are common igneous rocks."
+  },
+  {
+    "word": "SEDIMENTARY",
+    "meaning": "Rocks formed by consolidation of deposited sediment",
+    "example": "Sandstone and limestone are sedimentary rocks."
+  },
+  {
+    "word": "METAMORPHIC",
+    "meaning": "Rocks transformed by high heat and intense pressure",
+    "example": "Marble and slate are metamorphic rock forms."
+  },
+  {
+    "word": "STRATA",
+    "meaning": "Layers of sedimentary rock or soil in earth",
+    "example": "Exposed rock strata revealed millions of years of history."
+  },
+  {
+    "word": "CRYSTALLINE",
+    "meaning": "Having structure and clarity of natural crystals",
+    "example": "Crystalline quartz sparkled inside hollow geodes."
+  },
+  {
+    "word": "ASTROBLEME",
+    "meaning": "Erosion-sculpted ancient meteorite impact crater",
+    "example": "The astrobleme ring structure was visible from satellite orbit."
+  },
+  {
+    "word": "BARCHAN",
+    "meaning": "Crescent-shaped sand dune facing prevailing wind",
+    "example": "Barchan sand dunes migrated across desert plains."
+  },
+  {
+    "word": "SEIFDUNE",
+    "meaning": "Long narrow sand dune parallel to wind direction",
+    "example": "Seifdune ridges stretched across the Empty Quarter."
+  },
+  {
+    "word": "YARDANG",
+    "meaning": "Streamlined wind-eroded ridge of compact rock",
+    "example": "Wind carved clay beds into razor-backed yardang ridges."
+  },
+  {
+    "word": "HOODOO",
+    "meaning": "Tall thin spire of rock formed by erosion",
+    "example": "Bryce Canyon hoodoos glowed orange in sunrise light."
+  },
+  {
+    "word": "INSELBERG",
+    "meaning": "Isolated rock hill rising abruptly from gentle plain",
+    "example": "A towering granite inselberg dominated the plain."
+  },
+  {
+    "word": "PLAYALAKE",
+    "meaning": "Ephemeral shallow lake formed in arid basin",
+    "example": "Spring rain created a temporary playalake in desert."
+  },
+  {
+    "word": "SALINA",
+    "meaning": "Salt marsh or salt pond where salt is deposited",
+    "example": "Flamingos nested along coastal salina pools."
+  },
+  {
+    "word": "SOLFATARA",
+    "meaning": "Volcanic vent emitting sulfurous gases and steam",
+    "example": "Yellow sulfur crystals encrusted solfatara vents."
+  },
+  {
+    "word": "FUMAROLE",
+    "meaning": "Opening in earth's crust emitting steam and gases",
+    "example": "Steam hissed from mountain fumarole fissures."
+  },
+  {
+    "word": "LAHAR",
+    "meaning": "Destructive mudflow on the slopes of a volcano",
+    "example": "Volcanic ash mixed with rain to form a sweeping lahar."
+  },
+  {
+    "word": "TEPHRA",
+    "meaning": "Rock fragments and particles ejected by volcanic eruption",
+    "example": "Thick layers of volcanic tephra blanketed the hillside."
+  },
+  {
+    "word": "IGNIMBRITE",
+    "meaning": "Volcanic rock formed by hot ash flows",
+    "example": "Ignimbrite cliffs preserved ancient pyroclastic deposits."
+  },
+  {
+    "word": "PYROCLASTIC",
+    "meaning": "Relating to rock fragments hurled by a volcano",
+    "example": "Pyroclastic flows swept down volcanic slopes."
+  },
+  {
+    "word": "LITHOSPHERE",
+    "meaning": "Rigid outer part of earth consisting of crust and mantle",
+    "example": "Tectonic plates make up earth's lithosphere."
+  },
+  {
+    "word": "ASTHENOSPHERE",
+    "meaning": "Upper layer of earth mantle below lithosphere",
+    "example": "Magma convection occurs within asthenosphere."
+  },
+  {
+    "word": "PEDOSPHERE",
+    "meaning": "Outermost layer of earth composed of soil",
+    "example": "The pedosphere connects rocks, water, air, and life."
+  },
+  {
+    "word": "HYDROSPHERE",
+    "meaning": "All water on earth surface such as lakes and seas",
+    "example": "Oceans form the largest component of hydrosphere."
+  },
+  {
+    "word": "CRYOSPHERE",
+    "meaning": "Frozen water part of earth system including glaciers",
+    "example": "Sea ice and permafrost constitute cryosphere."
+  },
+  {
+    "word": "BIOMASS",
+    "meaning": "Total mass of organisms in a given area or volume",
+    "example": "Rainforests represent highest terrestrial biomass."
+  },
+  {
+    "word": "ECOTONE",
+    "meaning": "Transition area between two biological communities",
+    "example": "The marsh ecotone supported aquatic and land species."
+  },
+  {
+    "word": "AUTOTROPH",
+    "meaning": "Organism capable of synthesizing its own food",
+    "example": "Green plants act as primary autotroph producers."
+  },
+  {
+    "word": "HETEROTROPH",
+    "meaning": "Organism deriving nutritional requirements from organic sources",
+    "example": "Herbivores and carnivores are heterotroph consumers."
+  },
+  {
+    "word": "DECOMPOSER",
+    "meaning": "Organism that breaks down organic material",
+    "example": "Fungi and bacteria act as essential forest decomposers."
+  },
+  {
+    "word": "SAPROPHYTE",
+    "meaning": "Plant, fungus, or microorganism living on dead matter",
+    "example": "Saprophyte mushrooms decayed fallen log timber."
+  },
+  {
+    "word": "PERENNIALS",
+    "meaning": "Plants living for more than two years continuously",
+    "example": "Wild mountain perennials bloomed every spring."
+  },
+  {
+    "word": "EVERGREENS",
+    "meaning": "Plants having foliage that remains green year-round",
+    "example": "Conifer evergreens retained needles through winter."
+  },
+  {
+    "word": "EVAPORATION",
+    "meaning": "Process of turning liquid water into vapor",
+    "example": "Sun heat accelerated lake water evaporation."
+  },
+  {
+    "word": "CONDENSATION",
+    "meaning": "Water vapor turning into liquid water droplets",
+    "example": "Cloud formation resulted from atmospheric condensation."
+  },
+  {
+    "word": "PRECIPITATION",
+    "meaning": "Rain, snow, sleet, or hail falling to ground",
+    "example": "Heavy annual precipitation nourished rainforests."
+  },
+  {
+    "word": "PERCOLATION",
+    "meaning": "Downward movement of water through soil and rock",
+    "example": "Rainwater percolation replenished underground aquifers."
+  },
+  {
+    "word": "WATERTABLE",
+    "meaning": "Upper surface of underground zone of saturation",
+    "example": "Abundant rainfall raised regional watertable level."
+  },
+  {
+    "word": "WELLSPRING",
+    "meaning": "Original source of a water stream or spring",
+    "example": "A mountain wellspring fed pristine trout creek."
+  },
+  {
+    "word": "RIFFLE",
+    "meaning": "Shallow fast-moving section of stream over rocks",
+    "example": "Trout fed on stoneflies in river riffle."
+  },
+  {
+    "word": "UNDERTOWS",
+    "meaning": "Subsurface currents pulling water away from beach",
+    "example": "Warning signs cautioned bathers against sea undertows."
+  },
+  {
+    "word": "LONGSHORE",
+    "meaning": "Current running parallel to coastal shoreline",
+    "example": "Longshore drift transported beach sand along coast."
+  },
+  {
+    "word": "ESTUARINE",
+    "meaning": "Relating to or formed in a river estuary",
+    "example": "Estuarine wetlands protected migrating juvenile salmon."
+  },
+  {
+    "word": "INTERTIDAL",
+    "meaning": "Area of seashore exposed at low tide and covered at high",
+    "example": "Intertidal rock pools sheltered sea urchins."
+  },
+  {
+    "word": "SUBLITTORAL",
+    "meaning": "Region of seashore below low tide mark",
+    "example": "Sublittoral kelp forests hosted sea otters."
+  },
+  {
+    "word": "NERITIC",
+    "meaning": "Shallow part of ocean above continental shelf",
+    "example": "Neritic ocean waters supported rich fisheries."
+  },
+  {
+    "word": "BATHYAL",
+    "meaning": "Relating to ocean depths between 1000 and 4000 meters",
+    "example": "Bathyal sea life adapted to high pressure."
+  },
+  {
+    "word": "HALOCLINE",
+    "meaning": "Subsurface layer of water where salinity changes rapidly",
+    "example": "Divers noted a clear halocline density layer."
+  },
+  {
+    "word": "PYCNOCLINE",
+    "meaning": "Layer in water body where density increases rapidly",
+    "example": "Pycnocline stratification prevented water mixing."
+  },
+  {
+    "word": "MICROCLIMATE",
+    "meaning": "Local atmospheric zone where climate differs from area",
+    "example": "Shady canyon walls created cool damp microclimate."
+  },
+  {
+    "word": "ISOTHERM",
+    "meaning": "Line on map connecting points of equal temperature",
+    "example": "Weather maps plotted spring isotherm contours."
+  },
+  {
+    "word": "ISOBAR",
+    "meaning": "Line on weather map connecting points of equal pressure",
+    "example": "Closely spaced isobars indicated high gale winds."
+  },
+  {
+    "word": "ANTICYCLONE",
+    "meaning": "Weather system with high pressure center and dry air",
+    "example": "An anticyclone brought clear sunny winter skies."
+  },
+  {
+    "word": "MICROBURSTS",
+    "meaning": "Localized sudden intense downdrafts of air",
+    "example": "Severe microbursts flattened forest timber stands."
+  },
+  {
+    "word": "DERECHO",
+    "meaning": "Widespread long-lived straight-line windstorm",
+    "example": "A midwest derecho damaged trees with high gusts."
+  },
+  {
+    "word": "NIMBOS",
+    "meaning": "Dark rain-bearing cloud formations",
+    "example": "Dark nimbos clouds darkened the horizon."
+  },
+  {
+    "word": "MACKERELSKY",
+    "meaning": "Sky covered with small dappled altocumulus clouds",
+    "example": "A mackerel sky signaled changing weather patterns."
+  },
+  {
+    "word": "VIRGA",
+    "meaning": "Streaks of rain evaporating before reaching ground",
+    "example": "Desert rain created delicate virga curtains in air."
+  }
+]

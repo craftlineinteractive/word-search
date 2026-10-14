@@ -1,0 +1,1882 @@
+[
+  {
+    "word": "BACKPLANE",
+    "definition": "Group of electrical connectors connected in parallel",
+    "example": "Server chassis used high-speed backplane."
+  },
+  {
+    "word": "SOLENOID",
+    "definition": "Coil acting as magnet when carrying current",
+    "example": "Electromagnetic solenoid actuated automated lock."
+  },
+  {
+    "word": "MODULATOR",
+    "definition": "Device varying characteristics of carrier wave",
+    "example": "Digital modulators encoded data onto radio waves."
+  },
+  {
+    "word": "DEMODULATOR",
+    "definition": "Device extracting information signal from carrier wave",
+    "example": "Demodulators decoded incoming digital signals into data."
+  },
+  {
+    "word": "MEMRISTOR",
+    "definition": "Non-volatile electronic memory element",
+    "example": "Memristors promise dense neuromorphic computing."
+  },
+  {
+    "word": "NANOTUBE",
+    "definition": "Nanometer-scale tube of carbon atoms",
+    "example": "Carbon nanotubes offer exceptional electrical conductivity."
+  },
+  {
+    "word": "GRAPHENE",
+    "definition": "Two-dimensional carbon atom lattice",
+    "example": "Graphene transistors enable high-frequency signal processing."
+  },
+  {
+    "word": "WAVEGUIDE",
+    "definition": "Structure guiding electromagnetic waves or light",
+    "example": "Optical waveguides directed light signals across photonic chips."
+  },
+  {
+    "word": "FIBEROPTIC",
+    "definition": "Technology transmitting data as light pulses",
+    "example": "Fiberoptic cables delivered ultra-fast internet backbones."
+  },
+  {
+    "word": "COPROCESSOR",
+    "definition": "Microprocessor supplementing primary processor",
+    "example": "Graphics processing units act as dedicated mathematical coprocessors."
+  },
+  {
+    "word": "PHOTOLITHOGRAPHY",
+    "definition": "Process using light to transfer geometric patterns to substrate",
+    "example": "Semiconductor fabs used extreme ultraviolet photolithography."
+  },
+  {
+    "word": "LITHOGRAPHY",
+    "definition": "Printing process transferring patterns onto silicon wafer",
+    "example": "Advanced lithography etched sub-nanometer chip features."
+  },
+  {
+    "word": "ALGORITHM",
+    "definition": "Process or set of rules followed in calculations",
+    "example": "Sorting algorithms optimize data search and retrieval."
+  },
+  {
+    "word": "COMPILER",
+    "definition": "Program translating high-level code into machine instructions",
+    "example": "Rust compiler performed strict memory safety checks."
+  },
+  {
+    "word": "ASSEMBLER",
+    "definition": "Program converting assembly language into machine code",
+    "example": "Assemblers translate low-level mnemonic instructions to binary."
+  },
+  {
+    "word": "TRANSPILED",
+    "definition": "Source code converted from one language to another",
+    "example": "TypeScript source code is transpiled into JavaScript."
+  },
+  {
+    "word": "HYPERVISOR",
+    "definition": "Software creating and running virtual machines",
+    "example": "Bare-metal hypervisor managed virtual server instances."
+  },
+  {
+    "word": "VIRTUALIZATION",
+    "definition": "Creating virtual version of computing resources",
+    "example": "Server virtualization optimized hardware resource utilization."
+  },
+  {
+    "word": "ORCHESTRATION",
+    "definition": "Automated management of computer systems and services",
+    "example": "Container orchestration simplified microservices deployment."
+  },
+  {
+    "word": "KUBERNETES",
+    "definition": "Open-source system automating container application deployment",
+    "example": "Kubernetes clusters automatically scaled web services."
+  },
+  {
+    "word": "FRAMEWORK",
+    "definition": "Essential supporting structure for software development",
+    "example": "Web framework provided built-in routing modules."
+  },
+  {
+    "word": "MIDDLEWARE",
+    "definition": "Software connecting operating system features with apps",
+    "example": "Database middleware handled connection pooling."
+  },
+  {
+    "word": "POLYMORPHISM",
+    "definition": "Ability of language to process objects differently by type",
+    "example": "Polymorphism allowed clean method overriding in subclasses."
+  },
+  {
+    "word": "ENCAPSULATION",
+    "definition": "Bundling data and methods operating on that data within unit",
+    "example": "Encapsulation protected private state from unauthorized modification."
+  },
+  {
+    "word": "ABSTRACTION",
+    "definition": "Hiding complex implementation details behind simple interface",
+    "example": "Software abstraction layers hid device driver complexity."
+  },
+  {
+    "word": "INHERITANCE",
+    "definition": "Mechanism where new class adopts properties of existing class",
+    "example": "Class inheritance allowed reusable base logic in UI."
+  },
+  {
+    "word": "IMMUTABILITY",
+    "definition": "Inability of object state to be modified after creation",
+    "example": "Data immutability prevented multithreading concurrency bugs."
+  },
+  {
+    "word": "MEMOIZATION",
+    "definition": "Optimization technique caching function call results",
+    "example": "Memoization reduced calculation time for recursive functions."
+  },
+  {
+    "word": "ASYNCHRONOUS",
+    "definition": "Operations executing independently of main program flow",
+    "example": "Asynchronous network requests prevented UI freezes."
+  },
+  {
+    "word": "CONCURRENCY",
+    "definition": "Execution of multiple instruction sequences simultaneously",
+    "example": "Concurrency mechanisms managed incoming web requests."
+  },
+  {
+    "word": "MULTITHREADING",
+    "definition": "Technique allowing execution of multiple threads concurrently",
+    "example": "Multithreading enabled smooth UI rendering during background tasks."
+  },
+  {
+    "word": "DEADLOCK",
+    "definition": "Situation where execution cannot proceed as processes block each other",
+    "example": "Proper lock acquisition ordering prevented database deadlocks."
+  },
+  {
+    "word": "MUTEX",
+    "definition": "Program object preventing simultaneous access to shared resource",
+    "example": "Mutex locks protected shared state from race conditions."
+  },
+  {
+    "word": "SEMAPHORE",
+    "definition": "Variable used to control access to common resource",
+    "example": "Counting semaphores limited concurrent database connections."
+  },
+  {
+    "word": "COROUTINE",
+    "definition": "Component generalizing subroutines for non-preemptive multitasking",
+    "example": "Async coroutines yielded control during slow I/O operations."
+  },
+  {
+    "word": "SCHEDULER",
+    "definition": "Component allocating processor time among tasks",
+    "example": "OS process scheduler balanced workload across CPU cores."
+  },
+  {
+    "word": "REFACTORING",
+    "definition": "Restructuring code without changing external behavior",
+    "example": "Code refactoring improved readability and reduced technical debt."
+  },
+  {
+    "word": "PARSER",
+    "definition": "Software component analyzing syntax of input stream",
+    "example": "Compiler parser constructed abstract syntax trees."
+  },
+  {
+    "word": "LEXER",
+    "definition": "Program analyzing character streams into tokens",
+    "example": "Lexer tokenized source code strings for compiler analysis."
+  },
+  {
+    "word": "DECOMPILER",
+    "definition": "Software converting machine code back to high-level source",
+    "example": "Security researchers used decompilers to inspect binary payloads."
+  },
+  {
+    "word": "LINTER",
+    "definition": "Tool analyzing source code to flag programming errors",
+    "example": "Static linters caught syntax flaws before deployment."
+  },
+  {
+    "word": "PROFILER",
+    "definition": "Program analyzing code performance during runtime execution",
+    "example": "Memory profilers identified leaks in background daemons."
+  },
+  {
+    "word": "DISASSEMBLER",
+    "definition": "Program translating binary machine code to assembly language",
+    "example": "Reverse engineers used disassembler to audit binary execution."
+  },
+  {
+    "word": "TOKENIZER",
+    "definition": "Lexical component breaking text strings into discrete tokens",
+    "example": "Source tokenizer created lexical tokens for compiler parser."
+  },
+  {
+    "word": "METAPROGRAMMING",
+    "definition": "Writing programs that manipulate or generate other programs",
+    "example": "Macro metaprogramming generated boilerplate code at compile time."
+  },
+  {
+    "word": "SERIALIZATION",
+    "definition": "Translating data structure into format suitable for transmission",
+    "example": "JSON serialization converted objects into network byte streams."
+  },
+  {
+    "word": "DESERIALIZATION",
+    "definition": "Converting byte stream back into in-memory data structure",
+    "example": "Binary deserialization reconstructed object graph from network packet."
+  },
+  {
+    "word": "SERVERLESS",
+    "definition": "Cloud execution model where provider manages server hardware",
+    "example": "Serverless architecture scaled functions dynamically."
+  },
+  {
+    "word": "MICROSERVICES",
+    "definition": "Architectural style structuring application as small services",
+    "example": "Microservices architecture enabled independent feature deployment."
+  },
+  {
+    "word": "AGGREGATION",
+    "definition": "Process of collecting and summarizing data from multiple sources",
+    "example": "Log aggregation tools centralized event streams from microservices."
+  },
+  {
+    "word": "REPLICATION",
+    "definition": "Process of copying and maintaining database objects across servers",
+    "example": "Database replication ensured high availability and disaster recovery."
+  },
+  {
+    "word": "SHARDING",
+    "definition": "Database partitioning technique splitting tables across servers",
+    "example": "Database sharding distributed user records across clusters."
+  },
+  {
+    "word": "PARTITIONING",
+    "definition": "Dividing logical database into distinct independent parts",
+    "example": "Table partitioning improved query speed on large log archives."
+  },
+  {
+    "word": "LOADBALANCER",
+    "definition": "Device distributing incoming network traffic across servers",
+    "example": "Loadbalancer routed traffic away from overloaded backend nodes."
+  },
+  {
+    "word": "FAILOVER",
+    "definition": "Automatic switching to redundant standby system upon failure",
+    "example": "Automatic failover transferred database master role to standby node."
+  },
+  {
+    "word": "DATACENTER",
+    "definition": "Facility housing computer systems and components",
+    "example": "Cloud provider constructed green datacenter powered by solar."
+  },
+  {
+    "word": "INGESTION",
+    "definition": "Process of importing data for immediate storage or processing",
+    "example": "Real-time ingestion pipelines processed millions of IoT events."
+  },
+  {
+    "word": "PIPELINE",
+    "definition": "Set of data processing elements connected in series",
+    "example": "Automated CI/CD pipelines ran test suites and deployed builds."
+  },
+  {
+    "word": "IDEMPOTENCY",
+    "definition": "Property of operations producing same result on repetition",
+    "example": "API idempotency keys prevented duplicate payment transactions."
+  },
+  {
+    "word": "PROXIES",
+    "definition": "Server applications acting as intermediaries for requests",
+    "example": "Reverse proxies cached static assets and offloaded SSL."
+  },
+  {
+    "word": "MICROSERVICE",
+    "definition": "Single autonomous component in distributed application architecture",
+    "example": "Each microservice managed its own independent data store."
+  },
+  {
+    "word": "CONTAINERIZATION",
+    "definition": "OS-level virtualization encapsulating application dependencies",
+    "example": "Containerization standardized application deployment across environments."
+  },
+  {
+    "word": "BOOTSTRAPPING",
+    "definition": "Starting computer system using basic initialization code",
+    "example": "System bootstrapping initialized hardware memory and loaded kernel."
+  },
+  {
+    "word": "HYPERVISORS",
+    "definition": "Platforms running multiple virtual machine instances",
+    "example": "Type-1 hypervisors ran directly on bare-metal server hardware."
+  },
+  {
+    "word": "CONTAINERIZATIONS",
+    "definition": "Methods packaging software code and dependencies",
+    "example": "Cloud containerizations simplified scalable microservice deployments."
+  },
+  {
+    "word": "ORCHESTRATIONS",
+    "definition": "Automated management systems for container fleets",
+    "example": "Container orchestrations ensured automatic recovery of failed service pods."
+  },
+  {
+    "word": "DATACENTERS",
+    "definition": "High-density server computing facilities",
+    "example": "Hyperscale datacenters incorporated liquid cooling for server racks."
+  },
+  {
+    "word": "PIPELINING",
+    "definition": "Technique executing instruction stages simultaneously",
+    "example": "Instruction pipelining increased CPU instruction execution throughput."
+  },
+  {
+    "word": "FAILOVERS",
+    "definition": "Automatic mechanisms switching to backup systems",
+    "example": "Multi-region failovers guaranteed zero downtime during cloud outages."
+  },
+  {
+    "word": "LOADBALANCERS",
+    "definition": "Devices distributing network traffic across servers",
+    "example": "Cloud loadbalancers maintained high availability during peak traffic events."
+  },
+  {
+    "word": "SUPERVISED",
+    "definition": "Machine learning learning mapping based on input-output pairs",
+    "example": "Supervised learning algorithms trained on labeled image datasets."
+  },
+  {
+    "word": "UNSUPERVISED",
+    "definition": "Machine learning analyzing untagged datasets for hidden patterns",
+    "example": "Unsupervised learning clustered customer purchasing habits."
+  },
+  {
+    "word": "REINFORCEMENT",
+    "definition": "Machine learning concerned with actions maximizing reward",
+    "example": "Reinforcement learning enabled AI agents to master strategy games."
+  },
+  {
+    "word": "DEEPLEARNING",
+    "definition": "Machine learning based on artificial neural networks",
+    "example": "Deeplearning models powered state-of-the-art speech recognition."
+  },
+  {
+    "word": "PERCEPTRON",
+    "definition": "Algorithm for supervised learning of binary classifiers",
+    "example": "Single-layer perceptron formed foundational building block for neural nets."
+  },
+  {
+    "word": "CONVOLUTION",
+    "definition": "Mathematical operation combining two functions",
+    "example": "Convolutional neural networks excelled at computer vision feature extraction."
+  },
+  {
+    "word": "RECURRENT",
+    "definition": "Neural network forming directed graph along temporal sequence",
+    "example": "Recurrent neural networks processed sequential time-series data."
+  },
+  {
+    "word": "EMBEDDING",
+    "definition": "Representation of objects as vectors in continuous space",
+    "example": "Vector embeddings captured semantic similarity between words."
+  },
+  {
+    "word": "REGRESSION",
+    "definition": "Statistical modeling estimating relationships among variables",
+    "example": "Linear regression models predicted property market price trends."
+  },
+  {
+    "word": "CLUSTERING",
+    "definition": "Grouping set of objects such that objects in group are similar",
+    "example": "K-means clustering segmented customer demographics into personas."
+  },
+  {
+    "word": "DIMENSIONALITY",
+    "definition": "Number of input variables or features in dataset",
+    "example": "Dimensionality reduction algorithms simplified data visualization."
+  },
+  {
+    "word": "BACKPROPAGATION",
+    "definition": "Method calculating gradient of loss function for weights",
+    "example": "Backpropagation updated neural network weights during training."
+  },
+  {
+    "word": "HYPERPARAMETER",
+    "definition": "Configuration parameter set before model training",
+    "example": "Hyperparameter tuning optimized learning rates for neural networks."
+  },
+  {
+    "word": "OVERFITTING",
+    "definition": "Production of analysis corresponding too closely to dataset",
+    "example": "Regularization techniques prevented overfitting on small datasets."
+  },
+  {
+    "word": "UNDERFITTING",
+    "definition": "Model failing to capture underlying trend of data",
+    "example": "Increasing model capacity resolved underfitting on complex datasets."
+  },
+  {
+    "word": "INFERENCE",
+    "definition": "Process of using trained ML model to make predictions",
+    "example": "Edge AI accelerators performed real-time inference on low power."
+  },
+  {
+    "word": "TOKENIZATION",
+    "definition": "Process of breaking text into smaller units called tokens",
+    "example": "Tokenization converted raw text strings into token IDs for model input."
+  },
+  {
+    "word": "AGENTIC",
+    "definition": "Exhibiting autonomous goal-directed decision making",
+    "example": "Agentic AI workflows executed multi-step tasks autonomously."
+  },
+  {
+    "word": "PROMPTING",
+    "definition": "Crafting text instructions to guide generative AI outputs",
+    "example": "Structured prompting improved reasoning accuracy in language models."
+  },
+  {
+    "word": "HEURISTICS",
+    "definition": "Practical problem-solving techniques employing simple rules",
+    "example": "Heuristics algorithms solved complex routing problems efficiently."
+  },
+  {
+    "word": "OPTIMIZER",
+    "definition": "Algorithm adjusting parameters to minimize loss function",
+    "example": "Adam optimizer accelerated convergence during deep network training."
+  },
+  {
+    "word": "VECTORSTORE",
+    "definition": "Database specialized in storing and indexing vector embeddings",
+    "example": "Vectorstore indices enabled fast semantic retrieval for AI models."
+  },
+  {
+    "word": "EMBEDDINGS",
+    "definition": "Vector representations of semantic relationships in high dimensions",
+    "example": "Contextual embeddings mapped word meanings into mathematical space."
+  },
+  {
+    "word": "REGRESSIONS",
+    "definition": "Statistical procedures modeling relationship between variables",
+    "example": "Logistic regressions predicted binary outcome probabilities."
+  },
+  {
+    "word": "CLUSTERINGS",
+    "definition": "Methods of grouping similar data points into clusters",
+    "example": "Hierarchical clusterings grouped genetic sequences by evolutionary origin."
+  },
+  {
+    "word": "DIMENSIONALITIES",
+    "definition": "Degrees of freedom or variable counts in datasets",
+    "example": "High dimensionalities in datasets required principal component analysis."
+  },
+  {
+    "word": "BACKPROPAGATIONS",
+    "definition": "Algorithmic methods updating weights in neural networks",
+    "example": "Parallel backpropagations accelerated neural network model training."
+  },
+  {
+    "word": "HYPERPARAMETERS",
+    "definition": "Configuration settings controlling machine learning training",
+    "example": "Tuning hyper-parameters optimized neural network learning speed."
+  },
+  {
+    "word": "OVERFITTINGS",
+    "definition": "Occurrences where models memorize training data noise",
+    "example": "Cross-validation checks detected overfittings during model validation."
+  },
+  {
+    "word": "INFERENCES",
+    "definition": "Executions of trained machine learning models on new data",
+    "example": "Edge AI inferences processed computer vision frames in milliseconds."
+  },
+  {
+    "word": "TOKENIZATIONS",
+    "definition": "Processes of breaking text into token subwords",
+    "example": "Subword tokenizations handled out-of-vocabulary words gracefully."
+  },
+  {
+    "word": "PROMPTINGS",
+    "definition": "Techniques for formulating queries to AI models",
+    "example": "Promptings strategies influenced generative AI reasoning quality."
+  },
+  {
+    "word": "OPTIMIZERS",
+    "definition": "Algorithms iteratively minimizing loss functions during training",
+    "example": "Stochastic gradient optimizers updated weights efficiently."
+  },
+  {
+    "word": "VECTORSTORES",
+    "definition": "Databases designed for vector similarity search",
+    "example": "Vectorstores retrieved relevant document chunks for AI assistance."
+  },
+  {
+    "word": "CYBERSECURITY",
+    "definition": "Practice of protecting systems and networks from digital attacks",
+    "example": "Robust cybersecurity policies prevented unauthorized network intrusions."
+  },
+  {
+    "word": "ENCRYPTION",
+    "definition": "Process of encoding data to prevent unauthorized access",
+    "example": "End-to-end encryption secured communications across internet."
+  },
+  {
+    "word": "DECRYPTION",
+    "definition": "Process of converting encrypted text back into readable format",
+    "example": "Recipient used private key for decryption of secure email."
+  },
+  {
+    "word": "HASHING",
+    "definition": "Converting input string of any length into fixed-length string",
+    "example": "Cryptographic hashing verified data file integrity during downloads."
+  },
+  {
+    "word": "KEYSPACE",
+    "definition": "Set of all possible keys used in cryptographic algorithm",
+    "example": "Large keyspace dimensions rendered brute-force decryption impractical."
+  },
+  {
+    "word": "BIOMETRICS",
+    "definition": "Metrics related to human physical characteristics for access control",
+    "example": "Facial recognition biometrics authenticated user access to vaults."
+  },
+  {
+    "word": "MALWARE",
+    "definition": "Software intentionally designed to cause damage to computer",
+    "example": "Antivirus scanners detected and quarantined malware payloads."
+  },
+  {
+    "word": "RANSOMWARE",
+    "definition": "Software threatening to block access to data unless ransom paid",
+    "example": "Automated backups mitigated ransomware encryption threats."
+  },
+  {
+    "word": "PHISHING",
+    "definition": "Fraudulent practice of sending emails pretending to be reputable",
+    "example": "Security awareness training helped employees recognize phishing scams."
+  },
+  {
+    "word": "FIREWALLS",
+    "definition": "Network security systems controlling incoming and outgoing traffic",
+    "example": "Next-generation firewalls inspected application network packet payloads."
+  },
+  {
+    "word": "THROUGHPUT",
+    "definition": "Amount of data passing through system or process",
+    "example": "Network throughput testing confirmed sustained gigabit transfer speeds."
+  },
+  {
+    "word": "SUBNET",
+    "definition": "Logical subdivision of an IP network",
+    "example": "VLAN subnetting isolated internal corporate servers from public Wi-Fi."
+  },
+  {
+    "word": "CYBERSECURITIES",
+    "definition": "Practices protecting digital infrastructure from attacks",
+    "example": "Enterprise cybersecurities enforced strict zero-trust access controls."
+  },
+  {
+    "word": "CRYPTOGRAPHIES",
+    "definition": "Mathematical techniques securing data transmission",
+    "example": "Quantum-resistant cryptographies protected future communications."
+  },
+  {
+    "word": "ENCRYPTIONS",
+    "definition": "Methods encoding readable plaintext into ciphertext",
+    "example": "AES-256 encryptions secured confidential user data at rest."
+  },
+  {
+    "word": "DECRYPTIONS",
+    "definition": "Methods decoding ciphertext back into original plaintext",
+    "example": "Hardware decryptors processed encrypted video streams smoothly."
+  },
+  {
+    "word": "AUTHENTICATIONS",
+    "definition": "Processes verifying user identity credentials",
+    "example": "Biometric authentications unlocked mobile device applications."
+  },
+  {
+    "word": "AUTHORIZATIONS",
+    "definition": "Permissions granting specific access levels to users",
+    "example": "Fine-grained authorizations restricted user data access rights."
+  },
+  {
+    "word": "RANSOMWARES",
+    "definition": "Malicious software encrypting user files for ransom",
+    "example": "Cyber defense teams neutralized destructive ransomwares threats."
+  },
+  {
+    "word": "PHISHINGS",
+    "definition": "Deceptive social engineering attacks extracting user secrets",
+    "example": "Anti-phishings filters blocked fraudulent financial login emails."
+  },
+  {
+    "word": "BANDWIDTHS",
+    "definition": "Data transmission capacity rates of communications channels",
+    "example": "Multi-gigabit bandwidths enabled seamless video streaming."
+  },
+  {
+    "word": "LATENCIES",
+    "definition": "Delay durations in data packet transmission",
+    "example": "Low latencies in networks enabled real-time multiplayer gaming."
+  },
+  {
+    "word": "NANOTECHNOLOGY",
+    "definition": "Technology dealing with dimensions less than 100 nanometers",
+    "example": "Nanotechnology applications produced self-cleaning optical coatings."
+  },
+  {
+    "word": "AUGMENTED",
+    "definition": "Technology overlaying digital information onto physical world view",
+    "example": "Augmented reality headsets displayed maintenance instructions."
+  },
+  {
+    "word": "BLOCKCHAIN",
+    "definition": "System in which record of transactions maintained across network",
+    "example": "Blockchain ledgers ensured immutable cryptographic transaction verification."
+  },
+  {
+    "word": "SMARTCONTRACT",
+    "definition": "Self-executing contract with terms written directly into code",
+    "example": "Smartcontracts automated decentralized financial settlement protocols."
+  },
+  {
+    "word": "DECENTRALIZED",
+    "definition": "Transfer of control from central entity to distributed network",
+    "example": "Decentralized network architectures eliminated single points of failure."
+  },
+  {
+    "word": "METAVERSE",
+    "definition": "Virtual-reality space where users interact in digital environment",
+    "example": "Virtual conferences convened international teams in 3D metaverse."
+  },
+  {
+    "word": "HAPTICS",
+    "definition": "Technology creating experience of touch through forces or vibrations",
+    "example": "Haptic feedback motors simulated physical button clicks on glass."
+  },
+  {
+    "word": "LIDAR",
+    "definition": "Detection system estimating distance by illuminating target with laser",
+    "example": "Autonomous vehicles utilized 3D LiDAR sensors for obstacle mapping."
+  },
+  {
+    "word": "AVIONICS",
+    "definition": "Electronic equipment fitted in aircraft and spacecraft",
+    "example": "Modern digital avionics integrated flight controls and radar guidance."
+  },
+  {
+    "word": "DOMOTICS",
+    "definition": "Home automation involving control of lighting and appliances",
+    "example": "Smart domotics hubs automated household heating and security systems."
+  },
+  {
+    "word": "BIOTECHNOLOGY",
+    "definition": "Exploitation of biological processes for industrial purposes",
+    "example": "Biotechnology research engineered synthetic enzymes for recycling."
+  },
+  {
+    "word": "MICROFLUIDICS",
+    "definition": "Science of manipulating fluid channels at sub-millimeter scales",
+    "example": "Lab-on-a-chip devices utilized microfluidics for rapid diagnostics."
+  },
+  {
+    "word": "AUTOMATIONS",
+    "definition": "Processes using technology to execute tasks without human intervention",
+    "example": "Industrial automations optimized car assembly line efficiency."
+  },
+  {
+    "word": "NANOTECHNOLOGIES",
+    "definition": "Engineering applications at molecular and atomic scales",
+    "example": "Medical nanotechnologies developed targeted drug delivery nanoparticles."
+  },
+  {
+    "word": "BLOCKCHAINS",
+    "definition": "Distributed immutable cryptographic ledgers",
+    "example": "Permissioned blockchains tracked global supply chain shipments."
+  },
+  {
+    "word": "METAVERSES",
+    "definition": "Immersive virtual 3D shared digital environments",
+    "example": "Virtual metaverses hosted interactive global digital conferences."
+  },
+  {
+    "word": "BIOTECHNOLOGIES",
+    "definition": "Technologies applying biological organisms to industrial processes",
+    "example": "Agricultural biotechnologies developed drought-resistant crop strains."
+  },
+  {
+    "word": "BACKEND",
+    "definition": "Server-side logic and database layer of application",
+    "example": "Backend API handled user authentication and payments."
+  },
+  {
+    "word": "FRONTEND",
+    "definition": "Client-side user interface layer of web application",
+    "example": "Frontend team built responsive UI components using CSS."
+  },
+  {
+    "word": "FULLSTACK",
+    "definition": "Software development encompassing frontend and backend",
+    "example": "Fullstack engineers built end-to-end features from database to UI."
+  },
+  {
+    "word": "RESTFUL",
+    "definition": "API architectural style using HTTP requests to access data",
+    "example": "RESTful web services exposed endpoints for JSON data exchange."
+  },
+  {
+    "word": "GRAPHQL",
+    "definition": "Query language for APIs enabling flexible data fetching",
+    "example": "GraphQL enabled mobile apps to fetch exact fields needed."
+  },
+  {
+    "word": "PETAFLOP",
+    "definition": "Capability of performing quadrillion operations per second",
+    "example": "Supercomputers measured computing performance in petaflops."
+  },
+  {
+    "word": "EXAFLOP",
+    "definition": "Capability of performing quintillion calculations per second",
+    "example": "Exaflop supercomputers simulated complex global climate models."
+  },
+  {
+    "word": "GIGABYTE",
+    "definition": "Unit of digital storage equal to one billion bytes",
+    "example": "High-resolution video files required several gigabytes of storage."
+  },
+  {
+    "word": "TERABYTE",
+    "definition": "Unit of digital storage equal to one trillion bytes",
+    "example": "Backup drive provided two terabytes of external storage."
+  },
+  {
+    "word": "PETABYTE",
+    "definition": "Unit of digital storage equal to one quadrillion bytes",
+    "example": "Data centers stored petabytes of scientific satellite telemetry."
+  },
+  {
+    "word": "EXABYTE",
+    "definition": "Unit of digital storage equal to one quintillion bytes",
+    "example": "Global cloud traffic measured in exabytes per month."
+  },
+  {
+    "word": "KILOBYTE",
+    "definition": "Unit of digital storage equal to one thousand bytes",
+    "example": "Tiny embedded configuration file was under ten kilobytes."
+  },
+  {
+    "word": "MEGABYTE",
+    "definition": "Unit of digital storage equal to one million bytes",
+    "example": "Image compressed down to under two megabytes for fast web load."
+  },
+  {
+    "word": "BUSWIDTH",
+    "definition": "Number of parallel lines carrying data signals in computer bus",
+    "example": "Memory buswidth of 256 bits enabled high data throughput."
+  },
+  {
+    "word": "BITRATE",
+    "definition": "Number of bits processed or transmitted per unit of time",
+    "example": "High bitrate audio streaming preserved original recording fidelity."
+  },
+  {
+    "word": "PACKET",
+    "definition": "Formatted unit of data carried by packet-switched network",
+    "example": "Network routers forwarded data packets to destination IP addresses."
+  },
+  {
+    "word": "CELLULAR",
+    "definition": "Network technology dividing coverage into geographic cells",
+    "example": "5G cellular networks provided ultra-low latency mobile internet."
+  },
+  {
+    "word": "SATELLITE",
+    "definition": "Artificial body placed in orbit to collect or transmit info",
+    "example": "Low Earth orbit satellite constellations provided global internet."
+  },
+  {
+    "word": "FIREWALL",
+    "definition": "Network security system monitoring incoming and outgoing traffic",
+    "example": "Corporate firewall blocked unauthorized port access attempts."
+  },
+  {
+    "word": "ANTIVIRUS",
+    "definition": "Software designed to detect and destroy computer viruses",
+    "example": "Antivirus engine scanned email attachments for malicious macros."
+  },
+  {
+    "word": "MALWARES",
+    "definition": "Software designed to harm or exploit programmable devices",
+    "example": "Security team monitored endpoint devices for emerging malwares."
+  },
+  {
+    "word": "SPYWARE",
+    "definition": "Software enabling user to obtain covert info about computer",
+    "example": "Anti-spyware utilities removed tracking keyloggers from infected PC."
+  },
+  {
+    "word": "ADWARE",
+    "definition": "Software automatically displaying or downloading ad material",
+    "example": "Adware popup blockers restored clean browser performance."
+  },
+  {
+    "word": "ROOTKIT",
+    "definition": "Set of tools enabling unauthorized user to gain control of system",
+    "example": "Deep kernel inspection detected hidden rootkit persistence mechanisms."
+  },
+  {
+    "word": "KEYLOGGER",
+    "definition": "Computer program recording keystrokes entered by user",
+    "example": "Keystroke encryption prevented keyloggers from stealing passwords."
+  },
+  {
+    "word": "BOTNET",
+    "definition": "Network of private computers infected with malicious software",
+    "example": "Cybersecurity taskforce dismantled massive botnet launching DDoS attacks."
+  },
+  {
+    "word": "BACKDOOR",
+    "definition": "Means of denying normal authentication to gain secret access",
+    "example": "Code audits checked third-party dependencies for secret backdoor vulnerabilities."
+  },
+  {
+    "word": "EXPLOIT",
+    "definition": "Code taking advantage of flaw or vulnerability in system",
+    "example": "Zero-day exploit patch was deployed immediately across server cluster."
+  },
+  {
+    "word": "VULNERABILITY",
+    "definition": "Weakness in system exposing it to potential digital attack",
+    "example": "Security vulnerability scanner identified unpatched software packages."
+  },
+  {
+    "word": "PATCHING",
+    "definition": "Process of updating software to fix security flaws and bugs",
+    "example": "Automated patching routines updated cloud servers every night."
+  },
+  {
+    "word": "SANDBOXING",
+    "definition": "Executing software in isolated environment to prevent damage",
+    "example": "Browser sandboxing isolated untrusted web scripts from host OS."
+  },
+  {
+    "word": "WHITELISTING",
+    "definition": "Practice of allowing only pre-approved applications to execute",
+    "example": "Strict application whitelisting prevented execution of unknown binaries."
+  },
+  {
+    "word": "BLACKLISTING",
+    "definition": "Practice of blocking known malicious IP addresses or apps",
+    "example": "Firewall rules updated IP blacklisting based on threat intelligence feeds."
+  },
+  {
+    "word": "SUPERCOMPUTING",
+    "definition": "Use of extremely powerful parallel computers for complex tasks",
+    "example": "Supercomputing clusters simulated nuclear fusion plasma physics."
+  },
+  {
+    "word": "QUANTUMCOMPUTING",
+    "definition": "Computing exploiting quantum mechanical phenomena like superposition",
+    "example": "Quantumcomputing algorithms threatened RSA encryption protocols."
+  },
+  {
+    "word": "CRYPTOANALYSIS",
+    "definition": "Study of methods for obtaining meaning of encrypted information",
+    "example": "Cryptoanalysis deciphered historical wartime code messages."
+  },
+  {
+    "word": "STEGANOGRAPHY",
+    "definition": "Practice of concealing secret message within ordinary file",
+    "example": "Digital steganography hid encrypted text inside image pixel channels."
+  },
+  {
+    "word": "CYBERWARFARE",
+    "definition": "Use of digital attacks to disrupt systems of target nation",
+    "example": "Cyberwarfare defense monitored critical power grid infrastructure."
+  },
+  {
+    "word": "TELEMATICS",
+    "definition": "Branch of technology dealing with long-distance transmission of data",
+    "example": "Vehicle telematics streamed real-time fleet GPS and diagnostic data."
+  },
+  {
+    "word": "INFORMATICS",
+    "definition": "Science of processing data for storage and retrieval",
+    "example": "Bioinformatics mapped human genome protein folding structures."
+  },
+  {
+    "word": "NEUROMORPHIC",
+    "definition": "Engineering mimicking neural structures of biological brains",
+    "example": "Neuromorphic chips processed visual event streams with minimal power."
+  },
+  {
+    "word": "GEOLOCATION",
+    "definition": "Identification of real-world geographic location of object",
+    "example": "Smartphone GPS geolocation pinpointed user navigation coordinates."
+  },
+  {
+    "word": "BIOINFORMATICS",
+    "definition": "Application of computer technology to management of biological data",
+    "example": "Bioinformatics algorithms aligned DNA sequence reads."
+  },
+  {
+    "word": "CHEMINFORMATICS",
+    "definition": "Use of computer and informational techniques applied to chemistry",
+    "example": "Cheminformatics screened millions of molecular drug candidates."
+  },
+  {
+    "word": "GEOINFORMATICS",
+    "definition": "Science and technology dealing with structure of spatial information",
+    "example": "Geoinformatics mapped satellite land elevation and soil data."
+  },
+  {
+    "word": "AGRITECH",
+    "definition": "Use of technology in agriculture, horticulture, and aquaculture",
+    "example": "Agritech drones monitored crop moisture levels and field yields."
+  },
+  {
+    "word": "FINTECH",
+    "definition": "Computer programs and technology used to support banking and financial services",
+    "example": "Fintech startups disrupted traditional international wire transfers."
+  },
+  {
+    "word": "EDTECH",
+    "definition": "Combination of IT tools and educational practices aimed at facilitating learning",
+    "example": "Edtech platforms provided adaptive personalized learning paths."
+  },
+  {
+    "word": "HEALTHTECH",
+    "definition": "Use of technology aimed at improving delivery of healthcare services",
+    "example": "Healthtech wearables monitored continuous heart rhythm metrics."
+  },
+  {
+    "word": "CLEANTECH",
+    "definition": "Technology reducing negative environmental impacts",
+    "example": "Cleantech innovations optimized solar cell energy conversion efficiency."
+  },
+  {
+    "word": "DEEPTECH",
+    "definition": "Technology based on tangible engineering innovation or scientific advances",
+    "example": "Deeptech ventures developed commercial quantum sensing devices."
+  },
+  {
+    "word": "GREENTECH",
+    "definition": "Technology whose use is intended to mitigate human impact on environment",
+    "example": "Greentech facilities captured industrial carbon emissions efficiently."
+  },
+  {
+    "word": "MEDTECH",
+    "definition": "Medical devices and technology improving diagnosis and treatment",
+    "example": "Medtech surgical robots performed precision minimally invasive operations."
+  },
+  {
+    "word": "PROPTECH",
+    "definition": "Technology used in real estate industry to optimize buying, selling, and managing",
+    "example": "Proptech platforms streamlined digital property deed title searches."
+  },
+  {
+    "word": "REGTECH",
+    "definition": "Management of regulatory processes within financial industry through technology",
+    "example": "Regtech software automated anti-money laundering compliance checks."
+  },
+  {
+    "word": "INSURTECH",
+    "definition": "Use of technology innovations designed to maximize savings and efficiency in insurance",
+    "example": "Insurtech platforms automated instant claim processing and policy quotes."
+  },
+  {
+    "word": "LEGALTECH",
+    "definition": "Use of technology and software to provide legal services and support law firms",
+    "example": "Legaltech tools scanned contracts for risk clauses automatically."
+  },
+  {
+    "word": "CIVIC-TECH",
+    "definition": "Technology that enables engagement or participation of public to improve governance",
+    "example": "Civic-tech portals allowed citizens to report road repairs directly."
+  },
+  {
+    "word": "URBANTECH",
+    "definition": "Technology solutions addressing urban infrastructure, mobility, and sustainability",
+    "example": "Urbantech sensors optimized traffic light timing during peak hours."
+  },
+  {
+    "word": "CLIMATETECH",
+    "definition": "Technology specifically focused on reducing greenhouse gas emissions",
+    "example": "Climatetech startups engineered atmospheric carbon capture systems."
+  },
+  {
+    "word": "FOODTECH",
+    "definition": "Application of technology to production, processing, distribution, and consumption of food",
+    "example": "Foodtech lab produced plant-based meat alternative protein textures."
+  },
+  {
+    "word": "SPACETECH",
+    "definition": "Technology developed for space exploration, satellites, and spaceflight",
+    "example": "Spacetech engineers launched reusable orbital rocket boosters."
+  },
+  {
+    "word": "HARDTECH",
+    "definition": "Physical hardware technology innovations rooted in advanced physics or chemistry",
+    "example": "Hardtech manufacturing produced ultra-durable ceramic heat shields."
+  },
+  {
+    "word": "WEARABLES",
+    "definition": "Smart electronic devices worn on body as accessories or implants",
+    "example": "Biometric wearables tracked daily step counts and sleep cycles."
+  },
+  {
+    "word": "HEARTBEAT",
+    "definition": "Signal sent from client or server to indicate operational status",
+    "example": "System heartbeat ping verified background daemon server health."
+  },
+  {
+    "word": "PINGBACK",
+    "definition": "Mechanism for web author to request notification when someone links to document",
+    "example": "Blog platform processed pingback notifications automatically."
+  },
+  {
+    "word": "WEBHOOK",
+    "definition": "HTTP callback that occurs when something happens in application",
+    "example": "Payment gateway sent webhook notifications upon transaction completion."
+  },
+  {
+    "word": "SOCKETIO",
+    "definition": "Event-driven library for real-time web applications",
+    "example": "Real-time chat app utilized socketio for low-latency messaging."
+  },
+  {
+    "word": "WEBSOCKET",
+    "definition": "Computer communications protocol providing full-duplex communication channels",
+    "example": "Websocket connection streamed live stock market ticker prices."
+  },
+  {
+    "word": "MICROFRAMEWORK",
+    "definition": "Minimalist web application framework lacking built-in database layer",
+    "example": "Python microframework hosted lightweight REST API endpoints."
+  },
+  {
+    "word": "HYPERTEXT",
+    "definition": "Text displayed on computer with references to other text user can access",
+    "example": "Hypertext links connected online encyclopedia pages together seamlessly."
+  },
+  {
+    "word": "HYPERLINK",
+    "definition": "Link from hypertext file or document to another location",
+    "example": "Clicking hyperlink navigated browser to external reference source."
+  },
+  {
+    "word": "SERIALLINE",
+    "definition": "Communication cable sending data sequentially one bit at a time",
+    "example": "Serialline interface connected legacy industrial equipment to modem."
+  },
+  {
+    "word": "ETHERNETS",
+    "definition": "Local area network communication systems",
+    "example": "Dual gigabit ethernets provided redundant network links to server."
+  },
+  {
+    "word": "MODULATORS",
+    "definition": "Electronic circuits varying carrier wave properties to encode data",
+    "example": "Phase modulators encoded digital data onto laser light beams."
+  },
+  {
+    "word": "DEMODULATORS",
+    "definition": "Circuits converting modulated radio waves back into digital data",
+    "example": "Digital demodulators decoded high-speed satellite transmissions."
+  },
+  {
+    "word": "MUTEXES",
+    "definition": "Program mutual exclusion locks preventing concurrent data access",
+    "example": "Thread mutexes protected shared queue during parallel processing."
+  },
+  {
+    "word": "SEMAPHORES",
+    "definition": "Signaling mechanisms controlling shared access to resources",
+    "example": "Counting semaphores limited concurrent file handle allocations."
+  },
+  {
+    "word": "COROUTINES",
+    "definition": "Non-preemptive multitasking subroutines with pause and resume",
+    "example": "Asynchronous coroutines simplified non-blocking network socket I/O."
+  },
+  {
+    "word": "SCHEDULERS",
+    "definition": "Operating system kernels allocating CPU execution time to tasks",
+    "example": "Real-time task schedulers guaranteed bounded execution latencies."
+  },
+  {
+    "word": "PROFILERS",
+    "definition": "Diagnostic software tools analyzing code execution time and memory",
+    "example": "Memory profilers pinpointed memory leaks in background services."
+  },
+  {
+    "word": "PARSERS",
+    "definition": "Syntactic analysis tools converting text into abstract syntax trees",
+    "example": "HTML parsers extracted text elements from web page documents."
+  },
+  {
+    "word": "LEXERS",
+    "definition": "Lexical analysis tools tokenizing source code strings",
+    "example": "Language lexers separated identifiers, keywords, and operators."
+  },
+  {
+    "word": "DISASSEMBLERS",
+    "definition": "Tools converting binary bytecode back into human-readable assembly",
+    "example": "Security disassemblers displayed assembly instructions of suspect binary."
+  },
+  {
+    "word": "DECOMPILERS",
+    "definition": "Tools converting compiled machine code back into high-level source",
+    "example": "Decompilers restored lost source code from legacy executable files."
+  },
+  {
+    "word": "REFACTORINGS",
+    "definition": "Restructuring internal code structure without altering external behavior",
+    "example": "Iterative refactorings improved modularity of legacy codebase."
+  },
+  {
+    "word": "DEPRECATIONS",
+    "definition": "Warnings indicating software feature is outdated and pending removal",
+    "example": "API deprecations alerted developers to migrate to newer endpoints."
+  },
+  {
+    "word": "SERIALIZATIONS",
+    "definition": "Transforming data structures into serial bytes for network transfer",
+    "example": "Proto serializations minimized network packet size and parse overhead."
+  },
+  {
+    "word": "DESERIALIZATIONS",
+    "definition": "Converting serial byte arrays back into in-memory object graphs",
+    "example": "Safe deserializations validated incoming payload schemas strictly."
+  },
+  {
+    "word": "TOKENIZERS",
+    "definition": "Software engines breaking text into subword token representations",
+    "example": "Neural model tokenizers handled rare words using subword vocabularies."
+  },
+  {
+    "word": "METAPROGRAMS",
+    "definition": "Programs manipulating or generating other program code dynamically",
+    "example": "Compile-time metaprograms generated boilerplate database access code."
+  },
+  {
+    "word": "INTERCONNECT",
+    "definition": "High-speed electrical link connecting multi-chip computing elements",
+    "example": "High bandwidth interconnect connected GPU clusters across server nodes."
+  },
+  {
+    "word": "TRANSCEIVING",
+    "definition": "Transmitting and receiving data simultaneously over channel",
+    "example": "Transceiving modules enabled full-duplex radio communications."
+  },
+  {
+    "word": "MULTITHREADED",
+    "definition": "Program executing multiple concurrent threads simultaneously",
+    "example": "Multithreaded web server handled thousands of simultaneous connections."
+  },
+  {
+    "word": "ASYNCHRONY",
+    "definition": "Execution model allowing non-blocking operation execution",
+    "example": "Network asynchrony allowed application to stay responsive during downloads."
+  },
+  {
+    "word": "SOLENOIDS",
+    "definition": "Electromagnetic coils producing linear mechanical motion",
+    "example": "Automated valves were actuated by heavy-duty electrical solenoids."
+  },
+  {
+    "word": "MEMRISTORS",
+    "definition": "Non-volatile resistor elements with memory retention",
+    "example": "Memristors enabled ultra-dense energy-efficient neuromorphic arrays."
+  },
+  {
+    "word": "NANOTUBES",
+    "definition": "Cylindrical carbon molecules with high strength and conductivity",
+    "example": "Carbon nanotubes enhanced battery electrode thermal conductivity."
+  },
+  {
+    "word": "GRAPHENES",
+    "definition": "Single-atom carbon sheets with high electrical mobility",
+    "example": "Graphene films improved heat dissipation in compact smartphones."
+  },
+  {
+    "word": "WAVEGUIDES",
+    "definition": "Structures guiding high-frequency radio waves or light signals",
+    "example": "Sub-micron optical waveguides routed photon signals across microchips."
+  },
+  {
+    "word": "FIBEROPTICS",
+    "definition": "Optical fiber technology transmitting data at speed of light",
+    "example": "Undersea fiberoptics connected continents with multi-terabit bandwidth."
+  },
+  {
+    "word": "DEMULTIPLEXERS",
+    "definition": "Devices separating multiplexed signal into individual channels",
+    "example": "Demultiplexers routed incoming data packets to target ports."
+  },
+  {
+    "word": "COPROCESSORS",
+    "definition": "Secondary microprocessors handling specialized computational tasks",
+    "example": "Neural coprocessors accelerated AI vector matrix calculations."
+  },
+  {
+    "word": "CHIPSETS",
+    "definition": "Integrated sets of chips managing communications between CPU and devices",
+    "example": "High-performance chipsets supported PCIe gen-5 data lanes."
+  },
+  {
+    "word": "VARISTORS",
+    "definition": "Voltage-dependent resistors protecting circuits from surges",
+    "example": "Metal-oxide varistors clamped high voltage transients on power lines."
+  },
+  {
+    "word": "BACKPLANES",
+    "definition": "Circuit boards connecting multiple modular electronic cards",
+    "example": "Telecommunication racks used optical backplanes for interconnects."
+  },
+  {
+    "word": "THERMOCOUPLES",
+    "definition": "Temperature sensors producing voltage proportional to heat",
+    "example": "Industrial thermocouples measured furnace temperatures over 1000 degrees."
+  },
+  {
+    "word": "GALVANOMETERS",
+    "definition": "Instruments detecting and measuring small electric currents",
+    "example": "Laser galvo scanners used galvanometers for precise beam steering."
+  },
+  {
+    "word": "SERVOMOTORS",
+    "definition": "Rotary actuators allowing precise control of angular position",
+    "example": "Robotic arm joints were driven by high-torque digital servomotors."
+  },
+  {
+    "word": "PROGRAMMING",
+    "definition": "Process of designing and writing computer executable code",
+    "example": "Structured programming principles improved code maintainability."
+  },
+  {
+    "word": "COMPILATIONS",
+    "definition": "Processes of translating source code into machine executables",
+    "example": "Incremental compilations reduced developer feedback loop time."
+  },
+  {
+    "word": "INTERPRETATIONS",
+    "definition": "Processes of executing source code line by line at runtime",
+    "example": "Scripting interpretations allowed quick prototyping of automated workflows."
+  },
+  {
+    "word": "ASSEMBLED",
+    "definition": "Translated from human-readable assembly into machine bytecode",
+    "example": "Hand-optimized assembly code was assembled into microcode."
+  },
+  {
+    "word": "TRANSPILERS",
+    "definition": "Source-to-source compilers translating code between languages",
+    "example": "Modern web build tools used transpilers for cross-browser compatibility."
+  },
+  {
+    "word": "RECURSIONS",
+    "definition": "Functions calling themselves to solve sub-problems",
+    "example": "Tail-call recursions avoided stack overflow in functional languages."
+  },
+  {
+    "word": "POLYMORPHISMS",
+    "definition": "Abilities of functions to operate on multiple data types",
+    "example": "Parametric polymorphisms enabled generic container data structures."
+  },
+  {
+    "word": "ENCAPSULATIONS",
+    "definition": "Techniques bundling state and methods within protected units",
+    "example": "Strict object encapsulations hid private state fields securely."
+  },
+  {
+    "word": "ABSTRACTIONS",
+    "definition": "Concepts hiding implementation details behind simple APIs",
+    "example": "Hardware abstractions allowed portable OS code across CPU architectures."
+  },
+  {
+    "word": "INHERITANCES",
+    "definition": "Mechanisms deriving new classes from existing base classes",
+    "example": "Class inheritances established hierarchical UI widget systems."
+  },
+  {
+    "word": "IMMUTABILITIES",
+    "definition": "Properties preventing modification of objects after creation",
+    "example": "Thread-safe immutabilities eliminated data race conditions."
+  },
+  {
+    "word": "MEMOIZATIONS",
+    "definition": "Optimization techniques caching expensive function results",
+    "example": "Dynamic programming algorithms relied on memoizations for speed."
+  },
+  {
+    "word": "CONCURRENCIES",
+    "definition": "Executions of multiple instruction sequences simultaneously",
+    "example": "High-concurrency servers handled thousands of connections concurrently."
+  },
+  {
+    "word": "MULTITHREADINGS",
+    "definition": "Execution of multiple threads within single process space",
+    "example": "Multithreadings graphics engines utilized all available CPU cores."
+  },
+  {
+    "word": "DEADLOCKS",
+    "definition": "Conditions where circular dependencies block process execution",
+    "example": "Lock-free data structures eliminated risk of thread deadlocks."
+  },
+  {
+    "word": "DECOMPILATIONS",
+    "definition": "Processes reversing machine code into high-level source code",
+    "example": "Decompilations aided vulnerability research on legacy software."
+  },
+  {
+    "word": "PROFILINGS",
+    "definition": "Dynamic program analyses measuring execution resource usage",
+    "example": "Memory profilings identified memory leak retention paths."
+  },
+  {
+    "word": "DEBUGGINGS",
+    "definition": "Processes of identifying and fixing bugs in software code",
+    "example": "Interactive debuggings set breakpoints to inspect live variable state."
+  },
+  {
+    "word": "LOGGINGS",
+    "definition": "Recording event data during software runtime execution",
+    "example": "Structured JSON loggings enabled automated log analysis and alerting."
+  },
+  {
+    "word": "BENCHMARKS",
+    "definition": "Standardized tests assessing performance of systems or code",
+    "example": "Hardware benchmarks measured floating-point calculation speeds."
+  },
+  {
+    "word": "DAEMONS",
+    "definition": "Background processes running continuously on operating system",
+    "example": "System daemons handled background print spooling and network routing."
+  },
+  {
+    "word": "KERNELS",
+    "definition": "Core components of operating systems managing hardware access",
+    "example": "Monolithic OS kernels managed memory, tasks, and file systems."
+  },
+  {
+    "word": "PROTOCOLS",
+    "definition": "Standardized sets of rules governing network communications",
+    "example": "Cryptographic protocols secured online banking data transmissions."
+  },
+  {
+    "word": "SWITCHES",
+    "definition": "Networking devices connecting devices within local area network",
+    "example": "Managed network switches provided VLAN isolation and port mirroring."
+  },
+  {
+    "word": "GATEWAYS",
+    "definition": "Network nodes connecting systems using different protocols",
+    "example": "API gateways handled authentication and rate limiting for microservices."
+  },
+  {
+    "word": "HOSTNAMES",
+    "definition": "Labels assigned to network devices connected to internet",
+    "example": "DNS servers resolved domain hostnames into numeric IP addresses."
+  },
+  {
+    "word": "SUBNETS",
+    "definition": "Logical subdivisions of larger IP network address spaces",
+    "example": "Private subnets hosted backend database servers away from public internet."
+  },
+  {
+    "word": "BACKENDS",
+    "definition": "Server-side architectures managing data processing and storage",
+    "example": "Scalable cloud backends supported millions of active mobile users."
+  },
+  {
+    "word": "FRONTENDS",
+    "definition": "User-facing web or mobile interface applications",
+    "example": "Modern web frontends rendered dynamic UI components smoothly."
+  },
+  {
+    "word": "FULLSTACKS",
+    "definition": "Complete application development layers from database to UI",
+    "example": "Fullstacks development frameworks streamlined web app deployment."
+  },
+  {
+    "word": "NANOMETERS",
+    "definition": "Units of length equal to one billionth of a meter",
+    "example": "Semiconductor node sizes measured in single-digit nanometers."
+  },
+  {
+    "word": "PETAFLOPS",
+    "definition": "Performance metrics equal to quadrillion operations per second",
+    "example": "AI supercomputer clusters achieved hundreds of petaflops."
+  },
+  {
+    "word": "EXAFLOPS",
+    "definition": "Performance metrics equal to quintillion operations per second",
+    "example": "Exaflops computing enabled realistic climate simulation modeling."
+  },
+  {
+    "word": "GIGABYTES",
+    "definition": "Units of digital information storage equal to one billion bytes",
+    "example": "System memory allocated 64 gigabytes of high-speed DDR5 RAM."
+  },
+  {
+    "word": "TERABYTES",
+    "definition": "Units of storage equal to one trillion bytes",
+    "example": "Enterprise NVMe drives provided 16 terabytes of fast storage."
+  },
+  {
+    "word": "PETABYTES",
+    "definition": "Units of digital storage equal to one quadrillion bytes",
+    "example": "Scientific archives stored petabytes of radio astronomy observations."
+  },
+  {
+    "word": "EXABYTES",
+    "definition": "Units of digital storage equal to one quintillion bytes",
+    "example": "Global internet traffic surged by hundreds of exabytes annually."
+  },
+  {
+    "word": "KILOBYTES",
+    "definition": "Units of digital storage equal to one thousand bytes",
+    "example": "Embedded microcontroller firmware compiled down to 32 kilobytes."
+  },
+  {
+    "word": "MEGABYTES",
+    "definition": "Units of digital storage equal to one million bytes",
+    "example": "Compressed audio file occupied only four megabytes of memory."
+  },
+  {
+    "word": "BUSWIDTHS",
+    "definition": "Data channel widths carrying parallel electrical signals",
+    "example": "Wide memory buswidths maximized memory transfer bandwidth."
+  },
+  {
+    "word": "BITRATES",
+    "definition": "Data transmission rates measured in bits per second",
+    "example": "Adaptive bitrates adjusted video streaming quality dynamically."
+  },
+  {
+    "word": "PACKETS",
+    "definition": "Formatted units of data routed across packet-switched networks",
+    "example": "Network routers prioritized voice-over-IP data packets."
+  },
+  {
+    "word": "ANTIVIRUSES",
+    "definition": "Software applications detecting and neutralizing computer viruses",
+    "example": "Enterprise antiviruses updated threat definitions daily."
+  },
+  {
+    "word": "SPYWARES",
+    "definition": "Covert software collecting user information without consent",
+    "example": "Anti-spywares tools detected hidden keyloggers and trackers."
+  },
+  {
+    "word": "ADWARES",
+    "definition": "Software displaying unwanted advertisement popups",
+    "example": "Adware blockers prevented browser redirect hijacking."
+  },
+  {
+    "word": "ROOTKITS",
+    "definition": "Malicious tools hiding unauthorized administrative system access",
+    "example": "Kernel-level rootkits required offline malware removal tools."
+  },
+  {
+    "word": "KEYLOGGERS",
+    "definition": "Software recording physical keystrokes to steal passwords",
+    "example": "Hardware keyloggers were detected during physical security audits."
+  },
+  {
+    "word": "BOTNETS",
+    "definition": "Networks of compromised devices controlled by remote attackers",
+    "example": "DDoS attacks were launched by massive global botnets."
+  },
+  {
+    "word": "BACKDOORS",
+    "definition": "Secret access paths bypassing normal authentication checks",
+    "example": "Firmware security audits discovered hardcoded vendor backdoors."
+  },
+  {
+    "word": "EXPLOITS",
+    "definition": "Software code exploiting system security vulnerabilities",
+    "example": "Security patches neutralized zero-day exploits rapidly."
+  },
+  {
+    "word": "VULNERABILITIES",
+    "definition": "Flaws in software exposing systems to cyber attacks",
+    "example": "Automated code scanners identified SQL injection vulnerabilities."
+  },
+  {
+    "word": "NEURALNETWORKS",
+    "definition": "Computing systems inspired by biological brain neural networks",
+    "example": "Artificial neuralnetworks identified patterns in complex sensor datasets."
+  },
+  {
+    "word": "DEEPLEARNINGS",
+    "definition": "Subfields of machine learning using deep multi-layer neural networks",
+    "example": "Deeplearnings advancements enabled human-level image recognition."
+  },
+  {
+    "word": "CONVOLUTIONS",
+    "definition": "Mathematical filtering operations extracting visual image features",
+    "example": "2D convolutions detected edges and textures in digital images."
+  },
+  {
+    "word": "RECURRENTS",
+    "definition": "Neural networks processing sequential time-series data structures",
+    "example": "Recurrents architectures modeled natural language sequence context."
+  },
+  {
+    "word": "INGESTIONS",
+    "definition": "Processes importing data streams into storage or processing engines",
+    "example": "Stream ingestions processed real-time telemetry from IoT devices."
+  },
+  {
+    "word": "CYBERNETIC",
+    "definition": "Relating to automated control and communications in machines and organisms",
+    "example": "Cybernetic prosthetics responded to biological nerve signals."
+  },
+  {
+    "word": "ROBOTIC",
+    "definition": "Relating to programmable automated mechanical robots",
+    "example": "Robotic assembly lines automated vehicle chassis welding."
+  },
+  {
+    "word": "NANOTECH",
+    "definition": "Technology involving manipulation of matter at nanoscale",
+    "example": "Nanotech coatings rendered touchscreens fingerprint resistant."
+  },
+  {
+    "word": "BIOMETRIC",
+    "definition": "Relating to physical or behavioral human identity metrics",
+    "example": "Biometric scanners authenticated access to secure data vaults."
+  },
+  {
+    "word": "TELEMETRIC",
+    "definition": "Relating to automatic measurement and wireless transmission of data",
+    "example": "Telemetric sensors transmitted engine performance back to pit crew."
+  },
+  {
+    "word": "AUGMENTATION",
+    "definition": "Action of enhancing real-world environments with digital info",
+    "example": "Data augmentation expanded training datasets with synthetic samples."
+  },
+  {
+    "word": "DECENTRALIZATION",
+    "definition": "Distribution of control away from single central authority",
+    "example": "Network decentralization increased resilience against regional outages."
+  },
+  {
+    "word": "HAPTICAL",
+    "definition": "Relating to sense of touch and tactile feedback mechanisms",
+    "example": "Haptical VR controllers rendered physical resistance feedback."
+  },
+  {
+    "word": "DOMOTIC",
+    "definition": "Relating to home automation systems and smart devices",
+    "example": "Domotic controllers adjusted smart home lighting based on occupancy."
+  },
+  {
+    "word": "MICROFLUIDIC",
+    "definition": "Relating to manipulation of tiny fluid amounts in microchannels",
+    "example": "Microfluidic lab-on-a-chip devices analyzed DNA samples rapidly."
+  },
+  {
+    "word": "ZETTABYTE",
+    "definition": "Unit of digital information equal to one sextillion bytes",
+    "example": "Global internet traffic reached zettabyte scale per year."
+  },
+  {
+    "word": "YOTTABYTE",
+    "definition": "Unit of digital information equal to one septillion bytes",
+    "example": "Yottabyte data centers will store global digital history."
+  },
+  {
+    "word": "DATAGRAM",
+    "definition": "Independent self-contained message sent over network",
+    "example": "UDP datagram packets traveled across network without handshake."
+  },
+  {
+    "word": "SYSTEMBOARD",
+    "definition": "Main circuit board holding central processing units and RAM",
+    "example": "Server systemboard supported dual socket CPU configurations."
+  },
+  {
+    "word": "DAUGHTERBOARD",
+    "definition": "Expansion circuit board connecting directly to motherboard",
+    "example": "Audio daughterboard provided additional digital input ports."
+  },
+  {
+    "word": "CAPTURECARD",
+    "definition": "Hardware device recording video streams from external sources",
+    "example": "Live streamer used 4K capturecard to record console gameplay."
+  },
+  {
+    "word": "MAINFRAME",
+    "definition": "Large high-performance computer handling massive transaction volumes",
+    "example": "Banking sector relied on enterprise mainframe systems for transactions."
+  },
+  {
+    "word": "MINICOMPUTER",
+    "definition": "Class of multi-user computers between mainframes and microcomputers",
+    "example": "Historical minicomputer systems powered early university research labs."
+  },
+  {
+    "word": "MICROCOMPUTER",
+    "definition": "Small computer designed for individual use with microprocessor",
+    "example": "Personal microcomputers revolutionized home computing in 1980s."
+  },
+  {
+    "word": "THINCLIENT",
+    "definition": "Lightweight computer depending heavily on remote server for processing",
+    "example": "Office workers logged into virtual desktops via thinclient devices."
+  },
+  {
+    "word": "ZEROCLIENT",
+    "definition": "Ultra-thin client device containing no local operating system or storage",
+    "example": "Zero-client hardware connected directly to cloud VDI servers."
+  },
+  {
+    "word": "DOCKINGSTATION",
+    "definition": "Device providing laptop connection to multiple desktop peripherals",
+    "example": "Single cable connected laptop to dockingstation with dual monitors."
+  },
+  {
+    "word": "CONCENTRATOR",
+    "definition": "Network device multiplexing multiple data channels into single line",
+    "example": "FDDI concentrator managed optical fiber token ring network links."
+  },
+  {
+    "word": "DUPLEXER",
+    "definition": "Device allowing bi-directional communication over single channel",
+    "example": "RF duplexer allowed antenna to transmit and receive simultaneously."
+  },
+  {
+    "word": "DIPLEXER",
+    "definition": "Device multiplexing two frequency bands onto single transmission line",
+    "example": "Satellite dish diplexer combined TV and internet frequency bands."
+  },
+  {
+    "word": "SYSTEMADMINISTRATOR",
+    "definition": "IT professional managing server infrastructure and networks",
+    "example": "Systemadministrator resolved server memory alerts promptly."
+  },
+  {
+    "word": "NETWORKENGINEER",
+    "definition": "Specialist designing and maintaining computer networks",
+    "example": "Networkengineer configured BGP routing policies for data center."
+  },
+  {
+    "word": "CLOUDARCHITECT",
+    "definition": "IT specialist designing cloud computing infrastructure strategies",
+    "example": "Cloudarchitect migrated legacy applications to multi-cloud environments."
+  },
+  {
+    "word": "DEVOPSENGINEER",
+    "definition": "Professional automating software deployment and CI/CD pipelines",
+    "example": "Devopsengineer automated Kubernetes infrastructure provisioning."
+  },
+  {
+    "word": "SECURITYANALYST",
+    "definition": "Specialist monitoring and protecting systems from cyber threats",
+    "example": "Securityanalyst investigated anomalous network intrusion logs."
+  },
+  {
+    "word": "DATABASEADMIN",
+    "definition": "Specialist managing database performance, security, and backups",
+    "example": "Databaseadmin optimized query index execution plans."
+  },
+  {
+    "word": "SCRUMMASTER",
+    "definition": "Facilitator guiding agile software development teams",
+    "example": "Scrummaster led daily standup meetings and sprint planning."
+  },
+  {
+    "word": "PRODUCTOWNER",
+    "definition": "Role defining product feature backlog and project goals",
+    "example": "Productowner prioritized user stories for upcoming software release."
+  },
+  {
+    "word": "QAENGINEER",
+    "definition": "Quality assurance specialist testing software for bugs",
+    "example": "QAengineer wrote automated end-to-end integration test suites."
+  },
+  {
+    "word": "DATAENGINEER",
+    "definition": "Specialist building scalable data ingestion pipelines",
+    "example": "Dataengineer constructed Apache Spark ETL data processing jobs."
+  },
+  {
+    "word": "DATASCIENTIST",
+    "definition": "Specialist analyzing complex datasets using machine learning",
+    "example": "Datascientist built predictive churn models for subscription platform."
+  },
+  {
+    "word": "CYBERANALYST",
+    "definition": "Security specialist analyzing digital forensic attack vectors",
+    "example": "Cyberanalyst performed malware reverse engineering analysis."
+  },
+  {
+    "word": "WEBDEVELOPER",
+    "definition": "Programmer creating web applications and site features",
+    "example": "Webdeveloper built responsive layout components using CSS."
+  },
+  {
+    "word": "APPDEVELOPER",
+    "definition": "Programmer creating native mobile software applications",
+    "example": "Appdeveloper released updated iOS app on App Store."
+  },
+  {
+    "word": "GAMEENGINEER",
+    "definition": "Programmer developing game graphics, physics, and gameplay code",
+    "example": "Gameengineer optimized real-time raytracing shader pipelines."
+  },
+  {
+    "word": "HARDWAREENGINEER",
+    "definition": "Specialist designing microchips, circuit boards, and components",
+    "example": "Hardwareengineer simulated PCB signal integrity at gigahertz speeds."
+  },
+  {
+    "word": "SYSTEMSENGINEER",
+    "definition": "Specialist designing complex computer system architectures",
+    "example": "Systemsengineer integrated satellite payload telemetry electronics."
+  },
+  {
+    "word": "PLAINTEXT",
+    "definition": "Unencrypted text data readable without cryptographic keys",
+    "example": "Sensitive credentials should never be saved in plaintext files."
+  },
+  {
+    "word": "CIPHERTEXT",
+    "definition": "Encrypted text generated by running plaintext through cipher algorithm",
+    "example": "AES encryption transformed sensitive message into unreadable ciphertext."
+  },
+  {
+    "word": "SALTING",
+    "definition": "Adding random strings to passwords before cryptographic hashing",
+    "example": "Password salting prevented rainbow table dictionary lookup attacks."
+  },
+  {
+    "word": "EXTRANET",
+    "definition": "Controlled private network allowing vendor access",
+    "example": "Supplier extranet facilitated real-time inventory order tracking."
+  },
+  {
+    "word": "HYPERMEDIA",
+    "definition": "Digital media content containing links to other media formats",
+    "example": "Interactive hypermedia course integrated video, audio, and text."
+  },
+  {
+    "word": "MULTIMEDIA",
+    "definition": "Content combining text, audio, images, animation, and video",
+    "example": "Multimedia presentation engaged audience with interactive graphics."
+  },
+  {
+    "word": "COMPRESSION",
+    "definition": "Process of reducing digital file size using encoding algorithms",
+    "example": "Lossless compression reduced archive backup size by 50 percent."
+  },
+  {
+    "word": "DECOMPRESSION",
+    "definition": "Process of expanding compressed file back to original state",
+    "example": "Fast decompression restored game asset textures into GPU memory."
+  },
+  {
+    "word": "DATABASING",
+    "definition": "Process of organizing and storing structured digital data",
+    "example": "Databasing historical transactions enabled fast analytical queries."
+  },
+  {
+    "word": "TRANSCOMPILING",
+    "definition": "Compiling code from one programming language into another",
+    "example": "Transcompiling ES6 code ensured legacy browser support."
+  },
+  {
+    "word": "COMPILING",
+    "definition": "Translating source code into binary machine code instructions",
+    "example": "Compiling large C++ projects required multi-threaded build systems."
+  },
+  {
+    "word": "INTERPRETING",
+    "definition": "Executing programming language instructions dynamically",
+    "example": "Interpreting Python code allowed fast interactive debugging."
+  },
+  {
+    "word": "DECODING",
+    "definition": "Converting encoded binary data back into uncompressed format",
+    "example": "Hardware decoding rendered 4K video streams without frame drops."
+  },
+  {
+    "word": "ENCODING",
+    "definition": "Converting media files or data into standardized digital formats",
+    "example": "Video encoding compressed raw camera footage for web streaming."
+  },
+  {
+    "word": "LOGGING",
+    "definition": "Recording runtime diagnostic event data to log files",
+    "example": "System logging captured unhandled server exception tracebacks."
+  },
+  {
+    "word": "PROFILING",
+    "definition": "Analyzing dynamic runtime program resource consumption",
+    "example": "CPU profiling pinpointed performance bottlenecks in loop iterations."
+  },
+  {
+    "word": "PARSING",
+    "definition": "Analyzing string syntax to build structured data representation",
+    "example": "JSON parsing converted incoming HTTP payloads into objects."
+  },
+  {
+    "word": "LEXING",
+    "definition": "Scanning character streams to produce token streams",
+    "example": "Compiler lexing grouped input code characters into keywords."
+  },
+  {
+    "word": "VIRTUALIZING",
+    "definition": "Creating virtual instances of computing hardware and OS",
+    "example": "Virtualizing physical servers maximized data center hardware utilization."
+  },
+  {
+    "word": "CONTAINERIZING",
+    "definition": "Packaging application code and dependencies into light containers",
+    "example": "Containerizing microservices simplified cloud deployment pipelines."
+  },
+  {
+    "word": "ORCHESTRATING",
+    "definition": "Automating deployment, scaling, and networking of containers",
+    "example": "Orchestrating server pods ensured zero-downtime rolling updates."
+  },
+  {
+    "word": "REPLICATING",
+    "definition": "Copying data continuously across multiple database servers",
+    "example": "Replicating database transactions ensured multi-region failover protection."
+  },
+  {
+    "word": "INGESTING",
+    "definition": "Importing and processing high-velocity data streams",
+    "example": "Stream ingesting ingested IoT sensor metrics in real time."
+  },
+  {
+    "word": "CACHING",
+    "definition": "Storing frequent query results in fast temporary memory",
+    "example": "Redis caching served user session data in under a millisecond."
+  },
+  {
+    "word": "PROXIED",
+    "definition": "Routed through an intermediary proxy server",
+    "example": "Proxied network connections filtered out malicious web traffic."
+  },
+  {
+    "word": "BALANCING",
+    "definition": "Distributing incoming traffic evenly across computing resources",
+    "example": "Load balancing prevented individual web server CPU overload."
+  }
+]

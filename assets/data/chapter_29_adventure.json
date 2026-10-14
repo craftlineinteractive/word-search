@@ -1,0 +1,2144 @@
+{
+  "id": 29,
+  "key": "adventure",
+  "title": "Adventure",
+  "iconAsset": "assets/chapter_images/adventure.png",
+  "themeColor": 4294940672,
+  "levels": [
+    {
+      "levelNumber": 1,
+      "title": "Adventure Level 1",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "ALTIMETRY",
+          "meaning": "Measurement of altitude or elevation above sea level during expeditions",
+          "example": "Using barometric altimetry, the survey team calculated the elevation of the mountain pass."
+        },
+        {
+          "word": "FISHGIG",
+          "meaning": "Multi-pronged spear used for gigging fish, frogs, or crustaceans in shallow river shallows",
+          "example": "Wading silently through the shallow river shallows, the scout struck a carp with his iron fish gig."
+        },
+        {
+          "word": "CLINOMETER",
+          "meaning": "Instrument used by surveyors and navigators to measure angles of slope, elevation, or tilt",
+          "example": "Measuring slope steepness with a clinometer alerted the skiers to high avalanche danger."
+        },
+        {
+          "word": "NUTTOOL",
+          "meaning": "Narrow hooked metal pick used by climbers to extract jammed aluminum nuts from cracks",
+          "example": "He tapped the stubborn aluminum chock with his nut tool until it slipped free from the fissure."
+        },
+        {
+          "word": "UNEXPLORED",
+          "meaning": "Territory, region, or landscape not yet mapped, surveyed, or investigated by humans",
+          "example": "Deep ocean trenches remain among the most mysterious unexplored frontiers on Earth."
+        },
+        {
+          "word": "TRAILBLAZER",
+          "meaning": "Person who makes a new track through wild country or pioneers new territory",
+          "example": "Carving marks into cedar bark, the trailblazer mapped a passage through the dense wilderness."
+        },
+        {
+          "word": "FOURTEENER",
+          "meaning": "Mountain peak that exceeds an elevation of fourteen thousand feet above sea level",
+          "example": "Summiting every fourteeners in the Colorado Rockies was the mountaineer lifelong quest."
+        },
+        {
+          "word": "BREAKDOWN",
+          "meaning": "Piles of fallen rock and collapsed ceiling slabs found on the floors of large cave chambers",
+          "example": "Cavers carefully clambered over slippery boulders across the massive breakdown zone."
+        }
+      ]
+    },
+    {
+      "levelNumber": 2,
+      "title": "Adventure Level 2",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "MAGNETOMETER",
+          "meaning": "Scientific instrument measuring the strength and direction of magnetic fields",
+          "example": "Archaeologists used a cesium magnetometer to detect buried stone walls beneath the grassy field."
+        },
+        {
+          "word": "GAMEWARDEN",
+          "meaning": "Official responsible for enforcing wildlife protection laws and managing game reserves",
+          "example": "The dedicated game warden patrolled the borders of the national park to deter elephant poachers."
+        },
+        {
+          "word": "OSSUARY",
+          "meaning": "Chest, box, building, well, or site made to serve as the final resting place of human bones",
+          "example": "Piles of bleached skulls lined the stone niches inside the medieval subterranean ossuary."
+        },
+        {
+          "word": "BOWDRILL",
+          "meaning": "Ancient primitive tool utilizing rotational friction between a wooden spindle and fireboard",
+          "example": "Pumping the bow drill back and forth, he produced fine wood dust that coalesced into an ember."
+        },
+        {
+          "word": "BUTTRESSROOT",
+          "meaning": "Large, wide roots on all sides of a shallowly rooted tree providing structural support",
+          "example": "Gigantic buttress roots of the kapok tree flared out twenty feet into the jungle undergrowth."
+        },
+        {
+          "word": "TARPTENT",
+          "meaning": "Ultralight outdoor shelter pitched using trekking poles and a silicone-coated nylon tarp",
+          "example": "Weighing just one pound, the aerodynamic tarptent sheltered the backpacker from gusty rain."
+        },
+        {
+          "word": "ICEHAMMER",
+          "meaning": "Specialized mountaineering axe featuring a hammer head opposite the pick for pounding pitons",
+          "example": "The lead climber used an ice hammer to seat steel pitons firmly into hairline rock fractures."
+        },
+        {
+          "word": "LIANA",
+          "meaning": "Woody climbing vine characteristic of tropical rainforests rooting in the forest floor",
+          "example": "Thick twisted lianas hung down from towering kapok trees like natural jungle climbing ropes."
+        }
+      ]
+    },
+    {
+      "levelNumber": 3,
+      "title": "Adventure Level 3",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "PYRAMID",
+          "meaning": "Monumental structure with a square or triangular base and sloping sides meeting at the apex",
+          "example": "The Great Pyramid of Giza was the tallest man-made structure in the world for 3,800 years."
+        },
+        {
+          "word": "GOLDCOIN",
+          "meaning": "Precious metal specie minted from refined gold traditionally coveted by explorers and pirates",
+          "example": "A hoard of five hundred seventeenth-century gold coins was found inside the rusted iron chest."
+        },
+        {
+          "word": "ERG",
+          "meaning": "Extensive tract of shifting sand dunes covering vast areas of desert basins",
+          "example": "The Grand Erg Oriental swallowed the horizon in a sea of golden wind-rippled sand waves."
+        },
+        {
+          "word": "CHALKBAG",
+          "meaning": "Small pouch containing magnesium carbonate powder to absorb sweat from climbers hands",
+          "example": "Dipping his hands into his chalk bag gave the climber a secure grip on the polished granite sloper."
+        },
+        {
+          "word": "OAR",
+          "meaning": "Pole with a flat blade used to row or steer a boat through water",
+          "example": "With steady rhythmic pulls on the ash oars, the rowers maneuvered the wooden dory to shore."
+        },
+        {
+          "word": "BOWLINEKNOT",
+          "meaning": "Ancient and essential loop knot that does not slip or jam under heavy tension",
+          "example": "Sailors tied a secure bowline knot around the mooring cleat before leaving the dock."
+        },
+        {
+          "word": "DERELICT",
+          "meaning": "Abandoned ship or vessel deserted at sea by its crew drifting with ocean currents",
+          "example": "Coast guards encountered a ghost-like derelict drifting silently in the North Atlantic fog."
+        },
+        {
+          "word": "PORTAGE",
+          "meaning": "Carrying of boats or goods overland between two navigable bodies of water",
+          "example": "After three miles of grueling overland portage, the expedition put their canoes back in the river."
+        }
+      ]
+    },
+    {
+      "levelNumber": 4,
+      "title": "Adventure Level 4",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "ZIGGURAT",
+          "meaning": "Massive rectangular stepped stone pyramid temple tower built in ancient Mesopotamia",
+          "example": "Priests ascended the monumental mud-brick staircases of the Great Ziggurat of Ur to stargaze."
+        },
+        {
+          "word": "COMPASSROSE",
+          "meaning": "Figure on a map or nautical chart displaying the cardinal directions and degrees",
+          "example": "The antique parchment chart featured an ornate gilded compass rose marking thirty-two points."
+        },
+        {
+          "word": "GNOMON",
+          "meaning": "Upright rod, pin, or pillar that casts a shadow used in ancient sundials to tell time and latitude",
+          "example": "The desert surveyor measured the length of the gnomon shadow at solar noon to estimate latitude."
+        },
+        {
+          "word": "CROWSNEST",
+          "meaning": "Small sheltered lookout platform near the top of a ship mast offering long-range views",
+          "example": "From the swaying crow's nest, the lookout shouted 'Land ho!' upon sighting the volcanic island."
+        },
+        {
+          "word": "SLEDGE",
+          "meaning": "Vehicle on runners used for conveying loads or passengers over snow or ice",
+          "example": "Polar explorers harnessed themselves like draft animals to haul their wooden sledge across the ice."
+        },
+        {
+          "word": "MALARIA",
+          "meaning": "Mosquito-borne infectious disease common in tropical jungle expeditions causing fever",
+          "example": "Taking daily prophylaxis tablets protected the survey crew from contracting deadly malaria."
+        },
+        {
+          "word": "MIOMBO",
+          "meaning": "Vast woodland ecoregion dominated by deciduous trees covering Central and Southern Africa",
+          "example": "The safari party tracked sable antelope through the dappled shade of the miombo woodland."
+        },
+        {
+          "word": "WALLOW",
+          "meaning": "Shallow depression filled with mud where elephants, rhinos, or pigs roll to cool off",
+          "example": "Three bull elephants coated themselves in thick grey mud at the river wallow to repel biting flies."
+        }
+      ]
+    },
+    {
+      "levelNumber": 5,
+      "title": "Adventure Level 5",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CANOPICJAR",
+          "meaning": "Ancient Egyptian covered urn used to hold the mummified internal organs of the deceased",
+          "example": "Carved from white alabaster, four canopic jars protected the pharaoh preserved organs."
+        },
+        {
+          "word": "HYPOGEUM",
+          "meaning": "Underground chamber, temple, or tomb excavated into bedrock by ancient civilizations",
+          "example": "Visitors descended stone staircases into the prehistoric megalithic hypogeum cut from limestone."
+        },
+        {
+          "word": "LEANTO",
+          "meaning": "Simple shelter with a single sloped roof resting against a horizontal ridge pole or trees",
+          "example": "A thatched leanto of evergreen boughs reflected the heat of the fire onto the sleeping bag."
+        },
+        {
+          "word": "PUGMARK",
+          "meaning": "Footprint or track left by a wild mammal, especially an apex predator like a tiger",
+          "example": "The tracker knelt to measure the width of the fresh male tiger pugmark in the damp clay."
+        },
+        {
+          "word": "KLEMHEIST",
+          "meaning": "Friction hitch used by mountaineers to grip a climbing rope when loaded in one direction",
+          "example": "He rigged a klemheist with nylon webbing around the frozen rope to climb past the overhang."
+        },
+        {
+          "word": "BASECAMP",
+          "meaning": "Main staging camp at the foot of a mountain from which expeditions launch climbs",
+          "example": "Hundreds of yellow geodesic tents populated Everest Base Camp on the Khumbu Glacier."
+        },
+        {
+          "word": "CHASM",
+          "meaning": "Deep fissure, gorge, or cleft in the earth rock surface plunging to great depths",
+          "example": "The hikers crossed a swaying rope bridge slung across a terrifying thousand-foot mountain chasm."
+        },
+        {
+          "word": "MACHAN",
+          "meaning": "Raised observation platform or hide constructed in trees for big game hunting or wildlife viewing",
+          "example": "The wildlife photographer sat silently on the wooden machan waiting for the tiger to appear."
+        }
+      ]
+    },
+    {
+      "levelNumber": 6,
+      "title": "Adventure Level 6",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "SOLOCLIMBING",
+          "meaning": "Climbing alone without a partner, either with ropes for protection or free solo",
+          "example": "Solo climbing on remote alpine peaks demands supreme self-reliance and mental calm."
+        },
+        {
+          "word": "SNOWCAVE",
+          "meaning": "Emergency shelter hollowed out of deep snowdrifts by mountaineers during blizzards",
+          "example": "Surviving seventy-mile-per-hour winds, the expedition rested warmly inside their excavated snow cave."
+        },
+        {
+          "word": "RAPPEL",
+          "meaning": "Technique of descending a vertical cliff or ice face by sliding down a doubled rope",
+          "example": "Backing off the snowy summit, climbers set up an anchor to rappel down the steep rock headwall."
+        },
+        {
+          "word": "THEODOLITE",
+          "meaning": "Precision optical instrument measuring both horizontal and vertical angles in surveying",
+          "example": "Mounted on a rigid wooden tripod, the optical theodolite surveyed the route for the mountain railway."
+        },
+        {
+          "word": "EPHEMERIS",
+          "meaning": "Table or book listing calculated future positions of celestial bodies at regular intervals",
+          "example": "Navigators consulted the nautical ephemeris tables to compute longitude from stellar sights."
+        },
+        {
+          "word": "CARTOUCHE",
+          "meaning": "Oval or oblong ornamental plaque enclosing the royal hieroglyphic name of a monarch",
+          "example": "Scholars deciphered the hieroglyphs inside the royal cartouche to identify the tomb builder."
+        },
+        {
+          "word": "ANKH",
+          "meaning": "Ancient Egyptian symbol of life shaped like a cross with a loop at the top",
+          "example": "Carved upon the sandstone temple pillar, the looped ankh symbolized eternal life after death."
+        },
+        {
+          "word": "HEADHUNTER",
+          "meaning": "Member of a tribal community historically taking human heads as trophies of valor",
+          "example": "Nineteenth-century explorers penned harrowing journals about encounters with Borneo headhunters."
+        }
+      ]
+    },
+    {
+      "levelNumber": 7,
+      "title": "Adventure Level 7",
+      "gridRows": 16,
+      "gridCols": 16,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "SLUICE",
+          "meaning": "Sliding gate or water channel used for controlling water flow or washing gold ore",
+          "example": "Gold prospectors shoveled river gravel into long wooden sluice boxes to trap dense gold dust."
+        },
+        {
+          "word": "ACCLIMATIZATION",
+          "meaning": "Gradual process by which an outdoor adventurer adjusts to reduced oxygen levels at high altitudes",
+          "example": "Proper acclimatization at base camp prevented climbers from developing severe mountain sickness."
+        },
+        {
+          "word": "SPELEOLOGY",
+          "meaning": "Scientific study and exploration of natural caves, subterranean hydrology, and mineral formations",
+          "example": "Speleology expeditions mapped three miles of newly discovered crystal caverns beneath the plateau."
+        },
+        {
+          "word": "CARRACK",
+          "meaning": "Large three- or four-masted ocean-going sailing ship developed in the 14th to 15th centuries",
+          "example": "Vasco da Gama sailed around the Cape of Good Hope aboard his stout Portuguese carrack."
+        },
+        {
+          "word": "HELICTITE",
+          "meaning": "Distorted, curving, branch-like speleothem that grows defying the direction of gravity",
+          "example": "Capillary pressure forces water droplets sideways, creating twisting spiraled calcite helictites."
+        },
+        {
+          "word": "RUINS",
+          "meaning": "Physical remains of a building, city, or civilization that has suffered destruction",
+          "example": "Giant roots of fig trees wound around the mossy carved stone ruins of the jungle temple."
+        },
+        {
+          "word": "POTHOLING",
+          "meaning": "Sport of exploring deep underground caves and vertical limestone pot-holes",
+          "example": "Equipped with climbing harnesses, the potholing team rigged ropes to descend the Yorkshire pot."
+        },
+        {
+          "word": "SPRAYDECK",
+          "meaning": "Waterproof flexible skirt worn by kayakers sealing the cockpit against incoming waves",
+          "example": "Tightening the bungee rim of her neoprene spraydeck kept water out during the whitewater roll."
+        }
+      ]
+    },
+    {
+      "levelNumber": 8,
+      "title": "Adventure Level 8",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "BEACHCOMBER",
+          "meaning": "Person who searches shores for washed-up articles, driftwood, and curiosities",
+          "example": "The solitary beachcomber filled his sack with sea glass, conch shells, and carved driftwood."
+        },
+        {
+          "word": "SOLPUGID",
+          "meaning": "Fierce, fast-running arachnid inhabiting arid deserts also known as a camel spider",
+          "example": "A nocturnal solpugid dashed across the sand near the campfire hunting for scorpions."
+        },
+        {
+          "word": "COOMBE",
+          "meaning": "Short, narrow, steep-sided valley or hollow on a mountainside or coastline",
+          "example": "Sheep grazed peacefully in the shelter of the green coombe beneath the jagged mountain ridge."
+        },
+        {
+          "word": "EMPERORPENGUIN",
+          "meaning": "Tallest and heaviest of all living penguin species endemic to antarctica",
+          "example": "Emperor penguins huddle together against hundred-mile-per-hour blizzards to incubate eggs."
+        },
+        {
+          "word": "SALTPOINT",
+          "meaning": "Natural mineral lick where wildlife gather to ingest essential salt and minerals",
+          "example": "Herds of woodland caribou congregated at the mineral-rich saltpoint beside the riverbed."
+        },
+        {
+          "word": "SQUADRON",
+          "meaning": "Subdivision of a naval fleet consisting of a detachment of warships on a mission",
+          "example": "The exploration squadron of four frigates sailed into uncharted waters to map trade routes."
+        },
+        {
+          "word": "TREASURE",
+          "meaning": "Quantity of precious metals, gems, or valuable objects stored or buried away",
+          "example": "The brass-bound oak chest was filled with gold coins, jeweled chalices, and pirate treasure."
+        },
+        {
+          "word": "CISTERN",
+          "meaning": "Underground waterproof reservoir constructed to store rainwater in arid regions",
+          "example": "Carved into bedrock, the desert monastery cistern provided cool drinking water throughout droughts."
+        }
+      ]
+    },
+    {
+      "levelNumber": 9,
+      "title": "Adventure Level 9",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "THWART",
+          "meaning": "Crosswise structural seat or brace running across the width of an open canoe or rowboat",
+          "example": "The paddler kneeled comfortably against the ash wood center thwart while portaging the canoe."
+        },
+        {
+          "word": "CAVECRICKET",
+          "meaning": "Wingless, long-legged insect inhabiting cave entrances and underground chambers",
+          "example": "Hundreds of spindly cave crickets clung to the damp ceiling above the subterranean entrance."
+        },
+        {
+          "word": "FORELAND",
+          "meaning": "Section of land that juts out into a body of water or lies in front of a barrier",
+          "example": "The lighthouse beam swept across the rocky coastal foreland warning vessels of reef hazards."
+        },
+        {
+          "word": "RUCKSACK",
+          "meaning": "Bag carried on the back by hikers and soldiers supported by two shoulder straps",
+          "example": "The rugged canvas rucksack was strapped with a sleeping mat, titanium canteen, and trail ax."
+        },
+        {
+          "word": "MIDNIGHTSUN",
+          "meaning": "Phenomenon where the sun remains visible at midnight during summer within polar circles",
+          "example": "Campers read books outside their tents at midnight under the golden rays of the arctic sun."
+        },
+        {
+          "word": "IGLOO",
+          "meaning": "Dome-shaped dwelling built of compact blocks of hard-packed snow",
+          "example": "Within the spiral snow block walls of the igloo, a single seal oil lamp kept hunters comfortable."
+        },
+        {
+          "word": "DRIFTWOOD",
+          "meaning": "Wood that has been washed onto shores or floating on water by wave currents",
+          "example": "Castaways constructed a sturdy windbreak shelter from sun-bleached cedar driftwood logs."
+        },
+        {
+          "word": "SURVIVALKNIFE",
+          "meaning": "Heavy fixed-blade knife designed for wilderness cutting, batoning, and bushcraft",
+          "example": "With a full tang and high-carbon steel blade, the survival knife chopped through oak kindling easily."
+        }
+      ]
+    },
+    {
+      "levelNumber": 10,
+      "title": "Adventure Level 10",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "DISTRIBUTARY",
+          "meaning": "Branch of a river that flows away from the main river channel and does not rejoin it",
+          "example": "Navigating the maze-like distributaries of the Mississippi delta required local shrimp boat pilots."
+        },
+        {
+          "word": "PULK",
+          "meaning": "Short, low-slung toboggan or sled used in Fennoscandia for hauling supplies over snow",
+          "example": "The solo cross-country skier hauled a fiberglass pulk loaded with thirty days of food."
+        },
+        {
+          "word": "NAZCALINES",
+          "meaning": "Group of geoglyphs etched into the desert sands of southern Peru representing animals",
+          "example": "Seen from an airplane, the massive Nazca Lines formed the outline of a giant condor."
+        },
+        {
+          "word": "TINDERBOX",
+          "meaning": "Box containing flint, firesteel, and dry tinder traditionally used for starting fires",
+          "example": "Antique brass tinderboxes protected charred linen from damp morning river mists."
+        },
+        {
+          "word": "SEASTACK",
+          "meaning": "Steep, vertical column or pillar of rock formed along a coastline by wave erosion",
+          "example": "Seabirds nested by the thousands on the flat grassy top of the towering basalt sea stack."
+        },
+        {
+          "word": "HYDRAULIC",
+          "meaning": "Dangerous river feature where water pours over a ledge and recirculates upstream",
+          "example": "The guide shouted paddle commands to break free of the recirculating hydraulic at the falls base."
+        },
+        {
+          "word": "SQUEEZE",
+          "meaning": "Narrow constriction in a cave passage that an explorer can barely pass through",
+          "example": "Removing his helmet and pushing it ahead, the caver inched through the tight limestone squeeze."
+        },
+        {
+          "word": "DECLINATION",
+          "meaning": "Angular difference between magnetic north and true geographic north at a location",
+          "example": "Adjusting the compass declination screw accounted for the twelve-degree eastward magnetic variance."
+        },
+        {
+          "word": "AMADOU",
+          "meaning": "Spongy flammable substance prepared from horse hoof bracket fungus used as tinder",
+          "example": "A single glowing ember was dropped onto the fibrous amadou to nurse an emergency campfire."
+        }
+      ]
+    },
+    {
+      "levelNumber": 11,
+      "title": "Adventure Level 11",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "MAROONED",
+          "meaning": "Stranded and isolated with little hope of escape on a remote island or coast",
+          "example": "The ruthless captain left three treacherous mutineers marooned on a desolate sand spit."
+        },
+        {
+          "word": "KAMIKS",
+          "meaning": "Traditional Inuit waterproof sealskin boots crafted with intricate stitching",
+          "example": "Sewn with watertight caribou sinew, women crafted durable sealskin kamiks for winter journeys."
+        },
+        {
+          "word": "EPIPHYTE",
+          "meaning": "Plant that grows upon another plant non-parasitically deriving nutrients from air and rain",
+          "example": "Lush green bromeliads and orchids grew as epiphytes high in the rainforest canopy."
+        },
+        {
+          "word": "BUSHKNIFE",
+          "meaning": "Robust utility knife designed for outdoor wilderness cutting, splitting, and carving",
+          "example": "Carried in a leather sheath on his hip, the bush knife shaved feather sticks for fire lighting."
+        },
+        {
+          "word": "PORTALEDGE",
+          "meaning": "Deployable hanging tent system designed for rock climbers spending nights on sheer cliff walls",
+          "example": "Suspended two thousand feet above Yosemite Valley, the climbers slept safely on their portaledge."
+        },
+        {
+          "word": "BLUEICE",
+          "meaning": "Extremely dense, bubble-free glacial ice formed under intense metamorphic pressure",
+          "example": "Crampon points struggled to bite into the diamond-hard blue ice on the wind-scoured headwall."
+        },
+        {
+          "word": "QUINZHEE",
+          "meaning": "Snow shelter hollowed out from a settled mound of piled snow rather than cut blocks",
+          "example": "Wilderness survivalists shoveled a huge pile of snow, let it sinter, and hollowed out a quinzhee."
+        },
+        {
+          "word": "OLM",
+          "meaning": "Aquatic salamander endemic to subterranean karst waters of the Balkans lacking eyes and pigment",
+          "example": "The pale, serpentine olm can survive for years without food in silent underground rivers."
+        },
+        {
+          "word": "KRAAL",
+          "meaning": "Traditional rural village or cattle enclosure in Southern Africa surrounded by thorn fences",
+          "example": "The elder welcomed the exploration party to his kraal and shared fresh goat milk."
+        }
+      ]
+    },
+    {
+      "levelNumber": 12,
+      "title": "Adventure Level 12",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "DISCOVERY",
+          "meaning": "Act or finding of something previously unknown or hidden from human knowledge",
+          "example": "The unexpected discovery of an overgrown Mayan pyramid stunned the archaeological team."
+        },
+        {
+          "word": "LAIKA",
+          "meaning": "Aboriginal Russian spitz hunting and sled dog adapted to severe Siberian winters",
+          "example": "The loyal East Siberian laika alerted the hunters to a brown bear prowling near the camp."
+        },
+        {
+          "word": "FIRN",
+          "meaning": "Partially compacted granular snow that is the intermediate stage between snow and glacial ice",
+          "example": "Centuries of accumulated firn compressed under immense pressure to form blue glacier ice."
+        },
+        {
+          "word": "DEADMANANCHOR",
+          "meaning": "Snow anchor consisting of an aluminum plate buried horizontally beneath packed snow",
+          "example": "Mountaineers buried a deadman anchor in the firm neve to establish a bombproof rappel station."
+        },
+        {
+          "word": "HYPOXIA",
+          "meaning": "Deficiency in the amount of oxygen reaching bodily tissues common at extreme altitudes",
+          "example": "Climbing above twenty-six thousand feet into the Death Zone rapidly induces dangerous cerebral hypoxia."
+        },
+        {
+          "word": "MALAMUTE",
+          "meaning": "Large, powerful breed of sled dog with thick double coat bred by Inuit peoples",
+          "example": "Bred for immense pulling power, the freighting malamute hauled heavy sledges through drifts."
+        },
+        {
+          "word": "ICECLIMBING",
+          "meaning": "Activity of ascending inclined ice features such as frozen waterfalls, icefalls, and couloirs",
+          "example": "Armed with technical axes and mono-point crampons, she took up the extreme sport of ice climbing."
+        },
+        {
+          "word": "STALACTITE",
+          "meaning": "Tapering structure of mineral calcium carbonate hanging like an icicle from cave ceilings",
+          "example": "Centuries of dripping mineral-rich water formed a needle-thin six-foot stalactite from the ceiling."
+        },
+        {
+          "word": "PEREGRINATION",
+          "meaning": "Travel, journeying, or wandering from one place to another over long distances",
+          "example": "His lifelong peregrinations through Central Asian steppes were recorded in leather journals."
+        }
+      ]
+    },
+    {
+      "levelNumber": 13,
+      "title": "Adventure Level 13",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "HEADNET",
+          "meaning": "Fine mesh netting worn over the face and head to protect against biting insects",
+          "example": "Wearing a mesh headnet prevented swarms of biting blackflies from driving the hiker mad."
+        },
+        {
+          "word": "RUNES",
+          "meaning": "Letters of the ancient runic alphabets used by Germanic peoples before the Latin alphabet",
+          "example": "Mysterious magical runes were chiseled across the surface of the granite standing stone."
+        },
+        {
+          "word": "STANDINGWAVE",
+          "meaning": "Wave formed on rapid river waters that remains fixed in position relative to the bank",
+          "example": "Kayakers surfed back and forth endlessly on the glassy face of the roaring standing wave."
+        },
+        {
+          "word": "NOMAD",
+          "meaning": "Member of a community without fixed habitation who moves regularly to find pasture",
+          "example": "Desert nomads packed their woven goat-hair tents onto pack animals to seek green pastures."
+        },
+        {
+          "word": "KOMATIK",
+          "meaning": "Traditional Inuit wooden sled constructed with rawhide lashings to absorb trail shocks",
+          "example": "Lashed with caribou sinew, the flexible komatik withstood pounding over rough sea ice hummocks."
+        },
+        {
+          "word": "CALVING",
+          "meaning": "Process by which chunks of ice break off from a glacier or ice shelf into water",
+          "example": "An immense calving event sent a city-block-sized iceberg crashing into the churning bay."
+        },
+        {
+          "word": "MITTEN",
+          "meaning": "Glove with two sections, one for the thumb and the other for all four fingers together",
+          "example": "Thick beaver-fur mittens kept his fingers bundled together in warmth during the polar night."
+        },
+        {
+          "word": "CROSSING",
+          "meaning": "Act of journeying across an ocean, continent, desert, or mountain barrier",
+          "example": "Their daring winter crossing of the ice-choked Bering Strait required supreme endurance."
+        },
+        {
+          "word": "HOWLERMONKEY",
+          "meaning": "Tropical primate known for immense vocal volume echoing across jungle canopies",
+          "example": "Deep guttural roars of a male howler monkey echoed through the misty rainforest at dawn."
+        }
+      ]
+    },
+    {
+      "levelNumber": 14,
+      "title": "Adventure Level 14",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "JOLLYBOAT",
+          "meaning": "Small clinker-built boat carried at the stern of a sailing vessel for general harbor duties",
+          "example": "The mate and two apprentices rowed the sturdy jollyboat ashore to deliver ship mail."
+        },
+        {
+          "word": "HEADTORCH",
+          "meaning": "Small electric light strapped to a headband worn by miners, cavers, and night runners",
+          "example": "His waterproof LED headtorch cut through the pitch darkness of the flooded underground passage."
+        },
+        {
+          "word": "FIGUREEIGHT",
+          "meaning": "Versatile metal friction device shaped like the number eight used for rappelling",
+          "example": "The instructor demonstrated how to thread the rope through the figure eight descender."
+        },
+        {
+          "word": "PARANG",
+          "meaning": "Heavy Malaysian machete with a curved convex blade designed for cutting dense vegetation",
+          "example": "The jungle scout swung his balanced parang to clear a path through the spiny rattan vines."
+        },
+        {
+          "word": "CANTEEN",
+          "meaning": "Small portable water flask carried by soldiers, hikers, and explorers on treks",
+          "example": "The military stainless steel canteen clipped securely onto his webbed belt beside the first aid kit."
+        },
+        {
+          "word": "EXCAVATION",
+          "meaning": "Systematic digging and uncovering of archaeological sites to reveal historical remains",
+          "example": "A major archaeological excavation uncovered the paved flagstone streets of ancient Pompeii."
+        },
+        {
+          "word": "SPOTTINGSCOPE",
+          "meaning": "Compact high-power optical telescope optimized for observing wildlife at long distances",
+          "example": "Rangers mounted the spotting scope on a window clamp to scan the rocky cliffs for snow leopards."
+        },
+        {
+          "word": "TROGLOBITE",
+          "meaning": "Animal that lives entirely in the dark parts of caves and cannot survive outside",
+          "example": "Lacking all pigment and eyes, the tiny troglobite beetle depended on sensitive sensory hairs."
+        },
+        {
+          "word": "NILAS",
+          "meaning": "Thin, elastic crust of sea ice up to ten centimeters thick that bends easily under waves",
+          "example": "Dark nilas ice rippled across the calm ocean swells like a flexible sheet of grey rubber."
+        }
+      ]
+    },
+    {
+      "levelNumber": 15,
+      "title": "Adventure Level 15",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "FASTICE",
+          "meaning": "Sea ice that is attached or fastened to the shore or to the sea floor",
+          "example": "Inuit hunters traveled safely across the smooth surface of land-fast ice to reach open water."
+        },
+        {
+          "word": "FATWOOD",
+          "meaning": "Heartwood of pine trees impregnated with flammable natural resin used as firestarter",
+          "example": "Whittling a few curls of resin-rich fatwood provided an instant match-free firestarter."
+        },
+        {
+          "word": "MASTABA",
+          "meaning": "Ancient Egyptian flat-roofed rectangular tomb structure with sloping sides built over burial vaults",
+          "example": "The pharaoh royal architect was interred inside a limestone mastaba near the stepped pyramid."
+        },
+        {
+          "word": "CHERT",
+          "meaning": "Hard, fine-grained sedimentary rock composed of microcrystalline quartz used for tools",
+          "example": "Stone Age cave dwellers knapped nodules of glossy black chert into razor-sharp spearpoints."
+        },
+        {
+          "word": "WELWITSCHIA",
+          "meaning": "Unique gymnosperm plant native to the Namib Desert that survives for over a thousand years",
+          "example": "With only two continuously growing strap-like leaves, the welwitschia thrives in desert fog."
+        },
+        {
+          "word": "CARAVANSERAI",
+          "meaning": "Roadside inn where desert caravans and travelers could rest and recover along trade routes",
+          "example": "Camel drivers watered their beasts in the central courtyard of the ancient Silk Road caravanserai."
+        },
+        {
+          "word": "CRAMPON",
+          "meaning": "Metal plate with sharp spikes fixed to boots for walking and climbing on ice and snow",
+          "example": "Sharp forged steel crampons bit securely into the forty-five-degree blue glacial ice slope."
+        },
+        {
+          "word": "DOLINE",
+          "meaning": "Funnel-shaped hollow or depression in a karst landscape formed by limestone dissolution",
+          "example": "Rainwater pooled in the grassy doline before draining into an underground cave system."
+        },
+        {
+          "word": "HIGHBALL",
+          "meaning": "Tall bouldering route where a fall from near the top carries high risk of serious injury",
+          "example": "Reaching twenty-five feet above the pads, the highball boulder problem required absolute composure."
+        }
+      ]
+    },
+    {
+      "levelNumber": 16,
+      "title": "Adventure Level 16",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "PIRATECREW",
+          "meaning": "Band of seafaring marauders operating under a pirate captain and flying the Jolly Roger",
+          "example": "The pirate crew unfurled sails and gave chase to the lumbering Dutch merchantman."
+        },
+        {
+          "word": "TINDER",
+          "meaning": "Dry, easily combustible material like birch bark or charred cloth used to catch sparks",
+          "example": "Fluffy seed down from cattails served as excellent tinder to catch sparks struck from the flint."
+        },
+        {
+          "word": "SKIDOO",
+          "meaning": "Brand or generic term for a motor-driven snowmobile used in arctic transportation",
+          "example": "Rangers sped across the frozen lake on a skidoo to reach the stranded ice fishermen."
+        },
+        {
+          "word": "UNDERQUILT",
+          "meaning": "Insulated quilt hung beneath an outdoor camping hammock to prevent bottom heat loss",
+          "example": "An eight-hundred-fill down underquilt eliminated the cold-butt syndrome while sleeping in the hammock."
+        },
+        {
+          "word": "QUININE",
+          "meaning": "Bitter crystalline alkaloid derived from cinchona bark used to treat and prevent malaria",
+          "example": "Tonic water originally contained therapeutic doses of cinchona quinine for British colonial explorers."
+        },
+        {
+          "word": "BOIL",
+          "meaning": "Turbulent mushroom-like upwelling of water rising from the river bottom in deep canyons",
+          "example": "Whirling boils of deep canyon water threw the expedition raft sideways across the river."
+        },
+        {
+          "word": "UVALA",
+          "meaning": "Large elongated karst depression formed by the coalescing of several adjacent dolines",
+          "example": "Cattle grazed on lush grass growing in the fertile depression of the high karst uvala."
+        },
+        {
+          "word": "SAXAWL",
+          "meaning": "Arid-adapted small tree or shrub of Central Asian deserts with spongy water-storing wood",
+          "example": "Nomads burned fragrant dry branches of the saxawl shrub to brew black tea beside the yurt."
+        },
+        {
+          "word": "KUKRI",
+          "meaning": "Distinctive curved inward-bent knife used by Nepalese Gurkhas for bushcraft and self-defense",
+          "example": "With a swift sweep of his heavy kukri blade, the guide cut through the thick rhododendron thicket."
+        }
+      ]
+    },
+    {
+      "levelNumber": 17,
+      "title": "Adventure Level 17",
+      "gridRows": 16,
+      "gridCols": 16,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "CATACOMBCHAMBER",
+          "meaning": "Subterranean room within an underground burial network containing carved niches",
+          "example": "Torches lit the carved stone loculi inside the forgotten Roman catacomb chamber."
+        },
+        {
+          "word": "SHERPA",
+          "meaning": "Member of a Himalayan people renowned for mountaineering skill and altitude endurance",
+          "example": "Veteran Sherpa climbing sirdars fixed safety ropes along the treacherous Khumbu Icefall."
+        },
+        {
+          "word": "ANTHODITE",
+          "meaning": "Delicate radiating needle-like speleothem made of aragonite or calcite resembling flowers",
+          "example": "Fragile white needle-like crystals of an anthodite clustered like frost flowers on the cave wall."
+        },
+        {
+          "word": "BOUNTY",
+          "meaning": "Generous reward offered for capturing criminals or securing valuable discoveries",
+          "example": "The treasure salvager claimed a handsome bounty after locating the wreck of the Spanish galleon."
+        },
+        {
+          "word": "FORGOTTENTEMPLE",
+          "meaning": "Ancient shrine lost to civilization and swallowed by jungle vines over centuries",
+          "example": "Pushing through dense creepers, the expedition discovered the entrance to the forgotten temple."
+        },
+        {
+          "word": "POLJE",
+          "meaning": "Very large flat-bottomed karst basin enclosed by steep limestone walls and drained underground",
+          "example": "During winter rains, the broad agricultural polje flooded into a temporary freshwater lake."
+        },
+        {
+          "word": "TUMULUS",
+          "meaning": "Ancient mound of earth and stones raised over a grave or burial chamber",
+          "example": "Excavation of the Bronze Age tumulus revealed bronze axes, amber beads, and a stone cist."
+        },
+        {
+          "word": "PITCHDESCENT",
+          "meaning": "Vertical drop or shaft in a cave requiring ropes and descending gear to negotiate",
+          "example": "The lead caver rigged a rebelay before starting his hundred-foot pitch descent into the black abyss."
+        },
+        {
+          "word": "TRAILHEAD",
+          "meaning": "Designated point where a trail or hiking path begins, often with a parking area",
+          "example": "Hikers checked their topographic maps and signed the trail register at the forested trailhead."
+        }
+      ]
+    },
+    {
+      "levelNumber": 18,
+      "title": "Adventure Level 18",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "CHOTT",
+          "meaning": "Shallow saline lake or marsh basin in North Africa that is dry for most of the year",
+          "example": "A crust of glittering white salt crystals formed over the dried mud bed of the Chott el Djerid."
+        },
+        {
+          "word": "BUCCANEER",
+          "meaning": "Pirate or marauder who raided Spanish shipping and settlements in the West Indies",
+          "example": "Fierce buccaneers sailed out from Port Royal to ambush colonial trade convoys."
+        },
+        {
+          "word": "ENDEMIC",
+          "meaning": "Plant or animal species native and restricted to a specific geographic region",
+          "example": "The marine iguana is an endemic reptile found nowhere else in the world except the Galapagos."
+        },
+        {
+          "word": "GUELTA",
+          "meaning": "Drainage basin, pocket, or natural reservoir in rocky Sahara highlands retaining water",
+          "example": "Thirsty gazelles gathered at the deep canyon guelta where shaded water remained year-round."
+        },
+        {
+          "word": "AVALON",
+          "meaning": "Mythical island of Arthurian legend renowned for magical fruit trees and eternal healing",
+          "example": "King Arthur was carried across misty waters to the mystical island of Avalon to heal his wounds."
+        },
+        {
+          "word": "DUFFEL",
+          "meaning": "Large cylindrical canvas or nylon bag used to haul gear on expeditions and safaris",
+          "example": "The expedition porters strapped heavy canvas duffel bags onto the backs of pack mules."
+        },
+        {
+          "word": "WATERFILTER",
+          "meaning": "Device removing dirt, bacteria, and protozoa from wild natural water sources",
+          "example": "Pumping muddy stream water through the ceramic waterfilter produced crystal-clear drinking water."
+        },
+        {
+          "word": "SHIPWRECK",
+          "meaning": "Remains of a wrecked ship found lying on a rocky shore or on the seabed",
+          "example": "Scuba divers explored the barnacle-encrusted wooden timbers of the eighteenth-century shipwreck."
+        },
+        {
+          "word": "SECRETVAULT",
+          "meaning": "Concealed underground secure chamber designed to protect treasures from discovery",
+          "example": "Behind a rotating false bookshelf lay the reinforced steel door of the secret vault."
+        },
+        {
+          "word": "TIPI",
+          "meaning": "Portable conical tent traditionally made of animal skins or canvas on wooden poles",
+          "example": "Plains tribes erected tall canvas tipis that stood firm against fierce prairie winds."
+        },
+        {
+          "word": "DOWNSTREAM",
+          "meaning": "Direction in which a river or stream flows toward its mouth or lake",
+          "example": "Floating downstream with the current allowed travelers to relax and view wildlife along the banks."
+        }
+      ]
+    },
+    {
+      "levelNumber": 19,
+      "title": "Adventure Level 19",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "BARROW",
+          "meaning": "Ancient burial mound or tumulus constructed of earth and stones over grave chambers",
+          "example": "A grassy prehistoric barrow rose atop the windswept chalk ridge overlooking the valley."
+        },
+        {
+          "word": "BEARING",
+          "meaning": "Direction of an object or destination expressed as a horizontal compass angle in degrees",
+          "example": "The navigator took a compass bearing of 240 degrees southwest toward the prominent mountain gap."
+        },
+        {
+          "word": "FLOTSAM",
+          "meaning": "Wreckage or debris of a ship or cargo found floating on the water surface",
+          "example": "Floating crates and buoyant timber spars were all the flotsam left of the sunken merchantman."
+        },
+        {
+          "word": "WEBBING",
+          "meaning": "Strong woven fabric strip used in climbing slings, anchor straps, and harness construction",
+          "example": "Tubular nylon webbing was wrapped around a stout oak tree to create a two-point rappel anchor."
+        },
+        {
+          "word": "BERBER",
+          "meaning": "Member of an indigenous ethnic group native to North Africa living in deserts and mountains",
+          "example": "Berber artisans in the oasis village dyed sheep wool with indigo, saffron, and pomegranate."
+        },
+        {
+          "word": "PARACORD",
+          "meaning": "Lightweight nylon kernmantle rope originally used in parachute suspension lines",
+          "example": "Fifty feet of military-spec 550 paracord provided cordage for building traps, shelters, and lanyards."
+        },
+        {
+          "word": "MAELSTROM",
+          "meaning": "Powerful, violent, and dangerous whirlpool of extraordinary size and fury",
+          "example": "Nordic legends warned sailors of the terrifying Lofoten maelstrom swallowing entire fishing boats."
+        },
+        {
+          "word": "MUMMIFICATION",
+          "meaning": "Process of embalming and drying a dead body to prevent natural decay practiced in Egypt",
+          "example": "Centuries of arid desert air and natron salt completed the mummification of the priest."
+        },
+        {
+          "word": "SEXANTARM",
+          "meaning": "Index bar of a nautical sextant rotating across the graduated arc to indicate angles",
+          "example": "The navigator tightened the micrometer drum on the sextant arm to lock in his noon sight."
+        },
+        {
+          "word": "CAMEL",
+          "meaning": "Large, hardy mammal with one or two humps adapted for long journeys without water",
+          "example": "The laden camel trudged steadily across the burning sands, carrying packs of frankincense."
+        },
+        {
+          "word": "SIGNALMIRROR",
+          "meaning": "Reflective mirror used to flash sunlight across vast distances to signal rescue aircraft",
+          "example": "Angling the glass signal mirror flashed a dazzling beacon of sunlight to the search helicopter."
+        }
+      ]
+    },
+    {
+      "levelNumber": 20,
+      "title": "Adventure Level 20",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "DRIFTICE",
+          "meaning": "Sea ice that is free to move under the influence of wind and ocean currents",
+          "example": "Shifting drift ice threatened to crush the wooden hull of the exploration vessel in the sound."
+        },
+        {
+          "word": "COLUMBARIUM",
+          "meaning": "Building or vault containing niches with urns holding cremated human remains",
+          "example": "Archaeologists explored the underground Roman columbarium lined with hundreds of cinerary urns."
+        },
+        {
+          "word": "OVERHANG",
+          "meaning": "Section of a rock cliff that projects forward beyond the vertical plane below",
+          "example": "Big-wall climbers hung suspended in space beneath a massive twenty-foot horizontal granite overhang."
+        },
+        {
+          "word": "CARBIDE",
+          "meaning": "Historic calcium carbide lamp producing bright acetylene gas flame used by early cavers",
+          "example": "Vintage cavers relied on the hissing white flame of brass carbide lamps for underground warmth."
+        },
+        {
+          "word": "CAIRNMARKER",
+          "meaning": "Conspicuous pile of rough stones erected to designate a trail waypoint in featureless landscapes",
+          "example": "A tall cairn marker crowned the barren mountain pass, reassuring hikers of the true trail."
+        },
+        {
+          "word": "ANCHORAGE",
+          "meaning": "Suitable and sheltered place for ships or boats to drop anchor securely",
+          "example": "The captain steered the schooner into a protected sandy anchorage sheltered from the offshore storm."
+        },
+        {
+          "word": "DROMEDARY",
+          "meaning": "Single-humped Arabian camel bred for riding and endurance in arid desert climates",
+          "example": "The fast dromedary carried its rider fifty miles across shifting dunes without tiring."
+        },
+        {
+          "word": "TROGLEXENE",
+          "meaning": "Animal that visits caves temporarily for shelter or roosting but feeds outside",
+          "example": "Swallows and cave crickets function as troglexenes, bringing vital organic nutrients into the cave."
+        },
+        {
+          "word": "MUSHING",
+          "meaning": "Sport or transportation method of driving a dog team hitched to a sled over snow",
+          "example": "Competitors in the grueling Iditarod endured weeks of subzero mushing across Alaska."
+        },
+        {
+          "word": "GOLDENCITY",
+          "meaning": "Mythological or lost city famed for palaces and monuments built of pure gold",
+          "example": "Explorers pushed through uncharted jungle in search of the legendary lost golden city."
+        },
+        {
+          "word": "FORESTFLOOR",
+          "meaning": "Ground surface beneath forest trees consisting of leaf litter, mosses, and rich humus",
+          "example": "Army ants swarmed in disciplined columns across the damp leaf litter of the forest floor."
+        }
+      ]
+    },
+    {
+      "levelNumber": 21,
+      "title": "Adventure Level 21",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "TREETOP",
+          "meaning": "Uppermost parts or highest branches of forest trees where diverse wildlife abounds",
+          "example": "Colorful parrots and toucans chattered noisily among fruit blossoms in the sunlit treetop."
+        },
+        {
+          "word": "JERKY",
+          "meaning": "Lean meat trimmed of fat, cut into strips, and dried to prevent spoilage on journeys",
+          "example": "The woodsman packed strips of smoked venison jerky for protein on his solo trek."
+        },
+        {
+          "word": "PITON",
+          "meaning": "Metal spike or wedge hammered into rock crevices to act as an anchor or hold ropes",
+          "example": "Classic mountaineers pounded forged steel pitons into granite fractures to secure their belay station."
+        },
+        {
+          "word": "ASCENDER",
+          "meaning": "Mechanical device attached to climbing ropes that slides upward freely but locks under load",
+          "example": "Jugging up fixed ropes on El Capitan, big-wall climbers pushed mechanical ascenders ahead of them."
+        },
+        {
+          "word": "BIVY",
+          "meaning": "Minimalist temporary outdoor encampment or emergency shelter used by mountaineers",
+          "example": "High on the exposed ridge, the climbers spent an uncomfortable night in a hanging bivy."
+        },
+        {
+          "word": "SNOWFLUKE",
+          "meaning": "Flanged aluminum plate designed to dig deeper into snow under tension as an anchor",
+          "example": "The mountaineer set a snow fluke in the wind-packed crust to safeguard the ridge traverse."
+        },
+        {
+          "word": "SPACEBLANKET",
+          "meaning": "Thin, lightweight metallic plastic sheet reflecting body heat in survival situations",
+          "example": "He unfolded a shiny space blanket to wrap around the injured hiker to prevent shock."
+        },
+        {
+          "word": "MUTINY",
+          "meaning": "Open rebellion against lawful ship officers by sailors or military personnel",
+          "example": "Threats of violent mutiny brewed in the fo'c'sle when fresh drinking water ran dangerously low."
+        },
+        {
+          "word": "ORCHIDEE",
+          "meaning": "Tropical flowering plant with ornate, colorful blooms adapted to rainforest canopies",
+          "example": "Botanists carefully collected an undiscovered miniature purple orchidee from the high branch."
+        },
+        {
+          "word": "ANCIENTRELIC",
+          "meaning": "Object of revered historical antiquity surviving from an ancient vanished culture",
+          "example": "He held the ancient relic with gloved hands, marveling at the intricate hammered gold leaf."
+        },
+        {
+          "word": "TRENCHFOOT",
+          "meaning": "Painful foot condition caused by prolonged exposure to damp, unsanitary, and cold conditions",
+          "example": "Regularly changing into dry wool socks prevented the arctic surveyors from developing trenchfoot."
+        }
+      ]
+    },
+    {
+      "levelNumber": 22,
+      "title": "Adventure Level 22",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "TRAVERSE",
+          "meaning": "Route or movement traveling horizontally across a steep slope, glacier, or rock face",
+          "example": "Climbers carefully negotiated an exposed horizontal traverse across the sheer limestone wall."
+        },
+        {
+          "word": "ANEMOMETER",
+          "meaning": "Instrument measuring wind speed and velocity during meteorological expeditions",
+          "example": "Readings from the digital anemometer clocked summit gale gusts at seventy miles per hour."
+        },
+        {
+          "word": "VADOSE",
+          "meaning": "Pertaining to the zone of aeration above the water table where cave waters flow freely",
+          "example": "Canyon-like vertical trenching marked the vadose stream cutting down into limestone bedrock."
+        },
+        {
+          "word": "PETROGLYPH",
+          "meaning": "Rock carving, especially a prehistoric one made by pecking or incising stone surfaces",
+          "example": "Ancient hunters pecked petroglyphs of bighorn sheep and shamans into the desert canyon wall."
+        },
+        {
+          "word": "HARDTACK",
+          "meaning": "Dense, hard, long-lasting biscuit made from flour and water carried on long expeditions",
+          "example": "Early explorers soaked rock-hard hardtack biscuits in hot coffee to make them edible."
+        },
+        {
+          "word": "CROSSSTAFF",
+          "meaning": "Early navigational instrument consisting of a graduated wooden rod and sliding transoms",
+          "example": "Peering along the cross-staff, the Renaissance navigator measured the altitude of the pole star."
+        },
+        {
+          "word": "PRIVATEER",
+          "meaning": "Privately owned armed vessel authorized by government commissions to attack enemy ships",
+          "example": "Commissioned by Queen Elizabeth, English privateers intercepted Spanish treasure galleons."
+        },
+        {
+          "word": "MACHETE",
+          "meaning": "Broad, heavy blade used as both an agricultural tool and weapon in dense jungles",
+          "example": "The expedition guide swung his razor-sharp machete to chop a path through tangled jungle vines."
+        },
+        {
+          "word": "DEBRISHUT",
+          "meaning": "Primitive survival shelter insulated with thick layers of dry leaves, needles, and moss",
+          "example": "Surrounded by three feet of forest leaves, the debris hut kept him warm without a sleeping bag."
+        },
+        {
+          "word": "TALUSCONE",
+          "meaning": "Cone-shaped pile of fallen rock fragments accumulated at the base of a cliff or chute",
+          "example": "Loose rock spilling from the chimney formed a steep, unstable talus cone inside the entrance chamber."
+        },
+        {
+          "word": "MESSKIT",
+          "meaning": "Compact set of nested cooking and eating utensils used by soldiers and outdoor campers",
+          "example": "The stainless steel mess kit folded open into a frying pan, divided food tray, and cup."
+        }
+      ]
+    },
+    {
+      "levelNumber": 23,
+      "title": "Adventure Level 23",
+      "gridRows": 16,
+      "gridCols": 16,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "SAMBURU",
+          "meaning": "Nilotic people of north-central Kenya related to the Maasai herding cattle on arid lands",
+          "example": "Samburu pastoralists adorned with beaded necklaces tended their zebu cattle near the river."
+        },
+        {
+          "word": "ASTROLABE",
+          "meaning": "Ancient astronomical and navigation instrument used to locate and predict sun and star positions",
+          "example": "An intricately engraved brass Persian astrolabe calculated star elevations and the hour of night."
+        },
+        {
+          "word": "INSCRIPTIONSLAB",
+          "meaning": "Flat stone panel carved with historical, commemorative, or funeral inscriptions",
+          "example": "Archaeologists brushed sand from a basalt inscription slab praising the heroic pharaoh."
+        },
+        {
+          "word": "AURORABOREALIS",
+          "meaning": "Luminous atmospheric phenomenon of colorful dancing lights in northern night skies",
+          "example": "Vibrant ribbons of emerald and violet aurora borealis shimmered across the arctic sky."
+        },
+        {
+          "word": "ALIDADE",
+          "meaning": "Surveying instrument sighting target lines and measuring vertical angles on tables",
+          "example": "Surveyors aligned the telescopic alidade along the plane table to map contours of the valley."
+        },
+        {
+          "word": "BILLYCAN",
+          "meaning": "Lightweight metal tin or pot with a wire bail handle used for boiling water over campfires",
+          "example": "Blackened with campfire soot, the tin billycan brewed hot sweet black tea every evening."
+        },
+        {
+          "word": "AGARTHA",
+          "meaning": "Mythological subterranean kingdom situated deep within the Earth mantle in occult lore",
+          "example": "Explorers and mystics searched cavern systems of the Himalayas for the lost realm of Agartha."
+        },
+        {
+          "word": "CASTAWAY",
+          "meaning": "Person who has been shipwrecked and stranded in an isolated, deserted place",
+          "example": "Robinson Crusoe survived for decades as an inventive castaway on a remote uninhabited island."
+        },
+        {
+          "word": "WADI",
+          "meaning": "Valley, ravine, or dry channel in arid regions that remains dry until rare heavy rains fall",
+          "example": "The desert caravan set up camp on high ground to avoid flash floods rushing down the dry wadi."
+        },
+        {
+          "word": "STRANGLERFIG",
+          "meaning": "Epiphytic tropical fig that envelopes a host tree in roots until the host tree dies",
+          "example": "Tangled woody trunks of the strangler fig formed a hollow cylinder where the host tree rotted away."
+        },
+        {
+          "word": "HIEROGLYPH",
+          "meaning": "Pictographic character of the ancient Egyptian writing system carved on stone",
+          "example": "Columns of carved hieroglyphs on the temple wall recorded the conquests of the pharaoh."
+        }
+      ]
+    },
+    {
+      "levelNumber": 24,
+      "title": "Adventure Level 24",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "TABULAR",
+          "meaning": "Large, flat-topped iceberg that has detached from an ice shelf",
+          "example": "The radar screen revealed a massive tabular iceberg stretching fifteen miles across the antarctic sea."
+        },
+        {
+          "word": "WAYMARK",
+          "meaning": "Marker placed along a cross-country trail to show hikers the correct direction",
+          "example": "A yellow painted chevron served as an official waymark guiding travelers along the national trail."
+        },
+        {
+          "word": "SIPHON",
+          "meaning": "Water-filled passage in a cave where the roof dips beneath the subterranean water table",
+          "example": "Cave divers in drysuits swam through a dangerous three-hundred-foot flooded siphon to reach dry caverns."
+        },
+        {
+          "word": "TUAREG",
+          "meaning": "Berber people of the Sahara characterized by indigo veils and trans-Saharan trading lore",
+          "example": "Veiled in deep indigo cloth, Tuareg riders guided their racing camels across the rocky desert."
+        },
+        {
+          "word": "CROMLECH",
+          "meaning": "Prehistoric monument consisting of large megaliths arranged in a circle or enclosure",
+          "example": "Stonehenge stands as the world most famous megalithic cromlech aligned with the solstice."
+        },
+        {
+          "word": "CAVEPEARL",
+          "meaning": "Smooth spherical mineral deposit formed in shallow cave pools agitated by dripping water",
+          "example": "Gently swirling pool water coated tiny sand grains with calcite, creating polished cave pearls."
+        },
+        {
+          "word": "OCTANT",
+          "meaning": "Reflecting navigational instrument with a graduated 45-degree arc used to measure star heights",
+          "example": "Preceding the sextant, the eighteenth-century octant measured sun angles with two mirrors."
+        },
+        {
+          "word": "ATLANTIS",
+          "meaning": "Legendary island civilization first mentioned by Plato said to have sunk into the ocean",
+          "example": "Generations of deep-sea explorers have searched the Atlantic seafloor for the lost city of Atlantis."
+        },
+        {
+          "word": "HYPSOMETER",
+          "meaning": "Instrument that calculates elevation by measuring the boiling point of water at that altitude",
+          "example": "Boiling water at ninety-two degrees Celsius, the hypsometer determined their high elevation."
+        },
+        {
+          "word": "INGOT",
+          "meaning": "Block of steel, gold, silver, or other metal cast into a convenient shape for storage",
+          "example": "Divers hoisted five-hundred-pound lead and silver ingots from the sandy ballast mound."
+        },
+        {
+          "word": "TRIANGULATION",
+          "meaning": "Surveying method calculating distance and position using a network of triangles",
+          "example": "Surveyors mapped the entire length of the mountain chain through geodetic triangulation."
+        }
+      ]
+    },
+    {
+      "levelNumber": 25,
+      "title": "Adventure Level 25",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "HAVERSACK",
+          "meaning": "Small bag with a single shoulder strap worn over one shoulder to carry provisions",
+          "example": "A vintage leather-trimmed haversack held his lunch, journal, and brass lensatic compass."
+        },
+        {
+          "word": "MEGALITH",
+          "meaning": "Very large stone used in prehistoric structures or monuments like dolmens and stone circles",
+          "example": "Neolithic builders hauled fifty-ton granite megaliths from quarries twenty miles away."
+        },
+        {
+          "word": "APEXPREDATOR",
+          "meaning": "Predator at the top of a food chain upon which no other creatures naturally prey",
+          "example": "The Bengal tiger reigns supreme as the apex predator of the dense mangrove jungle."
+        },
+        {
+          "word": "COULOIR",
+          "meaning": "Steep, narrow gully or vertical furrow on a mountainside filled with snow or ice",
+          "example": "Ski mountaineers carved disciplined jump turns down the dizzyingly steep forty-five-degree ice couloir."
+        },
+        {
+          "word": "STATICROPE",
+          "meaning": "Low-stretch climbing rope designed for hauling, rappelling, and caving rather than lead falls",
+          "example": "Cavers rigged five hundred feet of static rope down the vertical limestone pit shaft."
+        },
+        {
+          "word": "PULKA",
+          "meaning": "Traditional lightweight Nordic transport sledge pulled by skiers or reindeer",
+          "example": "Fastened to his hip harness, the loaded pulka glided effortlessly over the frozen lake."
+        },
+        {
+          "word": "MASTHEAD",
+          "meaning": "Topmost summit of a ship mast often used as a vantage point for spotting land",
+          "example": "He climbed the ratlines all the way to the main masthead to scan the horizon for coral reefs."
+        },
+        {
+          "word": "STELE",
+          "meaning": "Upright stone slab or pillar bearing commemorative inscriptions or sculptured relief designs",
+          "example": "The basalt stele commemorated the military victories and peace treaties of the king."
+        },
+        {
+          "word": "KHAMSEIN",
+          "meaning": "Oppressive hot, sandy wind blowing from the south across Egypt for fifty days in spring",
+          "example": "Yellow dust choked the city sky as the blistering khamsein wind swept northward from the Sahara."
+        },
+        {
+          "word": "SUBTERRANEAN",
+          "meaning": "Existing, occurring, or situated entirely beneath the surface of the earth",
+          "example": "Explorers discovered a subterranean lake populated by blind albino salamanders and cave crayfish."
+        },
+        {
+          "word": "BIRCHBARK",
+          "meaning": "Water-resistant, oil-rich bark harvested from birch trees highly prized as fire tinder",
+          "example": "Even when soaked in freezing rain, birch bark ignites readily from a single spark."
+        },
+        {
+          "word": "DEADRECKONING",
+          "meaning": "Process of calculating current position based on previously determined position and speed",
+          "example": "Navigating through thick ocean fog, the sailor relied on dead reckoning using boat speed and compass heading."
+        },
+        {
+          "word": "RESTRICTEDSLOT",
+          "meaning": "Extremely narrow vertical fissure in cave systems requiring helmets to be removed",
+          "example": "Exhaling completely allowed the caver to squeeze his ribcage through the restricted slot."
+        }
+      ]
+    },
+    {
+      "levelNumber": 26,
+      "title": "Adventure Level 26",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "CAMPSTOVE",
+          "meaning": "Portable stove utilizing gas, alcohol, or twigs used by campers to cook meals",
+          "example": "The ultralight titanium campstove boiled two cups of mountain stream water in under three minutes."
+        },
+        {
+          "word": "NORTHSTAR",
+          "meaning": "Bright pole star positioned nearly at the north celestial pole showing true north",
+          "example": "Sailors in the northern hemisphere looked to the North Star to determine direction without compasses."
+        },
+        {
+          "word": "MUTINEER",
+          "meaning": "Sailor or soldier who rebels openly against legal military or naval authorities",
+          "example": "Mutineers seized control of the vessel and set the captain adrift in a small launch."
+        },
+        {
+          "word": "CONFLUENCE",
+          "meaning": "Junction of two rivers of roughly equal width or streams merging together",
+          "example": "The historic city was founded at the scenic confluence where two mighty rivers merged into one."
+        },
+        {
+          "word": "TAMARISK",
+          "meaning": "Feathery shrub or small tree native to dry regions able to grow in saline soils",
+          "example": "Dense groves of pink-flowered tamarisk shrubs stabilized the sandbars along the desert river."
+        },
+        {
+          "word": "ISOPOD",
+          "meaning": "Small, flat-bodied crustacean including cave species adapted to life in total darkness",
+          "example": "Subterranean aquatic isopods lacking pigment crawled along submerged limestone gravel."
+        },
+        {
+          "word": "CUTLASS",
+          "meaning": "Short, broad curved sword with a single cutting edge favored by naval sailors and pirates",
+          "example": "A steel cutlass with a brass basket hilt hung ready in the captain leather scabbard."
+        },
+        {
+          "word": "SWASHBUCKLER",
+          "meaning": "Dashing, adventurous swordsman or sailor renowned for daring bravado and swordplay",
+          "example": "The heroic swashbuckler swung from the rigging with a gleaming cutlass between his teeth."
+        },
+        {
+          "word": "CANOPYWALK",
+          "meaning": "Suspended bridge network erected in treetops allowing scientific study of the forest canopy",
+          "example": "Walking on swaying wooden planks along the canopywalk gave biologists birds-eye views of monkeys."
+        },
+        {
+          "word": "MUMMY",
+          "meaning": "Dead body of a human or animal preserved by ancient embalming or natural mummification",
+          "example": "Researchers performed a non-invasive CT scan on the three-thousand-year-old Egyptian mummy."
+        },
+        {
+          "word": "JUGGING",
+          "meaning": "Ascending a fixed rope using mechanical ascenders rather than climbing the rock directly",
+          "example": "Carrying forty pounds of camera gear, the photographer juggled up fixed lines along the headwall."
+        },
+        {
+          "word": "GLOBETROTTER",
+          "meaning": "Person who travels regularly and widely throughout all parts of the world",
+          "example": "The veteran globetrotter had stamped visas from more than one hundred nations in her passport."
+        },
+        {
+          "word": "DOGSLED",
+          "meaning": "Sled drawn by a team of trained sled dogs over packed snow and frozen ice",
+          "example": "The musher yelled commands as the twelve-dog team pulled the wooden dogsled across the tundra."
+        }
+      ]
+    },
+    {
+      "levelNumber": 27,
+      "title": "Adventure Level 27",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "FIRESTARTER",
+          "meaning": "Material or device used to easily ignite campfire tinder or charcoal",
+          "example": "He carried paraffin-wax wood cubes in his survival tin as a reliable emergency firestarter."
+        },
+        {
+          "word": "GRAVELBAR",
+          "meaning": "Ridge of gravel and coarse pebbles deposited by river currents along bends",
+          "example": "The kayakers pulled their boats onto an elevated gravel bar to cook lunch beside the rushing stream."
+        },
+        {
+          "word": "UNDERCUT",
+          "meaning": "Rock ledge beneath the river surface hollowed out by current trapping debris and paddlers",
+          "example": "Paddlers braced their paddles firmly to stay well clear of the dangerous river-right undercut wall."
+        },
+        {
+          "word": "MORAIN",
+          "meaning": "Mass of rocks, sediment, and boulders carried down and deposited by a glacier",
+          "example": "Hiking along the knife-edge lateral moraine ridge gave views over the receding glacier tongue."
+        },
+        {
+          "word": "SHUGA",
+          "meaning": "Spongy, slushy clumps of ice formed from frazil crystals aggregating on water",
+          "example": "Greasy grey shuga floating on the water signaled that the fjord was freezing solid for winter."
+        },
+        {
+          "word": "BACHMANN",
+          "meaning": "Friction hitch using a carabiner for ascending ropes during crevasse rescues",
+          "example": "The rescuer rigged a Bachmann hitch to ascend the fixed line quickly out of the icy crevasse."
+        },
+        {
+          "word": "TOPOGRAPHY",
+          "meaning": "Detailed arrangement and physical representation of natural and artificial surface features",
+          "example": "Topographic maps with brown contour lines depicted the steep, rocky topography of the canyon."
+        },
+        {
+          "word": "PIONEER",
+          "meaning": "Person among the first to explore, settle, or open up a new country or frontier",
+          "example": "Hardy frontier pioneers cleared mountain trails and constructed log cabins beside rivers."
+        },
+        {
+          "word": "SNOWSTAKE",
+          "meaning": "Long aluminum angle stake driven into snowfields to secure tents or belays",
+          "example": "Driving three snow stakes into the firm snow ensured the four-season tent stayed anchored in the storm."
+        },
+        {
+          "word": "STALAGMITE",
+          "meaning": "Upward-pointing mineral formation built up on a cave floor from dripping cave water",
+          "example": "A massive fluted stalagmite rose from the cavern floor to meet a descending stalactite above."
+        },
+        {
+          "word": "ODYSSEY",
+          "meaning": "Long, wandering, and eventful journey full of dramatic hardships and adventures",
+          "example": "Their ten-year seafaring odyssey across the Pacific inspired generations of adventurers."
+        },
+        {
+          "word": "SASTRUGI",
+          "meaning": "Parallel wave-like ridges formed on snow surfaces by the abrasive action of wind",
+          "example": "The sled runners bumped and jarred violently across frozen, razor-sharp wind-carved sastrugi."
+        },
+        {
+          "word": "DOLOMITE",
+          "meaning": "Sedimentary carbonate rock forming dramatic jagged alpine peaks and cavern formations",
+          "example": "The pink and grey limestone spires of the Italian Dolomites glowed magnificent at twilight."
+        }
+      ]
+    },
+    {
+      "levelNumber": 28,
+      "title": "Adventure Level 28",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "CLOVEHITCH",
+          "meaning": "Quick-binding knot used to secure a rope to a post, spar, or cylindrical object",
+          "example": "He secured the canoe painter to the wooden dock piling with a firm clove hitch."
+        },
+        {
+          "word": "MENHIR",
+          "meaning": "Tall, upright unhewn megalithic stone erected in prehistoric times as a monument",
+          "example": "A solitary nine-foot granite menhir cast a long shadow across the windswept moor."
+        },
+        {
+          "word": "KNAPSACK",
+          "meaning": "Bag with shoulder straps carried on the back commonly used for camping supplies",
+          "example": "He slung his canvas knapsack over his shoulders and headed up the rocky mountain trail."
+        },
+        {
+          "word": "SCAT",
+          "meaning": "Animal fecal droppings examined by trackers and biologists to identify diet and health",
+          "example": "Analyzing predator scat under the microscope confirmed the presence of porcupine quills."
+        },
+        {
+          "word": "FRINGINGREEF",
+          "meaning": "Coral reef that lies close to or directly against a coastline or island shore",
+          "example": "Snorkelers stepped directly off the sandy beach into the crystal waters of the fringing reef."
+        },
+        {
+          "word": "FERROCERIUM",
+          "meaning": "Synthetic pyrophoric alloy that produces hot sparks when scraped against rough surfaces",
+          "example": "A compact ferrocerium rod hung from his paracord lanyard as a weatherproof fire-starting backup."
+        },
+        {
+          "word": "FRAZIL",
+          "meaning": "Small, disc-shaped or spiky ice crystals formed in turbulent, supercooled open water",
+          "example": "Thick slurries of frazil ice formed along the churning surface of the freezing river rapids."
+        },
+        {
+          "word": "KINDLING",
+          "meaning": "Dry twigs, sticks, or shavings used to start a fire from a small spark or ember",
+          "example": "Slender shavings of dry pine kindling caught the flame from the spark and flared into crackling fire."
+        },
+        {
+          "word": "PANNIER",
+          "meaning": "Large basket or bag slung in pairs over the back of a pack animal or on bicycle racks",
+          "example": "Leather panniers packed with food tins and maps hung on both sides of the expedition donkey."
+        },
+        {
+          "word": "SOJOURN",
+          "meaning": "Temporary stay or visit in a foreign destination during a prolonged journey",
+          "example": "After a month-long sojourn in the Saharan oasis, the caravan pushed eastward."
+        },
+        {
+          "word": "INUKSHUK",
+          "meaning": "Traditional stone landmark or cairn built by Inuit peoples across the arctic tundra",
+          "example": "Silhouetted against the arctic sunset, the human-shaped stone inukshuk pointed toward good hunting."
+        },
+        {
+          "word": "GROWLER",
+          "meaning": "Small piece of floating glacial ice barely showing above water hazardous to small craft",
+          "example": "A stealthy growler scraped against the aluminum hull of the sailboat in the foggy strait."
+        },
+        {
+          "word": "BERGSCHRUND",
+          "meaning": "Crevasse that forms where moving glacier ice pulls away from stagnant ice on rock",
+          "example": "Climbers bridged the gaping yawning bergschrund using a light aluminum ladder anchored by pickets."
+        }
+      ]
+    },
+    {
+      "levelNumber": 29,
+      "title": "Adventure Level 29",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "ROSETTA",
+          "meaning": "Stone slab discovered in 1799 bearing parallel inscriptions that deciphered Egyptian hieroglyphics",
+          "example": "The discovery of the Rosetta Stone provided the key to unlocking ancient Egyptian writing."
+        },
+        {
+          "word": "USHABTI",
+          "meaning": "Small figurine placed in ancient Egyptian tombs to act as servants for the deceased in the afterlife",
+          "example": "Hundreds of turquoise-glazed faience ushabti figures were placed inside the tomb chamber."
+        },
+        {
+          "word": "SCARAB",
+          "meaning": "Dung beetle revered in ancient Egypt as a symbol of the solar cycle and resurrection",
+          "example": "The archaeologist brushed sand from a blue-glazed steatite scarab amulet."
+        },
+        {
+          "word": "CHRONOMETER",
+          "meaning": "Highly accurate mechanical marine timepiece used to determine longitude at sea",
+          "example": "John Harrison marine chronometer revolutionized navigation by keeping precise time aboard ship."
+        },
+        {
+          "word": "ANCIENTEMPIRE",
+          "meaning": "Powerful historic civilization from remote antiquity that ruled vast territories",
+          "example": "Archaeologists uncovered paved military highways built by the ancient empire two millennia ago."
+        },
+        {
+          "word": "SCURVY",
+          "meaning": "Disease caused by a severe deficiency of vitamin C historically afflicting long-voyage sailors",
+          "example": "Limes, lemons, and sauerkraut cured the debilitating scurvy that once devastated exploration crews."
+        },
+        {
+          "word": "NAVIGATOR",
+          "meaning": "Officer on a ship or aircraft responsible for plotting and directing its course",
+          "example": "Calculating star elevations with his sextant, the celestial navigator charted their oceanic course."
+        },
+        {
+          "word": "XEROPHYTE",
+          "meaning": "Plant adapted to survive in an environment with little or no liquid water like cacti",
+          "example": "Thick waxy cuticles and water-storing stems allowed desert xerophytes to thrive without rainfall."
+        },
+        {
+          "word": "BILLHOOK",
+          "meaning": "Traditional cutting tool with a curved hooked beak used for pruning and chopping wood",
+          "example": "The woodsman trimmed hazel poles and cleared thorny bramble paths with his sturdy iron billhook."
+        },
+        {
+          "word": "CAMMING",
+          "meaning": "Spring-loaded mechanical protection device that expands inside rock cracks",
+          "example": "The leader slotted a camming unit into the parallel granite fracture and clipped his rope."
+        },
+        {
+          "word": "KEYHOLEPASSAGE",
+          "meaning": "Cave passage with a rounded upper tube and a narrow incised floor slot below",
+          "example": "Wriggling sideways, the caver slipped through the upper bell of the tight keyhole passage."
+        },
+        {
+          "word": "PHREATIC",
+          "meaning": "Pertaining to the zone of rock below the water table where caves are carved by standing water",
+          "example": "Smooth, rounded oval cross-sections indicated the cave formed during an ancient phreatic phase."
+        },
+        {
+          "word": "BARQUE",
+          "meaning": "Sailing vessel with three or more masts having the mizzenmast rigged fore-and-aft",
+          "example": "The three-masted wooden barque carried adventurous passengers on around-the-world trade voyages."
+        }
+      ]
+    },
+    {
+      "levelNumber": 30,
+      "title": "Adventure Level 30",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "DUCAT",
+          "meaning": "Historic gold or silver trade coin widely used across Europe from the medieval era onward",
+          "example": "Merchants on the Silk Road weighed gold Venetian ducats to purchase sacks of Persian spices."
+        },
+        {
+          "word": "ESCUDO",
+          "meaning": "Historic Spanish and Portuguese gold or silver coin used in maritime commerce",
+          "example": "A chest filled with eight-escudo gold coins was hauled from the submerged pirate vessel."
+        },
+        {
+          "word": "POLYNYA",
+          "meaning": "Area of persistent open water surrounded by pack ice in arctic or antarctic seas",
+          "example": "Narwhals and bowhead whales gathered to breathe in the expansive winter sea ice polynya."
+        },
+        {
+          "word": "LAGAN",
+          "meaning": "Goods or wreckage cast into the sea with a floating buoy attached so they may be recovered",
+          "example": "Sailors tossed valuable cargo into the ocean as lagan, tying cork floats to mark the spot."
+        },
+        {
+          "word": "BLOWHOLE",
+          "meaning": "Opening in sea cliffs through which waves force upward spouts of spray and air",
+          "example": "A booming roar echoed as high-tide ocean swells erupted fifty feet through the rocky blowhole."
+        },
+        {
+          "word": "CHIPLOG",
+          "meaning": "Historic navigation instrument consisting of a wooden board thrown overboard on a knotted line",
+          "example": "Throwing the wooden chiplog overboard allowed mariners to gauge the sailing speed in knots."
+        },
+        {
+          "word": "FREECLIMBING",
+          "meaning": "Climbing style relying solely on physical ability and rock features rather than pulling on gear",
+          "example": "The team completed a bold free climbing ascent of the sheer three-thousand-foot granite wall."
+        },
+        {
+          "word": "CHARCLOTH",
+          "meaning": "Fabric of natural plant fiber pyrolyzed into slow-burning charcoal capturing tiny sparks",
+          "example": "A solitary spark from the flint struck the dark charcloth, glowing into an expanding red ember."
+        },
+        {
+          "word": "SNOWGOGGLES",
+          "meaning": "Protective eyewear with narrow slits or tinted lenses preventing snow blindness",
+          "example": "Inuit hunters carved slotted walrus ivory snow goggles to shield their eyes from intense glare."
+        },
+        {
+          "word": "LABYRINTH",
+          "meaning": "Complicated irregular network of passages or paths in which it is difficult to find a way",
+          "example": "The mythological hero unwound a ball of thread to retrace his steps through the Cretan labyrinth."
+        },
+        {
+          "word": "TOMB",
+          "meaning": "Large vault or monument underground or in stone designed to bury the dead",
+          "example": "Howard Carter peeked through a hole into the sealed Egyptian tomb, seeing 'wonderful things.'"
+        },
+        {
+          "word": "WHITEWATER",
+          "meaning": "Fast-moving, frothy, turbulent river water produced by steep descents and river boulders",
+          "example": "Adrenaline pumped as the six-person raft plunged through roaring Class V whitewater rapids."
+        },
+        {
+          "word": "ABSEIL",
+          "meaning": "Act or technique of controlled descent down a near-vertical rock face using ropes",
+          "example": "The mountain rescuer abseiled down the overhang to reach the stranded hiker pinned on the ledge."
+        }
+      ]
+    },
+    {
+      "levelNumber": 31,
+      "title": "Adventure Level 31",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "MANGROVE",
+          "meaning": "Tropical coastal tree with dense stilt roots growing in saline tidal coastal swamps",
+          "example": "Tangled prop roots of the mangrove swamp formed an impenetrable nursery for juvenile fish."
+        },
+        {
+          "word": "THERMALBLANKET",
+          "meaning": "Thin, lightweight plastic sheet coated with heat-reflective metallic foil for emergencies",
+          "example": "Wrapping the shivering hiker in a shiny Mylar thermal blanket retained ninety percent of body heat."
+        },
+        {
+          "word": "MONOLITH",
+          "meaning": "Large single upright block of stone, especially one shaped into a monument or pillar",
+          "example": "The ancient volcanic monolith rose eight hundred feet above the surrounding savanna."
+        },
+        {
+          "word": "HORNEDVIPER",
+          "meaning": "Venomous desert snake possessing horn-like scales above each eye adapted to sandy terrain",
+          "example": "The camouflaged horned viper buried itself beneath loose sand with only its eyes exposed."
+        },
+        {
+          "word": "SCEPTER",
+          "meaning": "Ornamented staff carried by rulers on ceremonial occasions as a symbol of royal sovereignty",
+          "example": "The golden scepter was encrusted with uncut emeralds and topped with a roaring lion."
+        },
+        {
+          "word": "ANTIQUITY",
+          "meaning": "Ancient past, especially the period of classical civilization before the Middle Ages",
+          "example": "Curators at the national museum cataloged bronze weapons preserved from remote antiquity."
+        },
+        {
+          "word": "BALACLAVA",
+          "meaning": "Close-fitting warm garment covering the head and neck leaving only parts of the face exposed",
+          "example": "A thermal wool balaclava protected his nose and cheeks from subzero arctic gales."
+        },
+        {
+          "word": "ASCENSION",
+          "meaning": "Act of climbing or ascending to the summit of a mountain or cliff",
+          "example": "Their historic first ascension of the sheer north face was completed in four days."
+        },
+        {
+          "word": "DUCKER",
+          "meaning": "Point in a cave where the ceiling dips so low into water that cavers must duck heads",
+          "example": "Taking a deep breath, the caver submerged his head beneath the rocky ducker to reach dry passage."
+        },
+        {
+          "word": "BUSHCRAFT",
+          "meaning": "Skill and wilderness knowledge required to survive and live comfortably in wild nature",
+          "example": "Mastering bushcraft skills allowed the outdoorsman to build shelters and forage food without modern tools."
+        },
+        {
+          "word": "TRAILMIX",
+          "meaning": "Nutritious portable snack mixture of nuts, dried fruits, seeds, and chocolate for hiking",
+          "example": "Reaching into his pocket, the backpacker munched a handful of energy-packed trail mix."
+        },
+        {
+          "word": "CATACOMBS",
+          "meaning": "Subterranean network of passageways and galleries with niches for human burials",
+          "example": "Miles of damp limestone catacombs wound beneath the streets of Paris stacked with bones."
+        },
+        {
+          "word": "DUCKDOWN",
+          "meaning": "Soft plumage from ducks used as exceptional lightweight insulation in cold-weather gear",
+          "example": "Stuffed with premium water-resistant duck down, the expedition parka withstood arctic temperatures."
+        }
+      ]
+    },
+    {
+      "levelNumber": 32,
+      "title": "Adventure Level 32",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SEIF",
+          "meaning": "Long, narrow sand dune or chain of dunes that extends parallel to the direction of the wind",
+          "example": "Parallel seif dunes stretched like giant golden knife blades across hundreds of miles of desert."
+        },
+        {
+          "word": "BARQUENTINE",
+          "meaning": "Sailing vessel with three or more masts having only the foremast square-rigged",
+          "example": "With graceful lines and tall sails, the barquentine sailed swiftly across the South Atlantic."
+        },
+        {
+          "word": "BUSHVELD",
+          "meaning": "Subtropical woodland ecoregion of southern Africa with thorny shrubs and trees",
+          "example": "Rangers tracked leopard spoor through the dense acacia thickets of the Kruger bushveld."
+        },
+        {
+          "word": "CATARACT",
+          "meaning": "Large, powerful, and violent waterfall or series of precipitous steep river rapids",
+          "example": "Thunderous clouds of spray rose into the gorge where the river plummeted over the massive cataract."
+        },
+        {
+          "word": "LEECH",
+          "meaning": "Blood-sucking aquatic or terrestrial annelid worm common in tropical rainforest undergrowth",
+          "example": "Hikers wore tightly cinched leech socks to keep parasitic jungle leeches off their ankles."
+        },
+        {
+          "word": "PICTOGRAPH",
+          "meaning": "Pictorial symbol for a word or phrase, especially prehistoric drawings on rock faces",
+          "example": "Red ochre pictographs painted on the cave overhang depicted hunters chasing mammoths."
+        },
+        {
+          "word": "ZEUGEN",
+          "meaning": "Mushroom-shaped rock pedestal formed by wind erosion undercutting soft rock beneath hard capstone",
+          "example": "Centuries of blowing sand carved the rock formation into a bizarre mushroom zeugen."
+        },
+        {
+          "word": "JETSAM",
+          "meaning": "Goods or cargo cast overboard from a ship in distress to lighten its load",
+          "example": "Barrels of salted pork washed ashore as jetsam after the crew jettisoned cargo in the gale."
+        },
+        {
+          "word": "FLOWSTONE",
+          "meaning": "Sheet-like mineral deposit formed where water flows down cave walls and ledges",
+          "example": "Cascades of gleaming white calcite flowstone resembled frozen waterfalls inside the limestone grotto."
+        },
+        {
+          "word": "HYPERBOREA",
+          "meaning": "Mythical northern land described in Greek mythology blessed with perpetual sunshine",
+          "example": "Ancient poets sang of Hyperborea as a blessed northern paradise lying beyond the north wind."
+        },
+        {
+          "word": "BRUSHWOOD",
+          "meaning": "Dense growth of small dry branches and twigs gathered for firewood or shelter construction",
+          "example": "Piling dry brushwood against the log framework created a sturdy windbreak around the campsite."
+        },
+        {
+          "word": "VELDT",
+          "meaning": "Open, uncultivated grassland characteristic of parts of southern Africa",
+          "example": "Herds of blesbok and springbok darted across the rolling yellow plains of the high veldt."
+        },
+        {
+          "word": "MERIDIAN",
+          "meaning": "Circle of constant longitude passing through a given place on earth and the terrestrial poles",
+          "example": "The prime meridian passing through Greenwich serves as the worldwide zero of longitude."
+        }
+      ]
+    },
+    {
+      "levelNumber": 33,
+      "title": "Adventure Level 33",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "AUTOTUBER",
+          "meaning": "Assisted-braking tubular belay device that adds friction during an unexpected fall",
+          "example": "Using an autotuber gave the lead climber added security while working technical moves on the rock."
+        },
+        {
+          "word": "HOARD",
+          "meaning": "Stock or store of money, gold, or valued objects hidden away in secret locations",
+          "example": "Archaeologists with metal detectors uncovered a buried Viking hoard of silver arm rings."
+        },
+        {
+          "word": "SHANGRILA",
+          "meaning": "Fictional or mythological earthly paradise nestled in a remote Himalayan valley",
+          "example": "Trekkers sought the tranquil beauty of Shangri-La among misty Himalayan mountain passes."
+        },
+        {
+          "word": "FLAREGUN",
+          "meaning": "Handheld firearm that discharges emergency pyrotechnic signal flares into the sky",
+          "example": "Stranded on the life raft, the captain fired a brilliant red aerial flare from the flare gun."
+        },
+        {
+          "word": "POLARNIGHT",
+          "meaning": "Period of darkness lasting more than 24 hours within polar circles during winter",
+          "example": "Research scientists stationed in Antarctica endured six months of uninterrupted polar night."
+        },
+        {
+          "word": "INCLINOMETER",
+          "meaning": "Device measuring the angle of inclination, pitch, or bank of a vehicle, slope, or terrain",
+          "example": "The off-road vehicle dashboard featured an inclinometer warning the driver of rollover angles."
+        },
+        {
+          "word": "PEMMICAN",
+          "meaning": "Concentrated survival mixture of dried meat, rendered tallow, and dried berries",
+          "example": "Polar expeditions relied on calorie-dense pemmican blocks to maintain body mass in arctic cold."
+        },
+        {
+          "word": "LONGBOAT",
+          "meaning": "Largest boat carried aboard a sailing ship rowed by multiple pairs of oarsmen",
+          "example": "Sailors pulled rhythmic strokes in the wooden longboat to ferry water casks from the island creek."
+        },
+        {
+          "word": "BACKSTAFF",
+          "meaning": "Historical navigational instrument using shadows to measure the sun altitude without looking directly",
+          "example": "Sixteenth-century mariners avoided sun blindness by sighting latitude with a wooden backstaff."
+        },
+        {
+          "word": "QUICKSAND",
+          "meaning": "Colloid of fine sand, clay, and water that yields easily to weight and traps objects",
+          "example": "Testing the marshy ground with a bamboo pole kept the explorer from stepping into deep quicksand."
+        },
+        {
+          "word": "HAMADA",
+          "meaning": "High, rocky, barren desert plateau from which wind has blown away all sand and dust",
+          "example": "The safari vehicle rattled over the endless cracked stone pavement of the desolate Saharan hamada."
+        },
+        {
+          "word": "GOUR",
+          "meaning": "Calcite dam built up across a cave stream by mineral deposition forming terraced pools",
+          "example": "Crystal-clear turquoise water cascaded softly from one rimstone gour pool to the next."
+        },
+        {
+          "word": "BLINDFISH",
+          "meaning": "Depigmented, sightless fish adapted to living exclusively in dark subterranean cave waters",
+          "example": "Equipped with heightened lateral-line sensors, blind fish navigated the flooded limestone cavern."
+        }
+      ]
+    },
+    {
+      "levelNumber": 34,
+      "title": "Adventure Level 34",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "CHILBLAINS",
+          "meaning": "Painful, itchy swelling of small blood vessels in the skin caused by repeated cold exposure",
+          "example": "Soaking feet in warm water brought relief to the painful chilblains on his toes."
+        },
+        {
+          "word": "AMPHIPOD",
+          "meaning": "Small crustacean adapted to live in total darkness in subterranean cave pools and rivers",
+          "example": "Blind translucent amphipods scurried through the subterranean gravel beds of the underground stream."
+        },
+        {
+          "word": "POLARIS",
+          "meaning": "Astronomical name for the North Star located almost directly above Earth north rotational axis",
+          "example": "Polaris remained fixed in the night sky while all other constellations revolved around it."
+        },
+        {
+          "word": "ALPINEGLACIER",
+          "meaning": "Mass of compacted perennial ice flowing slowly down a high mountain valley",
+          "example": "The alpine glacier gouged a deep U-shaped valley through the rugged granite peaks."
+        },
+        {
+          "word": "DECIPHER",
+          "meaning": "Convert a coded text, hieroglyphic script, or lost language into understandable language",
+          "example": "Scholars worked for decades to decipher the Mayan glyphs carved into the jungle stelae."
+        },
+        {
+          "word": "BURIEDHOARD",
+          "meaning": "Concealed treasure or cache of valuable coins and precious artifacts hidden underground",
+          "example": "A farmer with a metal detector unearthed a buried hoard of Anglo-Saxon gold coins."
+        },
+        {
+          "word": "SANDSPIT",
+          "meaning": "Linear deposition of sand extending from a beach into open water forming a hook",
+          "example": "Flocks of migrating terns rested on the narrow sandspit stretching out into the bay."
+        },
+        {
+          "word": "NECROPOLIS",
+          "meaning": "Large, elaborate cemetery or burial ground belonging to an ancient city",
+          "example": "The Giza necropolis comprises the Great Pyramids, the Sphinx, and hundreds of noble tombs."
+        },
+        {
+          "word": "LEMURIA",
+          "meaning": "Hypothetical lost continent said to have once linked India and Madagascar before sinking",
+          "example": "Early naturalists hypothesized the lost continent of Lemuria to explain primate distribution."
+        },
+        {
+          "word": "CHAPARRAL",
+          "meaning": "Vegetation consisting of tangled shrubs and thorny bushes typical of dry coastal hills",
+          "example": "Fragrant sagebrush and scrub oak blanketed the sunny slopes of the Mediterranean chaparral."
+        },
+        {
+          "word": "VENTIFACT",
+          "meaning": "Stone shaped, polished, or fluted by the abrasive action of wind-driven sand grains",
+          "example": "Centuries of blowing sand carved the desert basalt pebble into a faceted, polished ventifact."
+        },
+        {
+          "word": "GYROCOMPASS",
+          "meaning": "Non-magnetic compass utilizing a spinning gyroscope wheel to find true geographic north",
+          "example": "Unperturbed by steel ship hulls or magnetic anomalies, the gyrocompass indicated true north."
+        },
+        {
+          "word": "PACKRAFT",
+          "meaning": "Small, portable inflatable boat designed to be packed in a hiker backpack",
+          "example": "Hikers inflated their durable lightweight packrafts to cross the roaring Alaskan river."
+        }
+      ]
+    },
+    {
+      "levelNumber": 35,
+      "title": "Adventure Level 35",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "PINNACE",
+          "meaning": "Small light boat propelled by sails or oars often used as a tender to a larger warship",
+          "example": "The captain was rowed ashore in the armed wooden pinnace to negotiate with the island chieftain."
+        },
+        {
+          "word": "NEVE",
+          "meaning": "Young, granular snow that has survived a summer melt season and is turning into glacial ice",
+          "example": "Hikers kicked firm steps into the compacted neve on the upper flanks of the alpine bowl."
+        },
+        {
+          "word": "HANDDRILL",
+          "meaning": "Primitive fire-making method using only bare hands to spin a wooden spindle on a hearth board",
+          "example": "Blistered palms bore witness to the effort required to produce smoke with a hand drill."
+        },
+        {
+          "word": "CAVEBACON",
+          "meaning": "Thin, translucent banded flowstone drapery resembling strips of sliced bacon",
+          "example": "Backlit by LED headlamps, the mineral drapery looked remarkably like strips of sizzling cave bacon."
+        },
+        {
+          "word": "COORDINATES",
+          "meaning": "Set of numbers or values indicating the precise geographic position of a point",
+          "example": "Satellite transponders broadcast the exact latitude and longitude coordinates of the life raft."
+        },
+        {
+          "word": "CAIRN",
+          "meaning": "Mound of rough stones piled up as a memorial or navigational trail marker on ridges",
+          "example": "Above the tree line where paths vanished into scree, travelers navigated from cairn to cairn."
+        },
+        {
+          "word": "TRACKER",
+          "meaning": "Expert skilled at reading animal signs, footprints, and broken foliage to follow wildlife",
+          "example": "The San tracker pointed to a bent blade of grass revealing where the leopard had leaped."
+        },
+        {
+          "word": "BOLO",
+          "meaning": "Heavy, single-edged cutting blade native to the Philippines used for clearing jungle vegetation",
+          "example": "Swinging his heavy steel bolo, the guide cleaved through thick bamboo stalks with effortless strokes."
+        },
+        {
+          "word": "SPRAYSKIRT",
+          "meaning": "Flexible waterproof garment worn by a paddler that seals the kayak cockpit opening",
+          "example": "The ocean kayaker cinched his sprayskirt tightly around the rim before plunging into the surf."
+        },
+        {
+          "word": "MUDCRAWL",
+          "meaning": "Very low, muddy passage in a cave where explorers must crawl flat on bellies",
+          "example": "Cavers emerged caked from head to foot in thick brown clay after negotiating the fifty-foot mud crawl."
+        },
+        {
+          "word": "SLEDDOG",
+          "meaning": "Hardy arctic dog trained and harnessed to pull sledges over deep snow and ice",
+          "example": "Thick double coats and webbed paws allowed the Alaskan sled dogs to endure arctic blizzards."
+        },
+        {
+          "word": "TOURNIQUET",
+          "meaning": "Device applied tightly around a limb to arrest severe arterial bleeding in trauma",
+          "example": "Quick application of the tactical windlass tourniquet stopped life-threatening leg blood loss."
+        },
+        {
+          "word": "ATCDEVICE",
+          "meaning": "Common tubular belay and rappel device used to control rope friction",
+          "example": "The climber threaded the dynamic rope through the ATC device before belaying his partner."
+        }
+      ]
+    }
+  ]
+}

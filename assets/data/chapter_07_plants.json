@@ -1,0 +1,2144 @@
+{
+  "id": 7,
+  "key": "plants",
+  "title": "Plants",
+  "iconAsset": "assets/chapter_images/plants.png",
+  "themeColor": 4283215696,
+  "levels": [
+    {
+      "levelNumber": 1,
+      "title": "Plants Level 1",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "ROSE",
+          "meaning": "A woody perennial flowering plant known for its fragrant blooms and thomy stems",
+          "example": "Red roses symbolize love and affection."
+        },
+        {
+          "word": "TULIP",
+          "meaning": "A cup-shaped spring-blooming bulb plant popular in gardens",
+          "example": "Fields of colorful tulips bloom in Holland."
+        },
+        {
+          "word": "DAISY",
+          "meaning": "A small flower with a yellow center disk and white petals",
+          "example": "Children pick wild daisies in green meadows."
+        },
+        {
+          "word": "LILY",
+          "meaning": "A large prominent flower growing from bulbs with prominent stamens",
+          "example": "White lilies grace elegant garden displays."
+        },
+        {
+          "word": "ORCHID",
+          "meaning": "A diverse family of exotic flowers known for intricate symmetry",
+          "example": "Tropical orchids thrive in warm humid terrariums."
+        },
+        {
+          "word": "GERBERA",
+          "meaning": "A vibrant daisy family flower popular in colorful bouquets",
+          "example": "Bright gerbera daisies brighten flower arrangements."
+        },
+        {
+          "word": "JASMINE",
+          "meaning": "A fragrant climbing shrub or vine known for sweet white blossoms",
+          "example": "Jasmine flowers emit a soothing evening scent."
+        },
+        {
+          "word": "VIOLET",
+          "meaning": "A small wild flower with deep purple heart-shaped petals",
+          "example": "Violets carpet shady forest floors in spring."
+        }
+      ]
+    },
+    {
+      "levelNumber": 2,
+      "title": "Plants Level 2",
+      "gridRows": 10,
+      "gridCols": 10,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "HYACINTH",
+          "meaning": "A bulb plant producing dense spikes of fragrant bell-shaped flowers",
+          "example": "Spring hyacinths fill garden beds with perfume."
+        },
+        {
+          "word": "DAFFODIL",
+          "meaning": "A yellow trumpet-shaped spring flower growing from bulbs",
+          "example": "Bright daffodils announce the arrival of spring."
+        },
+        {
+          "word": "MARIGOLD",
+          "meaning": "A golden-yellow flower commonly planted to deter garden pests",
+          "example": "Orange marigolds line the vegetable garden border."
+        },
+        {
+          "word": "HIBISCUS",
+          "meaning": "A tropical shrub bearing large showy trumpet blossoms",
+          "example": "Red hibiscus flowers bloom in warm climates."
+        },
+        {
+          "word": "PEONY",
+          "meaning": "A garden plant with large lush fragrant double flowers",
+          "example": "Pink peonies bloom grandly in early summer."
+        },
+        {
+          "word": "LAVENDER",
+          "meaning": "An aromatic purple herb valued for its fragrant essential oils",
+          "example": "Fields of purple lavender stretch across Provence."
+        },
+        {
+          "word": "BEGONIA",
+          "meaning": "A garden plant grown for colorful flowers and patterned foliage",
+          "example": "Begonias thrive in shaded porch hanging pots."
+        },
+        {
+          "word": "CARNATION",
+          "meaning": "A ruffled flower popular in floral bouquets and boutonnieres",
+          "example": "Red carnations represent admiration and devotion."
+        }
+      ]
+    },
+    {
+      "levelNumber": 3,
+      "title": "Plants Level 3",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CHRYSANTHEMUM",
+          "meaning": "A popular autumn-blooming flower available in many shapes",
+          "example": "Chrysanthemums add vibrant color to autumn gardens."
+        },
+        {
+          "word": "MAGNOLIA",
+          "meaning": "A tree bearing large fragrant waxy white or pink blossoms",
+          "example": "Southern magnolias bloom with fragrant white petals."
+        },
+        {
+          "word": "AZALEA",
+          "meaning": "A flowering shrub producing dense masses of pink and white blooms",
+          "example": "Azaleas carpet spring gardens with brilliant color."
+        },
+        {
+          "word": "CAMELLIA",
+          "meaning": "An evergreen shrub with glossy leaves and rosette flowers",
+          "example": "Winter-blooming camellias brave cold garden air."
+        },
+        {
+          "word": "IRIS",
+          "meaning": "A showy flower featuring three upright petals and three falling sepals",
+          "example": "Blue irises bloom along sunny pond banks."
+        },
+        {
+          "word": "PETUNIA",
+          "meaning": "A popular bedding plant with funnel-shaped colorful blossoms",
+          "example": "Window boxes overflow with vibrant petunias."
+        },
+        {
+          "word": "ZINNIA",
+          "meaning": "An easy-to-grow annual flower attracting butterflies to gardens",
+          "example": "Bright zinnias attract monarch butterflies all summer."
+        },
+        {
+          "word": "GERANIUM",
+          "meaning": "A sturdy garden plant with rounded leaves and clustered blooms",
+          "example": "Red geraniums decorate sunlit cottage windows."
+        }
+      ]
+    },
+    {
+      "levelNumber": 4,
+      "title": "Plants Level 4",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "LISIANTHUS",
+          "meaning": "An elegant rose-like flower with delicate paper-like petals",
+          "example": "Purple lisianthus flowers grace wedding bouquets."
+        },
+        {
+          "word": "LOTUS",
+          "meaning": "An aquatic plant with large floating leaves and sacred blooms",
+          "example": "Lotus flowers rise beautifully out of muddy waters."
+        },
+        {
+          "word": "GARDENIA",
+          "meaning": "A subtropical shrub with glossy leaves and intoxicating white flowers",
+          "example": "Sweet gardenias emit rich creamy perfume."
+        },
+        {
+          "word": "LILAC",
+          "meaning": "A deciduous shrub producing dense clusters of sweet purple blooms",
+          "example": "Fragrant lilac bushes bloom in late spring."
+        },
+        {
+          "word": "SNOWDROP",
+          "meaning": "A small white drooping flower pushing through early spring snow",
+          "example": "Snowdrops herald spring before the snow melts completely."
+        },
+        {
+          "word": "BLUEBELL",
+          "meaning": "A woodland wildflower with drooping bell-shaped blue blossoms",
+          "example": "Bluebells form violet carpets in ancient woods."
+        },
+        {
+          "word": "PRIMROSE",
+          "meaning": "An early spring wildflower blooming in bright pastel shades",
+          "example": "Yellow primroses brighten shaded garden borders."
+        },
+        {
+          "word": "ANEMONE",
+          "meaning": "A graceful flower also known as the windflower",
+          "example": "White anemones sway gently in the woodland breeze."
+        }
+      ]
+    },
+    {
+      "levelNumber": 5,
+      "title": "Plants Level 5",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CLEMATIS",
+          "meaning": "A popular climbing vine producing large star-shaped flowers",
+          "example": "Purple clematis vines climb garden trellises."
+        },
+        {
+          "word": "FOXGLOVE",
+          "meaning": "A tall biennial plant with tubular speckled bell flowers",
+          "example": "Tall foxgloves tower over cottage garden borders."
+        },
+        {
+          "word": "MORNINGGLORY",
+          "meaning": "A climbing vine whose trumpet flowers open at sunrise",
+          "example": "Blue morning glories unfurl in early sunlight."
+        },
+        {
+          "word": "SNAPDRAGON",
+          "meaning": "A garden flower with dragon-jaw shaped blossoms that pinch open",
+          "example": "Children love squeezing snapdragon flower jaws."
+        },
+        {
+          "word": "BUTTERCUP",
+          "meaning": "A small wild yellow flower with glossy reflective petals",
+          "example": "Yellow buttercups dot sunny pasture fields."
+        },
+        {
+          "word": "AMARYLLIS",
+          "meaning": "A tropical bulb plant producing huge trumpet blooms indoors",
+          "example": "Red amaryllis bulbs bloom dramatically in winter."
+        },
+        {
+          "word": "WISTERIA",
+          "meaning": "A woody vine producing cascading clusters of fragrant lilac blossoms",
+          "example": "Wisteria drapes over garden pergolas in spring."
+        },
+        {
+          "word": "IMPATIENS",
+          "meaning": "A popular shade-loving garden annual producing continuous flowers",
+          "example": "Impatiens brighten shady garden nooks with red color."
+        }
+      ]
+    },
+    {
+      "levelNumber": 6,
+      "title": "Plants Level 6",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "OAK",
+          "meaning": "A majestic hardwood tree known for producing acorns and strong timber",
+          "example": "Ancient oak trees provide shade for centuries."
+        },
+        {
+          "word": "FREESIA",
+          "meaning": "A fragrant funnel-shaped flower growing from subterranean corms",
+          "example": "Yellow freesia blooms release sweet floral perfume."
+        },
+        {
+          "word": "RANUNCULUS",
+          "meaning": "A layered buttercup flower featuring paper-thin delicate petals",
+          "example": "Pink ranunculus blossoms decorate spring garden beds."
+        },
+        {
+          "word": "BIRCH",
+          "meaning": "A slender tree recognized by its distinctive papery white bark",
+          "example": "White birch trees stand out against dark pine woods."
+        },
+        {
+          "word": "CEDAR",
+          "meaning": "An aromatic evergreen tree valued for weather-resistant wood",
+          "example": "Cedar wood chests deter moths naturally."
+        },
+        {
+          "word": "REDWOOD",
+          "meaning": "The tallest living tree species on Earth native to coastal forests",
+          "example": "Giant coastal redwoods tower hundreds of feet high."
+        },
+        {
+          "word": "CYPRESS",
+          "meaning": "A coniferous tree often growing in wetlands and swamp ecosystems",
+          "example": "Cypress knees emerge above swamp waters."
+        },
+        {
+          "word": "WILLOW",
+          "meaning": "A tree with graceful drooping branches growing near water bodies",
+          "example": "Weeping willows sway gently along river banks."
+        }
+      ]
+    },
+    {
+      "levelNumber": 7,
+      "title": "Plants Level 7",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "ELM",
+          "meaning": "A tall deciduous tree with vase-shaped canopy and serrated leaves",
+          "example": "Historic shade trees line town streets like green arches."
+        },
+        {
+          "word": "FIR",
+          "meaning": "An evergreen tree with flat needles used as traditional Christmas trees",
+          "example": "Balsam fir trees emit a fresh forest aroma."
+        },
+        {
+          "word": "BEECH",
+          "meaning": "A smooth-barked forest tree bearing triangular nuts in spiky hulls",
+          "example": "Beech leaves turn copper brown in autumn."
+        },
+        {
+          "word": "SEQUOIA",
+          "meaning": "Massive coniferous trees with fibrous bark growing in California",
+          "example": "The General Sherman sequoia is Earth's largest tree."
+        },
+        {
+          "word": "POPLAR",
+          "meaning": "A fast-growing tree with shimmering leaves fluttering in wind",
+          "example": "Tall poplar trees form windbreak lines across farmland."
+        },
+        {
+          "word": "SPRUCE",
+          "meaning": "A coniferous tree with sharp needles popular for tonewood and timber",
+          "example": "Blue spruce trees feature striking silver-blue foliage."
+        },
+        {
+          "word": "BANYAN",
+          "meaning": "An Indian fig tree developing aerial prop roots into new trunks",
+          "example": "A single banyan tree can form an entire forest canopy."
+        },
+        {
+          "word": "BAOBAB",
+          "meaning": "An African tree with a swollen trunk storing massive water reserves",
+          "example": "The ancient baobab stands solitary in the savanna."
+        }
+      ]
+    },
+    {
+      "levelNumber": 8,
+      "title": "Plants Level 8",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "PALM",
+          "meaning": "A tropical unbranched tree topped with a crown of large fronds",
+          "example": "Coconut palms fringe tropical ocean beaches."
+        },
+        {
+          "word": "JUNIPER",
+          "meaning": "An evergreen shrub or tree producing aromatic blue seed cones",
+          "example": "Juniper berries flavor culinary recipes and gin."
+        },
+        {
+          "word": "ALDER",
+          "meaning": "A wetland tree forming symbiotic root nodules to fix nitrogen",
+          "example": "Alder trees stabilize soil along stream banks."
+        },
+        {
+          "word": "HICKORY",
+          "meaning": "A hardwood nut tree known for tough wood used in tool handles",
+          "example": "Hickory smoke imparts flavor to barbecue foods."
+        },
+        {
+          "word": "SYCAMORE",
+          "meaning": "A large shade tree with mottled peeling bark and spherical seed balls",
+          "example": "Sycamore bark peels away in distinctive patches."
+        },
+        {
+          "word": "DELPHINIUM",
+          "meaning": "Tall spires of intense blue and purple flowers in summer borders",
+          "example": "Blue delphinium spires tower in perennial gardens."
+        },
+        {
+          "word": "LARKSPUR",
+          "meaning": "An annual wildflower bearing spurred blue and pink blossoms",
+          "example": "Larkspur blooms add vertical accent to garden beds."
+        },
+        {
+          "word": "MAHOGANY",
+          "meaning": "A tropical hardwood tree valued for reddish-brown dense timber",
+          "example": "Antique furniture was crafted from solid mahogany."
+        }
+      ]
+    },
+    {
+      "levelNumber": 9,
+      "title": "Plants Level 9",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "TEAK",
+          "meaning": "A tropical hardwood famous for weather-resistant natural oils",
+          "example": "Teak wood is ideal for outdoor furniture and boat decks."
+        },
+        {
+          "word": "EUCALYPTUS",
+          "meaning": "An Australian tree producing aromatic leaves eaten by koalas",
+          "example": "Eucalyptus trees release refreshing medicinal scent."
+        },
+        {
+          "word": "LARCH",
+          "meaning": "A unique deciduous conifer whose needles turn yellow and drop in autumn",
+          "example": "Larch needles turn bright gold before winter."
+        },
+        {
+          "word": "HEMLOCK",
+          "meaning": "A graceful evergreen tree with delicate flat needles and small cones",
+          "example": "Eastern hemlock trees shade cool mountain ravines."
+        },
+        {
+          "word": "ROWAN",
+          "meaning": "A mountain ash tree bearing clusters of bright red autumn berries",
+          "example": "Rowan berries attract flocks of migrating birds."
+        },
+        {
+          "word": "HAZEL",
+          "meaning": "A shrub or small tree producing edible hazelnuts in leafy husks",
+          "example": "Hazel catkins sway in early spring breezes."
+        },
+        {
+          "word": "ASPEN",
+          "meaning": "A tree whose flattened leaf stalks cause foliage to quake in wind",
+          "example": "Quaking aspen leaves shimmer like gold in autumn."
+        },
+        {
+          "word": "YEW",
+          "meaning": "An ancient slow-growing evergreen tree with toxic dark red arils",
+          "example": "Ancient yew trees guard historic churchyard grounds."
+        }
+      ]
+    },
+    {
+      "levelNumber": 10,
+      "title": "Plants Level 10",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "ACACIA",
+          "meaning": "A subtropical tree or shrub often featuring thomy branches and yellow blooms",
+          "example": "Giraffes browse acacia thorn trees in Africa."
+        },
+        {
+          "word": "DOGWOOD",
+          "meaning": "A flowering tree recognized by four petal-like white or pink bracts",
+          "example": "Flowering dogwoods bloom in early woodland spring."
+        },
+        {
+          "word": "GINKGO",
+          "meaning": "An ancient gymnosperm tree species featuring fan-shaped leaves",
+          "example": "Ginkgo trees have survived unchanged for millions of years."
+        },
+        {
+          "word": "LINDEN",
+          "meaning": "A shade tree with heart-shaped leaves and sweet fragrant blossoms",
+          "example": "Bees gather sweet nectar from blooming linden trees."
+        },
+        {
+          "word": "IRONWOOD",
+          "meaning": "A dense hardwood tree with incredibly strong and heavy timber",
+          "example": "Ironwood timber sinks in water due to extreme density."
+        },
+        {
+          "word": "SWEETGUM",
+          "meaning": "A tree with star-shaped leaves turning brilliant red and spiky seed balls",
+          "example": "Sweetgum foliage turns vibrant maroon in autumn."
+        },
+        {
+          "word": "SAPELE",
+          "meaning": "An African hardwood tree similar to mahogany used in lutherie",
+          "example": "Sapele wood creates beautiful guitar backs and sides."
+        },
+        {
+          "word": "PALISANDER",
+          "meaning": "A dense dark rosewood species prized for fine furniture",
+          "example": "Palisander timber exhibits rich dark grain streaks."
+        },
+        {
+          "word": "HOLLYHOCK",
+          "meaning": "Tall classic garden stalks with large saucer flowers",
+          "example": "Hollyhocks grow along sunny cottage garden fences."
+        }
+      ]
+    },
+    {
+      "levelNumber": 11,
+      "title": "Plants Level 11",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "ASTILBE",
+          "meaning": "Feathery plumes of flowers thriving in shaded garden soils",
+          "example": "Pink astilbe plumes brighten cool shade borders."
+        },
+        {
+          "word": "STEM",
+          "meaning": "The main structural axis supporting leaves, flowers, and fruits",
+          "example": "Plant stems transport sap up to the canopy."
+        },
+        {
+          "word": "SEED",
+          "meaning": "An embryonic plant enclosed in a protective outer coat",
+          "example": "Planting a tiny seed grows a giant tree."
+        },
+        {
+          "word": "BARK",
+          "meaning": "The tough outer protective layer covering tree trunks and branches",
+          "example": "Rough tree bark protects against cold and pests."
+        },
+        {
+          "word": "BRANCH",
+          "meaning": "A woody structural division extending from a tree trunk",
+          "example": "Birds nest in the high branches of the oak."
+        },
+        {
+          "word": "BUD",
+          "meaning": "An undeveloped shoot or flower enclosed in protective scales",
+          "example": "Swelling leaf buds signal the arrival of spring."
+        },
+        {
+          "word": "PETAL",
+          "meaning": "A modified leaf forming part of a flower's colorful corolla",
+          "example": "Flower petals attract bees for pollination."
+        },
+        {
+          "word": "THORN",
+          "meaning": "A sharp stiff modified stem providing defense against herbivores",
+          "example": "Sharp thorns protect rose stems from animals."
+        },
+        {
+          "word": "SPORE",
+          "meaning": "A microscopic reproductive unit produced by ferns and mosses",
+          "example": "Ferns release millions of spores from leaf undersides."
+        }
+      ]
+    },
+    {
+      "levelNumber": 12,
+      "title": "Plants Level 12",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "PISTIL",
+          "meaning": "The female ovule-bearing reproductive organ of a flower",
+          "example": "Pollen lands on the stigma at the top of the pistil."
+        },
+        {
+          "word": "STAMEN",
+          "meaning": "The male pollen-producing reproductive organ of a flower",
+          "example": "Anthers on the stamen produce yellow pollen grains."
+        },
+        {
+          "word": "POLLEN",
+          "meaning": "Fine powdery grains containing male gametophytes of seed plants",
+          "example": "Bees collect pollen as they visit garden flowers."
+        },
+        {
+          "word": "SEPAL",
+          "meaning": "A leaf-like structure enclosing and protecting a flower bud",
+          "example": "Green sepals fold back as the rose blossom opens."
+        },
+        {
+          "word": "RHIZOME",
+          "meaning": "A horizontal underground stem sending out roots and shoots",
+          "example": "Ginger plants spread underground via thick rhizomes."
+        },
+        {
+          "word": "TUBER",
+          "meaning": "A swollen underground stem storing food reserves like potatoes",
+          "example": "Potatoes are edible plant tubers rich in starch."
+        },
+        {
+          "word": "BULB",
+          "meaning": "A fleshy underground storage structure wrapped in papery scales",
+          "example": "Plant tulip bulbs in autumn for spring blooms."
+        },
+        {
+          "word": "CORM",
+          "meaning": "A solid swollen underground stem base storing plant nutrients",
+          "example": "Crocus flowers grow from solid corms planted in soil."
+        },
+        {
+          "word": "STOLON",
+          "meaning": "A horizontal creeping runner stem forming new plantlets",
+          "example": "Strawberry plants send out stolons to propagate."
+        }
+      ]
+    },
+    {
+      "levelNumber": 13,
+      "title": "Plants Level 13",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "TENDRIL",
+          "meaning": "A slender coiling threadlike stem used by climbing plants for support",
+          "example": "Pea plant tendrils wrap around string trellises."
+        },
+        {
+          "word": "CUTICLE",
+          "meaning": "A waxy protective layer covering the outer epidermis of leaves",
+          "example": "A thick cuticle prevents moisture loss in desert plants."
+        },
+        {
+          "word": "EPIDERMIS",
+          "meaning": "The single outer cell layer covering plant leaves and stems",
+          "example": "The leaf epidermis protects inner cell layers."
+        },
+        {
+          "word": "STOMATA",
+          "meaning": "Microscopic pores in leaf surfaces regulating gas exchange and transpiration",
+          "example": "Stomata open to take in carbon dioxide gas."
+        },
+        {
+          "word": "XYLEM",
+          "meaning": "Vascular tissue transporting water and dissolved minerals upwards",
+          "example": "Xylem vessels conduct water from roots to leaves."
+        },
+        {
+          "word": "PHLOEM",
+          "meaning": "Vascular tissue conducting sugars synthesized during photosynthesis",
+          "example": "Phloem transports nutrient sap throughout the plant."
+        },
+        {
+          "word": "CAMBIUM",
+          "meaning": "A cellular layer promoting secondary growth in tree trunks",
+          "example": "Vascular cambium creates annual growth rings."
+        },
+        {
+          "word": "SAP",
+          "meaning": "Fluid transported in xylem or phloem cells of a plant",
+          "example": "Maple sap is collected in spring to boil syrup."
+        },
+        {
+          "word": "RESIN",
+          "meaning": "A sticky organic substance exuded by coniferous trees for defense",
+          "example": "Pine resin seals wounds on injured tree bark."
+        }
+      ]
+    },
+    {
+      "levelNumber": 14,
+      "title": "Plants Level 14",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "VEIN",
+          "meaning": "A vascular bundle providing structure and transport in a leaf blade",
+          "example": "Leaf veins form intricate netted patterns."
+        },
+        {
+          "word": "CHLOROPLAST",
+          "meaning": "An organelle inside plant cells where photosynthesis occurs",
+          "example": "Chloroplasts contain green chlorophyll pigments."
+        },
+        {
+          "word": "CELLULOSE",
+          "meaning": "A complex carbohydrate forming the structural cell walls of plants",
+          "example": "Cellulose fibers give plant stems structural strength."
+        },
+        {
+          "word": "INTERNODE",
+          "meaning": "The stem region situated between two consecutive nodes",
+          "example": "Elongated internodes cause leggy plant growth."
+        },
+        {
+          "word": "NODE",
+          "meaning": "The part of a plant stem where leaves or branches originate",
+          "example": "Prune stems just above a healthy leaf node."
+        },
+        {
+          "word": "TAPROOT",
+          "meaning": "A dominant primary root growing straight downwards into soil",
+          "example": "Carrots develop a thick edible taproot."
+        },
+        {
+          "word": "CAPSULE",
+          "meaning": "A dry fruit structure splitting open to release seeds",
+          "example": "Poppy seed capsules split open when ripe."
+        },
+        {
+          "word": "CATKIN",
+          "meaning": "A cylindrical drooping flower cluster found on birch and hazel",
+          "example": "Wind scatters pollen from dangling birch catkins."
+        },
+        {
+          "word": "PITH",
+          "meaning": "Soft spongy parenchyma tissue in the center of plant stems",
+          "example": "Young elderberry shoots contain soft white pith."
+        }
+      ]
+    },
+    {
+      "levelNumber": 15,
+      "title": "Plants Level 15",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "BRACT",
+          "meaning": "A modified leaf associated with a reproductive structure",
+          "example": "Red poinsettia showy parts are modified bracts."
+        },
+        {
+          "word": "ANTHER",
+          "meaning": "The tip of a stamen where pollen grains are produced",
+          "example": "Yellow pollen dusts the tip of each anther."
+        },
+        {
+          "word": "STIGMA",
+          "meaning": "The sticky tip of a pistil receiving pollen grains",
+          "example": "Pollen adheres to the sticky stigma surface."
+        },
+        {
+          "word": "PHOTOSYNTHESIS",
+          "meaning": "The biological process converting light energy into plant sugar",
+          "example": "Photosynthesis releases oxygen into the atmosphere."
+        },
+        {
+          "word": "CHLOROPHYLL",
+          "meaning": "The green pigment in plants absorbing light for photosynthesis",
+          "example": "Chlorophyll gives leaves their vibrant green color."
+        },
+        {
+          "word": "GERMINATION",
+          "meaning": "The process of a seed sprouting and beginning to grow",
+          "example": "Moisture and warmth trigger seed germination."
+        },
+        {
+          "word": "POLLINATION",
+          "meaning": "The transfer of pollen to stigmas enabling seed fertilisation",
+          "example": "Bees provide vital pollination services to crops."
+        },
+        {
+          "word": "TRANSPIRATION",
+          "meaning": "Evaporation of water vapor through leaf stomata into the atmosphere",
+          "example": "Transpiration pulls water upwards through plant roots."
+        },
+        {
+          "word": "HORTICULTURE",
+          "meaning": "The art and science of cultivating garden plants and crops",
+          "example": "Horticulture includes flower and fruit cultivation."
+        }
+      ]
+    },
+    {
+      "levelNumber": 16,
+      "title": "Plants Level 16",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "BOTANY",
+          "meaning": "The scientific study of plants, flora, and plant biology",
+          "example": "She studied botany to learn plant taxonomy."
+        },
+        {
+          "word": "HERBARIUM",
+          "meaning": "A collection of preserved dried plant specimens for study",
+          "example": "Botanists consult herbarium archives for research."
+        },
+        {
+          "word": "AGRONOMY",
+          "meaning": "The science of soil management and crop production",
+          "example": "Agronomy improves crop yields and soil health."
+        },
+        {
+          "word": "VEGETATION",
+          "meaning": "Plant life collectively covering a region or habitat",
+          "example": "Dense tropical vegetation covers the island."
+        },
+        {
+          "word": "FLORA",
+          "meaning": "The plant life characteristic of a specific region or era",
+          "example": "Alpine flora adapted to harsh mountain conditions."
+        },
+        {
+          "word": "BIOME",
+          "meaning": "A large community of plants and animals occupying a habitat",
+          "example": "Rainforests represent a species-rich biome."
+        },
+        {
+          "word": "BIODIVERSITY",
+          "meaning": "The variety of living plant and animal species in an ecosystem",
+          "example": "Protecting forest biodiversity preserves species."
+        },
+        {
+          "word": "CLONING",
+          "meaning": "Propagating genetically identical plants from stem cuttings",
+          "example": "Plant cloning replicates desirable crop varieties."
+        },
+        {
+          "word": "GRAFTING",
+          "meaning": "Joining plant tissues together to grow as a single plant",
+          "example": "Grafting apple scions onto hardy rootstocks."
+        }
+      ]
+    },
+    {
+      "levelNumber": 17,
+      "title": "Plants Level 17",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "PRUNING",
+          "meaning": "Trimming dead or overgrown branches to encourage healthy growth",
+          "example": "Annual pruning improves fruit tree yield."
+        },
+        {
+          "word": "MULCH",
+          "meaning": "A protective layer of organic material spread over garden soil",
+          "example": "Bark mulch retains soil moisture and deters weeds."
+        },
+        {
+          "word": "COMPOST",
+          "meaning": "Decayed organic material added to soil as rich fertilizer",
+          "example": "Compost enriches garden beds with organic nutrients."
+        },
+        {
+          "word": "FERTILIZER",
+          "meaning": "A chemical or natural substance added to enrich soil nutrients",
+          "example": "Organic fertilizer supplies nitrogen to growing crops."
+        },
+        {
+          "word": "HYDROPONICS",
+          "meaning": "Cultivating plants in nutrient-enriched water without soil",
+          "example": "Hydroponics allows growing crops indoors efficiently."
+        },
+        {
+          "word": "AEROPONICS",
+          "meaning": "Growing plants with roots suspended in air misted with nutrients",
+          "example": "Aeroponics uses minimal water for greenhouse crops."
+        },
+        {
+          "word": "DECOMPOSITION",
+          "meaning": "The breakdown of dead plant matter into nutrient humus",
+          "example": "Decomposition recycles forest leaf litter into soil."
+        },
+        {
+          "word": "SYMBIOSIS",
+          "meaning": "A mutually beneficial relationship between two organisms",
+          "example": "Mycorrhizal fungi share a beneficial symbiosis with roots."
+        },
+        {
+          "word": "MYCORRHIZA",
+          "meaning": "A symbiotic association between plant roots and soil fungi",
+          "example": "Mycorrhiza expands root water absorption capacity."
+        }
+      ]
+    },
+    {
+      "levelNumber": 18,
+      "title": "Plants Level 18",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "CARNIVOROUS",
+          "meaning": "Plants adapted to trap and digest insects for nutrients",
+          "example": "Carnivorous pitcher plants digest trapped flies."
+        },
+        {
+          "word": "ANGIOSPERM",
+          "meaning": "A flowering plant producing seeds enclosed within a fruit",
+          "example": "Angiosperms make up the majority of plant species."
+        },
+        {
+          "word": "GYMNOSPERM",
+          "meaning": "A seed plant producing naked seeds unenclosed in an ovary",
+          "example": "Conifers like pines are classic gymnosperm plants."
+        },
+        {
+          "word": "DECIDUOUS",
+          "meaning": "Trees shedding leaves annually at the end of growing seasons",
+          "example": "Deciduous trees lose leaves in autumn."
+        },
+        {
+          "word": "CORALBELLS",
+          "meaning": "Shade perennial with colorful leaf rosettes and bell flowers",
+          "example": "Coral bells add purple foliage accent to shade beds."
+        },
+        {
+          "word": "ANNUAL",
+          "meaning": "A plant completing its full life cycle within one year",
+          "example": "Marigolds are annual flowers planted every spring."
+        },
+        {
+          "word": "BIENNIAL",
+          "meaning": "A plant completing its life cycle over two growing seasons",
+          "example": "Carrots grow leaves in year one and seed in year two."
+        },
+        {
+          "word": "PERENNIAL",
+          "meaning": "A plant living and blooming for multiple years",
+          "example": "Perennial flowers return every spring without replanting."
+        },
+        {
+          "word": "MONOCOT",
+          "meaning": "A flowering plant embryo with a single seed leaf",
+          "example": "Grasses and orchids are monocot plants."
+        },
+        {
+          "word": "DICOT",
+          "meaning": "A flowering plant embryo featuring two seed leaves",
+          "example": "Beans and roses belong to dicot plant groups."
+        },
+        {
+          "word": "TAXONOMY",
+          "meaning": "The scientific classification of plant species into families",
+          "example": "Plant taxonomy categorizes species by structural traits."
+        }
+      ]
+    },
+    {
+      "levelNumber": 19,
+      "title": "Plants Level 19",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "PROPAGATION",
+          "meaning": "Reproducing or multiplying plant stock from seeds or cuttings",
+          "example": "Stem cutting propagation yields new potted plants."
+        },
+        {
+          "word": "DEFOLIATION",
+          "meaning": "The loss of leaves from plants caused by pests or disease",
+          "example": "Caterpillar swarms caused forest defoliation."
+        },
+        {
+          "word": "ETIOLATION",
+          "meaning": "Pale weak plant growth caused by lack of adequate sunlight",
+          "example": "Seedlings grown in darkness suffer from etiolation."
+        },
+        {
+          "word": "DESICCATION",
+          "meaning": "Extreme drying out of plant tissues due to drought",
+          "example": "Desert plants adapt to resist extreme desiccation."
+        },
+        {
+          "word": "SENESCENCE",
+          "meaning": "The natural aging and deterioration process in plant tissues",
+          "example": "Autumn leaf color changes mark plant senescence."
+        },
+        {
+          "word": "LUNGWORT",
+          "meaning": "Spotted leaves and pink-to-blue spring flowers in shade",
+          "example": "Lungwort blooms early under woodland tree canopies."
+        },
+        {
+          "word": "BELLFLOWER",
+          "meaning": "Campanula plants with blue bell-shaped showy blooms",
+          "example": "Blue bellflowers cascade over rock garden edges."
+        },
+        {
+          "word": "GLOBEFLOWER",
+          "meaning": "Golden spherical buttercup relative blooming in wet bogs",
+          "example": "Bright yellow globeflowers bloom near stream banks."
+        },
+        {
+          "word": "HELLEBORE",
+          "meaning": "Lenten rose blooming in late winter and early spring",
+          "example": "Hellebores bloom even beneath late winter snow."
+        },
+        {
+          "word": "PASQUEFLOWER",
+          "meaning": "Fuzzy purple spring wildflower of prairie grasslands",
+          "example": "Pasqueflowers push through spring prairie sod."
+        },
+        {
+          "word": "SPIDERWORT",
+          "meaning": "Three-petaled blue flowers that open in morning sunlight",
+          "example": "Spiderwort blossoms open every sunny morning."
+        }
+      ]
+    },
+    {
+      "levelNumber": 20,
+      "title": "Plants Level 20",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "SAXIFRAGE",
+          "meaning": "Rock garden plant adapted to alpine stone cracks",
+          "example": "Pink saxifrage cushions cling to high mountain rocks."
+        },
+        {
+          "word": "STONECROP",
+          "meaning": "Succulent sedum species growing in dry rock crevices",
+          "example": "Golden stonecrop covers sunny gravel paths."
+        },
+        {
+          "word": "HOUSELEEK",
+          "meaning": "Mat-forming succulent rosette growing on stone roofs",
+          "example": "Green houseleek rosettes spread across dry walls."
+        },
+        {
+          "word": "CHIVES",
+          "meaning": "A small onion-flavored culinary herb with tubular hollow leaves",
+          "example": "Snip fresh chives over baked potatoes."
+        },
+        {
+          "word": "SNOWINSUMMER",
+          "meaning": "Mat-forming groundcover covered in white spring blooms",
+          "example": "Snow in summer forms a starry white carpet."
+        },
+        {
+          "word": "MARJORAM",
+          "meaning": "A sweet mild herb closely related to oregano used in cooking",
+          "example": "Marjoram seasons herbal tea and chicken marinades."
+        },
+        {
+          "word": "BAYLEAF",
+          "meaning": "An aromatic leaf of the bay laurel tree used to flavor stews",
+          "example": "Simmer a bay leaf in vegetable broth for depth."
+        },
+        {
+          "word": "LEMONGRASS",
+          "meaning": "A tropical grass with lemon-scented stalks used in Asian cooking",
+          "example": "Lemongrass stalks flavor Thai coconut soups."
+        },
+        {
+          "word": "CANDYTUFT",
+          "meaning": "Low shrubby perennial with dense white flower clusters",
+          "example": "White candytuft borders sunlit garden walkways."
+        },
+        {
+          "word": "KALE",
+          "meaning": "A hardy dark green cabbage variety with crinkled leaves",
+          "example": "Kale chips make a crunchy healthy snack."
+        },
+        {
+          "word": "BUGLEWEED",
+          "meaning": "Ajuga groundcover with dark foliage and blue spikes",
+          "example": "Ajuga bugleweed deters garden weeds in shade."
+        }
+      ]
+    },
+    {
+      "levelNumber": 21,
+      "title": "Plants Level 21",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "ARUGULA",
+          "meaning": "A peppery leafy green crop popular in fresh salads",
+          "example": "Wild arugula adds peppery zest to pizzas."
+        },
+        {
+          "word": "CHARD",
+          "meaning": "A leafy green vegetable with colorful edible stems and ribs",
+          "example": "Rainbow chard features red and yellow stems."
+        },
+        {
+          "word": "COLLARDS",
+          "meaning": "Hardy dark green loose-leaf brassica greens cooked in stews",
+          "example": "Slow-simmered collard greens are southern comfort food."
+        },
+        {
+          "word": "CREEPINGTHYME",
+          "meaning": "Aromatic low groundcover carpet releasing herbal scent when walked on",
+          "example": "Creeping thyme fills spaces between garden stepping stones."
+        },
+        {
+          "word": "PERIWINKLE",
+          "meaning": "Trailing evergreen groundcover with blue flowers",
+          "example": "Blue periwinkle vines cover shaded garden slopes."
+        },
+        {
+          "word": "MONEYPLANT",
+          "meaning": "Honesty plant grown for round silver coin-like seedpods",
+          "example": "Silver money plant pods decorate dried floral displays."
+        },
+        {
+          "word": "CASTIRONPLANT",
+          "meaning": "Aspidistra with tough dark green indestructible foliage",
+          "example": "Cast iron plants tolerate neglect in dark hallways."
+        },
+        {
+          "word": "SPATHIPHYLLUM",
+          "meaning": "Peace lily houseplant with white elegant floral spathes",
+          "example": "Spathiphyllum purifies indoor air near sunny windows."
+        },
+        {
+          "word": "FITTONIA",
+          "meaning": "Nerve plant with striking pink or white veined leaves",
+          "example": "Fittonia nerve plants thrive in humid terrariums."
+        },
+        {
+          "word": "PARSNIP",
+          "meaning": "A pale cream root vegetable with sweet earthy flavor",
+          "example": "Roasted parsnips become sweet in winter."
+        },
+        {
+          "word": "LEEK",
+          "meaning": "A vegetable related to onions with long white sheath stalks",
+          "example": "Potato leek soup is a savory winter dish."
+        }
+      ]
+    },
+    {
+      "levelNumber": 22,
+      "title": "Plants Level 22",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "SHALLOT",
+          "meaning": "A small onion relative growing in clusters with mild flavor",
+          "example": "Diced shallots form delicious salad vinaigrettes."
+        },
+        {
+          "word": "TRADESCANTIA",
+          "meaning": "Trailing indoor vine with variegated purple leaves",
+          "example": "Tradescantia drapes from indoor hanging pots."
+        },
+        {
+          "word": "SWEETPOTATO",
+          "meaning": "A starchy orange root crop rich in nutrients and vitamins",
+          "example": "Baked sweet potato fries make a nutritious meal."
+        },
+        {
+          "word": "YAM",
+          "meaning": "A large starchy edible tuber cultivated in tropical regions",
+          "example": "Yams are staple crops across West Africa."
+        },
+        {
+          "word": "CORDYLINE",
+          "meaning": "Ti plant featuring dramatic magenta tropical leaves",
+          "example": "Pink cordyline foliage adds tropical color to gardens."
+        },
+        {
+          "word": "DRACAENA",
+          "meaning": "Dragon tree with sword-like striped foliage",
+          "example": "Tall dracaena plants grace indoor office corners."
+        },
+        {
+          "word": "PALMFROND",
+          "meaning": "A large divided leaf of a tropical palm tree",
+          "example": "Tropical palm fronds sway in island ocean breezes."
+        },
+        {
+          "word": "TREETRUNK",
+          "meaning": "The main wooden stem of a tree supporting canopy branches",
+          "example": "Moss covers the north side of the tree trunk."
+        },
+        {
+          "word": "CACTUS",
+          "meaning": "A succulent plant adapted to arid regions bearing sharp spines",
+          "example": "Cactus plants store water inside fleshy stems."
+        },
+        {
+          "word": "SUCCULENT",
+          "meaning": "Plants with thick fleshy tissues adapted to retain water",
+          "example": "Potted succulents thrive on sunny windowsills."
+        },
+        {
+          "word": "ALOE",
+          "meaning": "A succulent plant producing gel famous for soothing skin burns",
+          "example": "Apply fresh aloe vera gel to sunburns."
+        }
+      ]
+    },
+    {
+      "levelNumber": 23,
+      "title": "Plants Level 23",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "AGAVE",
+          "meaning": "A desert plant with large spiky rosettes used to make syrup",
+          "example": "Blue agave plants grow across arid Mexican fields."
+        },
+        {
+          "word": "ECHEVERIA",
+          "meaning": "A popular desert succulent forming symmetry rosettes of leaves",
+          "example": "Echeveria rosettes grace rock garden displays."
+        },
+        {
+          "word": "JADE",
+          "meaning": "A popular succulent houseplant with thick oval dark green leaves",
+          "example": "Jade plants are traditional symbols of good luck."
+        },
+        {
+          "word": "HAWORTHIA",
+          "meaning": "Small succulent rosettes often featuring white striped leaf bands",
+          "example": "Zebra haworthia fits neatly in small windowsill pots."
+        },
+        {
+          "word": "SEDUM",
+          "meaning": "A large genus of succulent groundcovers also called stonecrops",
+          "example": "Golden sedum carpets sunny garden borders."
+        },
+        {
+          "word": "SEMPERVIVUM",
+          "meaning": "Mat-forming succulents commonly known as hens and chicks",
+          "example": "Hens and chicks spread across dry rock crevices."
+        },
+        {
+          "word": "KALANCHOE",
+          "meaning": "A succulent genus producing clusters of long-lasting bright blossoms",
+          "example": "Flowering kalanchoe pots brighten indoor desks."
+        },
+        {
+          "word": "SANSEVIERIA",
+          "meaning": "Hardy snake plant with upright sword-like variegated leaves",
+          "example": "Sansevieria purifies indoor air with low care."
+        },
+        {
+          "word": "ZAMIOCULCAS",
+          "meaning": "The ZZ plant featuring glossy dark green compound foliage",
+          "example": "ZZ plants tolerate low light indoor corners effortlessly."
+        },
+        {
+          "word": "MONSTERA",
+          "meaning": "A tropical vine famous for massive split leaf fenestrations",
+          "example": "Monstera deliciosa is a beloved tropical houseplant."
+        },
+        {
+          "word": "POTHOS",
+          "meaning": "An easy trailing tropical vine with variegated heart-shaped leaves",
+          "example": "Golden pothos vines cascade from hanging baskets."
+        }
+      ]
+    },
+    {
+      "levelNumber": 24,
+      "title": "Plants Level 24",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "PHILODENDRON",
+          "meaning": "A diverse genus of tropical leafy houseplants and climbing vines",
+          "example": "Heartleaf philodendrons climb moss poles indoors."
+        },
+        {
+          "word": "ANTHURIUM",
+          "meaning": "A tropical plant producing glossy heart-shaped red flower spathes",
+          "example": "Red anthurium spathes bloom for months indoors."
+        },
+        {
+          "word": "FICUS",
+          "meaning": "A genus of tropical trees and shrubs including fiddle-leaf figs",
+          "example": "Fiddle-leaf fig trees feature large glossy leaves."
+        },
+        {
+          "word": "SCHEFFLERA",
+          "meaning": "An umbrella plant with compound leaves radiating like ribs",
+          "example": "Schefflera houseplants feature lush green canopies."
+        },
+        {
+          "word": "VENUSFLYTRAP",
+          "meaning": "A carnivorous plant trapping insects between snap-closing leaf lobes",
+          "example": "Venus flytraps snap shut when trigger hairs touch."
+        },
+        {
+          "word": "PITCHERPLANT",
+          "meaning": "A carnivorous plant capturing prey in deep liquid-filled pitfall traps",
+          "example": "Insects slip inside liquid-filled pitcher plant tubes."
+        },
+        {
+          "word": "SUNDEW",
+          "meaning": "A carnivorous plant trapping insects on sticky glistening leaf tentacles",
+          "example": "Glistening sundew tentacles trap tiny gnats."
+        },
+        {
+          "word": "BLADDERWORT",
+          "meaning": "An aquatic carnivorous plant capturing prey in suction bladders",
+          "example": "Bladderwort traps micro-organisms underwater."
+        },
+        {
+          "word": "AIRPLANT",
+          "meaning": "An epiphytic tillandsia absorbing water and nutrients from air",
+          "example": "Air plants grow without soil mounted on wood."
+        },
+        {
+          "word": "BROMELIAD",
+          "meaning": "A tropical plant with rosette leaves forming central water cups",
+          "example": "Bright bromeliads hold water in central cups."
+        },
+        {
+          "word": "FERN",
+          "meaning": "A non-flowering vascular plant reproducing via spores on fronds",
+          "example": "Lush green ferns thrive in damp shaded woods."
+        }
+      ]
+    },
+    {
+      "levelNumber": 25,
+      "title": "Plants Level 25",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "MOSS",
+          "meaning": "A small non-vascular flowerless plant forming soft green mats",
+          "example": "Soft green moss coats shaded forest stones."
+        },
+        {
+          "word": "SEEDPOD",
+          "meaning": "A dry protective vessel holding plant seeds until ripe",
+          "example": "Poppy seedpods rattle in autumn breezes."
+        },
+        {
+          "word": "HORSETAIL",
+          "meaning": "A primitive spore-bearing plant with jointed silica-rich stems",
+          "example": "Horsetail plants grow along marshy riverbanks."
+        },
+        {
+          "word": "BAMBOO",
+          "meaning": "A giant fast-growing woody grass forming dense green groves",
+          "example": "Pandas eat fresh bamboo stalks in China."
+        },
+        {
+          "word": "STAGHORN",
+          "meaning": "An epiphytic fern featuring antler-shaped large arching fronds",
+          "example": "Staghorn ferns hang mounted on wooden plaques."
+        },
+        {
+          "word": "MAIDENHAIR",
+          "meaning": "A delicate fern with fan-shaped leaflets on dark wiry stems",
+          "example": "Maidenhair ferns require high humidity environments."
+        },
+        {
+          "word": "BOSTONFERN",
+          "meaning": "A popular indoor fern with graceful arching feathery fronds",
+          "example": "Boston ferns hang elegantly on shaded porches."
+        },
+        {
+          "word": "PRAYERPLANT",
+          "meaning": "A tropical plant whose leaves fold upward at night like praying hands",
+          "example": "Prayer plant leaves fold closed every evening."
+        },
+        {
+          "word": "CALATHEA",
+          "meaning": "A tropical foliage plant with intricate patterned leaf undersides",
+          "example": "Calathea leaves feature peacock feather patterns."
+        },
+        {
+          "word": "CROTON",
+          "meaning": "A colorful tropical shrub featuring red, yellow, and orange foliage",
+          "example": "Croton foliage adds bold autumn colors indoors."
+        },
+        {
+          "word": "DIEFFENBACHIA",
+          "meaning": "Dumb cane plant with broad variegated tropical leaf patterns",
+          "example": "Dieffenbachia leaves display yellow and green spots."
+        },
+        {
+          "word": "PEPEROMIA",
+          "meaning": "A compact houseplant with thick succulent-like patterned leaves",
+          "example": "Watermelon peperomia leaves resemble tiny melon rinds."
+        },
+        {
+          "word": "SYNGONIUM",
+          "meaning": "Arrowhead vine featuring heart to arrow-shaped foliage",
+          "example": "Variegated syngonium vines climb indoor trellises."
+        }
+      ]
+    },
+    {
+      "levelNumber": 26,
+      "title": "Plants Level 26",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "PILEA",
+          "meaning": "Pancake plant featuring round coin-like flat green leaves",
+          "example": "Pilea houseplants sprout circular leaves on stems."
+        },
+        {
+          "word": "ALOCASIA",
+          "meaning": "Elephant ear plant with massive dramatic arrowhead leaves",
+          "example": "Alocasia leaves make striking tropical silhouettes."
+        },
+        {
+          "word": "SOIL",
+          "meaning": "The top layer of Earth where plants take root and draw nutrients",
+          "example": "Rich dark soil supports healthy garden growth."
+        },
+        {
+          "word": "LOAM",
+          "meaning": "A fertile soil mixture of sand, silt, and clay optimal for plants",
+          "example": "Gardens thrive in well-draining rich loam soil."
+        },
+        {
+          "word": "CLAY",
+          "meaning": "Heavy fine-grained soil retaining water but draining slowly",
+          "example": "Amend heavy clay soil with organic compost."
+        },
+        {
+          "word": "SILT",
+          "meaning": "Granular soil material intermediate in size between sand and clay",
+          "example": "River deposits rich silt across floodplains."
+        },
+        {
+          "word": "HUMUS",
+          "meaning": "Dark organic matter formed by decayed leaf litter and plant material",
+          "example": "Humus enriches soil fertility and moisture hold."
+        },
+        {
+          "word": "PEAT",
+          "meaning": "Decomposed organic moss harvested from bogs for potting mix",
+          "example": "Peat moss increases water retention in potting soil."
+        },
+        {
+          "word": "PERLITE",
+          "meaning": "Lightweight expanded volcanic glass added to potting soil for aeration",
+          "example": "White perlite specks improve soil drainage mix."
+        },
+        {
+          "word": "VERMICULITE",
+          "meaning": "A hydrated mineral expanded by heat used to retain soil moisture",
+          "example": "Mix vermiculite into seed starting soil blends."
+        },
+        {
+          "word": "GRAVEL",
+          "meaning": "Small loose stones used for garden drainage and pathways",
+          "example": "Gravel pathways wind through rock garden beds."
+        },
+        {
+          "word": "BEDDING",
+          "meaning": "Arranging temporary flowering plants into decorative garden beds",
+          "example": "Spring bedding displays showcase colorful tulips."
+        },
+        {
+          "word": "GREENHOUSE",
+          "meaning": "A glass or plastic building for growing plants under controlled climate",
+          "example": "Seedlings sprout early inside the warm greenhouse."
+        }
+      ]
+    },
+    {
+      "levelNumber": 27,
+      "title": "Plants Level 27",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "GARDEN",
+          "meaning": "A piece of ground used for cultivating flowers, herbs, or crops",
+          "example": "She tends her backyard vegetable garden daily."
+        },
+        {
+          "word": "ORCHARD",
+          "meaning": "An intentional planting of fruit or nut trees for production",
+          "example": "Apple trees bloom across the sunny orchard."
+        },
+        {
+          "word": "VINEYARD",
+          "meaning": "A plantation of grapevines cultivated for winemaking or fruit",
+          "example": "Grapevines ripen in rows across hill vineyards."
+        },
+        {
+          "word": "NURSERY",
+          "meaning": "A commercial facility where young plants and trees are raised",
+          "example": "Buy saplings and perennials from the local plant nursery."
+        },
+        {
+          "word": "PLANTATION",
+          "meaning": "A large estate cultivated for cash crops like tea, coffee, or rubber",
+          "example": "Tea plantations cover rolling tropical hills."
+        },
+        {
+          "word": "ARBORETUM",
+          "meaning": "A botanical garden devoted to growing and conserving trees",
+          "example": "Visitors walk among rare specimen trees in the arboretum."
+        },
+        {
+          "word": "TERRARIUM",
+          "meaning": "A sealable glass container housing growing indoor plants",
+          "example": "Miniature ferns flourish in a glass terrarium."
+        },
+        {
+          "word": "PLANTER",
+          "meaning": "A decorative container or box used for holding growing plants",
+          "example": "Wooden patio planters hold fragrant herbs."
+        },
+        {
+          "word": "SEEDLING",
+          "meaning": "A young vulnerable plant newly sprouted from a seed",
+          "example": "Protect tender tomato seedlings from late frost."
+        },
+        {
+          "word": "SPROUT",
+          "meaning": "A newly emerged plant shoot pushing up through soil",
+          "example": "Green bean sprouts emerge after three days."
+        },
+        {
+          "word": "HARVEST",
+          "meaning": "The process of gathering ripe agricultural crops from fields",
+          "example": "Farmers work late during autumn wheat harvest."
+        },
+        {
+          "word": "CROPS",
+          "meaning": "Cultivated plants harvested for food, fiber, or commercial gain",
+          "example": "Corn and soy crops cover vast farmland fields."
+        },
+        {
+          "word": "IRRIGATION",
+          "meaning": "The artificial application of water to land for crop growth",
+          "example": "Drip irrigation delivers water directly to roots."
+        }
+      ]
+    },
+    {
+      "levelNumber": 28,
+      "title": "Plants Level 28",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "RAINWATER",
+          "meaning": "Pure natural precipitation collected in barrels for watering plants",
+          "example": "Collect rainwater in barrels to water garden beds."
+        },
+        {
+          "word": "SUNLIGHT",
+          "meaning": "Solar radiation providing light energy essential for plant growth",
+          "example": "Sunlight powers photosynthesis in green leaves."
+        },
+        {
+          "word": "FLOWERBUD",
+          "meaning": "An unopened flower cluster preparing to bloom",
+          "example": "Swelling flower buds predict early spring blossoms."
+        },
+        {
+          "word": "TOPPING",
+          "meaning": "Pruning upper main shoots to encourage bushy lateral growth",
+          "example": "Topping basil plants creates bushy herb growth."
+        },
+        {
+          "word": "TOPICALLY",
+          "meaning": "Applying herbal ointments directly onto skin surfaces",
+          "example": "Aloe vera gel is applied topically for burns."
+        },
+        {
+          "word": "TILLAGE",
+          "meaning": "Preparing soil for planting by cultivating or plowing",
+          "example": "Reduced tillage protects soil structure from erosion."
+        },
+        {
+          "word": "WEEDING",
+          "meaning": "Removing unwanted invasive plants competing with garden crops",
+          "example": "Morning weeding keeps vegetable beds clean."
+        },
+        {
+          "word": "DEADHEADING",
+          "meaning": "Removing faded spent flowers to encourage new bloom growth",
+          "example": "Regular deadheading prolongs marigold flower blooms."
+        },
+        {
+          "word": "STAKING",
+          "meaning": "Supporting tall plants or heavy crops with vertical wooden stakes",
+          "example": "Staking tomato vines prevents fruit touching soil."
+        },
+        {
+          "word": "TRELLIS",
+          "meaning": "A framework of lattice used as support for climbing plants",
+          "example": "Sweet peas climb up a wooden garden trellis."
+        },
+        {
+          "word": "PERGOLA",
+          "meaning": "An outdoor garden feature forming a shaded walkway of vines",
+          "example": "Wisteria drapes over a wooden pergola frame."
+        },
+        {
+          "word": "FLOWERBED",
+          "meaning": "A garden plot prepared specifically for growing flowers",
+          "example": "Plant colorful perennials in the front flowerbed."
+        },
+        {
+          "word": "SEEDBED",
+          "meaning": "Fine tilled soil prepared for sowing delicate seeds",
+          "example": "Smooth the seedbed before scattering lettuce seeds."
+        }
+      ]
+    },
+    {
+      "levelNumber": 29,
+      "title": "Plants Level 29",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SPRAYING",
+          "meaning": "Applying liquid fertilizers or organic remedies to plant foliage",
+          "example": "Foliar spraying feeds nutrients directly through leaves."
+        },
+        {
+          "word": "REPOTTING",
+          "meaning": "Transferring a container-bound plant into a larger pot with fresh soil",
+          "example": "Spring repotting gives rootbound plants room to grow."
+        },
+        {
+          "word": "POTBOUND",
+          "meaning": "A condition where plant roots tightly fill container space",
+          "example": "Potbound plants require larger pots and fresh soil."
+        },
+        {
+          "word": "IVY",
+          "meaning": "An evergreen climbing vine attaching to walls with aerial rootlets",
+          "example": "English ivy covers stone cottage walls in green."
+        },
+        {
+          "word": "VINE",
+          "meaning": "A plant with slender climbing or trailing stems needing support",
+          "example": "Grapevines climb trellises in summer sunlight."
+        },
+        {
+          "word": "SHRUB",
+          "meaning": "A woody plant smaller than a tree with multiple persistent stems",
+          "example": "Prune garden shrubs to maintain tidy shapes."
+        },
+        {
+          "word": "BUSH",
+          "meaning": "A low dense woody plant branching abundant foliage from ground level",
+          "example": "Rose bushes bloom near the garden gate."
+        },
+        {
+          "word": "HEDGE",
+          "meaning": "A fence formed by closely planted bushes or shrubs pruned neatly",
+          "example": "A boxwood hedge frames the formal garden path."
+        },
+        {
+          "word": "HEATHER",
+          "meaning": "A low evergreen shrub bearing small purple bells across open moors",
+          "example": "Purple heather covers Scottish highland hills."
+        },
+        {
+          "word": "HONEYSUCKLE",
+          "meaning": "A climbing vine with sweet tubular flowers filled with nectar",
+          "example": "Honeysuckle blossoms scent warm summer evenings."
+        },
+        {
+          "word": "BRAMBLE",
+          "meaning": "A prickly scrambling shrub producing wild blackberries",
+          "example": "Pick wild blackberries from thomy bramble bushes."
+        },
+        {
+          "word": "BRACKEN",
+          "meaning": "A large coarse fern forming dense thickets in hills and woods",
+          "example": "Bracken turns golden brown on autumn hillsides."
+        },
+        {
+          "word": "LICHEN",
+          "meaning": "A complex organism arising from algae and fungi living together",
+          "example": "Crusty lichens grow on ancient granite rocks."
+        }
+      ]
+    },
+    {
+      "levelNumber": 30,
+      "title": "Plants Level 30",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "REED",
+          "meaning": "A tall slender grass-like plant growing in wet marshy soils",
+          "example": "Reeds sway along marshy lake shores."
+        },
+        {
+          "word": "RUSH",
+          "meaning": "A marshland plant with cylindrical hollow stems growing in clumps",
+          "example": "Soft rushes border quiet freshwater ponds."
+        },
+        {
+          "word": "SEDGE",
+          "meaning": "A grass-like marsh plant with solid triangular stems",
+          "example": "Sedges have edges, rushes are round."
+        },
+        {
+          "word": "CANE",
+          "meaning": "The slender jointed stem of bamboo, sugarcane, or reed",
+          "example": "Sugarcane canes are harvested for sugar extraction."
+        },
+        {
+          "word": "ROOTHAIR",
+          "meaning": "Microscopic root extensions absorbing soil water and minerals",
+          "example": "Root hair structures absorb soil moisture."
+        },
+        {
+          "word": "CLIMBER",
+          "meaning": "A plant adapted to ascend structures using tendrils or twining stems",
+          "example": "Clematis is a popular garden climber vine."
+        },
+        {
+          "word": "BOXWOOD",
+          "meaning": "A dense slow-growing shrub ideal for formal garden topiary",
+          "example": "Trimmed boxwood hedges outline garden pathways."
+        },
+        {
+          "word": "PRIVET",
+          "meaning": "An evergreen shrub widely planted for dense formal hedges",
+          "example": "Privet hedges provide privacy along property lines."
+        },
+        {
+          "word": "VASCULAR",
+          "meaning": "Plant tissue system conducting sap, water, and nutrients",
+          "example": "Vascular plants feature xylem and phloem vessels."
+        },
+        {
+          "word": "RHODODENDRON",
+          "meaning": "A large shrub with leathery leaves and massive flower clusters",
+          "example": "Rhododendrons bloom with massive pink flower heads."
+        },
+        {
+          "word": "HYDRANGEA",
+          "meaning": "A shrub producing large globe flower heads changing color with soil pH",
+          "example": "Blue hydrangeas thrive in acidic soil garden beds."
+        },
+        {
+          "word": "VIBURNUM",
+          "meaning": "A diverse garden shrub bearing fragrant flowers and colorful berries",
+          "example": "Snowball viburnum bears dense round white flower heads."
+        },
+        {
+          "word": "FORSYTHIA",
+          "meaning": "A spring shrub bursting with bright yellow flowers on bare branches",
+          "example": "Yellow forsythia blooms announce spring early."
+        }
+      ]
+    },
+    {
+      "levelNumber": 31,
+      "title": "Plants Level 31",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SPIRAEA",
+          "meaning": "A garden shrub producing cascading sprays of tiny white flowers",
+          "example": "Bridal wreath spiraea blooms profusely in May."
+        },
+        {
+          "word": "WEIGELA",
+          "meaning": "A deciduous shrub bearing trumpet-shaped rose flowers attracting hummingbirds",
+          "example": "Hummingbirds visit blooming pink weigela bushes."
+        },
+        {
+          "word": "MOCKORANGE",
+          "meaning": "A deciduous shrub with citrus-scented white four-petal flowers",
+          "example": "Mock orange fills summer air with orange scent."
+        },
+        {
+          "word": "BARBERRY",
+          "meaning": "A thorny ornamental shrub featuring colorful foliage and berries",
+          "example": "Purple barberry shrubs add contrast to borders."
+        },
+        {
+          "word": "COTONEASTER",
+          "meaning": "A hardy groundcover shrub bearing red berries in autumn",
+          "example": "Cotoneaster drapes gracefully over garden rock walls."
+        },
+        {
+          "word": "PYRACANTHA",
+          "meaning": "A thorny shrub known as firethorn producing dense orange berries",
+          "example": "Firethorn pyracantha covers walls in bright berries."
+        },
+        {
+          "word": "SMILAX",
+          "meaning": "A climbing woody vine with glossy leaves and prickly stems",
+          "example": "Greenbriar smilax twines through woodland thickets."
+        },
+        {
+          "word": "PASSIONFLOWER",
+          "meaning": "An exotic climbing vine producing intricate geometric blossoms",
+          "example": "Passionflower blooms feature intricate radial filaments."
+        },
+        {
+          "word": "BOUGAINVILLEA",
+          "meaning": "A thorny tropical vine covered in brilliant papery pink bracts",
+          "example": "Pink bougainvillea drapes over Mediterranean villa walls."
+        },
+        {
+          "word": "JASMINEVINE",
+          "meaning": "A fragrant twining climber producing sweet night-blooming flowers",
+          "example": "Jasmine vine weaves around sunny porch posts."
+        },
+        {
+          "word": "TRUMPETVINE",
+          "meaning": "A vigorous climber with large orange trumpet flowers for hummingbirds",
+          "example": "Orange trumpet vines cover garden archways."
+        },
+        {
+          "word": "DOGROSE",
+          "meaning": "A wild scrambling rose species bearing pink flowers and hips",
+          "example": "Wild dogroses bloom along country hedgerows."
+        },
+        {
+          "word": "SWEETBRIAR",
+          "meaning": "A wild rose shrub with fragrant foliage smelling of apples",
+          "example": "Sweetbriar leaves smell sweet after rain showers."
+        }
+      ]
+    },
+    {
+      "levelNumber": 32,
+      "title": "Plants Level 32",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "ELDERBERRY",
+          "meaning": "A shrub producing flat clusters of dark blue medicinal berries",
+          "example": "Elderberry syrup is harvested for winter immunity."
+        },
+        {
+          "word": "SNOWBERRY",
+          "meaning": "A shrub bearing spongy white ornamental berries into winter",
+          "example": "White snowberries linger on bare winter twigs."
+        },
+        {
+          "word": "STOMA",
+          "meaning": "A single microscopic pore in a leaf surface regulating gas exchange",
+          "example": "Each stoma opens to absorb carbon dioxide."
+        },
+        {
+          "word": "CURRANT",
+          "meaning": "A fruit shrub bearing clusters of red, black, or white berries",
+          "example": "Red currant berries make sweet translucent jellies."
+        },
+        {
+          "word": "HOSTA",
+          "meaning": "A shade-loving perennial grown for broad decorative foliage",
+          "example": "Hostas feature variegated green and white leaves."
+        },
+        {
+          "word": "ALUMROOT",
+          "meaning": "A perennial woodland plant grown for colorful ruffled foliage",
+          "example": "Alumroot heuchera leaves come in amber shades."
+        },
+        {
+          "word": "LUPINE",
+          "meaning": "A tall spired flower fixing nitrogen into soil through roots",
+          "example": "Wild purple lupines cover coastal gravel roadsides."
+        },
+        {
+          "word": "PETIOLE",
+          "meaning": "The stalk that attaches a leaf blade to the stem",
+          "example": "The petiole connects the leaf blade to the branch."
+        },
+        {
+          "word": "LEAFLET",
+          "meaning": "An individual blade of a compound leaf structure",
+          "example": "Fern fronds consist of multiple small leaflets."
+        },
+        {
+          "word": "TWIGLET",
+          "meaning": "A tiny small terminal twig on a branch",
+          "example": "Birds gather tiny twiglets to build soft nests."
+        },
+        {
+          "word": "STIPULE",
+          "meaning": "Outgrowth borne on either side of the base of a leafstalk",
+          "example": "Rose leaf bases feature small protective stipules."
+        },
+        {
+          "word": "COROLLA",
+          "meaning": "The collective petals of a flower structure",
+          "example": "The colorful corolla attracts pollinating bees."
+        },
+        {
+          "word": "CALYX",
+          "meaning": "The outermost whorl of protective floral sepals",
+          "example": "The green calyx protects the developing floral bud."
+        }
+      ]
+    },
+    {
+      "levelNumber": 33,
+      "title": "Plants Level 33",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SPOROPHYTE",
+          "meaning": "The diploid multicellular stage in plant reproduction",
+          "example": "The fern sporophyte produces spores on fronds."
+        },
+        {
+          "word": "GAMETOPHYTE",
+          "meaning": "The sexual phase in the life cycle of plants",
+          "example": "Moss gametophytes form soft green carpets."
+        },
+        {
+          "word": "PONDWEED",
+          "meaning": "Submerged aquatic plants providing habitat for freshwater fish",
+          "example": "Fish hide among submerged pondweed stems."
+        },
+        {
+          "word": "EELGRASS",
+          "meaning": "A marine seagrass forming submerged underwater meadow habitats",
+          "example": "Eelgrass beds shelter young sea creatures."
+        },
+        {
+          "word": "KELP",
+          "meaning": "Massive marine brown algae forming underwater ocean forests",
+          "example": "Giant kelp forests grow rapidly in cool ocean water."
+        },
+        {
+          "word": "SARGASSUM",
+          "meaning": "A floating brown seaweed forming large mats in open oceans",
+          "example": "Sargassum mats float across tropical Atlantic waters."
+        },
+        {
+          "word": "NORI",
+          "meaning": "An edible red algae species dried into paper sheets for sushi",
+          "example": "Wrap sushi rolls in toasted sheets of nori seaweed."
+        },
+        {
+          "word": "SPIRULINA",
+          "meaning": "A blue-green cyanobacteria algae grown as a dietary superfood",
+          "example": "Spirulina powder adds nutrients to green smoothies."
+        },
+        {
+          "word": "CHLORELLA",
+          "meaning": "A single-celled green freshwater algae rich in chlorophyll",
+          "example": "Chlorella supplements support wellness routine detox."
+        },
+        {
+          "word": "VALERIAN",
+          "meaning": "A perennial herb whose roots are used as a calming herbal remedy",
+          "example": "Valerian root tea promotes relaxing evening sleep."
+        },
+        {
+          "word": "ECHINACEA",
+          "meaning": "A coneflower herb widely used to boost immune wellness",
+          "example": "Echinacea purple coneflowers attract garden bees."
+        },
+        {
+          "word": "GINSENG",
+          "meaning": "A slow-growing forest root valued in traditional herbal medicine",
+          "example": "Wild ginseng roots grow in cool mountain forests."
+        },
+        {
+          "word": "CHAMOMILE",
+          "meaning": "A daisy-like herb whose dried flowers brew soothing tea",
+          "example": "Sip warm chamomile tea before going to bed."
+        }
+      ]
+    },
+    {
+      "levelNumber": 34,
+      "title": "Plants Level 34",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "DANDELION",
+          "meaning": "A common yellow wildflower with fluffy seed heads dispersed by wind",
+          "example": "Blow dandelion seed fluff into the spring air."
+        },
+        {
+          "word": "CHICKWEED",
+          "meaning": "A small common wild herb with edible delicate green shoots",
+          "example": "Chickweed grows quickly in rich moist garden soil."
+        },
+        {
+          "word": "PLANTAIN",
+          "meaning": "A common wild broadleaf herb used traditionally for soothing stings",
+          "example": "Crushed plantain leaves soothe minor insect bites."
+        },
+        {
+          "word": "NETTLE",
+          "meaning": "A wild herbaceous plant covered in stinging hairs rich in iron",
+          "example": "Harvest stinging nettle leaves using thick gloves."
+        },
+        {
+          "word": "BURDOCK",
+          "meaning": "A biennial plant producing spiky hooked seed burs that stick to fur",
+          "example": "Hooked burdock burs cling to hiking socks."
+        },
+        {
+          "word": "THISTLE",
+          "meaning": "A prickly wild plant bearing purple tufted flower heads",
+          "example": "The purple thistle is the national flower of Scotland."
+        },
+        {
+          "word": "TEASEL",
+          "meaning": "A tall biennial plant with prickly spiky seed heads used historically",
+          "example": "Dried teasel seed heads stand in winter fields."
+        },
+        {
+          "word": "CATTAIL",
+          "meaning": "A wetland marsh plant with brown cylindrical sausage-like seed heads",
+          "example": "Cattails line the edges of quiet farm ponds."
+        },
+        {
+          "word": "SPEEDWELL",
+          "meaning": "A small creeping wild plant with tiny blue four-petal flowers",
+          "example": "Speedwell blooms in blue carpets along lawn edges."
+        },
+        {
+          "word": "CLOVER",
+          "meaning": "A low-growing plant with three-part leaves and round flower heads",
+          "example": "Searching through green clover for a lucky four-leaf clover."
+        },
+        {
+          "word": "ALFALFA",
+          "meaning": "A deep-rooted legume forage crop grown for livestock feed",
+          "example": "Alfalfa fields yield nutrient-dense hay bales."
+        },
+        {
+          "word": "VETCH",
+          "meaning": "A climbing legume plant grown as a cover crop to enrich nitrogen",
+          "example": "Purple vetch blossoms enrich orchard soils."
+        },
+        {
+          "word": "TREFOIL",
+          "meaning": "A three-leaved clover-like plant bearing bright yellow flowers",
+          "example": "Birdsfoot trefoil blooms yellow in sunny pastures."
+        }
+      ]
+    },
+    {
+      "levelNumber": 35,
+      "title": "Plants Level 35",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SWEETCLOVER",
+          "meaning": "A tall biennial legume with fragrant yellow or white flower spikes",
+          "example": "Bees gather rich nectar from sweetclover blooms."
+        },
+        {
+          "word": "MILKWORT",
+          "meaning": "A small wild plant bearing tiny colorful flowers in pastures",
+          "example": "Pink milkwort grows in dry chalk grasslands."
+        },
+        {
+          "word": "SPORANGIUM",
+          "meaning": "Enclosure in which plant spores are formed and held",
+          "example": "The sporangium releases mature spores into wind."
+        },
+        {
+          "word": "FLEABANE",
+          "meaning": "A daisy-like wildflower historically used to deter insects",
+          "example": "Fleabane flowers resemble tiny pink-tipped daisies."
+        },
+        {
+          "word": "GOLDENROD",
+          "meaning": "A late-summer plant with feathery spikes of golden yellow flowers",
+          "example": "Goldenrod brightens autumn fields with bright gold."
+        },
+        {
+          "word": "ASTER",
+          "meaning": "A late-season daisy-like flower blooming in violet and blue shades",
+          "example": "Wild asters bloom alongside autumn goldenrod."
+        },
+        {
+          "word": "YARROW",
+          "meaning": "A hardy herb with feathery leaves and flat clusters of tiny flowers",
+          "example": "White yarrow grows wild along sunny roadsides."
+        },
+        {
+          "word": "TANSY",
+          "meaning": "A yellow button-flowered aromatic perennial herb used historically",
+          "example": "Tansy produces dense clusters of yellow disc flowers."
+        },
+        {
+          "word": "WORMWOOD",
+          "meaning": "A bitter aromatic silver-foliaged shrub used in absinthe",
+          "example": "Wormwood foliage has a distinctive bitter scent."
+        },
+        {
+          "word": "MUGWORT",
+          "meaning": "An aromatic silvery perennial wild herb related to absinthe",
+          "example": "Mugwort leaves feature silvery fuzzy undersides."
+        },
+        {
+          "word": "SOAPWORT",
+          "meaning": "A flowering plant whose sap produces lathering soap when crushed",
+          "example": "Crushed soapwort leaves create natural soapy lather."
+        },
+        {
+          "word": "COLTSFOOT",
+          "meaning": "An early yellow wildflower blooming on bare stems before leaves appear",
+          "example": "Coltsfoot blossoms emerge on clay banks in early spring."
+        },
+        {
+          "word": "MONKSHOOD",
+          "meaning": "A poisonous perennial plant bearing hood-shaped deep blue flowers",
+          "example": "Deep blue monkshood flowers bloom in shaded borders."
+        }
+      ]
+    }
+  ]
+}

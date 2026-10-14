@@ -1,0 +1,2144 @@
+{
+  "id": 4,
+  "key": "electronics",
+  "title": "Electronics",
+  "iconAsset": "assets/chapter_images/electronics.png",
+  "themeColor": 4280391411,
+  "levels": [
+    {
+      "levelNumber": 1,
+      "title": "Electronics Level 1",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "WIRE",
+          "meaning": "A flexible metallic thread used to carry electric current",
+          "example": "Connecting a copper wire to the terminal."
+        },
+        {
+          "word": "PLUG",
+          "meaning": "A device for connecting an appliance to an electrical socket",
+          "example": "Insert the two-prong plug into the wall socket."
+        },
+        {
+          "word": "FUSE",
+          "meaning": "A safety device that melts to break a circuit if current is too high",
+          "example": "Replacing a blown fuse in the electrical panel."
+        },
+        {
+          "word": "WATT",
+          "meaning": "The standard unit of power in electrical systems",
+          "example": "A sixty watt light bulb illuminating the room."
+        },
+        {
+          "word": "VOLT",
+          "meaning": "The unit of electrical potential difference or electromotive force",
+          "example": "Checking the twelve volt battery output."
+        },
+        {
+          "word": "AMP",
+          "meaning": "Short for ampere, the unit of electric current",
+          "example": "The charger draws two amps of current."
+        },
+        {
+          "word": "OHM",
+          "meaning": "The unit of electrical resistance in a circuit",
+          "example": "Measuring ten ohms of resistance with a meter."
+        },
+        {
+          "word": "CHIP",
+          "meaning": "A small piece of semiconductor material containing a circuit",
+          "example": "A tiny microchip powering the device."
+        }
+      ]
+    },
+    {
+      "levelNumber": 2,
+      "title": "Electronics Level 2",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "DIODE",
+          "meaning": "A semiconductor device that allows current to flow in one direction",
+          "example": "Light emitting diode glowing green."
+        },
+        {
+          "word": "LED",
+          "meaning": "Light Emitting Diode used for efficient illumination and displays",
+          "example": "Bright red LED indicator light."
+        },
+        {
+          "word": "CELL",
+          "meaning": "A single unit producing electricity through chemical reaction",
+          "example": "A lithium battery cell in the smartphone."
+        },
+        {
+          "word": "PORT",
+          "meaning": "A connection point on a device for data transfer or power",
+          "example": "Plugging the cable into the USB port."
+        },
+        {
+          "word": "BUS",
+          "meaning": "A communication system that transfers data between components",
+          "example": "High-speed data bus connecting CPU to RAM."
+        },
+        {
+          "word": "RAM",
+          "meaning": "Random Access Memory used for short-term data storage",
+          "example": "Upgrading the computer to sixteen gigabytes of RAM."
+        },
+        {
+          "word": "ROM",
+          "meaning": "Read-Only Memory containing permanent computer instructions",
+          "example": "Firmware stored securely inside the ROM chip."
+        },
+        {
+          "word": "CPU",
+          "meaning": "Central Processing Unit that executes instructions in a computer",
+          "example": "The main CPU handling all system calculations."
+        }
+      ]
+    },
+    {
+      "levelNumber": 3,
+      "title": "Electronics Level 3",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "GATE",
+          "meaning": "A basic building block of digital logic circuits",
+          "example": "An AND logic gate processing binary signals."
+        },
+        {
+          "word": "BIT",
+          "meaning": "The basic unit of information in computing taking 0 or 1",
+          "example": "Processing sixty-four bits of data simultaneously."
+        },
+        {
+          "word": "BYTE",
+          "meaning": "A group of eight bits acting as a unit of memory",
+          "example": "Storing one byte of character data."
+        },
+        {
+          "word": "DATA",
+          "meaning": "Quantities, characters, or symbols processed by computer",
+          "example": "Transferring digital data over the network."
+        },
+        {
+          "word": "POWER",
+          "meaning": "The rate at which electrical energy is transferred",
+          "example": "Pressing the power button to start the PC."
+        },
+        {
+          "word": "RADIO",
+          "meaning": "A device that receives and plays wireless radio signals",
+          "example": "Tuning into a FM radio station."
+        },
+        {
+          "word": "FAN",
+          "meaning": "A cooling device used to dissipate heat from electronics",
+          "example": "Quiet cooling fan blowing heat off the heatsink."
+        },
+        {
+          "word": "DOCK",
+          "meaning": "A device that holds a mobile unit to charge and connect",
+          "example": "Placing the tablet into the desktop charging dock."
+        }
+      ]
+    },
+    {
+      "levelNumber": 4,
+      "title": "Electronics Level 4",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CABLE",
+          "meaning": "A insulated bundle of wires transmitting power or signals",
+          "example": "Plugging in the HDMI cable to the TV."
+        },
+        {
+          "word": "SOCKET",
+          "meaning": "A receptacle into which an electric plug is inserted",
+          "example": "Plugging the lamp into the wall socket."
+        },
+        {
+          "word": "SWITCH",
+          "meaning": "A device for making and breaking the connection in a circuit",
+          "example": "Flipping the toggle switch to turn on light."
+        },
+        {
+          "word": "BATTERY",
+          "meaning": "A container consisting of one or more cells producing electricity",
+          "example": "Recharging the laptop battery."
+        },
+        {
+          "word": "CIRCUIT",
+          "meaning": "A closed loop through which an electric current can flow",
+          "example": "Designing a printed circuit board."
+        },
+        {
+          "word": "BOARD",
+          "meaning": "A flat plate on which electronic components are mounted",
+          "example": "Soldering components onto the circuit board."
+        },
+        {
+          "word": "SIGNAL",
+          "meaning": "An electrical pulse or wave carrying information",
+          "example": "Capturing the audio signal with an oscilloscope."
+        },
+        {
+          "word": "PULSE",
+          "meaning": "A rapid transient change in voltage or current",
+          "example": "Generating a square wave clock pulse."
+        }
+      ]
+    },
+    {
+      "levelNumber": 5,
+      "title": "Electronics Level 5",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "GROUND",
+          "meaning": "A reference point in a circuit from which voltages are measured",
+          "example": "Connecting the green wire to chassis ground."
+        },
+        {
+          "word": "ANODE",
+          "meaning": "The positively charged electrode in an electrical device",
+          "example": "Current flows into the diode through the anode."
+        },
+        {
+          "word": "CATHODE",
+          "meaning": "The negatively charged electrode in an electrical device",
+          "example": "The negative lead of the capacitor connects to cathode."
+        },
+        {
+          "word": "SCREEN",
+          "meaning": "The flat display surface of an electronic device",
+          "example": "A high-resolution touchscreen on the phone."
+        },
+        {
+          "word": "DISPLAY",
+          "meaning": "An electronic device for visual presentation of data",
+          "example": "A crisp OLED display with vivid colors."
+        },
+        {
+          "word": "TV",
+          "meaning": "Television set for receiving and displaying broadcast signals",
+          "example": "Watching HD news on the smart TV."
+        },
+        {
+          "word": "MIC",
+          "meaning": "Short for microphone, converting sound into electrical signals",
+          "example": "Speaking clearly into the studio mic."
+        },
+        {
+          "word": "WEBCAM",
+          "meaning": "A digital video camera connected to a computer or network",
+          "example": "Attending a video conference using a HD webcam."
+        }
+      ]
+    },
+    {
+      "levelNumber": 6,
+      "title": "Electronics Level 6",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "ROUTER",
+          "meaning": "A networking device that forwards data packets between networks",
+          "example": "Connecting to the dual-band Wi-Fi router."
+        },
+        {
+          "word": "MODEM",
+          "meaning": "A device converting signals for internet transmission",
+          "example": "The cable modem connected to the internet service."
+        },
+        {
+          "word": "PRINTER",
+          "meaning": "A machine for printing text or pictures onto paper",
+          "example": "Printing documents on the wireless laser printer."
+        },
+        {
+          "word": "SCANNER",
+          "meaning": "A device that digitizes images or text on paper",
+          "example": "Scanning a photo with the flatbed scanner."
+        },
+        {
+          "word": "REMOTE",
+          "meaning": "A handheld wireless device used to control equipment",
+          "example": "Changing television channels with the remote."
+        },
+        {
+          "word": "CLOCK",
+          "meaning": "A timing device or circuit generating clock signals",
+          "example": "A quartz crystal clock generating gigahertz signals."
+        },
+        {
+          "word": "WATCH",
+          "meaning": "A small wearable timepiece",
+          "example": "A digital watch displaying time and date."
+        },
+        {
+          "word": "SMARTWATCH",
+          "meaning": "A wearable computer in the form of a wristwatch",
+          "example": "Tracking steps and heart rate on the smartwatch."
+        }
+      ]
+    },
+    {
+      "levelNumber": 7,
+      "title": "Electronics Level 7",
+      "gridRows": 10,
+      "gridCols": 10,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "CHARGER",
+          "meaning": "A device used to put energy into a secondary cell or battery",
+          "example": "Plugging in the fast USB-C charger."
+        },
+        {
+          "word": "ADAPTER",
+          "meaning": "A device for connecting pieces of equipment that cannot join directly",
+          "example": "Using a power adapter for international travel."
+        },
+        {
+          "word": "HARDDRIVE",
+          "meaning": "A high-capacity magnetic storage device",
+          "example": "Saving files onto a two terabyte hard drive."
+        },
+        {
+          "word": "SSD",
+          "meaning": "Solid State Drive using flash memory for fast storage",
+          "example": "Booting up the computer in seconds using a SSD."
+        },
+        {
+          "word": "DISK",
+          "meaning": "A magnetic or optical storage medium",
+          "example": "Inserting a Blu-ray disk into the player."
+        },
+        {
+          "word": "DRIVE",
+          "meaning": "A device that reads or writes data on storage media",
+          "example": "Plugging a thumb drive into the laptop."
+        },
+        {
+          "word": "USB",
+          "meaning": "Universal Serial Bus standard for connecting peripherals",
+          "example": "Transferring photos via a high-speed USB cable."
+        },
+        {
+          "word": "ETHERNET",
+          "meaning": "A system for connecting computers within a local area network",
+          "example": "Plugging an Ethernet cable into the PC for fast internet."
+        }
+      ]
+    },
+    {
+      "levelNumber": 8,
+      "title": "Electronics Level 8",
+      "gridRows": 10,
+      "gridCols": 10,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "BLUETOOTH",
+          "meaning": "Short-range wireless technology for exchanging data",
+          "example": "Pairing Bluetooth headphones with the phone."
+        },
+        {
+          "word": "WIFI",
+          "meaning": "Wireless networking technology using radio waves",
+          "example": "Connecting to the high-speed home Wi-Fi network."
+        },
+        {
+          "word": "WIRELESS",
+          "meaning": "Transmitting signals using radio waves without physical wires",
+          "example": "Wireless charging pad for smartphones."
+        },
+        {
+          "word": "NETWORK",
+          "meaning": "A group of interconnected computers and devices",
+          "example": "Setting up a secure office network."
+        },
+        {
+          "word": "INTERFACE",
+          "meaning": "A point where two systems meet and interact",
+          "example": "A user-friendly graphical interface."
+        },
+        {
+          "word": "MODULE",
+          "meaning": "A self-contained unit that performs a specific function",
+          "example": "Adding a Wi-Fi module to the microcontroller board."
+        },
+        {
+          "word": "CORE",
+          "meaning": "An individual processing unit inside a CPU",
+          "example": "A multi-core processor running demanding apps."
+        },
+        {
+          "word": "FLASH",
+          "meaning": "Non-volatile computer storage chip that can be electrically erased",
+          "example": "Storing photos on a high-speed flash memory card."
+        }
+      ]
+    },
+    {
+      "levelNumber": 9,
+      "title": "Electronics Level 9",
+      "gridRows": 9,
+      "gridCols": 9,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "SILICON",
+          "meaning": "A semiconductor element used in microchips and electronics",
+          "example": "Silicon wafers fabricated in cleanrooms."
+        },
+        {
+          "word": "WAFER",
+          "meaning": "A thin slice of semiconductor material used in microchip creation",
+          "example": "Etching millions of transistors onto a silicon wafer."
+        },
+        {
+          "word": "LASER",
+          "meaning": "A device that emits a concentrated beam of coherent light",
+          "example": "Reading optical disc data with a red laser."
+        },
+        {
+          "word": "OPTIC",
+          "meaning": "Relating to sight, light, or optical fiber communication",
+          "example": "Fiber optic cables transmitting data at light speed."
+        },
+        {
+          "word": "RADAR",
+          "meaning": "A system using radio waves to detect presence of objects",
+          "example": "Marine radar detecting distant ships in fog."
+        },
+        {
+          "word": "SONAR",
+          "meaning": "A system using sound waves to navigate or detect underwater",
+          "example": "Submarine sonar mapping the ocean floor."
+        },
+        {
+          "word": "BINARY",
+          "meaning": "A system of numerical notation using 0 and 1",
+          "example": "Computers process all information in binary code."
+        },
+        {
+          "word": "DIGITAL",
+          "meaning": "Signals or data expressed as series of digits 0 and 1",
+          "example": "Digital signal processing producing clear audio."
+        }
+      ]
+    },
+    {
+      "levelNumber": 10,
+      "title": "Electronics Level 10",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "ANALOG",
+          "meaning": "Relating to signals represented by continuously variable quantities",
+          "example": "An analog synthesizer generating warm tones."
+        },
+        {
+          "word": "SYSTEM",
+          "meaning": "A complex whole formed of interconnected electronic parts",
+          "example": "An embedded control system managing energy."
+        },
+        {
+          "word": "SENSOR",
+          "meaning": "A device that detects or measures physical properties",
+          "example": "A temperature sensor monitoring engine heat."
+        },
+        {
+          "word": "GYROSCOPE",
+          "meaning": "A sensor measuring orientation and angular velocity",
+          "example": "A smartphone gyroscope detecting screen rotation."
+        },
+        {
+          "word": "ANTENNA",
+          "meaning": "A metallic device for radiating or receiving radio waves",
+          "example": "Connecting a high-gain antenna for better reception."
+        },
+        {
+          "word": "RESISTOR",
+          "meaning": "A component that resists the flow of electrical current",
+          "example": "Soldering a hundred ohm resistor onto the PCB."
+        },
+        {
+          "word": "CAPACITOR",
+          "meaning": "A component that stores electrical energy in an electric field",
+          "example": "Filtering voltage ripples using a electrolytic capacitor."
+        },
+        {
+          "word": "INDUCTOR",
+          "meaning": "A component that stores energy in a magnetic field",
+          "example": "Coiled wire inductor filtering high-frequency noise."
+        },
+        {
+          "word": "TRANSISTOR",
+          "meaning": "A semiconductor device used to amplify or switch signals",
+          "example": "Billions of microscopic transistors in a CPU."
+        }
+      ]
+    },
+    {
+      "levelNumber": 11,
+      "title": "Electronics Level 11",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "RECTIFIER",
+          "meaning": "An electrical device that converts AC to DC current",
+          "example": "A bridge rectifier converting AC wall power."
+        },
+        {
+          "word": "AMPLIFIER",
+          "meaning": "An electronic device for increasing the power of a signal",
+          "example": "Audio amplifier boosting speaker volume."
+        },
+        {
+          "word": "OSCILLATOR",
+          "meaning": "A circuit that produces a continuous repetitive waveform",
+          "example": "A crystal oscillator generating a stable clock frequency."
+        },
+        {
+          "word": "SOLDER",
+          "meaning": "A fusible metal alloy used to join metallic surfaces",
+          "example": "Melting solder with a hot iron to connect leads."
+        },
+        {
+          "word": "BREADBOARD",
+          "meaning": "A construction board for prototyping electronic circuits",
+          "example": "Building a test circuit on a solderless breadboard."
+        },
+        {
+          "word": "HEATSINK",
+          "meaning": "A passive heat exchanger that cools an electronic device",
+          "example": "Aluminum heatsink mounted on the CPU chip."
+        },
+        {
+          "word": "REGULATOR",
+          "meaning": "A circuit that maintains a constant output voltage",
+          "example": "A linear voltage regulator outputting five volts."
+        },
+        {
+          "word": "THERMISTOR",
+          "meaning": "A resistor whose resistance varies significantly with temperature",
+          "example": "Measuring ambient heat using a NTC thermistor."
+        },
+        {
+          "word": "VARISTOR",
+          "meaning": "A resistor whose resistance decreases at high voltages",
+          "example": "A surge protector using a metal oxide varistor."
+        }
+      ]
+    },
+    {
+      "levelNumber": 12,
+      "title": "Electronics Level 12",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "CONNECTOR",
+          "meaning": "A device for joining electrical circuits together",
+          "example": "A gold-plated audio connector cable."
+        },
+        {
+          "word": "HEADER",
+          "meaning": "A row of pins allowing connections on a circuit board",
+          "example": "Plugging jumper wires into a pin header."
+        },
+        {
+          "word": "COMPUTER",
+          "meaning": "An electronic device for storing and processing data",
+          "example": "A desktop computer running complex simulations."
+        },
+        {
+          "word": "LAPTOP",
+          "meaning": "A portable personal computer suitable for mobile use",
+          "example": "Working on a laptop while traveling."
+        },
+        {
+          "word": "TABLET",
+          "meaning": "A portable computer with a touchscreen display",
+          "example": "Drawing digital art on a tablet with a stylus."
+        },
+        {
+          "word": "PHONE",
+          "meaning": "A portable cellular device for calls and computing",
+          "example": "An advanced smartphone with high-end camera."
+        },
+        {
+          "word": "MONITOR",
+          "meaning": "A screen used to display visual output from a computer",
+          "example": "A 4K dual monitor setup for gaming and editing."
+        },
+        {
+          "word": "SPEAKER",
+          "meaning": "An electroacoustic transducer converting audio signals to sound",
+          "example": "Listening to music through a stereo speaker."
+        },
+        {
+          "word": "HEADPHONE",
+          "meaning": "A pair of small loudspeakers held close to a user's ears",
+          "example": "Noise-canceling headphones for immersive audio."
+        }
+      ]
+    },
+    {
+      "levelNumber": 13,
+      "title": "Electronics Level 13",
+      "gridRows": 11,
+      "gridCols": 11,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "EARPHONE",
+          "meaning": "A small speaker inserted into the ear canal",
+          "example": "Wireless earphones for listening to podcasts while running."
+        },
+        {
+          "word": "PROJECTOR",
+          "meaning": "A device that projects an image onto a large screen",
+          "example": "Watching movies with a 1080p home theater projector."
+        },
+        {
+          "word": "CONSOLE",
+          "meaning": "A specialized computer system designed for playing video games",
+          "example": "Playing next-gen games on the gaming console."
+        },
+        {
+          "word": "CONTROLLER",
+          "meaning": "A handheld input device used to control game action",
+          "example": "Wireless gamepad controller with haptic feedback."
+        },
+        {
+          "word": "HARDWARE",
+          "meaning": "The physical components of a computer or electronic system",
+          "example": "Upgrading system hardware with extra memory."
+        },
+        {
+          "word": "SOFTWARE",
+          "meaning": "Programs and operating instructions used by a computer",
+          "example": "Installing new photo editing software."
+        },
+        {
+          "word": "FIRMWARE",
+          "meaning": "Permanent software programmed into a read-only memory chip",
+          "example": "Updating router firmware for enhanced security."
+        },
+        {
+          "word": "CHIPSET",
+          "meaning": "A collection of integrated circuits managing data flow",
+          "example": "A high-performance motherboard chipset."
+        },
+        {
+          "word": "GRAPHICS",
+          "meaning": "Visual imagery produced by computer processing",
+          "example": "Stunning 3D graphics in modern games."
+        }
+      ]
+    },
+    {
+      "levelNumber": 14,
+      "title": "Electronics Level 14",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "GPU",
+          "meaning": "Graphics Processing Unit specialized for rendering images",
+          "example": "A powerful GPU rendering 4K video frames."
+        },
+        {
+          "word": "STORAGE",
+          "meaning": "The retention of retrievable data on electronic media",
+          "example": "Expanding cloud and local storage capacity."
+        },
+        {
+          "word": "TRANSCEIVER",
+          "meaning": "A device that can both transmit and receive communications",
+          "example": "A fiber optic transceiver module."
+        },
+        {
+          "word": "AMMETERS",
+          "meaning": "Instruments for measuring electric current in amperes",
+          "example": "Measuring current draw with precision ammeters."
+        },
+        {
+          "word": "VOLTMETERS",
+          "meaning": "Instruments for measuring electrical potential difference",
+          "example": "Checking circuit voltage using digital voltmeters."
+        },
+        {
+          "word": "OHMMETERS",
+          "meaning": "Instruments for measuring electrical resistance",
+          "example": "Testing resistor values with digital ohmmeters."
+        },
+        {
+          "word": "CURRENT",
+          "meaning": "A flow of electricity through a conductor",
+          "example": "Alternating current powering household appliances."
+        },
+        {
+          "word": "VOLTAGE",
+          "meaning": "An electromotive force or potential difference expressed in volts",
+          "example": "Regulating input voltage to prevent damage."
+        },
+        {
+          "word": "ENERGY",
+          "meaning": "Power derived from utilization of physical or chemical resources",
+          "example": "Efficient solar energy storage systems."
+        }
+      ]
+    },
+    {
+      "levelNumber": 15,
+      "title": "Electronics Level 15",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "CHARGE",
+          "meaning": "The physical property of matter experiencing force in EM field",
+          "example": "Positive and negative electrical charges attracting."
+        },
+        {
+          "word": "GENERATOR",
+          "meaning": "A machine for converting mechanical energy into electricity",
+          "example": "A backup diesel generator during power outage."
+        },
+        {
+          "word": "DYNAMO",
+          "meaning": "A machine generating direct current using a commutator",
+          "example": "Bicycle dynamo powering a headlight."
+        },
+        {
+          "word": "TRANSFORMER",
+          "meaning": "A device that steps up or steps down AC voltages",
+          "example": "A pole transformer stepping down grid voltage."
+        },
+        {
+          "word": "RELAY",
+          "meaning": "An electrically operated switch controlling a circuit",
+          "example": "A solid state relay switching high voltage loads."
+        },
+        {
+          "word": "HERTZ",
+          "meaning": "The SI unit of frequency equal to one cycle per second",
+          "example": "A display screen refreshing at 120 hertz."
+        },
+        {
+          "word": "ISOLATOR",
+          "meaning": "A component preventing unwanted signal coupling",
+          "example": "An optocoupler providing electrical isolator safety."
+        },
+        {
+          "word": "COUPLER",
+          "meaning": "A device connecting two electrical circuits or optical fibers",
+          "example": "Connecting optical fibers with a precision coupler."
+        },
+        {
+          "word": "MICROCHIP",
+          "meaning": "A miniature electronic circuit manufactured on a chip",
+          "example": "A powerful microchip controlling automobile systems."
+        }
+      ]
+    },
+    {
+      "levelNumber": 16,
+      "title": "Electronics Level 16",
+      "gridRows": 16,
+      "gridCols": 16,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "MICROCONTROLLER",
+          "meaning": "A compact integrated circuit designed to govern an embedded system",
+          "example": "Programming a microcontroller for robotics."
+        },
+        {
+          "word": "SEMICONDUCTOR",
+          "meaning": "A material whose conductivity lies between conductor and insulator",
+          "example": "Silicon is the most widely used semiconductor."
+        },
+        {
+          "word": "PHOTODIODE",
+          "meaning": "A semiconductor diode that converts light into electrical current",
+          "example": "Detecting laser light signals with a photodiode."
+        },
+        {
+          "word": "TELEMETRY",
+          "meaning": "The automatic measurement and wireless transmission of data",
+          "example": "Receiving satellite telemetry data at ground station."
+        },
+        {
+          "word": "MULTIMETER",
+          "meaning": "An instrument measuring voltage, current, and resistance",
+          "example": "Testing a circuit board with a digital multimeter."
+        },
+        {
+          "word": "OSCILLOSCOPE",
+          "meaning": "A laboratory instrument displaying wave shape of signal",
+          "example": "Analyzing clock signals on a digital oscilloscope."
+        },
+        {
+          "word": "ACCELEROMETER",
+          "meaning": "A sensor measuring proper acceleration and motion",
+          "example": "Detecting motion and tilt with an accelerometer."
+        },
+        {
+          "word": "TRANSMITTER",
+          "meaning": "A set of equipment used to generate and transmit radio waves",
+          "example": "A radio transmitter broadcasting audio signals."
+        },
+        {
+          "word": "RECEIVER",
+          "meaning": "An electronic apparatus that receives radio waves",
+          "example": "A stereo receiver decoding audio broadcasts."
+        }
+      ]
+    },
+    {
+      "levelNumber": 17,
+      "title": "Electronics Level 17",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "BROADBAND",
+          "meaning": "A high-capacity transmission technique using a wide range of frequencies",
+          "example": "High-speed fiber optic broadband connection."
+        },
+        {
+          "word": "NETWORKING",
+          "meaning": "The exchange of data between computers and devices",
+          "example": "Setting up enterprise IT networking infrastructure."
+        },
+        {
+          "word": "ELECTRICITY",
+          "meaning": "A form of energy resulting from the existence of charged particles",
+          "example": "Clean electricity generated from wind turbines."
+        },
+        {
+          "word": "CONDUCTOR",
+          "meaning": "A material allowing heat or electricity to flow easily",
+          "example": "Copper is an excellent electrical conductor."
+        },
+        {
+          "word": "INSULATOR",
+          "meaning": "A material that does not allow electricity to pass through",
+          "example": "Rubber sleeve acting as a cable insulator."
+        },
+        {
+          "word": "IMPEDANCE",
+          "meaning": "The effective resistance of an electric circuit to alternating current",
+          "example": "Matching headphone impedance with the amplifier."
+        },
+        {
+          "word": "CAPACITANCE",
+          "meaning": "The ability of a system to store an electric charge",
+          "example": "Measuring picofarads of stray capacitance."
+        },
+        {
+          "word": "INDUCTANCE",
+          "meaning": "The property of an electric conductor opposing current change",
+          "example": "High inductance coil filtering power noise."
+        },
+        {
+          "word": "RESISTIVITY",
+          "meaning": "A measure of the resisting power of a specified material",
+          "example": "Silicon having variable electrical resistivity."
+        }
+      ]
+    },
+    {
+      "levelNumber": 18,
+      "title": "Electronics Level 18",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "CONDUCTIVITY",
+          "meaning": "The degree to which a specified material conducts electricity",
+          "example": "Gold having high electrical conductivity."
+        },
+        {
+          "word": "PIEZOELECTRIC",
+          "meaning": "Electricity resulting from mechanical pressure on crystals",
+          "example": "A quartz crystal using piezoelectric effect."
+        },
+        {
+          "word": "THERMOCOUPLE",
+          "meaning": "A sensor measuring temperature using two different metals",
+          "example": "Monitoring industrial furnace heat with a thermocouple."
+        },
+        {
+          "word": "OPTOCOUPLER",
+          "meaning": "A component transferring electrical signals using light",
+          "example": "Protecting sensitive microchips with an optocoupler."
+        },
+        {
+          "word": "POTENTIOMETER",
+          "meaning": "A three-terminal resistor with a sliding or rotating contact",
+          "example": "Adjusting volume using a rotary potentiometer."
+        },
+        {
+          "word": "MICROCIRCUIT",
+          "meaning": "A tiny electronic circuit manufactured on a thin substrate",
+          "example": "Complex microcircuit etched on a silicon chip."
+        },
+        {
+          "word": "SUBSTRATE",
+          "meaning": "An underlying substance or layer on which a circuit is built",
+          "example": "Silicon substrate supporting microchip layers."
+        },
+        {
+          "word": "SUPERCONDUCTOR",
+          "meaning": "A material conducting electricity with zero resistance",
+          "example": "Cooling a superconductor to near absolute zero."
+        },
+        {
+          "word": "ELECTROMAGNET",
+          "meaning": "A soft metal core made into a magnet by electric current",
+          "example": "An electromagnet lifting scrap metal in a yard."
+        },
+        {
+          "word": "ELECTRODE",
+          "meaning": "A conductor through which electricity enters or leaves an object",
+          "example": "Attaching sensing electrodes to monitor heart rate."
+        },
+        {
+          "word": "ELECTROLYTE",
+          "meaning": "A liquid or gel containing ions for conducting electricity",
+          "example": "Chemical electrolyte inside a lithium battery."
+        }
+      ]
+    },
+    {
+      "levelNumber": 19,
+      "title": "Electronics Level 19",
+      "gridRows": 17,
+      "gridCols": 17,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "DIELECTRIC",
+          "meaning": "An insulating material placed between capacitor plates",
+          "example": "Ceramic dielectric material inside a capacitor."
+        },
+        {
+          "word": "SEMICONDUCTORS",
+          "meaning": "Materials with electrical conductivity between conductors and insulators",
+          "example": "Silicon and germanium are essential semiconductors."
+        },
+        {
+          "word": "TRANSISTORS",
+          "meaning": "Semiconductor components used to amplify or switch signals",
+          "example": "Microprocessors containing billions of transistors."
+        },
+        {
+          "word": "MICROPROCESSOR",
+          "meaning": "An integrated circuit containing functions of a CPU",
+          "example": "A 64-bit microprocessor driving system performance."
+        },
+        {
+          "word": "MICROCONTROLLERS",
+          "meaning": "Integrated circuits managing dedicated embedded tasks",
+          "example": "Small microcontrollers powering smart home appliances."
+        },
+        {
+          "word": "INTEGRATED",
+          "meaning": "Formed into a single electronic component chip",
+          "example": "An integrated circuit housing complex logic."
+        },
+        {
+          "word": "BREADBOARDS",
+          "meaning": "Reusable boards for building experimental circuit prototypes",
+          "example": "Students wiring simple circuits on breadboards."
+        },
+        {
+          "word": "HEATSINKS",
+          "meaning": "Passive heat exchangers attached to hot microchips",
+          "example": "Copper heatsinks keeping power transistors cool."
+        },
+        {
+          "word": "REGULATORS",
+          "meaning": "Circuits maintaining constant voltage levels regardless of load",
+          "example": "Voltage regulators ensuring clean power delivery."
+        },
+        {
+          "word": "OSCILLATORS",
+          "meaning": "Circuits that produce continuous oscillating signals",
+          "example": "Precision quartz oscillators providing clock timing."
+        },
+        {
+          "word": "AMPLIFIERS",
+          "meaning": "Devices that increase amplitude or power of signals",
+          "example": "High-fidelity audio amplifiers driving studio monitors."
+        }
+      ]
+    },
+    {
+      "levelNumber": 20,
+      "title": "Electronics Level 20",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "RECTIFIERS",
+          "meaning": "Components converting alternating current into direct current",
+          "example": "Full-wave rectifiers inside power supplies."
+        },
+        {
+          "word": "TRANSCEIVERS",
+          "meaning": "Combined transmitters and receivers in a single housing",
+          "example": "Wireless transceivers communicating via radio waves."
+        },
+        {
+          "word": "CONNECTORS",
+          "meaning": "Devices joining electrical terminations together",
+          "example": "Gold-plated connectors ensuring low resistance."
+        },
+        {
+          "word": "TERMINALS",
+          "meaning": "Points at which electrical conductors terminate",
+          "example": "Screw terminals holding heavy power cables."
+        },
+        {
+          "word": "COMPUTERS",
+          "meaning": "Electronic devices processing data under software control",
+          "example": "Network of supercomputers analyzing weather data."
+        },
+        {
+          "word": "LAPTOPS",
+          "meaning": "Portable computers with built-in screens and keyboards",
+          "example": "Engineers working on laptops in the field."
+        },
+        {
+          "word": "TABLETS",
+          "meaning": "Mobile touchscreen computers for media and apps",
+          "example": "Digital tablets used for graphic design."
+        },
+        {
+          "word": "SMARTPHONES",
+          "meaning": "Advanced cellular phones with computing capabilities",
+          "example": "Smartphones featuring multi-camera systems."
+        },
+        {
+          "word": "MONITORS",
+          "meaning": "Display screens showing visual output from computers",
+          "example": "High-refresh-rate gaming monitors."
+        },
+        {
+          "word": "SPEAKERS",
+          "meaning": "Transducers converting electrical signals into sound waves",
+          "example": "Surround sound speakers installed in media room."
+        },
+        {
+          "word": "HEADPHONES",
+          "meaning": "Pair of small audio speakers worn over ears",
+          "example": "Wireless noise-canceling headphones for travel."
+        }
+      ]
+    },
+    {
+      "levelNumber": 21,
+      "title": "Electronics Level 21",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "PROJECTORS",
+          "meaning": "Devices projecting optical images onto large screens",
+          "example": "Laser projectors in cinema auditoriums."
+        },
+        {
+          "word": "CONSOLES",
+          "meaning": "Dedicated video game entertainment systems",
+          "example": "Next-generation gaming consoles connected to 4K TVs."
+        },
+        {
+          "word": "CONTROLLERS",
+          "meaning": "Handheld input devices for controlling digital games",
+          "example": "Ergonomic game controllers with haptic feedback."
+        },
+        {
+          "word": "PRINTERS",
+          "meaning": "Devices outputting text and images onto paper media",
+          "example": "Color laser printers in corporate offices."
+        },
+        {
+          "word": "SCANNERS",
+          "meaning": "Optical devices capturing images of physical documents",
+          "example": "High-speed document scanners digitizing files."
+        },
+        {
+          "word": "CAMERAS",
+          "meaning": "Devices recording photographic images or video streams",
+          "example": "Digital SLR cameras with interchangeable lenses."
+        },
+        {
+          "word": "WEBCAMS",
+          "meaning": "Video cameras providing real-time streams over internet",
+          "example": "Streaming 1080p webcams for online meetings."
+        },
+        {
+          "word": "ROUTERS",
+          "meaning": "Network devices routing data packets between networks",
+          "example": "Tri-band Wi-Fi 6 routers providing fast coverage."
+        },
+        {
+          "word": "MODEMS",
+          "meaning": "Modulator-demodulator devices connecting to internet ISPs",
+          "example": "Gigabit fiber modems delivering high-speed data."
+        },
+        {
+          "word": "REMOTES",
+          "meaning": "Wireless handheld controllers operating electronic gear",
+          "example": "Infrared remotes operating television and soundbar."
+        },
+        {
+          "word": "CHARGERS",
+          "meaning": "Power supplies replenishing energy in batteries",
+          "example": "Fast GaN chargers topping up phone batteries."
+        }
+      ]
+    },
+    {
+      "levelNumber": 22,
+      "title": "Electronics Level 22",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "ADAPTERS",
+          "meaning": "Devices converting interfaces or voltage levels",
+          "example": "USB-C to HDMI adapters for multi-monitor output."
+        },
+        {
+          "word": "HARDDRIVES",
+          "meaning": "Magnetic storage devices storing digital files",
+          "example": "External hard drives backing up important data."
+        },
+        {
+          "word": "MOTHERBOARD",
+          "meaning": "Main printed circuit board containing CPU and RAM slots",
+          "example": "Plugging graphics card into the motherboard slot."
+        },
+        {
+          "word": "MICROCHIPS",
+          "meaning": "Miniature integrated circuits etched on silicon",
+          "example": "Advanced microchips manufactured at three nanometers."
+        },
+        {
+          "word": "CIRCUITRY",
+          "meaning": "System or network of electrical circuits",
+          "example": "Complex analog circuitry inside the synthesizer."
+        },
+        {
+          "word": "BREADBOARDING",
+          "meaning": "Testing circuit designs on a solderless board",
+          "example": "Breadboarding a prototype circuit in lab class."
+        },
+        {
+          "word": "SOLDERING",
+          "meaning": "Joining metal component leads using molten solder",
+          "example": "Soldering surface mount components onto PCB."
+        },
+        {
+          "word": "DESOLDERING",
+          "meaning": "Removing solder and components from a circuit board",
+          "example": "Using a desoldering pump to replace faulty chip."
+        },
+        {
+          "word": "FIRMWARES",
+          "meaning": "Permanent program code stored in read-only memories",
+          "example": "Flashing updated firmwares to IoT devices."
+        },
+        {
+          "word": "PHOTODIODES",
+          "meaning": "Semiconductors converting light into electric current",
+          "example": "Array of photodiodes inside optical scanner."
+        },
+        {
+          "word": "OSCILLOSCOPES",
+          "meaning": "Instruments measuring and displaying signal waveforms",
+          "example": "Dual-trace oscilloscopes analyzing digital timing."
+        }
+      ]
+    },
+    {
+      "levelNumber": 23,
+      "title": "Electronics Level 23",
+      "gridRows": 16,
+      "gridCols": 16,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "MULTIMETERS",
+          "meaning": "Handheld meters measuring voltage, current, and resistance",
+          "example": "Digital multimeters for troubleshooting electrical faults."
+        },
+        {
+          "word": "PHOTOTRANSISTOR",
+          "meaning": "A light-sensitive transistor amplifying optical signals",
+          "example": "A phototransistor detecting infrared pulses."
+        },
+        {
+          "word": "SOLARCELL",
+          "meaning": "Electrical device converting light energy into electricity",
+          "example": "Roof solar cell panels harvesting sunlight."
+        },
+        {
+          "word": "PHOTOCELL",
+          "meaning": "A light-sensitive resistor whose resistance drops with light",
+          "example": "Streetlights controlled by a dusk photocell."
+        },
+        {
+          "word": "MICROPHONE",
+          "meaning": "Transducer converting acoustic sound into electrical signals",
+          "example": "Studio condenser microphone capturing clear vocals."
+        },
+        {
+          "word": "LOUDSPEAKER",
+          "meaning": "Electroacoustic transducer producing sound from audio signals",
+          "example": "Heavy bass subwoofer loudspeaker unit."
+        },
+        {
+          "word": "TOUCHSCREEN",
+          "meaning": "Display screen acting as both input and output interface",
+          "example": "Capacitive touchscreen responding to finger taps."
+        },
+        {
+          "word": "TOUCHPAD",
+          "meaning": "Tactile sensor pad controlling mouse cursor on laptops",
+          "example": "Multi-touch trackpad supporting gestures."
+        },
+        {
+          "word": "TRACKBALL",
+          "meaning": "Pointing device consisting of a ball held by a socket",
+          "example": "Ergonomic trackball mouse reducing wrist strain."
+        },
+        {
+          "word": "KEYBOARD",
+          "meaning": "Input device containing alphanumeric keys for typing",
+          "example": "Mechanical gaming keyboard with RGB backlight."
+        },
+        {
+          "word": "JOYSTICK",
+          "meaning": "Lever device pivoting on a base to control movement",
+          "example": "Flight simulator joystick with throttle quadrant."
+        }
+      ]
+    },
+    {
+      "levelNumber": 24,
+      "title": "Electronics Level 24",
+      "gridRows": 16,
+      "gridCols": 16,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "GAMEPAD",
+          "meaning": "Handheld game controller with directional buttons and sticks",
+          "example": "Bluetooth gamepad connected to smart TV."
+        },
+        {
+          "word": "GRAPHICSCARD",
+          "meaning": "Expansion card producing output images to a display",
+          "example": "Dedicated graphics card with high VRAM."
+        },
+        {
+          "word": "SOUNDCARD",
+          "meaning": "Expansion card facilitating input and output of audio signals",
+          "example": "High-fidelity internal sound card for recording."
+        },
+        {
+          "word": "NETWORKCARD",
+          "meaning": "Hardware component enabling computer network connection",
+          "example": "Gigabit Ethernet network card installed in PCI slot."
+        },
+        {
+          "word": "POWERSUPPLY",
+          "meaning": "Unit converting AC wall current to regulated DC power",
+          "example": "Modular 850-watt power supply unit."
+        },
+        {
+          "word": "BATTERYPACK",
+          "meaning": "Set of identical battery cells connected together",
+          "example": "High-capacity lithium battery pack in electric car."
+        },
+        {
+          "word": "POWERBANK",
+          "meaning": "Portable battery for charging electronic devices on the go",
+          "example": "Carrying a 20,000 mAh power bank while traveling."
+        },
+        {
+          "word": "SURGEPROTECTOR",
+          "meaning": "Appliance protecting electrical devices from voltage spikes",
+          "example": "Plugging computer gear into a surge protector strip."
+        },
+        {
+          "word": "TOUCHSCREENS",
+          "meaning": "Display panels that detect touch input from users",
+          "example": "Interactive touchscreens installed in kiosks."
+        },
+        {
+          "word": "MICROPROCESSORS",
+          "meaning": "Integrated circuits functioning as central processing units",
+          "example": "Multi-core microprocessors powering cloud servers."
+        },
+        {
+          "word": "CIRCUITBOARDS",
+          "meaning": "Printed boards supporting interconnecting electronic components",
+          "example": "Automated assembly placing parts onto circuit boards."
+        }
+      ]
+    },
+    {
+      "levelNumber": 25,
+      "title": "Electronics Level 25",
+      "gridRows": 16,
+      "gridCols": 16,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "POTENTIOMETERS",
+          "meaning": "Variable resistors used to adjust electrical signals",
+          "example": "Precision potentiometers controlling audio gain."
+        },
+        {
+          "word": "OPTOCOUPLERS",
+          "meaning": "Optical isolation components protecting sensitive electronics",
+          "example": "High-speed optocouplers isolating high voltage."
+        },
+        {
+          "word": "THERMISTORS",
+          "meaning": "Temperature-sensitive resistors monitoring heat levels",
+          "example": "NTC thermistors safeguarding battery charging."
+        },
+        {
+          "word": "TRANSFORMERS",
+          "meaning": "Magnetic devices stepping up or down AC voltages",
+          "example": "Toroidal transformers in high-end audio power supplies."
+        },
+        {
+          "word": "ACCELEROMETERS",
+          "meaning": "Sensors measuring acceleration forces and motion orientation",
+          "example": "MEMS accelerometers detecting vehicle collision."
+        },
+        {
+          "word": "TRANSMITTERS",
+          "meaning": "Electronic devices generating and sending radio signals",
+          "example": "Cellular tower transmitters broadcasting 5G coverage."
+        },
+        {
+          "word": "RECEIVERS",
+          "meaning": "Electronic devices capturing and decoding radio waves",
+          "example": "Satellite receivers capturing weather imagery."
+        },
+        {
+          "word": "MICROPHONES",
+          "meaning": "Transducers converting acoustic sound into electrical audio",
+          "example": "Studio condenser microphones recording vocals."
+        },
+        {
+          "word": "LOUDSPEAKERS",
+          "meaning": "Transducers converting electrical signals into audible sound",
+          "example": "Floorstanding hi-fi loudspeakers reproducing audio."
+        },
+        {
+          "word": "MOTHERBOARDS",
+          "meaning": "Main printed circuit boards connecting computer components",
+          "example": "Gaming motherboards supporting high-speed PCIe slots."
+        },
+        {
+          "word": "GRAPHICSCARDS",
+          "meaning": "Dedicated expansion cards rendering complex 3D graphics",
+          "example": "Dual graphics cards running in parallel SLI."
+        },
+        {
+          "word": "POWERBANKS",
+          "meaning": "Portable rechargeable energy stores for charging mobile gear",
+          "example": "Fast-charging power banks for long flights."
+        },
+        {
+          "word": "SURGEPROTECTORS",
+          "meaning": "Power strips safeguarding equipment from voltage spikes",
+          "example": "Heavy-duty surge protectors for home theater setups."
+        }
+      ]
+    },
+    {
+      "levelNumber": 26,
+      "title": "Electronics Level 26",
+      "gridRows": 19,
+      "gridCols": 19,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "ELECTROMAGNETIC",
+          "meaning": "Relating to interrelation of electric currents and magnetic fields",
+          "example": "Shielding cables against electromagnetic interference."
+        },
+        {
+          "word": "ELECTROMECHANICAL",
+          "meaning": "Combining electrical and mechanical processes",
+          "example": "Relays and solenoids are electromechanical components."
+        },
+        {
+          "word": "PHOTOELECTRIC",
+          "meaning": "Emission of electrons when light shines on material",
+          "example": "Einstein's discovery of the photoelectric effect."
+        },
+        {
+          "word": "PIEZOELECTRICITY",
+          "meaning": "Electric charge accumulating in solid materials from strain",
+          "example": "Utilizing piezoelectricity in ultrasound transducers."
+        },
+        {
+          "word": "TELECOMMUNICATIONS",
+          "meaning": "Communication over distance by cable, telegraph, telephone, or broadcasting",
+          "example": "Satellite networks enabling global telecommunications."
+        },
+        {
+          "word": "MICROELECTRONICS",
+          "meaning": "Subfield of electronics dealing with tiny components",
+          "example": "Advancements in nanometer microelectronics fabrication."
+        },
+        {
+          "word": "NANOELECTRONICS",
+          "meaning": "Use of nanotechnology in electronic components",
+          "example": "Developing quantum dots for nanoelectronics."
+        },
+        {
+          "word": "OPTOELECTRONICS",
+          "meaning": "Study and application of electronic devices that source, detect, and control light",
+          "example": "Fiber optic communication relies on optoelectronics."
+        },
+        {
+          "word": "MECHATRONICS",
+          "meaning": "Technology combining mechanics with electronics and computing",
+          "example": "Robotic arms engineered using mechatronics principles."
+        },
+        {
+          "word": "ROBOTICS",
+          "meaning": "Branch of engineering dealing with design and operation of robots",
+          "example": "Autonomous robotics navigating warehouse floors."
+        },
+        {
+          "word": "AUTOMATION",
+          "meaning": "Use of control systems for operating equipment with minimal human intervention",
+          "example": "Industrial factory automation boosting production."
+        },
+        {
+          "word": "DASHCAM",
+          "meaning": "On-board camera attached to vehicle dashboard continuously recording",
+          "example": "Dual HD dashcam recording road traffic."
+        },
+        {
+          "word": "MONITORING",
+          "meaning": "Observing and checking progress or quality of electronic system",
+          "example": "Continuous voltage monitoring preventing system crash."
+        }
+      ]
+    },
+    {
+      "levelNumber": 27,
+      "title": "Electronics Level 27",
+      "gridRows": 18,
+      "gridCols": 18,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "CALIBRATION",
+          "meaning": "Setting or correcting measuring marks on test equipment",
+          "example": "Annual oscilloscope calibration ensuring test accuracy."
+        },
+        {
+          "word": "DIAGNOSTIC",
+          "meaning": "Tool or procedure identifying cause of electronic failure",
+          "example": "Running onboard diagnostic test on circuit board."
+        },
+        {
+          "word": "TROUBLESHOOTING",
+          "meaning": "Locating and correcting faults in an electronic system",
+          "example": "Methodical troubleshooting finding cracked solder joint."
+        },
+        {
+          "word": "MAINTENANCE",
+          "meaning": "Routine servicing and repair of electronic equipment",
+          "example": "Preventive maintenance on server room UPS units."
+        },
+        {
+          "word": "SUBSTATION",
+          "meaning": "Facility stepping down high grid voltage for distribution",
+          "example": "Regional electrical substation distributing power."
+        },
+        {
+          "word": "GRID",
+          "meaning": "Interconnected network delivering electricity from producers to consumers",
+          "example": "Integrating solar farms into the national power grid."
+        },
+        {
+          "word": "SMARTGRID",
+          "meaning": "Electricity supply network using digital tech to monitor and manage transport",
+          "example": "Smart grid technology optimizing energy distribution."
+        },
+        {
+          "word": "INVERTER",
+          "meaning": "Device converting direct current DC to alternating current AC",
+          "example": "Solar inverter converting panel DC to household AC."
+        },
+        {
+          "word": "SOLARPANEL",
+          "meaning": "Panel absorbing sunlight to generate electricity or heat",
+          "example": "Rooftop solar panel array harvesting energy."
+        },
+        {
+          "word": "TURBINE",
+          "meaning": "Rotary mechanical device extracting energy from fluid flow",
+          "example": "Wind turbine generating renewable electrical power."
+        },
+        {
+          "word": "HYDROMETER",
+          "meaning": "Instrument measuring specific gravity of liquid electrolyte",
+          "example": "Testing lead-acid battery charge with a hydrometer."
+        },
+        {
+          "word": "GALVANOMETER",
+          "meaning": "Instrument detecting and measuring small electric currents",
+          "example": "Deflecting needle on an analog galvanometer."
+        },
+        {
+          "word": "SUPERCONDUCTIVITY",
+          "meaning": "Zero electrical resistance occurring in materials at low temp",
+          "example": "Researching room-temperature superconductivity."
+        }
+      ]
+    },
+    {
+      "levelNumber": 28,
+      "title": "Electronics Level 28",
+      "gridRows": 16,
+      "gridCols": 16,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "THERMOELECTRIC",
+          "meaning": "Direct conversion of temperature differences to electric voltage",
+          "example": "Generating power using a thermoelectric module."
+        },
+        {
+          "word": "FERROELECTRIC",
+          "meaning": "Material exhibiting spontaneous electric polarization",
+          "example": "Non-volatile ferroelectric RAM memory chips."
+        },
+        {
+          "word": "OPTICALFIBER",
+          "meaning": "Thin glass strand transmitting light signals over long distances",
+          "example": "High-speed internet delivered via optical fiber."
+        },
+        {
+          "word": "PHOTOVOLTAIC",
+          "meaning": "Production of electric current at junction of two materials exposed to light",
+          "example": "Photovoltaic cells harvesting solar energy."
+        },
+        {
+          "word": "ELECTROLYTIC",
+          "meaning": "Capacitor utilizing electrolyte to achieve high capacitance",
+          "example": "Replacing bulging electrolytic capacitors on motherboard."
+        },
+        {
+          "word": "SUPERCAPACITOR",
+          "meaning": "High-capacity capacitor storing massive energy density",
+          "example": "Supercapacitor providing instant burst power."
+        },
+        {
+          "word": "MANUFACTURING",
+          "meaning": "Industrial production of electronic goods on large scale",
+          "example": "High-tech semiconductor chip manufacturing plant."
+        },
+        {
+          "word": "FABRICATION",
+          "meaning": "Process of manufacturing semiconductor microchips in cleanrooms",
+          "example": "Wafer fabrication cleanroom operating 24/7."
+        },
+        {
+          "word": "CLEANROOM",
+          "meaning": "Environment controlled to filter out dust and airborne microbes",
+          "example": "Engineers wearing bunny suits inside cleanroom."
+        },
+        {
+          "word": "MINIATURIZATION",
+          "meaning": "Trend toward manufacturing smaller electronic products",
+          "example": "Miniaturization allowing powerful smartphones."
+        },
+        {
+          "word": "INTEGRATION",
+          "meaning": "Combining electronic components into single package or chip",
+          "example": "Very large-scale integration of logic gates."
+        },
+        {
+          "word": "ARCHITECTURES",
+          "meaning": "Design structures and organization of computer processor systems",
+          "example": "Comparing ARM and x86 CPU architectures."
+        },
+        {
+          "word": "INTERCONNECTS",
+          "meaning": "Conductive paths linking components on microchips or PCBs",
+          "example": "Copper interconnects linking silicon transistors."
+        }
+      ]
+    },
+    {
+      "levelNumber": 29,
+      "title": "Electronics Level 29",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "COPPER",
+          "meaning": "Ductile metal with excellent electrical conductivity",
+          "example": "High-purity copper wiring inside power cables."
+        },
+        {
+          "word": "ALUMINUM",
+          "meaning": "Lightweight metal used for heatsinks and wiring",
+          "example": "Extruded aluminum heatsinks cooling power LEDs."
+        },
+        {
+          "word": "GOLD",
+          "meaning": "Precious metal highly resistant to corrosion used for plating contacts",
+          "example": "Gold-plated audio jack contacts preventing oxidation."
+        },
+        {
+          "word": "SILVER",
+          "meaning": "Precious metal with highest electrical conductivity",
+          "example": "Silver thermal paste conducting heat off CPU."
+        },
+        {
+          "word": "PLATINUM",
+          "meaning": "Precious metal used in stable temperature sensors",
+          "example": "Platinum RTD sensor measuring industrial heat."
+        },
+        {
+          "word": "GERMANIUM",
+          "meaning": "Semiconductor element used in early transistors and optics",
+          "example": "Germanium diode featuring low forward voltage drop."
+        },
+        {
+          "word": "GALLIUM",
+          "meaning": "Soft metallic element used in high-speed compound semiconductors",
+          "example": "Gallium nitride power transistors for fast chargers."
+        },
+        {
+          "word": "ARSENIDE",
+          "meaning": "Compound used with gallium for high-frequency microchips",
+          "example": "Gallium arsenide chips used in satellite transmitters."
+        },
+        {
+          "word": "PHOSPHIDE",
+          "meaning": "Compound used in manufacturing light emitting diodes",
+          "example": "Indium phosphide lasers for fiber communications."
+        },
+        {
+          "word": "NANOMETER",
+          "meaning": "Unit of length equal to one billionth of a meter",
+          "example": "Transistor gate length measured in nanometers."
+        },
+        {
+          "word": "FREQUENCY",
+          "meaning": "The rate at which a vibration occurs or wave repeats",
+          "example": "Operating frequency of five gigahertz."
+        },
+        {
+          "word": "BANDWIDTH",
+          "meaning": "The range of frequencies within a given band for data transmission",
+          "example": "High bandwidth fiber optic connections."
+        },
+        {
+          "word": "ATTENUATION",
+          "meaning": "The reduction of amplitude of a signal through a medium",
+          "example": "Signal attenuation over long cable distances."
+        }
+      ]
+    },
+    {
+      "levelNumber": 30,
+      "title": "Electronics Level 30",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "DISTORTION",
+          "meaning": "Alteration of original shape of a signal or sound waveform",
+          "example": "Low total harmonic distortion in audio amplifier."
+        },
+        {
+          "word": "MODULATION",
+          "meaning": "Varying a periodic waveform to convey information",
+          "example": "Frequency modulation used in FM radio broadcasts."
+        },
+        {
+          "word": "DEMODULATION",
+          "meaning": "Extracting original information-bearing signal from carrier wave",
+          "example": "Receiver performing demodulation on radio signal."
+        },
+        {
+          "word": "MULTIPLEXING",
+          "meaning": "Transmitting multiple signals simultaneously over single channel",
+          "example": "Wavelength division multiplexing in fiber optics."
+        },
+        {
+          "word": "FILTERING",
+          "meaning": "Process of removing unwanted frequency components from a signal",
+          "example": "Low-pass active filtering removing high noise."
+        },
+        {
+          "word": "RESONANCE",
+          "meaning": "Condition in a circuit where inductive and capacitive reactances balance",
+          "example": "Circuit resonance tuning to radio station."
+        },
+        {
+          "word": "WAVELENGTH",
+          "meaning": "Distance between successive crests of a wave",
+          "example": "Infrared light wavelength measured in nanometers."
+        },
+        {
+          "word": "SPECTRUM",
+          "meaning": "Entire range of electromagnetic wave frequencies",
+          "example": "Allocating radio frequency spectrum for 5G."
+        },
+        {
+          "word": "HARMONICS",
+          "meaning": "Frequencies that are integer multiples of fundamental frequency",
+          "example": "Filtering unwanted power line harmonics."
+        },
+        {
+          "word": "TRANSIENT",
+          "meaning": "A short-lived voltage spike or current surge in a circuit",
+          "example": "Suppressing transient voltage spikes with TVS diode."
+        },
+        {
+          "word": "OVERVOLTAGE",
+          "meaning": "Condition where voltage in circuit exceeds upper design limit",
+          "example": "Overvoltage protection shutting down power unit."
+        },
+        {
+          "word": "UNDERVOLTAGE",
+          "meaning": "Condition where voltage drops below minimum operating level",
+          "example": "Brownout protection sensing undervoltage."
+        },
+        {
+          "word": "SHORTCIRCUIT",
+          "meaning": "Low resistance connection causing excessive current flow",
+          "example": "Short circuit blowing the protective fuse."
+        }
+      ]
+    },
+    {
+      "levelNumber": 31,
+      "title": "Electronics Level 31",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "OPENCIRCUIT",
+          "meaning": "Incomplete electrical circuit through which no current flows",
+          "example": "Broken wire causing an open circuit fault."
+        },
+        {
+          "word": "OVERCURRENT",
+          "meaning": "Current exceeding rated capacity of equipment",
+          "example": "Overcurrent protection tripping circuit breaker."
+        },
+        {
+          "word": "BREAKER",
+          "meaning": "Automatically operated switch protecting electrical circuit",
+          "example": "Resetting the tripped circuit breaker in panel."
+        },
+        {
+          "word": "GROUNDING",
+          "meaning": "Connecting electrical equipment safely to earth ground",
+          "example": "Proper equipment grounding preventing electric shock."
+        },
+        {
+          "word": "SHIELDING",
+          "meaning": "Barrier of conductive material isolating circuits from EMI",
+          "example": "Braid shielding protecting audio cable from hum."
+        },
+        {
+          "word": "ENCLOSURE",
+          "meaning": "Protective case housing electronic assemblies",
+          "example": "Waterproof aluminum enclosure for outdoor sensor."
+        },
+        {
+          "word": "PROTOTYPING",
+          "meaning": "Building early sample or model to test a circuit concept",
+          "example": "Rapid prototyping using 3D printers and breadboards."
+        },
+        {
+          "word": "SCHEMATIC",
+          "meaning": "Diagram showing connections of electronic circuit using symbols",
+          "example": "Reading circuit schematic before soldering PCB."
+        },
+        {
+          "word": "FOOTPRINT",
+          "meaning": "Layout pattern of landing pads for soldering a component on PCB",
+          "example": "Designing surface mount pad footprint in CAD."
+        },
+        {
+          "word": "SMD",
+          "meaning": "Surface Mount Device soldered directly onto PCB surface",
+          "example": "Tiny SMD resistors placed by pick-and-place machine."
+        },
+        {
+          "word": "THROUGHOLE",
+          "meaning": "Components with leads inserted through holes in PCB",
+          "example": "Soldering through-hole connectors on board edge."
+        },
+        {
+          "word": "MULTILAYER",
+          "meaning": "Printed circuit board consisting of several conductive layer tracks",
+          "example": "Six-layer multilayer PCB with internal power planes."
+        },
+        {
+          "word": "VIA",
+          "meaning": "Plated hole connecting different conductive layers on a PCB",
+          "example": "Routing signals through micro vias between layers."
+        }
+      ]
+    },
+    {
+      "levelNumber": 32,
+      "title": "Electronics Level 32",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "SOLDERMASK",
+          "meaning": "Protective lacquer coating applied onto PCB copper traces",
+          "example": "Green soldermask insulating copper traces."
+        },
+        {
+          "word": "SILKSCREEN",
+          "meaning": "Printed text markings on PCB showing component labels",
+          "example": "White silkscreen showing component numbers."
+        },
+        {
+          "word": "INSPECTION",
+          "meaning": "Checking circuit boards for soldering defects and alignment",
+          "example": "Automated optical inspection catching solder bridges."
+        },
+        {
+          "word": "CAPACITORS",
+          "meaning": "Electronic components storing electrical charge",
+          "example": "Replacing worn capacitors on the power board."
+        },
+        {
+          "word": "RESISTORS",
+          "meaning": "Components that restrict electrical current flow",
+          "example": "Precision surface-mount resistors on PCB."
+        },
+        {
+          "word": "INDUCTORS",
+          "meaning": "Coiled components storing magnetic energy",
+          "example": "Toroidal inductors filtering power lines."
+        },
+        {
+          "word": "DIODES",
+          "meaning": "Semiconductors letting current flow in one direction",
+          "example": "Schottky diodes with low forward voltage."
+        },
+        {
+          "word": "INVERTERS",
+          "meaning": "Power devices converting DC current to AC",
+          "example": "Solar inverters converting solar DC to AC."
+        },
+        {
+          "word": "ATTENUATOR",
+          "meaning": "Device reducing signal strength without distortion",
+          "example": "RF attenuator lowering signal power."
+        },
+        {
+          "word": "ATTENUATORS",
+          "meaning": "Components used to reduce signal amplitude",
+          "example": "Calibrated optical attenuators for fiber testing."
+        },
+        {
+          "word": "MULTIPLEXER",
+          "meaning": "Device selecting one of several analog or digital signals",
+          "example": "An eight-channel analog multiplexer chip."
+        },
+        {
+          "word": "MULTIPLEXERS",
+          "meaning": "Circuits combining multiple signals into single line",
+          "example": "Digital multiplexers routing data streams."
+        },
+        {
+          "word": "DEMULTIPLEXER",
+          "meaning": "Device taking single input line and routing to multiple outputs",
+          "example": "Demultiplexer decoding memory address lines."
+        }
+      ]
+    },
+    {
+      "levelNumber": 33,
+      "title": "Electronics Level 33",
+      "gridRows": 16,
+      "gridCols": 16,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "DECODER",
+          "meaning": "Circuit converting coded inputs into coded outputs",
+          "example": "Seven-segment display decoder driver."
+        },
+        {
+          "word": "DECODERS",
+          "meaning": "Logic devices converting binary inputs to lines",
+          "example": "Address decoders enabling memory blocks."
+        },
+        {
+          "word": "ENCODER",
+          "meaning": "Device converting information into coded format",
+          "example": "Rotary encoder sensing knob turns."
+        },
+        {
+          "word": "ENCODERS",
+          "meaning": "Sensors generating digital position pulses",
+          "example": "Optical rotary encoders for motor feedback."
+        },
+        {
+          "word": "TRANSDUCER",
+          "meaning": "Device converting one energy form into another",
+          "example": "Piezoelectric transducer generating sound."
+        },
+        {
+          "word": "TRANSDUCERS",
+          "meaning": "Sensors converting physical effects to signals",
+          "example": "Pressure transducers monitoring pipeline flow."
+        },
+        {
+          "word": "SUPERCONDUCTORS",
+          "meaning": "Materials exhibiting zero electrical resistance",
+          "example": "High-temperature superconductors in research."
+        },
+        {
+          "word": "DIELECTRICS",
+          "meaning": "Insulating materials used in capacitors",
+          "example": "Comparing polymer dielectric properties."
+        },
+        {
+          "word": "ELECTROLYTES",
+          "meaning": "Conductive liquid mediums in capacitor cells",
+          "example": "Solid electrolytes for safer batteries."
+        },
+        {
+          "word": "ELECTRODES",
+          "meaning": "Conductors making contact with nonmetallic circuit parts",
+          "example": "EEG electrodes measuring brain signals."
+        },
+        {
+          "word": "ANODES",
+          "meaning": "Positive terminals where current enters devices",
+          "example": "Copper anodes in electroplating tanks."
+        },
+        {
+          "word": "CATHODES",
+          "meaning": "Negative terminals where current leaves devices",
+          "example": "Oxide-coated cathodes in vacuum tubes."
+        },
+        {
+          "word": "VOLTAGES",
+          "meaning": "Electrical potential differences across points",
+          "example": "Measuring operating voltages on board."
+        }
+      ]
+    },
+    {
+      "levelNumber": 34,
+      "title": "Electronics Level 34",
+      "gridRows": 16,
+      "gridCols": 16,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "CURRENTS",
+          "meaning": "Flow rates of electric charge through conductors",
+          "example": "Monitoring leakage currents in power lines."
+        },
+        {
+          "word": "FREQUENCIES",
+          "meaning": "Rates of wave cycles per second in hertz",
+          "example": "Broadcasting across microwave frequencies."
+        },
+        {
+          "word": "WAVELENGTHS",
+          "meaning": "Spatial periods of periodic wave signals",
+          "example": "Infrared wavelengths for optical sensors."
+        },
+        {
+          "word": "BROADBANDS",
+          "meaning": "High-speed wide bandwidth transmission channels",
+          "example": "Deploying fiber broadband networks."
+        },
+        {
+          "word": "NETWORKS",
+          "meaning": "Interconnected computing and communication systems",
+          "example": "Enterprise Ethernet and Wi-Fi networks."
+        },
+        {
+          "word": "INTERFACES",
+          "meaning": "Connection boundaries between electronic systems",
+          "example": "High-definition multimedia interfaces."
+        },
+        {
+          "word": "PROCESSORS",
+          "meaning": "Microchips executing data processing instructions",
+          "example": "Multi-core processors in data centers."
+        },
+        {
+          "word": "SEMICONDUCTING",
+          "meaning": "Having electrical conductivity between conductor and insulator",
+          "example": "Semiconducting silicon wafer substrates."
+        },
+        {
+          "word": "PHOTOVOLTAICS",
+          "meaning": "Technology converting light into electric current",
+          "example": "Rooftop solar photovoltaics generating power."
+        },
+        {
+          "word": "OPTOELECTRONIC",
+          "meaning": "Relating to electronic devices that interact with light",
+          "example": "Optoelectronic sensors in barcode scanners."
+        },
+        {
+          "word": "MICROELECTRONIC",
+          "meaning": "Relating to miniature electronic components on chips",
+          "example": "Microelectronic fabrication in cleanrooms."
+        },
+        {
+          "word": "MECHATRONIC",
+          "meaning": "Combining mechanical engineering and electronics",
+          "example": "Mechatronic actuators in robotic systems."
+        },
+        {
+          "word": "AMPERE",
+          "meaning": "The SI base unit of electrical current flow",
+          "example": "Current measured in amperes."
+        }
+      ]
+    },
+    {
+      "levelNumber": 35,
+      "title": "Electronics Level 35",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "AMPERES",
+          "meaning": "Plural SI units of electric current",
+          "example": "Drawing three amperes of DC current."
+        },
+        {
+          "word": "VOLTMETER",
+          "meaning": "Instrument measuring electric potential difference in volts",
+          "example": "Testing battery voltage with a digital voltmeter."
+        },
+        {
+          "word": "AMMETER",
+          "meaning": "Instrument measuring electric current in amperes",
+          "example": "Connecting ammeter in series with load."
+        },
+        {
+          "word": "OHMMETER",
+          "meaning": "Instrument measuring electrical resistance in ohms",
+          "example": "Checking resistor value with an ohmmeter."
+        },
+        {
+          "word": "MICROAMPERE",
+          "meaning": "Unit of current equal to one millionth of an ampere",
+          "example": "Quiescent current measured in microamperes."
+        },
+        {
+          "word": "MILLIAMPERE",
+          "meaning": "Unit of current equal to one thousandth of an ampere",
+          "example": "LED drawing twenty milliamperes of current."
+        },
+        {
+          "word": "KILOWATT",
+          "meaning": "Unit of electric power equal to one thousand watts",
+          "example": "Solar system generating five kilowatts of power."
+        },
+        {
+          "word": "MEGAWATT",
+          "meaning": "Unit of electric power equal to one million watts",
+          "example": "Wind farm producing ten megawatts of electricity."
+        },
+        {
+          "word": "GIGAWATT",
+          "meaning": "Unit of electric power equal to one billion watts",
+          "example": "Nuclear power plant producing one gigawatt."
+        },
+        {
+          "word": "TERAWATT",
+          "meaning": "Unit of electric power equal to one trillion watts",
+          "example": "Global energy capacity measured in terawatts."
+        },
+        {
+          "word": "KILOHERTZ",
+          "meaning": "Unit of frequency equal to one thousand hertz",
+          "example": "Audio signals sampled at forty-four kilohertz."
+        },
+        {
+          "word": "MEGAHERTZ",
+          "meaning": "Unit of frequency equal to one million hertz",
+          "example": "FM radio station broadcasting at 101 megahertz."
+        },
+        {
+          "word": "GIGAHERTZ",
+          "meaning": "Unit of frequency equal to one billion hertz",
+          "example": "CPU processor running at four gigahertz."
+        }
+      ]
+    }
+  ]
+}

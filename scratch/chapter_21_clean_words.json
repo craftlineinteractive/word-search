@@ -1,0 +1,1837 @@
+[
+  {
+    "word": "HUMPBACK",
+    "definition": "Baleen whale species famous for complex songs and breaching",
+    "example": "The humpback whale leaped completely out of the ocean."
+  },
+  {
+    "word": "VAQUITA",
+    "definition": "Critically endangered small porpoise native to the Gulf of California",
+    "example": "Conservationists worked tirelessly to protect the rare vaquita."
+  },
+  {
+    "word": "SEALION",
+    "definition": "Eared marine mammal capable of walking on land with flippers",
+    "example": "California sea-lions barked loudly on rocky coastal piers."
+  },
+  {
+    "word": "FINWHALE",
+    "definition": "Second-largest whale species known for sleek body and fast swimming",
+    "example": "The finwhale powered through deep North Atlantic waters."
+  },
+  {
+    "word": "SEIWHALE",
+    "definition": "Fast offshore baleen whale species skimming plankton at surface",
+    "example": "The seiwhale glided smoothly past ocean vessels."
+  },
+  {
+    "word": "PILOTWHALE",
+    "definition": "Large social oceanic dolphin species forming tight family pods",
+    "example": "A pod of long-finned pilotwhales swam together in deep waters."
+  },
+  {
+    "word": "BEAKEDWHALE",
+    "definition": "Deep-diving oceanic whale species with dolphin-like beak snout",
+    "example": "The Cuvier beakedwhale dove over two miles beneath the surface."
+  },
+  {
+    "word": "BOTO",
+    "definition": "Pink freshwater dolphin inhabiting Amazon and Orinoco river basins",
+    "example": "The Amazon boto swam gracefully through flooded forest trees."
+  },
+  {
+    "word": "FRANCISCANA",
+    "definition": "Small coastal dolphin native to Atlantic waters of South America",
+    "example": "The franciscana dolphin navigated shallow coastal estuaries."
+  },
+  {
+    "word": "BARRACUDA",
+    "definition": "Fast predatory marine fish with sharp fang-like teeth",
+    "example": "A silver barracuda patrolled the outer reef edge."
+  },
+  {
+    "word": "SWORDFISH",
+    "definition": "Large predatory oceanic fish with flat sword-like bill",
+    "example": "The swordfish billowed through deep oceanic waters."
+  },
+  {
+    "word": "MARLIN",
+    "definition": "Powerful pelagic game fish featuring a long spear-like snout",
+    "example": "The blue marlin leaped high above tropical waves."
+  },
+  {
+    "word": "SAILFISH",
+    "definition": "Fast marine fish with large sail-like dorsal fin",
+    "example": "The sailfish unfolded its brilliant sail fin to herd baitfish."
+  },
+  {
+    "word": "ALBACORE",
+    "definition": "Species of tuna highly prized for oceanic swimming endurance",
+    "example": "Albacore schools migrated across open Pacific currents."
+  },
+  {
+    "word": "SKIPJACK",
+    "definition": "Streamlined migratory tuna species traveling in large schools",
+    "example": "Skipjack tuna darted rapidly near tropical ocean surfaces."
+  },
+  {
+    "word": "BONITO",
+    "definition": "Medium predatory oceanic fish related to mackerels and tunas",
+    "example": "A school of bonito chased anchovies near coastal bays."
+  },
+  {
+    "word": "MACKEREL",
+    "definition": "Fast pelagic fish with iridescent striped back",
+    "example": "Spanish mackerel sprinted through blue ocean waters."
+  },
+  {
+    "word": "HALIBUT",
+    "definition": "Large flatfish dwelling on sandy ocean bottoms",
+    "example": "The Pacific halibut lay camouflaged on the seafloor."
+  },
+  {
+    "word": "FLOUNDER",
+    "definition": "Flatfish with both eyes situated on one side of body",
+    "example": "The flounder matched the color of sandy ocean beds."
+  },
+  {
+    "word": "TURBOT",
+    "definition": "Large disc-shaped European flatfish prized for fine meat",
+    "example": "The turbot buried itself in fine gravel substrate."
+  },
+  {
+    "word": "GROUPER",
+    "definition": "Heavy-bodied predatory reef fish with large wide mouth",
+    "example": "The goliath grouper hovered inside sunken shipwreck hulls."
+  },
+  {
+    "word": "SNAPPER",
+    "definition": "Colorful marine game fish dwelling around reefs and ledges",
+    "example": "Red snapper schooled near deep coral ledges."
+  },
+  {
+    "word": "TARPON",
+    "definition": "Large silvery marine fish capable of spectacular leaps",
+    "example": "The silver king tarpon leaped when hooked in coastal channels."
+  },
+  {
+    "word": "BONEFISH",
+    "definition": "Slender fast marine fish inhabiting shallow tropical sand flats",
+    "example": "The bonefish tailed through knee-deep coral flats."
+  },
+  {
+    "word": "MONKFISH",
+    "definition": "Bottom-dwelling marine fish with massive mouth and lure",
+    "example": "The monkfish lay hidden in deep seabed sediments."
+  },
+  {
+    "word": "LINGCOD",
+    "definition": "Large predatory fish native to North Pacific coastal waters",
+    "example": "The lingcod guarded its egg nest on rocky reefs."
+  },
+  {
+    "word": "MAHI",
+    "definition": "Vibrantly colored oceanic fish also known as dolphinfish or dorado",
+    "example": "The mahi displayed brilliant neon blue and gold hues when caught."
+  },
+  {
+    "word": "WAHOO",
+    "definition": "Sleek fast predatory fish related to mackerels with razor teeth",
+    "example": "The wahoo sprinted at fifty miles per hour through open blue water."
+  },
+  {
+    "word": "MAKOSHARK",
+    "definition": "Fastest shark species in the ocean capable of high-speed bursts",
+    "example": "The shortfin mako leaped high out of water during oceanic pursuit."
+  },
+  {
+    "word": "THRESHERSHARK",
+    "definition": "Shark with extremely long scythe-like tail fin used to stun fish",
+    "example": "The thresher shark whipped its long tail into schooling baitfish."
+  },
+  {
+    "word": "CATSHARK",
+    "definition": "Small bottom-dwelling shark with elongated cat-like eyes",
+    "example": "The nocturnal catshark rested inside dark coral caves."
+  },
+  {
+    "word": "DOGFISH",
+    "definition": "Small abundant marine shark species often swimming in large packs",
+    "example": "Spiny dogfish schooled along cold ocean bottom slopes."
+  },
+  {
+    "word": "NURSESHARK",
+    "definition": "Docile bottom-dwelling reef shark using suction feeding",
+    "example": "The nurse shark rested quietly under coral ledges during daytime."
+  },
+  {
+    "word": "ZEBRASHARK",
+    "definition": "Reef shark featuring bold stripes when young transforming to spots",
+    "example": "The zebrashark rested on sandy lagoon floors."
+  },
+  {
+    "word": "ELECTRICRAY",
+    "definition": "Marine ray capable of generating defensive electrical shocks",
+    "example": "The electric ray stunned crabs on the muddy seafloor."
+  },
+  {
+    "word": "DEVILRAY",
+    "definition": "Large oceanic ray with horn-like cephalic fins feeding on plankton",
+    "example": "A squadron of devil rays leaped out of calm ocean waters."
+  },
+  {
+    "word": "SKATE",
+    "definition": "Flat cartilaginous fish resembling rays laying horned egg cases",
+    "example": "The skate left mermaid purse egg cases along coastal sands."
+  },
+  {
+    "word": "PORBEAGLE",
+    "definition": "Cold-water pelagic shark species related to salmon sharks",
+    "example": "The porbeagle shark hunted mackerel in North Atlantic waters."
+  },
+  {
+    "word": "WOBBEGONG",
+    "definition": "Bottom-dwelling carpet shark with fringed facial tassels",
+    "example": "The wobbegong lay camouflaged on Australian reef flats."
+  },
+  {
+    "word": "ANGELSHARK",
+    "definition": "Flattened ray-like shark lurking buried in sea sand",
+    "example": "The angelshark ambushed flatfish from sandy ocean beds."
+  },
+  {
+    "word": "SANDTIGER",
+    "definition": "Large solitary shark with visible needle teeth and calm demeanor",
+    "example": "The sandtiger shark hovered inside ocean cavern passages."
+  },
+  {
+    "word": "COOKIECUTTER",
+    "definition": "Small deep-water shark taking round plug bites from large fish",
+    "example": "The cookiecutter shark left circular scars on tuna and whales."
+  },
+  {
+    "word": "FRILLEDSHARK",
+    "definition": "Primitive eel-like deep sea shark with frilled gill slits",
+    "example": "The rare frilledshark swum through deep oceanic trenches."
+  },
+  {
+    "word": "CHIMAERA",
+    "definition": "Deep-sea cartilaginous fish also called ghost shark",
+    "example": "The silver chimaera glided over abyssal mud plains."
+  },
+  {
+    "word": "RATFISH",
+    "definition": "Spotted North Pacific chimaera with long pointed tail",
+    "example": "The spotted ratfish searched deep sandy sea floors for clams."
+  },
+  {
+    "word": "GUITARFISH",
+    "definition": "Rays with elongated shark-like tail and flattened head",
+    "example": "The shovelnose guitarfish fed on crabs in shallow surf."
+  },
+  {
+    "word": "TORPEDORAY",
+    "definition": "Heavy marine ray discharging strong electrical currents",
+    "example": "The torpedoray defended itself on dark muddy sea beds."
+  },
+  {
+    "word": "RHINORAY",
+    "definition": "Rare wedgefish ray species with tall pointed snout",
+    "example": "The rhinoray swam over sandy offshore shoals."
+  },
+  {
+    "word": "MOBULA",
+    "definition": "Oceanic ray famous for spectacular acrobatics and jumping",
+    "example": "A school of mobula rays somersaulted above sunset waves."
+  },
+  {
+    "word": "TREVALLY",
+    "definition": "Fast predatory reef and open-ocean jack fish",
+    "example": "Giant trevally ambushed seabirds skimming shallow lagoon waters."
+  },
+  {
+    "word": "JACKFISH",
+    "definition": "Powerful oceanic schooling game fish with silver sides",
+    "example": "Crevalle jacks chased baitfish into frantic surface boils."
+  },
+  {
+    "word": "AMBERJACK",
+    "definition": "Large deep-reef pelagic fish prized for strength",
+    "example": "Greater amberjacks circled deep artificial reefs and wrecks."
+  },
+  {
+    "word": "POMPANO",
+    "definition": "Silver disc-shaped coastal fish feeding on surf crabs",
+    "example": "Florida pompano forage along sandy wave-washed beaches."
+  },
+  {
+    "word": "CORVINA",
+    "definition": "Marine drum fish famous for loud croaking sounds",
+    "example": "The yellowmouth corvina fed in turbid coastal estuaries."
+  },
+  {
+    "word": "CROAKER",
+    "definition": "Marine fish producing croaking vibrations using swim bladder",
+    "example": "Atlantic croakers gathered over muddy bay bottoms."
+  },
+  {
+    "word": "SEATROUT",
+    "definition": "Spotted coastal drum fish inhabiting shallow seagrass beds",
+    "example": "Spotted seatrout ambushed pink shrimp over grassy flats."
+  },
+  {
+    "word": "CABEZON",
+    "definition": "Large Pacific sculpin dwelling in rocky kelp beds",
+    "example": "The cabezon lay hidden among kelp holdfast rocks."
+  },
+  {
+    "word": "SCULPIN",
+    "definition": "Bottom fish with broad head and bony armor spines",
+    "example": "The Pacific staghorn sculpin buried itself in shallow estuarine silt."
+  },
+  {
+    "word": "SEAROBIN",
+    "definition": "Marine fish with wing-like pectoral fins and leg-like rays",
+    "example": "The striped searobin walked across sandy ocean floors."
+  },
+  {
+    "word": "GURNARD",
+    "definition": "Bottom fish with large fan fins making grunting sounds",
+    "example": "The red gurnard spread its blue-rimmed pectoral fins."
+  },
+  {
+    "word": "PLAICE",
+    "definition": "European flatfish with orange spots on brown body",
+    "example": "The plaice matched the pattern of gravelly sea floors."
+  },
+  {
+    "word": "SOLE",
+    "definition": "Valuable flatfish with oval body dwelling in sandy seas",
+    "example": "Dover sole burrowed beneath fine ocean floor sand."
+  },
+  {
+    "word": "SANDDAB",
+    "definition": "Small Pacific flatfish inhabiting soft sandy sea bottoms",
+    "example": "Pacific sanddabs schooled along coastal shelf waters."
+  },
+  {
+    "word": "BRILL",
+    "definition": "European flatfish related to turbot with speckled skin",
+    "example": "The brill lay camouflaged among sea pebbles."
+  },
+  {
+    "word": "KINGFISH",
+    "definition": "Large migratory mackerel species of warm Atlantic waters",
+    "example": "King mackerel sprinted through blue offshore current edges."
+  },
+  {
+    "word": "SPANISHMACKEREL",
+    "definition": "Spotted pelagic fish patrolling coastal reefs and bays",
+    "example": "Spanish mackerel struck silver spoons near outer jetties."
+  },
+  {
+    "word": "SPEARFISH",
+    "definition": "Slender pelagic billfish with short spear bill",
+    "example": "The longbill spearfish fed on oceanic squid in deep waters."
+  },
+  {
+    "word": "NEEDLEFISH",
+    "definition": "Slender surface fish with long toothy beak bill",
+    "example": "Atlantic needlefish skimmed across calm lagoon surfaces."
+  },
+  {
+    "word": "HALFBEAK",
+    "definition": "Surface fish with elongated lower jaw and short upper jaw",
+    "example": "Schools of halfbeaks leaped across ocean ripples."
+  },
+  {
+    "word": "FLYINGFISH",
+    "definition": "Oceanic fish with wing-like pectoral fins gliding over waves",
+    "example": "The blue flyingfish glided hundreds of feet across ocean swells."
+  },
+  {
+    "word": "SAURY",
+    "definition": "Slender pelagic fish abundant in cold North Pacific seas",
+    "example": "Pacific saury schooled near surface ocean currents."
+  },
+  {
+    "word": "LANTERNFISH",
+    "definition": "Small deep-sea bioluminescent fish abundant in middle ocean",
+    "example": "Lanternfish migrated vertically to surface waters at night."
+  },
+  {
+    "word": "BRISTLEMOUTH",
+    "definition": "Abundant deep-sea fish with glowing belly light organs",
+    "example": "Bristlemouths formed vast sound-scattering layers in the deep."
+  },
+  {
+    "word": "TOADFISH",
+    "definition": "Stocky bottom fish with wide mouth making foghorn calls",
+    "example": "The oyster toadfish guarded its rocky burrow in turbid bays."
+  },
+  {
+    "word": "MIDSHIPMAN",
+    "definition": "Deep-dwelling toadfish with rows of glowing bioluminescent dots",
+    "example": "The plainfin midshipman hummed loudly to attract mates."
+  },
+  {
+    "word": "SARGASSUMFISH",
+    "definition": "Frogfish relative camouflaged perfectly as floating sea weed",
+    "example": "The sargassumfish grasped floating weed fronds with hand-like fins."
+  },
+  {
+    "word": "BATFISH",
+    "definition": "Flattened bottom fish walking on arm-like fins in deep water",
+    "example": "The red-lipped batfish walked across Galapagos seafloor sand."
+  },
+  {
+    "word": "CLINGFISH",
+    "definition": "Small fish with belly suction disc clinging to wave rocks",
+    "example": "The kelp clingfish anchored onto smooth kelp blades."
+  },
+  {
+    "word": "LUMPFISH",
+    "definition": "Globe-shaped cold-water fish with suction disc belly",
+    "example": "The lumpfish guarded its pink egg mass on rocky reefs."
+  },
+  {
+    "word": "SNAILFISH",
+    "definition": "Deepest living fish species inhabiting abyssal ocean trenches",
+    "example": "The Mariana snailfish survived eight thousand meters underwater."
+  },
+  {
+    "word": "WOLFFISH",
+    "definition": "Formidable cold-water marine fish with powerful crushing teeth",
+    "example": "The Atlantic wolffish crunched hard sea urchin shells."
+  },
+  {
+    "word": "OCEANPOUT",
+    "definition": "Eel-like cold-water fish dwelling on continental shelves",
+    "example": "The oceanpout rested inside muddy seafloor burrows."
+  },
+  {
+    "word": "SILVERSIDE",
+    "definition": "Small schooling fish with bright silver lateral stripe",
+    "example": "Atlantic silversides swarmed in shallow salt marsh creeks."
+  },
+  {
+    "word": "MENHADEN",
+    "definition": "Filter-feeding pelagic marine fish of coastal estuaries",
+    "example": "Menhaden schools filtered phytoplankton along Atlantic bays."
+  },
+  {
+    "word": "PILCHARD",
+    "definition": "Small sardine-like pelagic fish schooling in coastal waters",
+    "example": "Pacific pilchards fed on rich upwelling plankton."
+  },
+  {
+    "word": "SPRAT",
+    "definition": "Small oily marine fish related to herring in northern seas",
+    "example": "Sprats schooled in cool Baltic and North Sea waters."
+  },
+  {
+    "word": "SMELT",
+    "definition": "Small silvery fish spawning in coastal rivers and estuaries",
+    "example": "Rainbow smelt migrated into coastal rivers every spring."
+  },
+  {
+    "word": "CAPELIN",
+    "definition": "Small Arctic marine fish swarming to spawn on beaches",
+    "example": "Capelin rolled in surf sand during mass spawning runs."
+  },
+  {
+    "word": "MULLET",
+    "definition": "Coastal fish leaping out of water feeding on sea bed detritus",
+    "example": "Striped mullet jumped high above calm estuarine waters."
+  },
+  {
+    "word": "CONGER",
+    "definition": "Large heavy-bodied marine eel living in deep rock crevices",
+    "example": "The giant conger eel lurked inside shipwreck steel plates."
+  },
+  {
+    "word": "MORAY",
+    "definition": "Predatory marine eel with sharp teeth and pharyngeal jaw",
+    "example": "The green moray eel gaped its mouth from a coral cave."
+  },
+  {
+    "word": "GARDENEEL",
+    "definition": "Slender eel swaying upright from sandy burrows like plants",
+    "example": "Hundreds of spotted gardeneels swayed together in current."
+  },
+  {
+    "word": "BUTTERFLYFISH",
+    "definition": "Disk-shaped reef fish with vibrant yellow and black patterns",
+    "example": "The spot-banded butterflyfish grazed on coral polyps."
+  },
+  {
+    "word": "GOBY",
+    "definition": "Small bottom fish often forming symbiotic bonds with pistol shrimp",
+    "example": "The yellow watchman goby guarded its shared sandy burrow."
+  },
+  {
+    "word": "COWFISH",
+    "definition": "Boxy marine fish featuring horn-like spines over eyes",
+    "example": "The longhorn cowfish hovered slowly over coral gardens."
+  },
+  {
+    "word": "DRAGONET",
+    "definition": "Small brilliantly patterned marine fish with elaborate fins",
+    "example": "The psychedelic dragonet glided quietly over coral rubbles."
+  },
+  {
+    "word": "PARROTFISH",
+    "definition": "Reef fish using beak-like teeth to scrape algae and excrete sand",
+    "example": "The parrotfish crunched coral rock and produced white sand beaches."
+  },
+  {
+    "word": "CARDINALFISH",
+    "definition": "Small nocturnal reef fish brooding eggs inside male mouth",
+    "example": "Banggai cardinalfish sheltered among long sea urchin spines."
+  },
+  {
+    "word": "TRUMPETFISH",
+    "definition": "Elongated tubular fish swimming head-down among sea rods",
+    "example": "The trumpetfish mimicked floating whip corals to ambush prey."
+  },
+  {
+    "word": "RABBITFISH",
+    "definition": "Herbivorous reef fish with venomous fin spines grazing algae",
+    "example": "Foxface rabbitfish browsed green turf algae off coral rock."
+  },
+  {
+    "word": "MOORISHIDOL",
+    "definition": "Striking disk-shaped tropical fish with long sweeping white dorsal fin",
+    "example": "Pair of Moorish idols glided gracefully past live coral heads."
+  },
+  {
+    "word": "STONEFISH",
+    "definition": "Most venomous fish in the world camouflaged perfectly as coral rock",
+    "example": "The reef stonefish rested motionless on volcanic rock rubble."
+  },
+  {
+    "word": "SCORPIONFISH",
+    "definition": "Camouflaged marine predator with highly toxic dorsal spines",
+    "example": "The tassel scorpionfish ambushed small fish swimming overhead."
+  },
+  {
+    "word": "LEAFFISH",
+    "definition": "Flattened reef fish swaying like a fallen leaf in surge currents",
+    "example": "The paper leaffish mimicked drifting sea weed on coral branches."
+  },
+  {
+    "word": "FROGFISH",
+    "definition": "Bizarre anglerfish relative walking on leg-like fins on reefs",
+    "example": "The warty frogfish deployed its wiggle lure to attract prey."
+  },
+  {
+    "word": "REMORA",
+    "definition": "Suckerfish attaching itself to sharks and whales using head suction disc",
+    "example": "A pair of remoras hitched a ride on a manta ray belly."
+  },
+  {
+    "word": "SEADRAGON",
+    "definition": "Leafy marine fish mimicking floating kelp and seaweed in Australian seas",
+    "example": "The leafy seadragon drifted invisibly among coastal kelp beds."
+  },
+  {
+    "word": "SWEETLIPS",
+    "definition": "Colorful reef fish with thick fleshy lips schooling around coral heads",
+    "example": "Harlequin sweetlips rested beneath coral table overhangs."
+  },
+  {
+    "word": "GRUNT",
+    "definition": "Reef fish producing grunting sounds by grinding pharyngeal teeth",
+    "example": "French grunts schooled under coral ledges by day."
+  },
+  {
+    "word": "EMPEROR",
+    "definition": "Valuable predatory reef fish of tropical Indo-Pacific waters",
+    "example": "Spangled emperors forage over sandy lagoon floors."
+  },
+  {
+    "word": "FAIRYBASSLET",
+    "definition": "Vibrant purple and yellow small reef fish hovering upside down",
+    "example": "Royal gramma fairybasslets guarded coral ceiling nooks."
+  },
+  {
+    "word": "DOTTYBACK",
+    "definition": "Small pugnacious reef fish with brilliant neon coloration",
+    "example": "The orchid dottyback defended its small coral crevice."
+  },
+  {
+    "word": "UNICORNFISH",
+    "definition": "Surgeonfish relative featuring a horn-like bony forehead projection",
+    "example": "The bluespine unicornfish browsed brown sargassum algae."
+  },
+  {
+    "word": "FOXFACE",
+    "definition": "Bright yellow rabbitfish with black-and-white fox-like face",
+    "example": "The foxface rabbitfish grazed turf algae off coral branches."
+  },
+  {
+    "word": "WASPFISH",
+    "definition": "Camouflaged marine fish with venomous dorsal spines resembling leaves",
+    "example": "The cockatoo waspfish swayed back and forth in surges."
+  },
+  {
+    "word": "SEARAVEN",
+    "definition": "Rough spiky bottom fish camouflaged as algae-covered rock",
+    "example": "The ocean searaven lay still on rocky Atlantic ledges."
+  },
+  {
+    "word": "FLUTEMOUTH",
+    "definition": "Elongated marine fish related to cornetfish with whip tail",
+    "example": "The smooth flutemouth hovered silently above reef gardens."
+  },
+  {
+    "word": "RAZORFISH",
+    "definition": "Thin knife-like fish swimming vertically head-down in tight schools",
+    "example": "Centriscus razorfish bobbed head-down among sea urchin spines."
+  },
+  {
+    "word": "MUDSKIPPER",
+    "definition": "Amphibious marine goby walking on land using pectoral fins",
+    "example": "Mudskippers skipped across muddy mangrove mudflats at low tide."
+  },
+  {
+    "word": "JAWFISH",
+    "definition": "Subterranean reef fish building vertical stone burrows and brooding eggs in mouth",
+    "example": "The yellowhead jawfish popped up from its sand burrow."
+  },
+  {
+    "word": "CUTTLEFISH",
+    "definition": "Cephalopod with internal cuttlebone and dynamic skin pigments",
+    "example": "The flamboyant cuttlefish walked along dark volcanic sand."
+  },
+  {
+    "word": "KRILL",
+    "definition": "Tiny shrimp-like crustaceans forming foundation of marine food webs",
+    "example": "Swarms of Antarctic krill fed massive baleen whale pods."
+  },
+  {
+    "word": "COPEPOD",
+    "definition": "Microscopic crustacean abundant in marine zooplankton",
+    "example": "Copepods formed the primary diet for juvenile fish larvae."
+  },
+  {
+    "word": "JELLYFISH",
+    "definition": "Gelatinous marine invertebrate with stinging tentacles",
+    "example": "The moon jellyfish pulsed gently through clear ocean currents."
+  },
+  {
+    "word": "BARNACLE",
+    "definition": "Sessile crustacean enclosed in hard calcareous shell plates",
+    "example": "Acorn barnacles encrusted coastal rocks and wooden piers."
+  },
+  {
+    "word": "KINGCRAB",
+    "definition": "Large cold-water crustacean with spiky carapace and long legs",
+    "example": "Red kingcrabs crawled across icy Bering Sea floors."
+  },
+  {
+    "word": "SNOWCRAB",
+    "definition": "Commercially valuable crustacean dwelling in deep cold seas",
+    "example": "Snowcrabs gathered on muddy northern seabed slopes."
+  },
+  {
+    "word": "BLUECRAB",
+    "definition": "Atlantic crustacean with bright blue claws and swimming hind legs",
+    "example": "The bluecrab paddled rapidly through salt marsh channels."
+  },
+  {
+    "word": "MANTISSHRIMP",
+    "definition": "Crustacean with powerful claw strike capable of breaking glass",
+    "example": "The peacock mantisshrimp delivered a bullet-fast punch to snail shells."
+  },
+  {
+    "word": "PISTOLSHRIMP",
+    "definition": "Small shrimp snapping claw to produce acoustic shockwave bubbles",
+    "example": "The pistolshrimp produced loud popping sounds in coral rubble."
+  },
+  {
+    "word": "CLEANERSHRIMP",
+    "definition": "Tropical shrimp removing parasites from mouth of reef fish",
+    "example": "Pacific cleanershrimp waved white antennae to solicit client fish."
+  },
+  {
+    "word": "SEASTAR",
+    "definition": "Echinoderm featuring radial symmetry and suction tube feet",
+    "example": "The sunflower seastar crept rapidly across rocky tidepools."
+  },
+  {
+    "word": "SANDDOLLAR",
+    "definition": "Flat burrowing sea urchin relative with velvety spine cover",
+    "example": "Bleached sanddollar shells washed up on sandy beaches."
+  },
+  {
+    "word": "SEACUCUMBER",
+    "definition": "Elongated echinoderm crawling along seafloor filtering organic matter",
+    "example": "The sea cucumber ingested sandy sediments to extract nutrients."
+  },
+  {
+    "word": "BRITTLESTAR",
+    "definition": "Echinoderm with central disc and five flexible whip-like arms",
+    "example": "Brittlestars gathered under dark coral boulders."
+  },
+  {
+    "word": "FEATHERSTAR",
+    "definition": "Crinoid echinoderm featuring delicate feathery arms for filtering",
+    "example": "The golden featherstar unfurled its arms on current-fed pinnacles."
+  },
+  {
+    "word": "NUDIBRANCH",
+    "definition": "Vibrantly colored sea slug lacking protective shell",
+    "example": "The Spanish dancer nudibranch flexed its body through water."
+  },
+  {
+    "word": "ABALONE",
+    "definition": "Edible marine gastropod mollusk with iridescent mother-of-pearl shell",
+    "example": "Red abalone clung tightly to granite boulders under kelp canopy."
+  },
+  {
+    "word": "CONCH",
+    "definition": "Large marine gastropod mollusk with heavy spiral shell",
+    "example": "The queen conch grazed on algae across shallow seagrass beds."
+  },
+  {
+    "word": "COWRIE",
+    "definition": "Gastropod mollusk featuring glossy smooth porcelain-like shell",
+    "example": "Tiger cowries expanded mantle tissue to polish shells."
+  },
+  {
+    "word": "CHITON",
+    "definition": "Marine mollusk with eight overlapping protective armor plates",
+    "example": "The mossy chiton clamped firmly onto intertidal rocks."
+  },
+  {
+    "word": "LIMPET",
+    "definition": "Cone-shelled marine mollusk scraping algae off intertidal rocks",
+    "example": "The keyhole limpet grazed on wave-washed granite ledges."
+  },
+  {
+    "word": "WHELK",
+    "definition": "Predatory sea snail with spiral shell drilling into clams",
+    "example": "The knobbed whelk used its shell lip to pry open oysters."
+  },
+  {
+    "word": "MUREX",
+    "definition": "Spiky marine gastropod shell anciently harvested for purple dye",
+    "example": "The Venus comb murex displayed delicate long shell spines."
+  },
+  {
+    "word": "TRITON",
+    "definition": "Large predatory sea snail preying on crown-of-thorns starfish",
+    "example": "The giant triton snail patrolled coral reefs hunting pest starfishes."
+  },
+  {
+    "word": "PTEROPOD",
+    "definition": "Tiny pelagic sea snail swimming with wing-like foot lobes",
+    "example": "Pteropods formed massive floating swarms in cold Arctic seas."
+  },
+  {
+    "word": "SEAANGEL",
+    "definition": "Gelatinous shell-less pelagic mollusk preying on pteropods",
+    "example": "The translucent seaangel flapped wing-like parapodia through water."
+  },
+  {
+    "word": "GIANTCLAM",
+    "definition": "Massive tropical bivalve mollusk with colorful photosynthetic mantle",
+    "example": "The giantclam expanded its brilliant blue mantle to absorb sunlight."
+  },
+  {
+    "word": "SCALLOP",
+    "definition": "Bivalve mollusk with fan-shaped ribbed shell swimming by clapping valves",
+    "example": "The bay scallop swam through seagrass by snapping its shells."
+  },
+  {
+    "word": "GEODUCK",
+    "definition": "Massive burrowing saltwater clam with long fleshy siphon tube",
+    "example": "The geoduck burrowed three feet deep into muddy estuarine sediments."
+  },
+  {
+    "word": "RAZORCLAM",
+    "definition": "Elongated narrow clam digging rapidly into wet beach sand",
+    "example": "The Pacific razorclam burrowed down into surf sand when disturbed."
+  },
+  {
+    "word": "ARGONAUT",
+    "definition": "Pelagic octopus female creating paper-thin shell to float eggs",
+    "example": "The female argonaut drifted near surface carrying her paper shell."
+  },
+  {
+    "word": "CALAMARI",
+    "definition": "Commercial squid harvested for seafood culinary dishes",
+    "example": "Schools of calamari squid darted through Mediterranean night bays."
+  },
+  {
+    "word": "BOBTAILSQUID",
+    "definition": "Small bioluminescent squid hosting light-emitting bacteria",
+    "example": "The Hawaiian bobtailsquid glowed beneath night sand to hide shadow."
+  },
+  {
+    "word": "HUMBOLDTSQUID",
+    "definition": "Large aggressive predatory squid of eastern Pacific waters",
+    "example": "Red-devil Humboldtsquid flashed red and white signals while hunting."
+  },
+  {
+    "word": "REEFSQUID",
+    "definition": "Colorful tropical squid swimming in coastal coral reef bays",
+    "example": "Caribbean reefsquid changed iridescent colors instantaneously."
+  },
+  {
+    "word": "CROWNOFTHORNS",
+    "definition": "Large multi-armed coral-eating sea star armed with venomous spines",
+    "example": "The crown-of-thorns starfish devoured stony coral polyps."
+  },
+  {
+    "word": "SUNSTAR",
+    "definition": "Multi-armed sea star species preying on other echinoderms",
+    "example": "The twenty-rayed sunstar glided quickly across rocky ocean floors."
+  },
+  {
+    "word": "CUSHIONSTAR",
+    "definition": "Plump pillow-shaped tropical sea star living in lagoon sand",
+    "example": "The cushionstar expanded its tube feet over sandy sea beds."
+  },
+  {
+    "word": "SEABISCUIT",
+    "definition": "Thick inflated sand dollar relative living in tropical sea grass",
+    "example": "The seabiscuit burrowed shallowly under sandy lagoon floors."
+  },
+  {
+    "word": "HEARTURCHIN",
+    "definition": "Burrowing heart-shaped sea urchin with fine hair-like spines",
+    "example": "The hearturchin plowed through deep muddy ocean floor sediments."
+  },
+  {
+    "word": "SLATEPENCIL",
+    "definition": "Tropical sea urchin with thick blunt pencil-like spines",
+    "example": "The slatepencil urchin wedged its heavy spines into reef rock."
+  },
+  {
+    "word": "SEALILY",
+    "definition": "Stalked deep-sea crinoid echinoderm rooted into sea floor",
+    "example": "Ancient sealilies swayed in deep cold bathyal ocean currents."
+  },
+  {
+    "word": "SEAAPPLE",
+    "definition": "Colorful sea cucumber with bushy feeding tentacles catching plankton",
+    "example": "The Australian seaapple extended purple feeding tentacles."
+  },
+  {
+    "word": "QUAHOG",
+    "definition": "Hard-shelled Atlantic clam living for hundreds of years",
+    "example": "Ocean quahog clams provided climate records through shell growth rings."
+  },
+  {
+    "word": "COCKLE",
+    "definition": "Bivalve mollusk with heart-shaped ribbed shell hopping with foot",
+    "example": "The heart cockle used its strong foot to leap across sand."
+  },
+  {
+    "word": "SHIPWORM",
+    "definition": "Wood-boring marine bivalve mollusk tunneling into wooden ships",
+    "example": "Shipworms tunneled through historic wooden hull planks."
+  },
+  {
+    "word": "PEARLOYSTER",
+    "definition": "Tropical bivalve mollusk secreting nacre layers to form pearls",
+    "example": "Black-lip pearloysters produced lustrous South Sea pearls."
+  },
+  {
+    "word": "FLABELLINA",
+    "definition": "Colorful nudibranch sea slug bearing delicate dorsal cerata fronds",
+    "example": "Flabellina sea slugs grazed on hydroid colonies."
+  },
+  {
+    "word": "CHROMODORIS",
+    "definition": "Vibrantly ringed nudibranch sea slug warning predators of toxicity",
+    "example": "Chromodoris sea slugs displayed bright neon blue and yellow rings."
+  },
+  {
+    "word": "GLAUCUS",
+    "definition": "Pelagic blue sea slug floating upside down on ocean surface",
+    "example": "Glaucus atlanticus fed on Portuguese man-of-war stinging tentacles."
+  },
+  {
+    "word": "SEAHARE",
+    "definition": "Large soft-bodied marine gastropod emitting purple ink defensively",
+    "example": "The California seahare grazed heavily on sea lettuce algae."
+  },
+  {
+    "word": "OLIVESHELL",
+    "definition": "Smooth cylindrical glossy gastropod shell plowing through sand",
+    "example": "Lettered oliveshells buried under wet beach sand at low tide."
+  },
+  {
+    "word": "CONESNAIL",
+    "definition": "Predatory sea snail shooting venomous harpoon tooth at fish",
+    "example": "The geography conesnail hunted sleeping reef fish using potent venom."
+  },
+  {
+    "word": "TEREBRA",
+    "definition": "Slender auger-shaped spiral sea snail shell found on sand flats",
+    "example": "Marlinspike terebra snails burrowed under tropical sand."
+  },
+  {
+    "word": "TURRITELLA",
+    "definition": "Elongated tower-shaped spiral marine snail shell",
+    "example": "Turritella shells formed extensive fossil beds in coastal limestone."
+  },
+  {
+    "word": "NERITE",
+    "definition": "Stout thick-shelled intertidal marine snail with toothy aperture",
+    "example": "Bleeding-tooth nerites weathered crashing waves on rocky shores."
+  },
+  {
+    "word": "TOPSHELL",
+    "definition": "Conical mother-of-pearl sea snail shell harvested for buttons",
+    "example": "Commercial trochus topshells grazed on outer reef flats."
+  },
+  {
+    "word": "TURBAN",
+    "definition": "Heavy rounded sea snail shell closed by thick calcified operculum",
+    "example": "Cat-eye turban snails sealed their shell aperture with stone doors."
+  },
+  {
+    "word": "WENTLETRAP",
+    "definition": "Delicate white spiral sea snail shell with raised ribs",
+    "example": "Precious wentletrap shells were prized by historic shell collectors."
+  },
+  {
+    "word": "HELMETSHELL",
+    "definition": "Large heavy marine snail shell used for carving shell cameos",
+    "example": "King helmet snails hunted sea urchins on night sand flats."
+  },
+  {
+    "word": "DOGWHELK",
+    "definition": "Predatory sea snail boring hole into barnacles and mussels",
+    "example": "Dogwhelks used acid and radula drill to eat intertidal barnacles."
+  },
+  {
+    "word": "BRAINCORAL",
+    "definition": "Hard coral species featuring grooved surface resembling brain tissue",
+    "example": "Grooved braincoral colonies grew into massive rounded boulders."
+  },
+  {
+    "word": "ELKHORN",
+    "definition": "Massive flattening stony coral with antler-like branch structures",
+    "example": "Elkhorn coral crested outer reef slopes absorbing wave impact."
+  },
+  {
+    "word": "FIRECORAL",
+    "definition": "Hydrozoan coral colony secreting stinging sensation when touched",
+    "example": "Divers avoided brushing against mustard-yellow firecoral ledges."
+  },
+  {
+    "word": "SEAFAN",
+    "definition": "Branching soft coral forming flexible fan-like net across currents",
+    "example": "Purple seafans swayed rhythmically in gentle ocean surges."
+  },
+  {
+    "word": "SEAPEN",
+    "definition": "Feathery soft coral anchored vertically in sandy sea bottoms",
+    "example": "Soft seapens glowed bioluminescent green when touched at night."
+  },
+  {
+    "word": "SEANEMONE",
+    "definition": "Stinging marine polyp forming symbiotic bonds with clownfish",
+    "example": "The bubble-tip sea-anemone hosted a pair of clownfish safely."
+  },
+  {
+    "word": "PILLARCORAL",
+    "definition": "Stony coral forming tall vertical columns resembling cathedral pillars",
+    "example": "Pillarcoral columns towered six feet above the reef floor."
+  },
+  {
+    "word": "BOULDERCORAL",
+    "definition": "Massive rounded hard coral colony providing reef foundation",
+    "example": "Great star bouldercoral survived centuries of tropical storms."
+  },
+  {
+    "word": "MUSHROOMCORAL",
+    "definition": "Solitary unattached disk-shaped stony coral resting on sand",
+    "example": "Fungia mushroomcorals moved slowly across sandy reef patches."
+  },
+  {
+    "word": "CARNATIONCORAL",
+    "definition": "Brilliant pink or red soft coral expanding polyps at night",
+    "example": "Soft carnationcorals hung from cave ceilings in current passes."
+  },
+  {
+    "word": "ACTINIA",
+    "definition": "Genus of solitary intertidal sea anemones closing into red blobs",
+    "example": "Beadlet actinia anemones survived low tide exposure on rocks."
+  },
+  {
+    "word": "SIPHONOPHORE",
+    "definition": "Colonial marine organism composed of specialized zooid individuals",
+    "example": "Giant siphonophores trailed thirty meters of stinging tentacles."
+  },
+  {
+    "word": "PORTUGUESEMANOFWAR",
+    "definition": "Floating colonial hydrozoan with blue gas bladder and stingers",
+    "example": "Portuguese man-of-war bladders drifted across Atlantic ocean surfaces."
+  },
+  {
+    "word": "VELELLA",
+    "definition": "Pelagic colonial hydrozoan with upright sail float catching wind",
+    "example": "By-the-wind sailor velella washed ashore by millions in spring."
+  },
+  {
+    "word": "COMBJELLY",
+    "definition": "Translucent marine invertebrate propelling with iridescent cilia rows",
+    "example": "Rainbow combjellies flashed light along eight comb rows."
+  },
+  {
+    "word": "CTENOPHORE",
+    "definition": "Scientific name for comb jellies lacking stinging nematocysts",
+    "example": "Beroe ctenophores swallowed other jelly organisms whole."
+  },
+  {
+    "word": "LIONSMANE",
+    "definition": "Largest jellyfish species in the world with long hair-like tentacles",
+    "example": "The giant lionsmane jellyfish pulsed through cold Arctic waters."
+  },
+  {
+    "word": "BOXJELLY",
+    "definition": "Potently venomous cubed jellyfish capable of directional swimming",
+    "example": "Chironex boxjellies swam near tropical northern Australian beaches."
+  },
+  {
+    "word": "IRUKANDJI",
+    "definition": "Tiny lethal box jellyfish causing severe systemic envenomation",
+    "example": "Irukandji jellies drifted invisibly in warm coastal waters."
+  },
+  {
+    "word": "CANNONBALL",
+    "definition": "Dome-shaped jellyfish abundant in coastal North American bays",
+    "example": "Cannonball jellies formed food source for endangered leatherback turtles."
+  },
+  {
+    "word": "SEANETTLE",
+    "definition": "Stinging coastal jellyfish with long reddish tentacles",
+    "example": "Atlantic seanettles pulsed through Chesapeake Bay estuaries."
+  },
+  {
+    "word": "BLUEBOTTLE",
+    "definition": "Southern Pacific relative of Portuguese man-of-war with long stingers",
+    "example": "Bluebottle floats blew onto Australian surf beaches during easterly winds."
+  },
+  {
+    "word": "SEASPIDER",
+    "definition": "Marine pycnogonid arthropod with thin body and long legs",
+    "example": "Giant seaspiders walked across Antarctic deep sea floors."
+  },
+  {
+    "word": "GOOSENECK",
+    "definition": "Stalked barnacle species growing on wave-swept intertidal rocks",
+    "example": "Gooseneck barnacles filter-fed in white crashing surf."
+  },
+  {
+    "word": "SNAPPINGSHRIMP",
+    "definition": "Pistol shrimp stunning prey with cavitation bubble pops",
+    "example": "Snapping-shrimp colonies created background static noise on hydrophones."
+  },
+  {
+    "word": "BENTHOS",
+    "definition": "Organisms living on or within bottom sediments of sea floor",
+    "example": "Benthic worms burrowed into deep ocean ooze."
+  },
+  {
+    "word": "DEMERSAL",
+    "definition": "Living or feeding near the bottom of sea or deep water bodies",
+    "example": "Demersal cod schooled along continental shelf bottoms."
+  },
+  {
+    "word": "MARIANA",
+    "definition": "Deepest oceanic trench on Earth located in western Pacific",
+    "example": "Submersibles descended seven miles into the Mariana Trench."
+  },
+  {
+    "word": "BLACKSMOKER",
+    "definition": "Seafloor chimney emitting dark iron sulfide mineral plumes",
+    "example": "Blacksmoker chimneys towered over mid-ocean ridges."
+  },
+  {
+    "word": "COLDSEEP",
+    "definition": "Seafloor region emitting methane and hydrogen sulfide fluids",
+    "example": "Mussel beds thrived around deep coldseep hydrocarbon flows."
+  },
+  {
+    "word": "BIOLUMINESCENCE",
+    "definition": "Production of light by living marine organisms",
+    "example": "Bioluminescence lit up dark waves like blue fireflies."
+  },
+  {
+    "word": "MARINESNOW",
+    "definition": "Showers of organic debris falling from upper sea layers to abyss",
+    "example": "Deep sea sponges fed on falling particles of marinesnow."
+  },
+  {
+    "word": "ANGLERFISH",
+    "definition": "Deep-sea fish featuring a glowing lure attached to head",
+    "example": "The deep-sea anglerfish lured prey into its toothy mouth."
+  },
+  {
+    "word": "BLOBFISH",
+    "definition": "Deep-sea fish with gelatinous flesh maintaining structure under pressure",
+    "example": "The blobfish rested on deep Australian seafloor sediments."
+  },
+  {
+    "word": "VAMPIRESQUID",
+    "definition": "Deep-sea cephalopod with webbed arms and glowing light organs",
+    "example": "The vampiresquid deployed sensory filaments in oxygen minimum zones."
+  },
+  {
+    "word": "DUMBOOCTOPUS",
+    "definition": "Deep-sea octopus with ear-like fins flapping for locomotion",
+    "example": "The dumbooctopus hovered gently over abyssal plains."
+  },
+  {
+    "word": "OARFISH",
+    "definition": "World longest bony fish species ribboning through deep waters",
+    "example": "The giant oarfish washed ashore inspiring sea serpent legends."
+  },
+  {
+    "word": "TRIPODFISH",
+    "definition": "Deep-sea fish standing on elongated stilt-like fins on seabed",
+    "example": "The tripodfish faced into deep currents waiting for food."
+  },
+  {
+    "word": "GIANTISOPOD",
+    "definition": "Deep-sea crustacean scavenger resembling giant woodlouse",
+    "example": "The giantisopod scavenged fallen fish carcasses on deep sea floor."
+  },
+  {
+    "word": "GUYOT",
+    "definition": "Flat-topped underwater volcanic mountain submerged beneath sea level",
+    "example": "Sonar mapped a chain of ancient guyots across the Pacific basin."
+  },
+  {
+    "word": "ABYSSALPLAIN",
+    "definition": "Vast flat underwater plain covering deep ocean basin floor",
+    "example": "Sediment-covered abyssalplains stretched over thousands of miles."
+  },
+  {
+    "word": "SUBMARINECANYON",
+    "definition": "Steep V-shaped valley carved into continental shelf slope",
+    "example": "Submarinecanyons funneled turbidity currents down to ocean floors."
+  },
+  {
+    "word": "PUERTORICO",
+    "definition": "Deepest ocean trench in the Atlantic Ocean basin",
+    "example": "The Puerto-Rico trench reached depths exceeding eight thousand meters."
+  },
+  {
+    "word": "KERMADEC",
+    "definition": "Deep South Pacific trench hosting specialized abyssal life",
+    "example": "Kermadec trench landers recorded giant amphipods at great depths."
+  },
+  {
+    "word": "TONGA",
+    "definition": "Second deepest ocean trench located in the Southwest Pacific",
+    "example": "The Horizon Deep in the Tonga trench dropped over ten thousand meters."
+  },
+  {
+    "word": "KURIL",
+    "definition": "Deep North Pacific ocean trench along Kamchatka peninsula",
+    "example": "The Kuril-Kamchatka trench supported cold-adapted benthic life."
+  },
+  {
+    "word": "MIDOCEANRIDGE",
+    "definition": "Continuous underwater mountain range formed by plate tectonics",
+    "example": "The Mid-Atlantic Ridge ran down the center of the ocean floor."
+  },
+  {
+    "word": "RIFTVALLEY",
+    "definition": "Deep central valley along mid-ocean ridge tectonic spreading centers",
+    "example": "New ocean crust formed inside the underwater riftvalley."
+  },
+  {
+    "word": "METHANECLATHRATE",
+    "definition": "Ice-like crystalline solid trapping methane gas under deep sea pressure",
+    "example": "Methaneclathrate deposits stored massive carbon in abyssal sediments."
+  },
+  {
+    "word": "RADIOLARIAN",
+    "definition": "Microscopic planktonic protozoan with intricate silica shell",
+    "example": "Radiolarian skeletons accumulated into deep ocean siliceous ooze."
+  },
+  {
+    "word": "DIATOMACEOUS",
+    "definition": "Sediment composed of microscopic silica shells of diatom algae",
+    "example": "Diatomaceous ooze covered vast areas of cold Antarctic seabed."
+  },
+  {
+    "word": "TURBIDITY",
+    "definition": "Density current of muddy sediment rushing down submarine slopes",
+    "example": "A high-velocity turbidity current severed transatlantic cables."
+  },
+  {
+    "word": "TURBIDITE",
+    "definition": "Geological sea floor deposit left by underwater sediment avalanches",
+    "example": "Core samples revealed layered turbidite sand beds."
+  },
+  {
+    "word": "GULFSTREAM",
+    "definition": "Powerful warm Atlantic ocean current influencing global weather",
+    "example": "The Gulfstream carried warm water northeast toward Europe."
+  },
+  {
+    "word": "SPRINGTIDE",
+    "definition": "Tide of maximum range occurring during full and new moons",
+    "example": "Springtide brought unusually high water levels to coastal bays."
+  },
+  {
+    "word": "NEAPTIDE",
+    "definition": "Tide of minimal range occurring during quarter moon phases",
+    "example": "Neaptide resulted in moderate water movement along beaches."
+  },
+  {
+    "word": "SALINITY",
+    "definition": "Concentrated measure of dissolved salts in ocean water",
+    "example": "High evaporation increased salinity in tropical lagoons."
+  },
+  {
+    "word": "RIPTIDE",
+    "definition": "Strong narrow surface current flowing outward from beach shore",
+    "example": "Swimmers were warned to swim parallel to shore to escape riptides."
+  },
+  {
+    "word": "EDDY",
+    "definition": "Circular movement of water counter to main ocean current",
+    "example": "Warm-core eddies spun off from the main Gulf Stream."
+  },
+  {
+    "word": "BATHYMETRY",
+    "definition": "Study and mapping of ocean floor depths and topography",
+    "example": "Sonar bathymetry mapped undersea volcanic ridges precisely."
+  },
+  {
+    "word": "BATHYSCAPHE",
+    "definition": "Self-propelled deep-sea submersible vessel for exploration",
+    "example": "The historic bathyscaphe Trieste reached the Challenger Deep."
+  },
+  {
+    "word": "EBBTIDE",
+    "definition": "Receding tide phase when sea water level is falling",
+    "example": "The ebbtide drained water out of coastal estuaries into ocean."
+  },
+  {
+    "word": "FLOODTIDE",
+    "definition": "Incoming tide phase when sea water level rises along shore",
+    "example": "The floodtide filled shallow tidepools with fresh ocean water."
+  },
+  {
+    "word": "SURGE",
+    "definition": "Rapid rise of sea level accompanying strong tropical storms",
+    "example": "Storm surge inundated low-lying coastal barrier islands."
+  },
+  {
+    "word": "SARGASSO",
+    "definition": "Region of North Atlantic ocean covered in floating sargassum seaweed",
+    "example": "Eels migrated thousands of miles to spawn in the Sargasso Sea."
+  },
+  {
+    "word": "CORIOLIS",
+    "definition": "Deflection of moving air and ocean currents caused by Earth rotation",
+    "example": "The Coriolis effect turned ocean currents clockwise in northern hemisphere."
+  },
+  {
+    "word": "EKMAN",
+    "definition": "Theoretical spiral movement of ocean water layers under wind friction",
+    "example": "Ekman transport pushed surface water offshore triggering upwelling."
+  },
+  {
+    "word": "DOWNWELLING",
+    "definition": "Process where surface water sinks downward carrying oxygen",
+    "example": "Wind-driven downwelling supplied oxygen to deep coastal basins."
+  },
+  {
+    "word": "LANGMUIR",
+    "definition": "Shallow wind-driven counter-rotating water circulation cells",
+    "example": "Langmuir circulation created parallel windrows of sargassum weed."
+  },
+  {
+    "word": "FETCH",
+    "definition": "Uninterrupted distance over water across which wind blows",
+    "example": "Long wind fetch generated massive ocean swells across the Pacific."
+  },
+  {
+    "word": "SWASH",
+    "definition": "Turbulent sheet of water washing up beach after wave breaks",
+    "example": "The foamy swash washed sea shells onto wet beach sand."
+  },
+  {
+    "word": "BACKWASH",
+    "definition": "Water flowing back down slope of beach into ocean",
+    "example": "Strong backwash pulled loose sand out into surf zone."
+  },
+  {
+    "word": "SLACKTIDE",
+    "definition": "Short period of quiet water between tidal ebb and flood",
+    "example": "Divers entered the narrow channel during slacktide."
+  },
+  {
+    "word": "SYZYGY",
+    "definition": "Alignment of Sun, Earth, and Moon causing extreme spring tides",
+    "example": "Syzygy alignment produced maximum tidal range."
+  },
+  {
+    "word": "PERIGEE",
+    "definition": "Point in Moon orbit closest to Earth producing higher tides",
+    "example": "Perigee moon alignment created perigean spring tides."
+  },
+  {
+    "word": "APOGEE",
+    "definition": "Point in Moon orbit farthest from Earth producing lower tides",
+    "example": "Apogee moon phase reduced daily tidal variations."
+  },
+  {
+    "word": "SEICHE",
+    "definition": "Standing wave oscillating in enclosed or semi-enclosed water basin",
+    "example": "A sudden wind shift triggered a seiche wave across the bay."
+  },
+  {
+    "word": "AGULHAS",
+    "definition": "Major warm ocean current flowing south along East African coast",
+    "example": "The Agulhas current retroflected rings into the South Atlantic."
+  },
+  {
+    "word": "BENGUELA",
+    "definition": "Cold ocean current flowing north along Southwest African coast",
+    "example": "The Benguela current supported rich fisheries through upwelling."
+  },
+  {
+    "word": "HUMBOLDT",
+    "definition": "Cold South Pacific ocean current flowing north along South America",
+    "example": "The Humboldt current nourished vast anchovy populations off Peru."
+  },
+  {
+    "word": "KUROSHIO",
+    "definition": "Warm North Pacific ocean current flowing north past Japan",
+    "example": "The Kuroshio current carried tropical marine species northward."
+  },
+  {
+    "word": "OYASHIO",
+    "definition": "Cold subarctic Pacific ocean current flowing south toward Japan",
+    "example": "The Oyashio current met the Kuroshio creating rich fishing grounds."
+  },
+  {
+    "word": "CORALREEF",
+    "definition": "Diverse marine ecosystem built by calcium carbonate reef structures",
+    "example": "The Great Barrier Coralreef housed thousands of marine species."
+  },
+  {
+    "word": "BARRIERREEF",
+    "definition": "Coral reef separated from mainland shore by deep lagoon",
+    "example": "Scuba divers explored coral walls along the outer barrierreef."
+  },
+  {
+    "word": "KELPFOREST",
+    "definition": "Dense underwater forest of tall giant kelp algae",
+    "example": "Sea otters wrapped themselves in giant kelpforest fronds."
+  },
+  {
+    "word": "SALTMARSH",
+    "definition": "Coastal wetland flooded and drained by salt water tides",
+    "example": "Herons hunted killifish among saltmarsh cordgrass."
+  },
+  {
+    "word": "SEACAVE",
+    "definition": "Cave carved into coastal sea cliffs by wave erosion action",
+    "example": "Kayakers paddled into the cathedral-like seacave at low tide."
+  },
+  {
+    "word": "MANGRATIVE",
+    "definition": "Salt-tolerant coastal mangrove tree nursery ecosystem",
+    "example": "Young barracudas sheltered among prop roots in mangrove swamps."
+  },
+  {
+    "word": "SHOAL",
+    "definition": "Shallow underwater sandbank or elevation of seabed",
+    "example": "Fish schooled over the rocky offshore shoal."
+  },
+  {
+    "word": "SUBMERSIBLE",
+    "definition": "Small specialized underwater craft used for deep-sea research",
+    "example": "Researchers inside the submersible filmed deep sea hydrothermal vents."
+  },
+  {
+    "word": "LIGHTHOUSE",
+    "definition": "Tower with bright flashing light guiding ships along coasts",
+    "example": "The historic stone lighthouse flashed warning signals in fog."
+  },
+  {
+    "word": "ANCHOR",
+    "definition": "Heavy metal device dropped to seabed to hold ship in place",
+    "example": "The crew dropped anchor in ten fathoms of clear water."
+  },
+  {
+    "word": "CATAMARAN",
+    "definition": "Multi-hulled vessel featuring two parallel equal-sized hulls",
+    "example": "The sailing catamaran skimmed over turquoise lagoon waters."
+  },
+  {
+    "word": "SEXTANT",
+    "definition": "Instrument measuring angular distance between horizon and celestial body",
+    "example": "The mariner used a brass sextant to calculate latitude."
+  },
+  {
+    "word": "MARINER",
+    "definition": "Sailor involved in navigation of ships across seas",
+    "example": "The experienced mariner navigated by stars and ocean swells."
+  },
+  {
+    "word": "SCUBA",
+    "definition": "Self-contained underwater breathing apparatus used by divers",
+    "example": "Scuba divers explored coral caves twenty meters underwater."
+  },
+  {
+    "word": "BUOY",
+    "definition": "Floating anchored marker used for navigation or weather monitoring",
+    "example": "The weather buoy recorded ocean wave height and surface temperature."
+  },
+  {
+    "word": "PIER",
+    "definition": "Structure extending over water used as landing stage or promenade",
+    "example": "Anglers fished for mackerel from the wooden ocean pier."
+  },
+  {
+    "word": "FREIGHTER",
+    "definition": "Large merchant ship designed to transport bulk cargo across seas",
+    "example": "The container freighter crossed open ocean shipping lanes."
+  },
+  {
+    "word": "GALLEON",
+    "definition": "Large multi-decked sailing ship used by European traders in 16th century",
+    "example": "Historic galleons transported treasures across ocean trade routes."
+  },
+  {
+    "word": "NAUTICAL",
+    "definition": "Relating to sailors, navigation, or maritime affairs",
+    "example": "Nautical charts plotted safe passage through rocky reef channels."
+  },
+  {
+    "word": "REBREATHER",
+    "definition": "Diving apparatus recycling exhaled gas without releasing bubbles",
+    "example": "Deep reef divers used a closed-circuit rebreather to approach shy marine life."
+  },
+  {
+    "word": "WETSUIT",
+    "definition": "Neoprene garment insulating divers by trapping a thin layer of water",
+    "example": "A five-millimeter wetsuit kept the diver warm in temperate seas."
+  },
+  {
+    "word": "DRYSUIT",
+    "definition": "Waterproof suit keeping divers completely dry in icy polar waters",
+    "example": "Polar divers wore insulated drysuits under ice floes."
+  },
+  {
+    "word": "HYPERBARIC",
+    "definition": "Decompression chamber treating diving sickness using high pressure oxygen",
+    "example": "The injured diver was treated in a hospital hyperbaric chamber."
+  },
+  {
+    "word": "SPEARGUN",
+    "definition": "Underwater hunting weapon discharging a barbed steel spear",
+    "example": "Freedivers used a wooden speargun for selective fish harvesting."
+  },
+  {
+    "word": "LONGLINE",
+    "definition": "Commercial fishing line extending miles with thousands of baited hooks",
+    "example": "Strict regulations limited longline fishing to protect sea turtles."
+  },
+  {
+    "word": "HYDROPHONE",
+    "definition": "Underwater microphone recording marine sound and whale songs",
+    "example": "Subsea hydrophones recorded humpback whale songs miles away."
+  },
+  {
+    "word": "ROV",
+    "definition": "Remotely operated underwater vehicle tethered to surface research vessel",
+    "example": "The high-definition camera on the ROV filmed deep abyssal trenches."
+  },
+  {
+    "word": "STARBOARD",
+    "definition": "Right-hand side of a ship when facing forward toward bow",
+    "example": "The lookout spotted a lighthouse off the starboard bow."
+  },
+  {
+    "word": "PROPULATION",
+    "definition": "Marine engine system driving ship propellers through water",
+    "example": "The vessel switched to electric propulsion inside harbor channels."
+  },
+  {
+    "word": "RUDDER",
+    "definition": "Flat vertical blade hinged at stern of ship used for steering",
+    "example": "The captain turned the helm to move the rudder to port."
+  },
+  {
+    "word": "MAINSAIL",
+    "definition": "Primary principal sail set on main mast of sailing vessel",
+    "example": "The crew hoisted the mainsail as wind picked up offshore."
+  },
+  {
+    "word": "SPINNAKER",
+    "definition": "Large lightweight balloon sail set when sailing downwind",
+    "example": "The colorful spinnaker expanded fully downwind."
+  },
+  {
+    "word": "CAPSTAN",
+    "definition": "Revolving vertical axle cylinder used for winding heavy cables or anchors",
+    "example": "Sailors turned the capstan to haul up the heavy iron anchor."
+  },
+  {
+    "word": "BULKHEAD",
+    "definition": "Watertight vertical wall dividing ship interior into compartments",
+    "example": "Watertight bulkheads contained flooding inside damaged hulls."
+  },
+  {
+    "word": "CROWNEST",
+    "definition": "Elevated platform near top of mast used by lookout sailor",
+    "example": "The lookout called out land ho from high in the crownest."
+  },
+  {
+    "word": "BOSUN",
+    "definition": "Ship officer responsible for equipment, rigging, and deck crew",
+    "example": "The bosun inspected all deck ropes and anchor winches."
+  },
+  {
+    "word": "HARPOON",
+    "definition": "Barbed spear attached to line used in hunting large marine life",
+    "example": "Whalers historically used hand-launched harpoons in open boats."
+  },
+  {
+    "word": "MAREOGRAPH",
+    "definition": "Tide gauge instrument automatically recording sea level variations",
+    "example": "The coastal mareograph recorded rising storm surge levels."
+  },
+  {
+    "word": "PORTO",
+    "definition": "Port harbor facility for trading ocean cargo ships",
+    "example": "Cargo ships loaded freight at the busy port harbor."
+  },
+  {
+    "word": "TROPICBIRD",
+    "definition": "Tropical oceanic bird featuring long white tail streamers",
+    "example": "Red-billed tropicbirds nested in high sea cliff ledges."
+  },
+  {
+    "word": "GULL",
+    "definition": "Coastal marine bird scavenging along beaches and harbor docks",
+    "example": "Herring gulls circled fishing trawlers returning to harbor."
+  },
+  {
+    "word": "TERN",
+    "definition": "Slender coastal bird plunge-diving for small fish in surf",
+    "example": "Arctic terns completed annual migrations from pole to pole."
+  },
+  {
+    "word": "SKUA",
+    "definition": "Fierce Antarctic predatory seabird preying on penguin eggs",
+    "example": "The brown skua defended its nesting territory on rocky sea bluffs."
+  },
+  {
+    "word": "MURRE",
+    "definition": "Pelagic diving bird swimming with wings in cold northern seas",
+    "example": "Thick-billed murres dove over one hundred meters deep for cod."
+  },
+  {
+    "word": "DONAX",
+    "definition": "Small wedge clam hopping in wave surf zones",
+    "example": "Donax coquina clams filter-fed in crashing surf."
+  },
+  {
+    "word": "TELLIN",
+    "definition": "Slender pink clam living in estuarine sand flats",
+    "example": "Rose tellin clams buried under shallow mud flats."
+  },
+  {
+    "word": "VENUSCLAM",
+    "definition": "Hard thick-shelled marine clam inhabiting sandy sea beds",
+    "example": "Sunray venus clams burrowed in warm sub-tropical sand."
+  },
+  {
+    "word": "HEARTCLAM",
+    "definition": "Heart-shaped bivalve hosting photosynthetic algae in shell",
+    "example": "Heart clams buried shallowly in clear coral sand."
+  },
+  {
+    "word": "JEWELBOX",
+    "definition": "Spiky attached bivalve mollusk encrusting coral rocks",
+    "example": "Spiny jewelbox shells covered submerged rock walls."
+  },
+  {
+    "word": "LUGWORM",
+    "definition": "Marine worm leaving cast coils on muddy beach flats at low tide",
+    "example": "Lugworms burrowed deep U-shaped tunnels in estuary mud."
+  },
+  {
+    "word": "BLOODWORM",
+    "definition": "Carnivorous marine worm with copper jaws and red hemoglobin",
+    "example": "Bloodworms dug through mud flats hunting small invertebrates."
+  },
+  {
+    "word": "SCALEWORM",
+    "definition": "Flattened polychaete worm living commensally with sea stars",
+    "example": "Scaleworms sheltered under sea star arm grooves."
+  },
+  {
+    "word": "FEATHERDUSTER",
+    "definition": "Tubeworm displaying colorful fan of gills for filter feeding",
+    "example": "Featherduster worms retracted gill crowns into tubes when touched."
+  },
+  {
+    "word": "CHRISTMASTREE",
+    "definition": "Tubeworm featuring twin spiral gill crowns boring into hard corals",
+    "example": "Christmas-tree worms displayed neon blue and yellow crowns on bouldercorals."
+  },
+  {
+    "word": "BONEWORM",
+    "definition": "Osedax deep-sea worm consuming skeleton bones of fallen whales",
+    "example": "Osedax boneworms dissolved fallen whale bones on abyssal floors."
+  },
+  {
+    "word": "SPAGHETTIWORM",
+    "definition": "Sedentary marine worm extending long white tentacles across sand",
+    "example": "Spaghetti-worms gathered organic debris over coral sand."
+  },
+  {
+    "word": "RIBBONWORM",
+    "definition": "Extremely long unsegmented marine predator capturing prey with proboscis",
+    "example": "Bootlace ribbonworms stretched meters long under coastal boulders."
+  },
+  {
+    "word": "ARROWWORM",
+    "definition": "Translucent planktonic predator hunting copepods with jaw spines",
+    "example": "Chaetognath arrowworms darted through open ocean waters."
+  },
+  {
+    "word": "SALP",
+    "definition": "Barrel-shaped gelatinous tunicate forming long floating ocean chains",
+    "example": "Salp chains filtered phytoplankton blooms in cold Antarctic seas."
+  },
+  {
+    "word": "PYROSOME",
+    "definition": "Colonial bioluminescent tunicate tube glowing brightly in open ocean",
+    "example": "Giant pyrosomes floated like glowing cylinders in deep waters."
+  },
+  {
+    "word": "CALCAREOUS",
+    "definition": "Sponge species building spicules of calcium carbonate",
+    "example": "Calcareous sponges encrusted dark cave roofs."
+  },
+  {
+    "word": "DEMOSPONGE",
+    "definition": "Dominant sponge group producing spongin skeleton fibers",
+    "example": "Bath demosponges grew on warm Mediterranean reefs."
+  },
+  {
+    "word": "BATHYMETRIC",
+    "definition": "Relating to measurements of water depth in oceans",
+    "example": "Bathymetric soundings mapped deep ocean trenches."
+  },
+  {
+    "word": "HYDROGRAPHIC",
+    "definition": "Science of surveying and charting body of water features",
+    "example": "Hydrographic ships mapped coastal shipping channels."
+  },
+  {
+    "word": "ABYSSOPELAGIC",
+    "definition": "Deep ocean layer between 4000 and 6000 meters depth",
+    "example": "Abyssopelagic waters remained pitch black and near freezing."
+  },
+  {
+    "word": "BATHYPELAGIC",
+    "definition": "Deep ocean layer between 1000 and 4000 meters depth",
+    "example": "Bathyal bathypelagic zones hosted bioluminescent anglerfish."
+  },
+  {
+    "word": "MESOPELAGIC",
+    "definition": "Twilight ocean zone receiving dim sunlight between 200 and 1000 meters",
+    "example": "Mesopelagic fish migrated to surface waters under darkness."
+  },
+  {
+    "word": "EUPHOTIC",
+    "definition": "Upper sunlit ocean layer supporting photosynthesis",
+    "example": "Phytoplankton thrived throughout the euphotic zone."
+  },
+  {
+    "word": "DISPHOTIC",
+    "definition": "Dimly lit ocean zone where photosynthesis cannot occur",
+    "example": "Disphotic twilight waters hosted dragonfish and hatchetfish."
+  },
+  {
+    "word": "SEAWEED",
+    "definition": "Marine algae growing in sea water or on ocean rocks",
+    "example": "Green seaweed drifted with low tide wave surges."
+  },
+  {
+    "word": "ALGAE",
+    "definition": "Photosynthetic aquatic organisms forming base of marine life",
+    "example": "Microscopic algae bloomed across sunlit surface waters."
+  },
+  {
+    "word": "PHYTOPLANKTON",
+    "definition": "Microscopic marine plants producing half of Earth oxygen",
+    "example": "Phytoplankton absorbed carbon dioxide in upper euphotic waters."
+  },
+  {
+    "word": "ZOOPLANKTON",
+    "definition": "Microscopic floating animals drifting with ocean currents",
+    "example": "Zooplankton migrated upward at sunset to feed on algae."
+  },
+  {
+    "word": "BALEEN",
+    "definition": "Fringed keratin plates in mouths of large filter-feeding whales",
+    "example": "Whales strained barrel-fulls of krill through baleen plates."
+  },
+  {
+    "word": "BLUBBER",
+    "definition": "Thick insulating subcutaneous fat layer in marine mammals",
+    "example": "Thick blubber kept polar seals warm in sub-zero Arctic seas."
+  },
+  {
+    "word": "DORPOISE",
+    "definition": "Small cetacean related to oceanic dolphins with blunt snout",
+    "example": "Phocoena porpoises glided through cold coastal kelp beds."
+  },
+  {
+    "word": "CETACEAN",
+    "definition": "Marine mammal order comprising whales, dolphins, and porpoises",
+    "example": "Cetacean research tracked acoustic songs across ocean basins."
+  },
+  {
+    "word": "PINNIPED",
+    "definition": "Semi-aquatic marine mammal with flippers including seals and walruses",
+    "example": "Pinnipeds hauled out on granite island rocks to rest."
+  },
+  {
+    "word": "SIRENIAN",
+    "definition": "Herbivorous aquatic mammal group comprising manatees and dugongs",
+    "example": "Sirenians grazed peacefully on warm lagoon seagrass."
+  },
+  {
+    "word": "ECHINODERM",
+    "definition": "Spiny-skinned marine invertebrate with radial symmetry",
+    "example": "Echinoderms like sea stars crawled along coral rubble."
+  },
+  {
+    "word": "CRUSTACEAN",
+    "definition": "Arthropod group with hard exoskeleton including crabs and lobsters",
+    "example": "Crustaceans scavenged fallen organic debris on rocky sea beds."
+  },
+  {
+    "word": "MOLLUSK",
+    "definition": "Soft-bodied invertebrate often enclosed in a calcium shell",
+    "example": "Mollusks ranged from tiny limpets to giant squids."
+  },
+  {
+    "word": "CEPHALOPOD",
+    "definition": "Marine mollusk with prominent head and tentacles like octopus and squid",
+    "example": "Cephalopods changed skin color and patterns for camouflage."
+  },
+  {
+    "word": "GASTROPOD",
+    "definition": "Mollusk with single spiral shell or no shell like sea snails and slugs",
+    "example": "Marine gastropods grazed on turf algae across intertidal rocks."
+  },
+  {
+    "word": "BIVALVE",
+    "definition": "Aquatic mollusk with two hinged shell valves like clams and oysters",
+    "example": "Bivalves filtered seawater through siphon tubes."
+  },
+  {
+    "word": "CNIDARIAN",
+    "definition": "Aquatic invertebrate possessing stinging cells called nematocysts",
+    "example": "Cnidarians included sea anemones, corals, and jellyfish."
+  },
+  {
+    "word": "PORIFERA",
+    "definition": "Phylum of primitive aquatic sponges lacking true organs",
+    "example": "Porifera sponges pumped sea water through microscopic pores."
+  },
+  {
+    "word": "ANTHOZOAN",
+    "definition": "Class of marine invertebrates comprising corals and sea anemones",
+    "example": "Anthozoan polyps constructed calcium carbonate coral reefs."
+  },
+  {
+    "word": "HADAL",
+    "definition": "Deepest marine zonation below six thousand meters in ocean trenches",
+    "example": "Hadal trench landers recorded amphipods at extreme pressures."
+  },
+  {
+    "word": "OCEANIC",
+    "definition": "Open ocean region beyond continental shelf boundaries",
+    "example": "Oceanic pelagic sharks patrolled warm blue waters."
+  },
+  {
+    "word": "LITTORAL",
+    "definition": "Coastal region near shore subject to tidal influence",
+    "example": "Littoral organisms adapted to drying out during low tides."
+  },
+  {
+    "word": "BENTHICZONE",
+    "definition": "Ocean floor environment from intertidal sand to deepest trenches",
+    "example": "Benthiczone sediments held rich organic nutrients."
+  },
+  {
+    "word": "SEAGRASS",
+    "definition": "Flowering marine plants forming underwater meadows in shallow bays",
+    "example": "Seagrass beds provided nursery habitats for young sea turtles."
+  },
+  {
+    "word": "SURFZONE",
+    "definition": "Coastal water area where ocean waves break on shore",
+    "example": "Surfers paddled out through the foaming surfzone."
+  },
+  {
+    "word": "SWASHZONE",
+    "definition": "Beach area alternate-covered by wave swash and backwash",
+    "example": "Ghost crabs scurried across the wet swashzone sand."
+  },
+  {
+    "word": "MARITIME",
+    "definition": "Connected with the sea, seafaring, or coastal navigation",
+    "example": "Maritime history documented ancient sailing trade routes."
+  },
+  {
+    "word": "NAUTICALMILE",
+    "definition": "Unit of distance used in sea navigation equal to 1852 meters",
+    "example": "The ship sailed twenty nauticalmiles offshore."
+  },
+  {
+    "word": "KNOT",
+    "definition": "Unit of speed equal to one nautical mile per hour",
+    "example": "The vessel cruised at a steady speed of fifteen knots."
+  },
+  {
+    "word": "FATHOM",
+    "definition": "Unit of water depth measurement equal to six feet",
+    "example": "The sounder measured water depth at fifty fathoms."
+  },
+  {
+    "word": "PELAGIAL",
+    "definition": "Open sea environment away from coastal floor",
+    "example": "Pelagial marine life inhabited open water columns."
+  },
+  {
+    "word": "NEKTON",
+    "definition": "Aquatic animals capable of swimming actively against water currents",
+    "example": "Nekton like tuna and squids swam against ocean currents."
+  },
+  {
+    "word": "PLANKTER",
+    "definition": "Individual organism belonging to plankton community",
+    "example": "Each plankter drifted passively in upper surface ocean waters."
+  },
+  {
+    "word": "HALINE",
+    "definition": "Relating to salt content or salinity of sea water",
+    "example": "Euryhaline fish tolerated wide variations in water salinity."
+  }
+]

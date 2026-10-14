@@ -1,0 +1,2144 @@
+{
+  "id": 28,
+  "key": "entertainment",
+  "title": "Entertainment",
+  "iconAsset": "assets/chapter_images/entertainment.png",
+  "themeColor": 4294924066,
+  "levels": [
+    {
+      "levelNumber": 1,
+      "title": "Entertainment Level 1",
+      "gridRows": 17,
+      "gridCols": 17,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "INFLUENCER",
+          "meaning": "Social media personality with the power to affect purchasing decisions through popularity",
+          "example": "The lifestyle influencer shared behind-the-scenes red carpet vlogs with her five million followers."
+        },
+        {
+          "word": "EARBUDS",
+          "meaning": "Compact earphones resting snugly inside the outer ear canal delivering private audio",
+          "example": "Wireless noise-canceling earbuds blocked out the subway clatter during his morning commute."
+        },
+        {
+          "word": "AUGMENTEDREALITY",
+          "meaning": "Interactive experience where computer-generated graphics are overlaid onto the real world",
+          "example": "The mobile augmented reality game superimposed whimsical cartoon creatures onto actual park lawns."
+        },
+        {
+          "word": "STAGEHAND",
+          "meaning": "Person who moves scenery, operates lighting, and handles stage properties during plays",
+          "example": "Dressed in black, stagehands quickly swapped furniture pieces during the blackout scene shift."
+        },
+        {
+          "word": "LAVALIERMIC",
+          "meaning": "Miniature hands-free microphone clipped to clothing commonly used in television broadcast",
+          "example": "The sound technician concealed a tiny wireless lavalier mic inside the lapel of the talk show guest."
+        },
+        {
+          "word": "ROASTMASTER",
+          "meaning": "Host or master of ceremonies presiding over a celebrity tribute roast",
+          "example": "The sharp-tongued roastmaster delivered brutal opening barbs before introducing the dais."
+        },
+        {
+          "word": "THESPIAN",
+          "meaning": "Actor or theatrical performer named after Thespis, the legendary ancient Greek actor",
+          "example": "The seasoned thespian possessed resonant vocal projection that reached the topmost balcony."
+        },
+        {
+          "word": "TILTAWHIRL",
+          "meaning": "Carnival ride featuring spinning passenger cars pivoting freely on an undulating track",
+          "example": "Centrifugal force spun the tilt-a-whirl car wildly as it crested the curving hills."
+        }
+      ]
+    },
+    {
+      "levelNumber": 2,
+      "title": "Entertainment Level 2",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "STROBELIGHT",
+          "meaning": "High-intensity flashing lamp producing rapid intermittent bursts of bright light",
+          "example": "Flashing strobe lights created a dramatic stop-motion optical effect across the nightclub floor."
+        },
+        {
+          "word": "OPENMIC",
+          "meaning": "Live show where amateur performers are given opportunities to perform short sets",
+          "example": "Aspiring stand-ups tested five minutes of new material at the neighborhood pub open mic."
+        },
+        {
+          "word": "COLDOPEN",
+          "meaning": "Opening scene of a television show playing before the opening credits or title sequence",
+          "example": "The sketch show kicked off with a satirical cold open parodying the week political headlines."
+        },
+        {
+          "word": "SNAKECHARMER",
+          "meaning": "Street entertainer playing a pungi flute to entice a cobra to rise and sway",
+          "example": "The snake charmer played hypnotic flute melodies as the spectacled cobra rose from the wicker basket."
+        },
+        {
+          "word": "CONTORTIONIST",
+          "meaning": "Acrobat capable of twisting and bending their body into extraordinary unnatural postures",
+          "example": "The flexible contortionist arched backward until her heels rested atop her forehead."
+        },
+        {
+          "word": "TELEPROMPTER",
+          "meaning": "Electronic device displaying scrolling script text visible to speakers but invisible to cameras",
+          "example": "The news anchor read breaking election updates smoothly from the glass teleprompter screen."
+        },
+        {
+          "word": "DRAMATURG",
+          "meaning": "Literary and theatrical adviser on staff of a theater advising on history and text",
+          "example": "The company dramaturg researched historical Elizabethan court etiquette for the actors."
+        },
+        {
+          "word": "INGENUE",
+          "meaning": "Stock theatrical character of an innocent, wholesome, or naive young woman",
+          "example": "The young actress made her Broadway debut portraying the wide-eyed romantic ingenue."
+        }
+      ]
+    },
+    {
+      "levelNumber": 3,
+      "title": "Entertainment Level 3",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "LETTERBOX",
+          "meaning": "Practice of transferring widescreen video with black horizontal bars top and bottom",
+          "example": "Cinematophiles preferred letterbox formatting to preserve the director original widescreen composition."
+        },
+        {
+          "word": "DRESSREHEARSAL",
+          "meaning": "Final theatrical rehearsal where actors wear full costumes, makeup, and scenic lights",
+          "example": "The director ironed out lighting cues during the final uninterrupted dress rehearsal."
+        },
+        {
+          "word": "CELLIST",
+          "meaning": "String musician who plays the large bowed bass viol seated between the knees",
+          "example": "Rich, resonant bass notes resonated from the wooden body of the cello under the master cellist bow."
+        },
+        {
+          "word": "TABLEREAD",
+          "meaning": "Initial rehearsal where the assembled cast reads through the entire script aloud around a table",
+          "example": "Writers laughed and noted line pacing during the first ensemble table read of the pilot episode."
+        },
+        {
+          "word": "ACOUSTICSET",
+          "meaning": "Concert segment performed on unplugged acoustic instruments rather than electric gear",
+          "example": "The rock band sat on wooden stools to perform an intimate, stripped-down acoustic set."
+        },
+        {
+          "word": "PRIMETIME",
+          "meaning": "Peak evening television viewing hours attracting the largest audiences and ad rates",
+          "example": "Networks scheduled their most expensive dramas and reality shows during the 8 PM prime time block."
+        },
+        {
+          "word": "SINGLEPLAYER",
+          "meaning": "Mode of play in video games designed to be played by a solitary person",
+          "example": "The deep story-driven roleplaying game was designed exclusively for immersive single-player exploration."
+        },
+        {
+          "word": "VOICEACTOR",
+          "meaning": "Performer who provides spoken voices for animated characters, video games, and audiobooks",
+          "example": "The versatile voice actor brought five distinct cartoon animals to life in the fantasy film."
+        }
+      ]
+    },
+    {
+      "levelNumber": 4,
+      "title": "Entertainment Level 4",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "HYPNOTIST",
+          "meaning": "Entertainer who induces trance-like states of heightened suggestibility in stage volunteers",
+          "example": "The stage hypnotist convinced five adult volunteers that their shoes had turned into barking dogs."
+        },
+        {
+          "word": "ANAMORPHIC",
+          "meaning": "Optical system compressing wide panoramic images onto standard film frames",
+          "example": "Anamorphic lenses produced distinctive horizontal blue lens flares and oval background bokeh."
+        },
+        {
+          "word": "SUPERCHAT",
+          "meaning": "Highlighted message purchased by viewers during a live stream to support digital creators",
+          "example": "Fans sent congratulatory super chats that pinned their supportive messages at the top of the stream."
+        },
+        {
+          "word": "FORTUNETELLER",
+          "meaning": "Mystic entertainer professing to reveal future secrets through tarot cards or crystal balls",
+          "example": "Inside a velvet-draped tent, the mysterious fortune teller turned over the ace of cups."
+        },
+        {
+          "word": "BLUESCREEN",
+          "meaning": "Blue backing backdrop utilized in film optical compositing to key out backgrounds",
+          "example": "Classic visual effects stages favored blue screens for composite miniature spaceship models."
+        },
+        {
+          "word": "SPOOF",
+          "meaning": "Humorous and playful imitation of a well-known movie, style, or piece of literature",
+          "example": "The comedy was a zany spoof of detective noir films featuring bumbling gumshoes."
+        },
+        {
+          "word": "SCENOGRAPHY",
+          "meaning": "Art of creating performance environments, theatrical sets, lighting, and soundscapes",
+          "example": "Innovative scenography transformed the bare stage into a fractured modern memory landscape."
+        },
+        {
+          "word": "AERIALIST",
+          "meaning": "Acrobat who performs daring feats high above the ground on ropes, silks, or hoops",
+          "example": "Twisting inside hanging crimson silk ribbons, the aerialist descended in a dizzying spiral drop."
+        }
+      ]
+    },
+    {
+      "levelNumber": 5,
+      "title": "Entertainment Level 5",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "LIFETIMEAWARD",
+          "meaning": "Honor bestowed upon an artist recognizing their entire career body of work",
+          "example": "The elderly director received a standing ovation when presented with the lifetime award."
+        },
+        {
+          "word": "SHOWSTOPPER",
+          "meaning": "Performance or musical number receiving such overwhelming applause it halts the show",
+          "example": "Her electrifying gospel solo was the undeniable showstopper of the entire evening performance."
+        },
+        {
+          "word": "MELODRAMA",
+          "meaning": "Dramatic work characterized by sensational, emotional plots and clear villainy",
+          "example": "Victorian melodramas featured dastardly mustachioed villains tying heroines to railroad tracks."
+        },
+        {
+          "word": "MERRYGOROUND",
+          "meaning": "Revolving circular platform with carved wooden horses and animals ridden by children",
+          "example": "Hand-carved painted wooden horses bobbed up and down on brass poles of the merry-go-round."
+        },
+        {
+          "word": "SYNDICATION",
+          "meaning": "Sale of broadcasting rights to air television program reruns across multiple stations",
+          "example": "Profitable syndication deals allowed the popular comedy series to air reruns indefinitely."
+        },
+        {
+          "word": "BELLYLAUGH",
+          "meaning": "Deep, hearty, unrestrained laugh that causes the abdominal muscles to shake",
+          "example": "His sides ached from continuous belly laughs throughout the hilarious two-hour stage farce."
+        },
+        {
+          "word": "DRIVEIN",
+          "meaning": "Outdoor cinema where patrons watch projected movies from inside their automobiles",
+          "example": "Families tuned their car radios to the FM audio transmitter at the historic drive-in."
+        },
+        {
+          "word": "SHOTLIST",
+          "meaning": "Itemized checklist of individual camera shots planned by the director for a filming schedule",
+          "example": "The assistant director consulted the daily shot list to ensure all fifteen setups were filmed before sundown."
+        }
+      ]
+    },
+    {
+      "levelNumber": 6,
+      "title": "Entertainment Level 6",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "ESCAPOLOGIST",
+          "meaning": "Entertainer specializing in escaping from restraints like chains, straightjackets, and vaults",
+          "example": "Dangling upside down in a padlocked water tank, the escapologist freed himself in ninety seconds."
+        },
+        {
+          "word": "STARDOM",
+          "meaning": "State, status, or condition of being a widely famous and celebrated performer",
+          "example": "Her breakout role in the indie romance propelled her from obscurity to global stardom overnight."
+        },
+        {
+          "word": "NEWSREEL",
+          "meaning": "Short film of news and topical events shown in cinemas prior to television dominance",
+          "example": "Before household televisions, cinema newsreels showed world leaders and historical events."
+        },
+        {
+          "word": "ANIMATRONIC",
+          "meaning": "Electro-mechanical puppet or robotic creature utilized on film sets and theme parks",
+          "example": "A life-sized animatronic Tyrannosaurus rex lunged and roared convincingly at actors on set."
+        },
+        {
+          "word": "TROMBONIST",
+          "meaning": "Brass musician who plays the telescoping slide instrument providing rich harmonic depth",
+          "example": "Gliding the outer slide smoothly, the trombonist provided deep rhythmic foundation to the big band."
+        },
+        {
+          "word": "COLDREADING",
+          "meaning": "Audition performance where an actor reads an unfamiliar script without prior preparation",
+          "example": "The director tested the actor natural instincts through a ten-minute cold reading audition."
+        },
+        {
+          "word": "AUTOGRAPH",
+          "meaning": "Famous person signature written for admiring fans as a personal memento",
+          "example": "Eager fans held out posters and sharpie markers hoping to secure the movie star autograph."
+        },
+        {
+          "word": "SOUNDDESIGNER",
+          "meaning": "Artist who creates unique auditory elements and soundscapes for film worlds",
+          "example": "The sound designer synthesized roaring monster cries from slowed-down elephant rumbles."
+        }
+      ]
+    },
+    {
+      "levelNumber": 7,
+      "title": "Entertainment Level 7",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "NEWSHOUR",
+          "meaning": "Daily hour-long television news program covering national and world journalism",
+          "example": "In-depth investigative reports anchored the award-winning evening public news hour."
+        },
+        {
+          "word": "WALKMAN",
+          "meaning": "Iconic portable cassette player with lightweight headphones manufactured by Sony",
+          "example": "Slipping a mixtape into his yellow Sony Walkman soundtracked his morning bicycle ride to school."
+        },
+        {
+          "word": "WRAPPARTY",
+          "meaning": "Celebration held for cast and crew members to mark the successful completion of filming",
+          "example": "Cast and crew toasted the final day of principal photography at a lively rooftop wrap party."
+        },
+        {
+          "word": "TAROTREADER",
+          "meaning": "Practitioner who interprets symbolic tarot cards to divine advice and personal futures",
+          "example": "Spreading the twenty-two Major Arcana cards, the tarot reader revealed the Wheel of Fortune."
+        },
+        {
+          "word": "ROAST",
+          "meaning": "Event where an individual is honored with a banquet while being subjected to good-natured jokes",
+          "example": "Comedians traded brutal insults and affectionate barbs during the televised celebrity roast."
+        },
+        {
+          "word": "DISCOBALL",
+          "meaning": "Mirrored spherical fixture suspended from club ceilings scattering points of moving light",
+          "example": "Points of white light twirled across the dance floor as the motorized disco ball rotated."
+        },
+        {
+          "word": "LIONTAMER",
+          "meaning": "Circus trainer who commands wild lions and tigers inside an iron cage using whips and chairs",
+          "example": "Cracking his long rawhide whip, the lion tamer guided the majestic beasts onto elevated pedestals."
+        },
+        {
+          "word": "DOCUSERIES",
+          "meaning": "Multi-part non-fiction television documentary series investigating a single story",
+          "example": "The gripping six-part crime docuseries re-examined forensic evidence from a 1980s mystery."
+        }
+      ]
+    },
+    {
+      "levelNumber": 8,
+      "title": "Entertainment Level 8",
+      "gridRows": 12,
+      "gridCols": 12,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "PAGEANTRY",
+          "meaning": "Elaborate, colorful, and dignified public spectacle, ceremony, or display",
+          "example": "Medieval pageantry with heraldic banners and armored horses came to life at the festival."
+        },
+        {
+          "word": "CADENZA",
+          "meaning": "Virtuosic solo passage in a concerto displaying the soloist supreme technical mastery",
+          "example": "Audience members leaned forward in awe as the pianist executed a thunderous solo cadenza."
+        },
+        {
+          "word": "CINEMASCOPE",
+          "meaning": "Anamorphic widescreen lens series widening movie aspect ratios to panoramic scale",
+          "example": "Epic biblical blockbusters of the 1950s filled panoramic CinemaScope widescreen screens."
+        },
+        {
+          "word": "DISCMAN",
+          "meaning": "Portable compact disc player developed by Sony permitting mobile digital CD listening",
+          "example": "With electronic anti-shock skip protection, the portable Discman allowed jogging with CDs."
+        },
+        {
+          "word": "SOUNDEFFECT",
+          "meaning": "Artificial or enhanced auditory sound used in theatrical, radio, or film presentations",
+          "example": "Laser blasts and alien engine hums were synthesized as practical sci-fi sound effects."
+        },
+        {
+          "word": "COLORIST",
+          "meaning": "Post-production specialist who balances color palettes and grades visual moods",
+          "example": "The digital colorist dialed in cold blue desaturated tones for the Nordic crime thriller."
+        },
+        {
+          "word": "HECKLER",
+          "meaning": "Audience member who interrupts a performer with aggressive or mocking remarks",
+          "example": "The seasoned comic silenced the drunken heckler with a lightning-fast, devastating comeback."
+        },
+        {
+          "word": "JAMSESSION",
+          "meaning": "Informal gathering where musicians improvise together without extensive rehearsal",
+          "example": "Late-night jazz musicians traded dazzling solos during an impromptu basement jam session."
+        }
+      ]
+    },
+    {
+      "levelNumber": 9,
+      "title": "Entertainment Level 9",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "normal",
+      "words": [
+        {
+          "word": "TRACKINGSHOT",
+          "meaning": "Camera shot where the camera moves smoothly alongside, behind, or ahead of subjects",
+          "example": "The long continuous tracking shot followed the detective through the crowded casino."
+        },
+        {
+          "word": "SIGNATURESCENE",
+          "meaning": "Most memorable, iconic, or emotionally climactic moment in a movie or stage play",
+          "example": "The raining lamppost dance was the undisputed signature scene of the classic musical."
+        },
+        {
+          "word": "STOPMOTION",
+          "meaning": "Animation technique where physical models are moved by tiny increments and filmed frame by frame",
+          "example": "Animators patiently repositioned clay puppets twenty-four times for one second of stop motion."
+        },
+        {
+          "word": "SHADERS",
+          "meaning": "Computer graphics programs calculating appropriate light, darkness, and color in 3D gaming",
+          "example": "Custom photorealistic water shaders rendered glistening sunlight reflections on ocean waves."
+        },
+        {
+          "word": "WALKOFFAME",
+          "meaning": "Famous sidewalk along Hollywood Boulevard embedded with star plaques honoring legends",
+          "example": "Thousands of tourists walked down the Hollywood Walk of Fame taking photos with star plaques."
+        },
+        {
+          "word": "CYCLORAMA",
+          "meaning": "Curved seamless white background drop at the back of a stage reflecting colored light",
+          "example": "Blue and magenta washes across the cyclorama created an illusion of infinite twilight skies."
+        },
+        {
+          "word": "MIDWAY",
+          "meaning": "Central public concourse at a fair or carnival lined with games, food stalls, and rides",
+          "example": "Bright neon lights and the smell of fried dough drew bustling crowds down the carnival midway."
+        },
+        {
+          "word": "INDIEFILM",
+          "meaning": "Motion picture produced primarily outside the major commercial Hollywood studio system",
+          "example": "The Sundance Film Festival launched the independent director career with her debut indie film."
+        }
+      ]
+    },
+    {
+      "levelNumber": 10,
+      "title": "Entertainment Level 10",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "STATUETTE",
+          "meaning": "Small carved or molded statue given as a prestigious industry achievement award",
+          "example": "She hoisted the heavy golden statuette above her head during her tearful acceptance speech."
+        },
+        {
+          "word": "FANDOM",
+          "meaning": "Community or subculture composed of enthusiastic fans of a franchise or star",
+          "example": "Dressed in elaborate costumes, members of the sci-fi fandom gathered for the comic convention."
+        },
+        {
+          "word": "SOUNDENGINEER",
+          "meaning": "Technician who manages acoustics, recording levels, and live amplified sound",
+          "example": "The front-of-house sound engineer dialed in crystal-clear vocal clarity for the arena show."
+        },
+        {
+          "word": "STAGERIGHT",
+          "meaning": "Side of the stage to the right of an actor facing toward the audience",
+          "example": "The butler made a sudden comic entrance through the dining room door on stage right."
+        },
+        {
+          "word": "FLYLOFT",
+          "meaning": "High space above a stage containing ropes, pulleys, and scenery battens",
+          "example": "Large painted backdrop canvases were flown silently upward into the cavernous fly loft."
+        },
+        {
+          "word": "CINEASTE",
+          "meaning": "Film enthusiast, scholar, or passionate devotee of the artistic aspects of motion pictures",
+          "example": "The Parisian cineaste wrote perceptive essays analyzing French New Wave camera movement."
+        },
+        {
+          "word": "COMPOSITING",
+          "meaning": "Practice of combining visual elements from separate sources into single finished images",
+          "example": "Digital compositing merged live-action actors, CGI dinosaurs, and matte-painted jungles."
+        },
+        {
+          "word": "AMPHITHEATRE",
+          "meaning": "Open-air venue used for entertainment, performances, and sports with tiered seating",
+          "example": "Thousands of spectators sat on stone tiers under the stars at the Roman amphitheatre."
+        },
+        {
+          "word": "DISSOLVE",
+          "meaning": "Gradual transition from one movie image to another as the two images overlap briefly",
+          "example": "A slow dissolve transitioned from the dying candle flame into the golden morning sunrise."
+        }
+      ]
+    },
+    {
+      "levelNumber": 11,
+      "title": "Entertainment Level 11",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "SEASONFINALE",
+          "meaning": "Concluding episode of a television season resolving major arcs and introducing twists",
+          "example": "The heart-stopping season finale ended with an explosion leaving the hero fate uncertain."
+        },
+        {
+          "word": "COTTONCANDY",
+          "meaning": "Spun sugar confection resembling fluffy cloud wool wrapped around paper cones",
+          "example": "Pink spun cotton candy melted delightfully into sugary sweetness on the child tongue."
+        },
+        {
+          "word": "GAMER",
+          "meaning": "Person who regularly plays video games, tabletop games, or interactive digital simulations",
+          "example": "The dedicated competitive gamer practiced five hours daily with his esports tournament squad."
+        },
+        {
+          "word": "REVUE",
+          "meaning": "Multi-act theatrical entertainment that combines music, dance, and satirical sketches",
+          "example": "The Broadway musical revue showcased the greatest hit songs of the legendary composer."
+        },
+        {
+          "word": "REPARTEE",
+          "meaning": "Conversation characterized by quick, witty, and clever comments and replies",
+          "example": "The romantic comedy sparkled with fast, sophisticated repartee between the two witty leads."
+        },
+        {
+          "word": "BELCANTO",
+          "meaning": "Lyrical style of operatic singing characterized by beauty of tone and smooth phrasing",
+          "example": "Donizetti and Bellini operas epitomized the expressive melodic grace of bel canto singing."
+        },
+        {
+          "word": "PHYSICSENGINE",
+          "meaning": "Software simulation calculating realistic gravity, collision, and momentum in video games",
+          "example": "The game physics engine realistically calculated how stone towers collapsed when struck by catapults."
+        },
+        {
+          "word": "PIERROT",
+          "meaning": "Pantomime character representing a melancholic, white-faced lovesick clown",
+          "example": "With teardrop makeup painted under one eye, the white-clad Pierrot gazed at the paper moon."
+        },
+        {
+          "word": "INTERLUDE",
+          "meaning": "Short piece of entertainment or musical passage performed between major show acts",
+          "example": "A lighthearted accordion interlude entertained the theater audience during scene shifts."
+        }
+      ]
+    },
+    {
+      "levelNumber": 12,
+      "title": "Entertainment Level 12",
+      "gridRows": 16,
+      "gridCols": 16,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "GOBO",
+          "meaning": "Metal or glass stencil inserted into a lighting instrument projecting shapes or patterns",
+          "example": "A tree branch gobo pattern projected dappled forest shadows across the bedroom floor."
+        },
+        {
+          "word": "SCORE",
+          "meaning": "Original orchestral music written specifically to accompany a film dramatic narrative",
+          "example": "Haunting cello melodies formed the emotional heart of the composer dramatic film score."
+        },
+        {
+          "word": "VELVETROPES",
+          "meaning": "Stanchions supporting thick velvet cords used for guiding lines and securing VIP areas",
+          "example": "Bouncers unhooked the brass clip on the crimson velvet ropes to admit invited VIP guests."
+        },
+        {
+          "word": "STUNTWOMAN",
+          "meaning": "Female professional who performs dangerous physical action sequences in movies",
+          "example": "A veteran stuntwoman coordinated the high-speed motorcycle pursuit through city traffic."
+        },
+        {
+          "word": "LEADINGLADY",
+          "meaning": "Actress who plays the central female protagonist role in films or theatrical plays",
+          "example": "The versatile leading lady commanded every frame of the sweeping historical romance drama."
+        },
+        {
+          "word": "SURROUNDSOUND",
+          "meaning": "Multi-channel audio reproduction system using speakers around listeners for immersion",
+          "example": "Helicopter blades whirred realistically from behind the couch thanks to 7.1 surround sound."
+        },
+        {
+          "word": "AUDIENCEPOLL",
+          "meaning": "Survey of audience opinions or votes taken during live television or theater",
+          "example": "An instant digital audience poll determined which contestant advanced to the finals."
+        },
+        {
+          "word": "MINIDOCUMENTARY",
+          "meaning": "Concise non-fiction video documentary covering a focused topic in a brief runtime",
+          "example": "The streaming platform released a compelling twelve-minute mini-documentary on endangered coral reefs."
+        },
+        {
+          "word": "MINISERIES",
+          "meaning": "Television drama series telling a single complete story in a limited number of episodes",
+          "example": "The critically acclaimed four-part historical miniseries dramatized the Apollo lunar missions."
+        }
+      ]
+    },
+    {
+      "levelNumber": 13,
+      "title": "Entertainment Level 13",
+      "gridRows": 17,
+      "gridCols": 17,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "SPOTLIGHT",
+          "meaning": "Projector light casting an intense narrow beam of light onto a specific stage performer",
+          "example": "A crisp white spotlight followed the lead singer as she walked along the edge of the stage."
+        },
+        {
+          "word": "DUTCHANGLE",
+          "meaning": "Cinematic technique tilting the camera on its roll axis to convey unease or tension",
+          "example": "A disorienting Dutch angle camera tilt conveyed the protagonist psychological vertigo."
+        },
+        {
+          "word": "SWORDSWALLOW",
+          "meaning": "Dangerous performance art where an entertainer slides a real steel sword down the esophagus",
+          "example": "The carnival performer tilted his head straight back and guided a eighteen-inch blade down his throat."
+        },
+        {
+          "word": "FOOTLIGHTS",
+          "meaning": "Row of stage lights set along the front of the stage floor illuminating actors",
+          "example": "Soft upward illumination from the vintage footlights highlighted the vaudeville singer."
+        },
+        {
+          "word": "GENERALADMISSION",
+          "meaning": "Ticket admission policy allowing patrons to choose any available seat or standing spot",
+          "example": "Dedicated fans with general admission tickets lined up at dawn to secure spots right against the stage barrier."
+        },
+        {
+          "word": "LEITMOTIF",
+          "meaning": "Recurrent musical theme throughout a composition associated with a character or mood",
+          "example": "The menacing two-note tuba leitmotif signaled the approaching shark in the thriller."
+        },
+        {
+          "word": "CANCAN",
+          "meaning": "High-energy, physically demanding music-hall dance characterized by high kicks and petticoats",
+          "example": "Dancers in ruffled rainbow skirts executed synchronized high kicks in the famous Moulin Rouge cancan."
+        },
+        {
+          "word": "TIMELAPSE",
+          "meaning": "Photographic technique capturing frames at slow intervals to portray fast motion over hours",
+          "example": "A mesmerizing time-lapse sequence showed storm clouds rolling over the city skyline in seconds."
+        },
+        {
+          "word": "GREENROOM",
+          "meaning": "Room backstage in a theater or studio where performers rest before appearing on stage",
+          "example": "Actors sipped warm tea with honey in the greenroom while awaiting their second act entrance."
+        }
+      ]
+    },
+    {
+      "levelNumber": 14,
+      "title": "Entertainment Level 14",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "KNIFETHROWER",
+          "meaning": "Circus performer throwing balanced steel knives around a live human assistant on a board",
+          "example": "Thudding into the wooden target, the knife thrower blades landed inches from his partner fingers."
+        },
+        {
+          "word": "PANNING",
+          "meaning": "Horizontal movement of a camera rotating from a fixed position to scan across a scene",
+          "example": "Smooth panning across the mountain horizon established the epic wilderness setting."
+        },
+        {
+          "word": "TOURBUS",
+          "meaning": "Specially outfitted luxury coach providing sleeping berths and transport for touring bands",
+          "example": "Musicians relaxed in leather bunks inside their customized tour bus rolling across states."
+        },
+        {
+          "word": "PLOTLINE",
+          "meaning": "Main story arc and sequence of events forming the dramatic spine of a movie",
+          "example": "The twisty espionage plotline kept audiences guessing the double agent identity until the end."
+        },
+        {
+          "word": "FIREWALKER",
+          "meaning": "Performer who walks barefoot across beds of glowing wood embers without injury",
+          "example": "Focus and rapid footfalls allowed the ceremonial fire walker to cross the glowing red coals safely."
+        },
+        {
+          "word": "DROPTOWER",
+          "meaning": "Thrill ride elevating passenger gondolas high into the air before releasing them in freefall",
+          "example": "Riders stomachs dropped as the two-hundred-foot drop tower plunged into magnetic brakes."
+        },
+        {
+          "word": "HALLOFMIRRORS",
+          "meaning": "Amusement attraction filled with curving convex and concave mirrors distorting bodies",
+          "example": "Reflections stretched tall and shrank wide as visitors laughed inside the carnival hall of mirrors."
+        },
+        {
+          "word": "DODGEMS",
+          "meaning": "Small electric bumper cars steered by riders colliding playfully on a flat arena floor",
+          "example": "Sparks showered from the ceiling mesh as teenagers steered dodgems into friendly collisions."
+        },
+        {
+          "word": "SITCOM",
+          "meaning": "Situational comedy series focusing on humorous interpersonal dynamics in recurring settings",
+          "example": "Classic 1990s sitcoms centered on quirky groups of friends navigating city life and dating."
+        }
+      ]
+    },
+    {
+      "levelNumber": 15,
+      "title": "Entertainment Level 15",
+      "gridRows": 17,
+      "gridCols": 17,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "SUPERSTAR",
+          "meaning": "Extremely famous, influential, and commercially successful entertainer or athlete",
+          "example": "Stadium tours around the globe solidified her standing as the world biggest music superstar."
+        },
+        {
+          "word": "MOSHPIT",
+          "meaning": "Area directly in front of a stage at rock concerts where dancers collide energetically",
+          "example": "Sweaty punk fans jumped and bounced to the fast thrash tempo inside the swirling mosh pit."
+        },
+        {
+          "word": "BROADCASTER",
+          "meaning": "Company or media professional transmitting radio or television programming to the public",
+          "example": "Public broadcasters produced educational programming free of commercial interruptions."
+        },
+        {
+          "word": "VOICEOVER",
+          "meaning": "Off-screen voice providing commentary, narration, or internal thoughts over footage",
+          "example": "A cynical private detective voice-over narrated the rainy nighttime city scenes."
+        },
+        {
+          "word": "KEYFRAME",
+          "meaning": "Drawing or digital pose in an animation sequence defining the starting and ending points",
+          "example": "Senior animators drew the primary keyframes while junior artists completed in-between poses."
+        },
+        {
+          "word": "BIOPIC",
+          "meaning": "Biographical motion picture dramatizing the life of an actual historical or famous person",
+          "example": "The actor won critical acclaim for his transformative performance in the jazz musician biopic."
+        },
+        {
+          "word": "EXTRAVAGANZA",
+          "meaning": "Elaborate, spectacular, and lavish entertainment production or musical display",
+          "example": "The Las Vegas casino mounted a multi-million-dollar aquatic extravaganza with diving fountains."
+        },
+        {
+          "word": "SCRIPTSUPERVISOR",
+          "meaning": "Crew member who monitors continuity across takes, wardrobe, props, and line delivery",
+          "example": "The script supervisor noted which hand held the martini glass between different camera angles."
+        },
+        {
+          "word": "SCRIM",
+          "meaning": "Drop made of coarse gauze that appears opaque when lit from front but transparent from behind",
+          "example": "Lighting the actor from behind the translucent scrim made him appear like a ghost."
+        }
+      ]
+    },
+    {
+      "levelNumber": 16,
+      "title": "Entertainment Level 16",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "STUDIOAUDIENCE",
+          "meaning": "Live assembled crowd watching the filming of television sitcoms and game shows",
+          "example": "Laughter from the three-hundred-seat live studio audience punctuated the sitcom punchlines."
+        },
+        {
+          "word": "RINGTOSS",
+          "meaning": "Carnival carnival game where rings are tossed over bottles or pegs to win prizes",
+          "example": "Tossing plastic hoops over narrow glass soda bottles required frustratingly precise aim."
+        },
+        {
+          "word": "SOUNDMIXER",
+          "meaning": "Audio engineer who balances dialogue, atmospheric sound, foley, and musical scores",
+          "example": "The re-recording sound mixer ensured whispering dialogue remained intelligible over music."
+        },
+        {
+          "word": "COLORATURA",
+          "meaning": "Elaborate ornamentation of a vocal melody, especially in operatic singing by a soprano",
+          "example": "The soprano executed dazzling high-register trills during the famous coloratura aria."
+        },
+        {
+          "word": "GLOWSTICK",
+          "meaning": "Translucent plastic tube containing chemical compounds that produce luminescent glow",
+          "example": "Rave attendees waved neon green and pink glow sticks in hypnotic arcs to the electronic beat."
+        },
+        {
+          "word": "BODYDOUBLE",
+          "meaning": "Performer who substitutes for a lead actor in specialized nude or athletic shots",
+          "example": "A skilled body double performed the intricate piano fingerings in extreme closeups."
+        },
+        {
+          "word": "INFOMERCIAL",
+          "meaning": "Extended television commercial designed to resemble documentary or talk program format",
+          "example": "Late-night infomercials demonstrated miracle kitchen slicers and stain-removing pastes."
+        },
+        {
+          "word": "CHOREOGRAPHER",
+          "meaning": "Artist who designs and arranges sequences of dance steps and stage movements",
+          "example": "The choreographer drilled the chorus line for days to master the intricate tap-dance routine."
+        },
+        {
+          "word": "VLOGGER",
+          "meaning": "Creator who documents personal life, travels, and opinions through video blog diaries",
+          "example": "The travel vlogger carried a compact gimbal camera through Tokyo bustling Shibuya crossing."
+        }
+      ]
+    },
+    {
+      "levelNumber": 17,
+      "title": "Entertainment Level 17",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "medium",
+      "words": [
+        {
+          "word": "TITLESEQUENCE",
+          "meaning": "Introductory cinematic credit sequence introducing the program cast, creators, and title",
+          "example": "Mesmerizing visual title sequences set the moody, atmospheric tone for prestige streaming series."
+        },
+        {
+          "word": "PILLARBOX",
+          "meaning": "Black vertical bars placed on sides of a widescreen display to show standard 4:3 content",
+          "example": "Watching vintage sitcoms on modern 16:9 flat screens introduces black pillarbox bars on the sides."
+        },
+        {
+          "word": "ROUGHCUT",
+          "meaning": "First complete assembly of a film scenes strung together without fine polish",
+          "example": "The editor screened a three-hour rough cut for the director to begin trimming pacing."
+        },
+        {
+          "word": "STANDIN",
+          "meaning": "Person who substitutes for an actor during the tedious process of setting lights and cameras",
+          "example": "The lighting cameraman instructed the stand-in to step onto the tape mark to meter exposure."
+        },
+        {
+          "word": "STUNTMAN",
+          "meaning": "Trained professional performer who executes hazardous actions in place of movie stars",
+          "example": "The fearless stuntman leapt from the rooftop and crashed through an awning onto a mattress."
+        },
+        {
+          "word": "REBOOT",
+          "meaning": "New version of an established film series featuring fresh casting and restarted continuity",
+          "example": "The gritty comic reboot reimagined the masked vigilante as a grounded noir detective."
+        },
+        {
+          "word": "STREETBUSKER",
+          "meaning": "Street musician who performs in public squares, subways, and sidewalks for voluntary tips",
+          "example": "A talented street busker played blues harmonica while tapping an acoustic foot tambourine."
+        },
+        {
+          "word": "CALLBACK",
+          "meaning": "Second or subsequent round of auditions where selected actors are evaluated further",
+          "example": "The casting director invited five finalists back for a chemistry reading during callbacks."
+        },
+        {
+          "word": "APPLAUSESIGN",
+          "meaning": "Illuminated sign flashing overhead signaling the studio audience to clap on cue",
+          "example": "When the comic made his entrance, the neon applause sign lit up, triggering thunderous cheers."
+        }
+      ]
+    },
+    {
+      "levelNumber": 18,
+      "title": "Entertainment Level 18",
+      "gridRows": 17,
+      "gridCols": 17,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "SNEAKPREVIEW",
+          "meaning": "Special advance showing of a movie or theatrical play before its official public release",
+          "example": "Excited film fans lined up around the block for the exclusive midnight sneakpreview."
+        },
+        {
+          "word": "PAPARAZZO",
+          "meaning": "Individual photographer who follows celebrities around to take candid photos",
+          "example": "A persistent paparazzo waited on a parked scooter outside the movie star private residence."
+        },
+        {
+          "word": "CARNIE",
+          "meaning": "Traveling carnival worker who operates game booths, sideshows, or mechanical rides",
+          "example": "The seasoned carnie called out playful challenges to fairgoers passing the ring toss booth."
+        },
+        {
+          "word": "SEQUEL",
+          "meaning": "Film or artistic work that continues the narrative arc of an earlier established work",
+          "example": "The sci-fi sequel delivered bigger explosions and deeper character lore than the original."
+        },
+        {
+          "word": "SOUNDSYSTEM",
+          "meaning": "Assembly of electronic components, amplifiers, and speakers reproducing live audio",
+          "example": "The Jamaican reggae sound system blasted deep physical sub-bass across the festival field."
+        },
+        {
+          "word": "LINEUP",
+          "meaning": "Roster of musical acts, bands, or performers scheduled to appear at a festival",
+          "example": "Fans debated the newly announced summer festival lineup on social media all afternoon."
+        },
+        {
+          "word": "IMPROV",
+          "meaning": "Form of live theater where plot, characters, and dialogue are created unscripted on the spot",
+          "example": "Audience suggestions inspired hilarious improvised sketches at the downtown improv theater."
+        },
+        {
+          "word": "CLOSEUP",
+          "meaning": "Camera shot taken at very close range capturing facial expressions in intimate detail",
+          "example": "A tight closeup revealed tears welling in the lead actress eyes during the climax."
+        },
+        {
+          "word": "PRODUCTPLACEMENT",
+          "meaning": "Commercial practice where branded goods are visibly featured in movies and TV",
+          "example": "The secret agent checking his branded luxury wristwatch was an example of clever product placement."
+        },
+        {
+          "word": "CONJURING",
+          "meaning": "Performance of magic tricks and sleights through manual deception and misdirection",
+          "example": "A wave of the wand and a flash of spark powder completed the parlor conjuring exhibition."
+        },
+        {
+          "word": "OBOIST",
+          "meaning": "Musician who plays the double-reed woodwind instrument renowned for its piercing, lyrical tone",
+          "example": "The principal oboist sounded the long sustained concert A to tune the entire orchestra."
+        }
+      ]
+    },
+    {
+      "levelNumber": 19,
+      "title": "Entertainment Level 19",
+      "gridRows": 16,
+      "gridCols": 16,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "SMASHCUT",
+          "meaning": "Abrupt cut from a scene of quiet stillness to an intensely loud, chaotic scene",
+          "example": "A peaceful dream was shattered by a jarring smash cut to a blaring fire engine siren."
+        },
+        {
+          "word": "CINEPHILE",
+          "meaning": "Passionate devotee and enthusiast of motion pictures and cinema history",
+          "example": "The local indie film festival was packed with ardent cinephiles discussing 35mm film."
+        },
+        {
+          "word": "ROMCOM",
+          "meaning": "Lighthearted, humorous film genre revolving around romantic ideals and awkward courtships",
+          "example": "The witty 1990s romcom featured two feuding rivals who secretly fell in love via email."
+        },
+        {
+          "word": "SWINGACTOR",
+          "meaning": "Versatile understudy trained to substitute for multiple ensemble roles on short notice",
+          "example": "The talented swing actor covered three distinct ensemble dance parts throughout the weekend run."
+        },
+        {
+          "word": "DOLLYZOOM",
+          "meaning": "Cinematic effect zooming in while tracking backward causing foreground warping",
+          "example": "Alfred Hitchcock famously invented the vertigo dolly zoom shot inside the church bell tower."
+        },
+        {
+          "word": "PRESSCONFERENCE",
+          "meaning": "Media event where filmmakers and actors answer questions from journalists",
+          "example": "Reporters crowded into the hotel ballroom for the international film press conference."
+        },
+        {
+          "word": "CARDSHARK",
+          "meaning": "Person skilled at sleight-of-hand card manipulation and gaming strategies in casinos",
+          "example": "The casino floor manager kept a watchful eye on the suspected cardshark dealing blackjack."
+        },
+        {
+          "word": "FOLEY",
+          "meaning": "Reproduction of everyday sound effects added to films in post-production studios",
+          "example": "Walking in a tray of cornstarch created the convincing crunch of snowy footsteps in foley."
+        },
+        {
+          "word": "THEATERBOX",
+          "meaning": "Small private partitioned seating area elevated in the side auditorium walls",
+          "example": "Dignitaries watched the gala opening night opera from the velvet-lined presidential theater box."
+        },
+        {
+          "word": "STREAMINGAPP",
+          "meaning": "Mobile or television software application streaming movies, music, and shows on demand",
+          "example": "Opening the streaming app gave instant access to thousands of on-demand movies and indie series."
+        },
+        {
+          "word": "CHANTEUSE",
+          "meaning": "Female singer of sultry, emotional cabaret and nightclub songs in Paris cafes",
+          "example": "A solitary spotlight illuminated the sultry chanteuse as she sang of lost love in Montmartre."
+        }
+      ]
+    },
+    {
+      "levelNumber": 20,
+      "title": "Entertainment Level 20",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "MINDREADER",
+          "meaning": "Performer who astounds audiences by revealing hidden thoughts, dates, and secret words",
+          "example": "The mind reader correctly announced the anniversary date written on the spectator folded paper."
+        },
+        {
+          "word": "CLOSEDCAPTION",
+          "meaning": "Subtitling displaying spoken words and audio descriptions for deaf and hearing-impaired audiences",
+          "example": "Closed captions identified off-screen slamming doors and dramatic musical cues clearly."
+        },
+        {
+          "word": "KEYBOARDIST",
+          "meaning": "Musician who plays keyboard instruments like pianos, organs, or synthesizers",
+          "example": "The virtuoso keyboardist played intricate counter-melodies against the lead guitar riff."
+        },
+        {
+          "word": "TIGHTROPE",
+          "meaning": "Tautly stretched wire or cable high above ground on which acrobats walk and balance",
+          "example": "Carrying a long balancing pole, the daredevil walked across the high tightrope without a net."
+        },
+        {
+          "word": "SLOWMOTION",
+          "meaning": "Film playback technique showing movement at a much slower speed than reality for dramatic effect",
+          "example": "Glass shattered in dramatic slow motion as the hero dove through the penthouse window."
+        },
+        {
+          "word": "CLAYMATION",
+          "meaning": "Stop-motion animation utilizing malleable clay figures molded over flexible wire armatures",
+          "example": "Wallace and Gromit brought warmth and tactile charm to the world of cinematic claymation."
+        },
+        {
+          "word": "VIPLOUNGE",
+          "meaning": "Exclusive private room at an entertainment venue reserved for honored guests",
+          "example": "Celebrities mingled and sipped vintage cocktails in the VIP lounge before the stadium concert."
+        },
+        {
+          "word": "SWEEPS",
+          "meaning": "Designated monthly periods when television ratings are monitored to set future advertising rates",
+          "example": "Networks pulled out all the stops during May sweeps with sensational guest stars and weddings."
+        },
+        {
+          "word": "BLOCKING",
+          "meaning": "Precise staging and planned movement of actors across the performance space",
+          "example": "The director mapped out the blocking to ensure the arguing characters remained visible."
+        },
+        {
+          "word": "UNBOXING",
+          "meaning": "Video genre where a person unpacks newly purchased commercial tech or collectible products",
+          "example": "Over a million viewers watched the live unboxing of the limited-edition gaming console."
+        },
+        {
+          "word": "MIRRORBALL",
+          "meaning": "Revolving mirrored ball casting thousands of shimmering light reflections around venues",
+          "example": "A gigantic mirror ball suspended from the arena ceiling turned the venue into an enchanted galaxy."
+        }
+      ]
+    },
+    {
+      "levelNumber": 21,
+      "title": "Entertainment Level 21",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "MPPLAYER",
+          "meaning": "Handheld digital audio device storing and playing compressed audio files on flash memory",
+          "example": "The sleek digital MP3 player held a thousand songs in a device smaller than a deck of cards."
+        },
+        {
+          "word": "SNICKER",
+          "meaning": "Smothered, half-suppressed laugh often showing disrespect or mischievous glee",
+          "example": "Students tried to stifle snickers when the strict headmaster toupee slipped sideways."
+        },
+        {
+          "word": "TECHNICOLOR",
+          "meaning": "Pioneering color motion picture process famous for hyper-saturated vivid hues",
+          "example": "The dazzling yellow brick road and emerald towers radiated in glorious three-strip Technicolor."
+        },
+        {
+          "word": "STAGEPRESENCE",
+          "meaning": "Compelling quality or commanding aura that an actor projects to an audience on stage",
+          "example": "Even standing motionless in the shadows, the veteran actor possessed magnetic stage presence."
+        },
+        {
+          "word": "SLASHER",
+          "meaning": "Horror film subgenre involving a serial killer stalking and murdering victims with blades",
+          "example": "The 1980s slasher movie featured a masked killer terrorizing teenagers at a summer camp."
+        },
+        {
+          "word": "CLOWNING",
+          "meaning": "Art of performing physical comedy, exaggerated gestures, and playful foolishness",
+          "example": "Trained in European theatrical clowning, the performer found profound emotion in simple gags."
+        },
+        {
+          "word": "PAPARAZZI",
+          "meaning": "Freelance photographers who aggressively pursue celebrities to take candid photographs",
+          "example": "Flashing paparazzi cameras swarmed around the actress as she exited the private restaurant."
+        },
+        {
+          "word": "PROPMASTER",
+          "meaning": "Crew member responsible for obtaining, cataloging, and maintaining all handheld props",
+          "example": "The prop master handed the lead actor a rubber stunt revolver and prop police badge."
+        },
+        {
+          "word": "MINUET",
+          "meaning": "Slow, stately ballroom dance in triple meter popular throughout 18th-century European courts",
+          "example": "Couples bowed gracefully in ornate powdered wigs during the ceremonial court minuet."
+        },
+        {
+          "word": "BACKSTAGEPASS",
+          "meaning": "Credential granting authorized access to private areas behind the concert stage",
+          "example": "A laminated VIP backstage pass allowed the photographer to enter the greenroom wings."
+        },
+        {
+          "word": "TELENOVELA",
+          "meaning": "Limited-run Latin American soap opera broadcast during prime evening television hours",
+          "example": "Passionate betrayals and family fortunes collided across the ninety episodes of the hit telenovela."
+        }
+      ]
+    },
+    {
+      "levelNumber": 22,
+      "title": "Entertainment Level 22",
+      "gridRows": 16,
+      "gridCols": 16,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "MUSICFEST",
+          "meaning": "Multi-day outdoor gathering celebrating live bands, DJs, food, and arts across stages",
+          "example": "Camping tents dotted the green valley as eighty thousand music fans gathered for the annual music fest."
+        },
+        {
+          "word": "TUNINGFORK",
+          "meaning": "Two-pronged steel acoustic resonator struck to produce a pure reference pitch",
+          "example": "The choir director struck the stainless steel tuning fork against her palm to sound middle C."
+        },
+        {
+          "word": "COOPMODE",
+          "meaning": "Multiplayer mode where players cooperate together as teammates against game obstacles",
+          "example": "Brothers teamed up on split-screen co-op mode to complete the alien invasion campaign."
+        },
+        {
+          "word": "CROSSCUT",
+          "meaning": "Editing technique cutting back and forth between separate scenes occurring simultaneously",
+          "example": "Tension mounted as crosscuts showed the countdown timer and the rescue team rushing in."
+        },
+        {
+          "word": "SONGWRITER",
+          "meaning": "Person who writes the lyrics and musical melodies of songs for performance",
+          "example": "The Nashville songwriter penned chart-topping country ballads in her home studio."
+        },
+        {
+          "word": "SERIESFINALE",
+          "meaning": "Final concluding episode marking the permanent conclusion of an entire television show",
+          "example": "Over fifty million viewers gathered around screens to bid farewell to the iconic series finale."
+        },
+        {
+          "word": "FADEIN",
+          "meaning": "Visual transition where a dark black screen gradually brightens into a visible shot",
+          "example": "The mystery began with a slow fade-in revealing a fog-shrouded Victorian cobblestone street."
+        },
+        {
+          "word": "WIPE",
+          "meaning": "Film transition where one shot appears to wipe across and push the previous shot off screen",
+          "example": "Classic adventure serials frequently used starburst and diagonal wipes between chapters."
+        },
+        {
+          "word": "SHOOTINGGALLERY",
+          "meaning": "Carnival game stall where players shoot air rifles at targets to win plush prizes",
+          "example": "He hit three swinging tin ducks at the shooting gallery to win the gigantic plush teddy bear."
+        },
+        {
+          "word": "GUFFAW",
+          "meaning": "Loud, boisterous, and unrestrained burst of hearty full-bellied laughter",
+          "example": "A hilarious physical pratfall by the comedian drew roaring guffaws from the entire back row."
+        },
+        {
+          "word": "DEPTHOFFIELD",
+          "meaning": "Distance between the nearest and farthest objects in a scene appearing sharp and in focus",
+          "example": "A shallow depth of field blurred the background into dreamy bokeh behind the actress."
+        }
+      ]
+    },
+    {
+      "levelNumber": 23,
+      "title": "Entertainment Level 23",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "PREQUEL",
+          "meaning": "Story portraying events that precede those of an existing established narrative work",
+          "example": "The prequel explored the tragic early youth and training of the legendary space villain."
+        },
+        {
+          "word": "MOCKUMENTARY",
+          "meaning": "Satirical motion picture presented in documentary style to parody real events or subcultures",
+          "example": "This is Spinal Tap is celebrated as the defining mockumentary of heavy metal rock culture."
+        },
+        {
+          "word": "BATTEN",
+          "meaning": "Long metal pipe suspended overhead above a stage used for hanging lights and scenery",
+          "example": "Electricians hung thirty stage lights along the overhead steel lighting batten."
+        },
+        {
+          "word": "WAVEPOOL",
+          "meaning": "Swimming pool equipped with pneumatic machines creating artificial ocean-like surf waves",
+          "example": "A loud horn signaled the start of four-foot artificial rolling breakers in the resort wave pool."
+        },
+        {
+          "word": "BOOMOPERATOR",
+          "meaning": "Sound technician responsible for positioning microphones on long poles near actors",
+          "example": "The boomoperator stretched the carbon-fiber boom pole just out of the top of the frame."
+        },
+        {
+          "word": "STAGECURTAIN",
+          "meaning": "Heavy velvet drapery separating the auditorium audience from the backstage performance area",
+          "example": "The ornate gold-fringed stage curtain parted smoothly as the overture concluded."
+        },
+        {
+          "word": "PANTOMIME",
+          "meaning": "Theatrical entertainment featuring physical comedy, fairy tales, and audience interaction",
+          "example": "British Christmas pantomimes encouraged children to shout 'He's behind you!' at the stage."
+        },
+        {
+          "word": "BUMPERCARS",
+          "meaning": "Amusement park attraction where riders drive small rubber-buffered electric cars into each other",
+          "example": "Laughter echoed across the rink as drivers bumped and spun away in colorful bumper cars."
+        },
+        {
+          "word": "PUBLICIST",
+          "meaning": "Professional responsible for generating, shaping, and managing publicity for clients",
+          "example": "The Hollywood publicist arranged prime morning talk show appearances to promote the movie."
+        },
+        {
+          "word": "MAINSTREAM",
+          "meaning": "Principal current of thought, style, or cultural activity accepted by majority audiences",
+          "example": "The experimental underground punk band eventually crossed over into mainstream pop radio success."
+        },
+        {
+          "word": "LAMPOON",
+          "meaning": "Publicly criticize using ridicule, irony, or sarcasm in a humorous published form",
+          "example": "The college satirical magazine lampooned university policies and campus politics gleefully."
+        }
+      ]
+    },
+    {
+      "levelNumber": 24,
+      "title": "Entertainment Level 24",
+      "gridRows": 13,
+      "gridCols": 13,
+      "difficulty": "hard",
+      "words": [
+        {
+          "word": "SLEEPERHIT",
+          "meaning": "Entertainment work that gains immense commercial success gradually with little initial promo",
+          "example": "Word-of-mouth praise propelled the low-budget horror film into a seventy-million-dollar sleeper hit."
+        },
+        {
+          "word": "KEYGRIP",
+          "meaning": "Supervisor in charge of camera equipment rigging, dollies, cranes, and light diffusers",
+          "example": "The key grip rigged a camera mount securely onto the hood of the moving chase car."
+        },
+        {
+          "word": "HIGHFALL",
+          "meaning": "Stunt where a performer drops from a significant height landing into specialized air bags",
+          "example": "The stuntman executed a breathtaking eighty-foot high fall from the burning bell tower."
+        },
+        {
+          "word": "TRAPDOOR",
+          "meaning": "Concealed opening in the stage floor through which actors or objects appear or vanish",
+          "example": "The Wicked Witch vanished in a puff of sulfurous smoke through the stage trapdoor."
+        },
+        {
+          "word": "GAFFER",
+          "meaning": "Head electrician responsible for the execution of the lighting plan on film sets",
+          "example": "The gaffer conferred with the director of photography to position five high-output HMIs."
+        },
+        {
+          "word": "FINALCUT",
+          "meaning": "Finished and approved edit of a motion picture ready for distribution and release",
+          "example": "The legendary filmmaker insisted on contractual final cut privilege before signing on."
+        },
+        {
+          "word": "CARAMELCORN",
+          "meaning": "Popcorn coated in a sweet, crunchy layer of caramelized sugar and melted butter",
+          "example": "Warm bags of fresh caramel corn filled the carnival boardwalk with rich molasses aromas."
+        },
+        {
+          "word": "STUNTDOUBLE",
+          "meaning": "Performer who closely resembles a lead actor taking their place during dangerous scenes",
+          "example": "The stunt double donned an identical blonde wig before filming the fifty-foot waterfall plunge."
+        },
+        {
+          "word": "ANCHORWOMAN",
+          "meaning": "Female journalist who coordinates and presents reports on a television news broadcast",
+          "example": "The veteran anchorwoman delivered breaking news with calm authority and journalistic integrity."
+        },
+        {
+          "word": "VOICEACTING",
+          "meaning": "Art of providing character voices for animated films, dubbed cinema, and audio projects",
+          "example": "Her remarkable voice acting range brought three completely distinct cartoon personalities to life."
+        },
+        {
+          "word": "UNDERSTUDY",
+          "meaning": "Actor who learns another performer role in order to step in during emergencies",
+          "example": "The young understudy triumphed on Broadway when the lead fell ill on opening night."
+        }
+      ]
+    },
+    {
+      "levelNumber": 25,
+      "title": "Entertainment Level 25",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "TELEPATHIST",
+          "meaning": "Performer professing to read minds, transmit thoughts, and reveal hidden information",
+          "example": "The telepathist correctly guessed the serial number on an audience dollar bill blindfolded."
+        },
+        {
+          "word": "BOOMMIC",
+          "meaning": "Directional microphone mounted on an adjustable long pole extended over actors",
+          "example": "Careful positioning of the boom mic captured whisper-quiet dialogue without camera shadows."
+        },
+        {
+          "word": "CROWDSURFING",
+          "meaning": "Act of passing a person lying prone overhead from hand to hand over a concert crowd",
+          "example": "The euphoric fan dove from the stage barrier and went crowd surfing toward the mixing desk."
+        },
+        {
+          "word": "CALLSHEET",
+          "meaning": "Daily schedule sent to cast and crew detailing call times, scenes, and stage locations",
+          "example": "Actors checked the evening call sheet to see their sunrise reporting time at the soundstage."
+        },
+        {
+          "word": "LEADINGMAN",
+          "meaning": "Actor who plays the principal romantic or heroic protagonist role in motion pictures",
+          "example": "Charming screen presence and charisma made him Hollywood most sought-after leading man."
+        },
+        {
+          "word": "INTERMEZZO",
+          "meaning": "Short musical composition connecting parts of a larger work or played between opera acts",
+          "example": "A poignant string intermezzo bridged the emotional transition between the tragic acts."
+        },
+        {
+          "word": "PROSCENIUM",
+          "meaning": "Arch or frame separating the stage from the auditorium audience in traditional theaters",
+          "example": "The gilded proscenium arch framed the elaborate drawing room set of the Broadway comedy."
+        },
+        {
+          "word": "ENTOURAGE",
+          "meaning": "Group of associates, assistants, stylists, and bodyguards accompanying a celebrity",
+          "example": "The pop superstar moved through the hotel lobby flanked by her bustling personal entourage."
+        },
+        {
+          "word": "WIREFIGHTING",
+          "meaning": "Martial arts stunt technique suspending actors on cables to perform superhuman leaps",
+          "example": "Hong Kong cinema revolutionized action with wire fighting allowing warriors to duel in treetops."
+        },
+        {
+          "word": "HEARTTHROB",
+          "meaning": "Male celebrity admired and idolized for attractive looks and romantic appeal",
+          "example": "Posters of the teen heartthrob adorned bedroom walls across the country in the early 2000s."
+        },
+        {
+          "word": "AUTEUR",
+          "meaning": "Filmmaker whose personal creative vision controls all aspects of a movie",
+          "example": "The French New Wave celebrated Hitchcock as a quintessential cinematic auteur."
+        },
+        {
+          "word": "KARAOKEMIC",
+          "meaning": "Portable microphone with built-in echo effects used for singing along to instrumental tracks",
+          "example": "Friends passed around the wireless karaoke mic while belting out pop anthems late into the night."
+        },
+        {
+          "word": "CONFETTICANNON",
+          "meaning": "Device using compressed gas to blast thousands of colorful paper flakes over crowds",
+          "example": "The stadium climax triggered a blast from forty confetti cannons, showering fans in gold paper."
+        }
+      ]
+    },
+    {
+      "levelNumber": 26,
+      "title": "Entertainment Level 26",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "CLARINETIST",
+          "meaning": "Musician who plays the single-reed woodwind instrument in orchestras and jazz bands",
+          "example": "The jazz clarinetist launched into a soaring, joyful glissando to open the show."
+        },
+        {
+          "word": "UPSTAGE",
+          "meaning": "Area of the stage farthest away from the audience toward the back scenery wall",
+          "example": "He lingered upstage in the shadows while the primary lovers conversed near the footlights."
+        },
+        {
+          "word": "PREVIEWNIGHT",
+          "meaning": "Theatrical performance staged before official opening night to test live audience flow",
+          "example": "Audience laughter during preview night helped the playwright tighten the timing of comic cues."
+        },
+        {
+          "word": "CABARETREVUE",
+          "meaning": "Variety show combining song, dance, sketch comedy, and acrobatics in club atmospheres",
+          "example": "The decadent Berlin cabaret revue captivated nightclub patrons with sultry jazz and political satire."
+        },
+        {
+          "word": "CORRESPONDENT",
+          "meaning": "Journalist reporting on specialized topics or from distant international locations",
+          "example": "The foreign correspondent reported live from a rain-swept summit in Geneva on world trade."
+        },
+        {
+          "word": "ONELINER",
+          "meaning": "Short joke consisting of a single concise sentence containing both setup and punchline",
+          "example": "The legendary deadpan comic delivered rapid-fire one-liners with an unblinking straight face."
+        },
+        {
+          "word": "ORCHESTRAPIT",
+          "meaning": "Sunken area in front of a stage where the live orchestra performs unseen",
+          "example": "A live thirty-piece orchestra played soaring overtures from the sunken orchestrapit."
+        },
+        {
+          "word": "DOCUDRAMA",
+          "meaning": "Dramatized film or television production based on real historical events and people",
+          "example": "The compelling docudrama recreated the tense negotiations behind the 1962 missile crisis."
+        },
+        {
+          "word": "ENTRACTE",
+          "meaning": "Interval between two acts of a play, opera, or ballet, or music played during it",
+          "example": "A lively orchestral entracte energized the auditorium before the curtain rose on Act Two."
+        },
+        {
+          "word": "REDCARPET",
+          "meaning": "Formal crimson runner rolled out for VIPs, celebrities, and nominees arriving at galas",
+          "example": "Fashion photographers clamored along the velvet ropes as celebrities walked the red carpet."
+        },
+        {
+          "word": "SHOWBIZ",
+          "meaning": "Informal popular term for the entire commercial entertainment and performing industry",
+          "example": "She had big dreams of making it in the competitive world of New York showbiz."
+        },
+        {
+          "word": "SUBTITLE",
+          "meaning": "Text displayed at the bottom of the screen translating foreign spoken dialogue",
+          "example": "Watching foreign art house cinema with descriptive English subtitles expanded his palate."
+        },
+        {
+          "word": "PODCASTER",
+          "meaning": "Creator or host who produces downloadable episodic audio programs on specific topics",
+          "example": "The independent podcaster grew an audience of millions interviewing historians and scientists."
+        }
+      ]
+    },
+    {
+      "levelNumber": 27,
+      "title": "Entertainment Level 27",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "WEBISODE",
+          "meaning": "Short episode of a television series produced specifically for streaming on online platforms",
+          "example": "The promotional comedy webisodes followed two side characters between official television seasons."
+        },
+        {
+          "word": "SCREENPLAY",
+          "meaning": "Written script for a film including descriptions of scenes, dialogue, and camera cues",
+          "example": "The writer won an Academy Award for her witty, dialogue-driven original screenplay."
+        },
+        {
+          "word": "MATINEE",
+          "meaning": "Afternoon theatrical or cinema performance held prior to the primary evening show",
+          "example": "Grandparents took the children to see the colorful Disney musical at the Saturday matinee."
+        },
+        {
+          "word": "PYROTECHNICS",
+          "meaning": "Controlled deployment of fireworks, explosions, and flame effects for entertainment",
+          "example": "Dramatic stage pyrotechnics shot towering fire fountains behind the rock band grand finale."
+        },
+        {
+          "word": "ROLLERCOASTER",
+          "meaning": "Elevated railway track with sharp curves and steep drops ridden in open cars for thrills",
+          "example": "Riders screamed in exhilaration as the inverted steel rollercoaster plummeted down a ninety-degree drop."
+        },
+        {
+          "word": "STEPANDREPEAT",
+          "meaning": "Backdrop banner covered with sponsor logos where stars pose for red-carpet photos",
+          "example": "Photographers lined up opposite the step and repeat backdrop snapping celebrity arrivals."
+        },
+        {
+          "word": "CLIFFHANGER",
+          "meaning": "Dramatic ending leaving characters in a precarious unresolved predicament",
+          "example": "The season finale ended on an excruciating cliffhanger as the secret identity was revealed."
+        },
+        {
+          "word": "FILMNOIR",
+          "meaning": "Style of cinema characterized by cynical heroes, dark shadows, urban crime, and moral ambiguity",
+          "example": "Venetian blinds cast striped shadows across the detective desk in classic 1940s film noir."
+        },
+        {
+          "word": "CELEBRITY",
+          "meaning": "Famous or celebrated person, especially in the entertainment, sports, or arts worlds",
+          "example": "Paparazzi waited outside the premiere hoping to snap photos of every arriving A-list celebrity."
+        },
+        {
+          "word": "CARICATURIST",
+          "meaning": "Artist who exaggerates personal physical traits in drawings for humorous effect",
+          "example": "Carnival caricaturists drew tourists with gigantic smiles and microscopic bodies in minutes."
+        },
+        {
+          "word": "SLAPSTICK",
+          "meaning": "Comedy based on deliberately clumsy actions, mild mishaps, and physical falls",
+          "example": "Slipping on banana peels and hurling cream pies are timeless hallmarks of vintage slapstick."
+        },
+        {
+          "word": "DIAGETIC",
+          "meaning": "Sound whose source is visible or implied within the story world of the film characters",
+          "example": "The car radio playing jazz was diegetic sound that characters inside the vehicle heard."
+        },
+        {
+          "word": "VIRALVIDEO",
+          "meaning": "Video recording that becomes extraordinarily popular through rapid internet sharing",
+          "example": "The video of the skateboarding bulldog became a global viral video with fifty million shares."
+        }
+      ]
+    },
+    {
+      "levelNumber": 28,
+      "title": "Entertainment Level 28",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "TRENDINGTOPIC",
+          "meaning": "Subject or hashtag that experiences a sudden surge in popularity on social networks",
+          "example": "The shocking twist ending in the season premiere became the top worldwide trending topic within minutes."
+        },
+        {
+          "word": "TROUPE",
+          "meaning": "Ensemble company of theatrical actors, acrobats, or entertainers touring together",
+          "example": "A traveling Shakespearean troupe performed repertoire plays under canvas tents across towns."
+        },
+        {
+          "word": "BOXOFFICE",
+          "meaning": "Commercial ticket sales of a film or theater show measuring financial success",
+          "example": "Opening weekend box office figures shattered franchise records across global theaters."
+        },
+        {
+          "word": "MONTAGE",
+          "meaning": "Editing technique assembling a series of short shots into a condensed thematic sequence",
+          "example": "A high-energy training montage showed the boxer running steps and sparring to upbeat rock."
+        },
+        {
+          "word": "DAILIES",
+          "meaning": "Raw, unedited footage shot during the previous filming day viewed by the director",
+          "example": "The director and editor reviewed the morning dailies to ensure they had adequate coverage."
+        },
+        {
+          "word": "JUNKET",
+          "meaning": "Promotional media event where journalists conduct back-to-back interviews with stars",
+          "example": "During the worldwide press junket, the cast gave fifty television interviews over two days."
+        },
+        {
+          "word": "WHODUNIT",
+          "meaning": "Mystery story or film focusing on an investigation to uncover the identity of a murderer",
+          "example": "The classic parlor whodunit assembled all seven eccentric suspects in the library."
+        },
+        {
+          "word": "CURTAINCALL",
+          "meaning": "Appearance of performers at the end of a theatrical show to receive audience applause",
+          "example": "The cast bowed hand-in-hand through four enthusiastic curtain calls to a cheering house."
+        },
+        {
+          "word": "PRESSBADGE",
+          "meaning": "Laminated pass granting journalists and photographers official entry to media events",
+          "example": "Wearing his press badge on a lanyard, the reporter bypassed security lines to enter the red carpet."
+        },
+        {
+          "word": "FIREJUGGLER",
+          "meaning": "Circus entertainer who manipulates, tosses, and catches flaming torches in synchronized patterns",
+          "example": "The street fire juggler spun three burning torches through the midnight air without dropping one."
+        },
+        {
+          "word": "CHUCKLE",
+          "meaning": "Quiet or suppressed laugh of mild amusement or quiet recognition",
+          "example": "A dry ironic observation in the monologue drew warm chuckles from the front row patrons."
+        },
+        {
+          "word": "SPECIALFX",
+          "meaning": "Illusions or visual tricks utilized in film, television, and theater to simulate events",
+          "example": "Practical special fx including squibs and fog machines gave the action scene gritty reality."
+        },
+        {
+          "word": "FIREBREATHER",
+          "meaning": "Performer who blows mist of flammable fuel across an open flame creating fire plumes",
+          "example": "Crowds gasped as the firebreather projected a fifteen-foot column of roaring orange fire."
+        }
+      ]
+    },
+    {
+      "levelNumber": 29,
+      "title": "Entertainment Level 29",
+      "gridRows": 16,
+      "gridCols": 16,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "LIBRETTO",
+          "meaning": "Text of an opera or other long vocal work detailing dialogue and stage cues",
+          "example": "Scholars translated the Italian libretto of the Mozart opera for English surtitles."
+        },
+        {
+          "word": "ARCADEGAME",
+          "meaning": "Coin-operated entertainment machine installed in public amusement venues and parlors",
+          "example": "Teenagers dropped quarters into the vintage 1980s arcade game to battle alien invaders."
+        },
+        {
+          "word": "SIDEQUEST",
+          "meaning": "Optional secondary mission in adventure games offering rewards outside the main story",
+          "example": "Exploring the enchanted forest unlocked a lucrative side quest to rescue a lost mythical griffin."
+        },
+        {
+          "word": "STAGELEFT",
+          "meaning": "Side of the stage to the left of an actor facing toward the audience",
+          "example": "The mysterious detective exited through French doors situated stage left."
+        },
+        {
+          "word": "NOMINATION",
+          "meaning": "Official formal proposal or selection of an artist as a candidate for an honor or award",
+          "example": "The indie drama earned seven prestigious Oscar nominations including Best Picture and Director."
+        },
+        {
+          "word": "RIFFING",
+          "meaning": "Improvising humorous commentary or banter spontaneously without scripted material",
+          "example": "The comedy duo entertained the crowd by riffing back and forth on an eccentric billboard ad."
+        },
+        {
+          "word": "STARLET",
+          "meaning": "Young aspiring actress promoted as a glamorous rising star in the film industry",
+          "example": "Classic Hollywood studios groomed promising young starlets in elocution, dance, and modeling."
+        },
+        {
+          "word": "MAGICWAND",
+          "meaning": "Slender stick used by stage magicians as a theatrical focal point for casting illusions",
+          "example": "With a dramatic tap of his black-and-white magic wand, the silk top hat produced a white rabbit."
+        },
+        {
+          "word": "QUICKCHANGE",
+          "meaning": "Extremely rapid costume change executed by an actor in the wings between scenes",
+          "example": "Dressers helped the leading lady execute a fifteen-second quick change from pajamas into an evening gown."
+        },
+        {
+          "word": "METHODACTING",
+          "meaning": "Technique where an actor aspires to complete emotional identification with a role",
+          "example": "Method acting led the performer to live on a remote farm for months to inhabit the character."
+        },
+        {
+          "word": "GREENSCREEN",
+          "meaning": "Bright green backdrop behind actors later replaced with digital background footage",
+          "example": "Actors performed dramatic flight stunts suspended by wires in front of a giant green screen."
+        },
+        {
+          "word": "PRESTIDIGITATOR",
+          "meaning": "Magician skilled in sleight of hand, conjuring, and manual dexterity tricks",
+          "example": "The dapper prestidigitator extracted four live doves and silver coins from empty silk scarves."
+        },
+        {
+          "word": "LAUGHTRACK",
+          "meaning": "Pre-recorded audio track of audience laughter dubbed into television comedies",
+          "example": "Early television comedies utilized artificial laugh tracks to prompt viewer giggles at home."
+        }
+      ]
+    },
+    {
+      "levelNumber": 30,
+      "title": "Entertainment Level 30",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "MENTALIST",
+          "meaning": "Entertainer demonstrating highly developed intuitive abilities, mind reading, and hypnosis",
+          "example": "Through psychological observation and suggestion, the mentalist predicted every volunteer choice."
+        },
+        {
+          "word": "BASSOONIST",
+          "meaning": "Musician who plays the large, low-pitched double-reed woodwind instrument in symphonies",
+          "example": "Warm, woody bass lines emanated from the bassoonist seated behind the clarinets."
+        },
+        {
+          "word": "CONCERTMASTER",
+          "meaning": "First violinist of an orchestra who tunes the ensemble and plays violin solos",
+          "example": "The concertmaster walked onstage to warm applause and signaled the oboist to sound an A."
+        },
+        {
+          "word": "DUBBING",
+          "meaning": "Process of adding or replacing dialogue tracks in a film in a different language",
+          "example": "Flawless foreign language dubbing matched the rhythmic lip flaps of the original actors."
+        },
+        {
+          "word": "SOAPOPERA",
+          "meaning": "Daytime television drama serial characterized by melodramatic plots and romance",
+          "example": "Decades of tangled family feuds, secret twins, and dramatic comas fueled the daily soap opera."
+        },
+        {
+          "word": "BOOMBOX",
+          "meaning": "Portable stereo cassette and radio player with powerful built-in speakers popular in the 80s",
+          "example": "Breakdancers balanced a blaring silver boombox on cardboard street mats in 1984."
+        },
+        {
+          "word": "SCENECHANGE",
+          "meaning": "Act of shifting scenery, backdrops, and stage props between different dramatic acts",
+          "example": "Stagehands executed a seamless thirty-second scene change in darkness while music played."
+        },
+        {
+          "word": "LEVITATION",
+          "meaning": "Stage illusion where a person or object appears to float unsupported in mid-air",
+          "example": "A velvet hoop passed around the floating assistant proved the astonishing levitation illusion."
+        },
+        {
+          "word": "BOSSLEVEL",
+          "meaning": "Climax stage of a video game featuring a powerful formidable enemy challenge",
+          "example": "Defeating the fire-breathing dragon required memorizing attack patterns on the final boss level."
+        },
+        {
+          "word": "ACCOLADE",
+          "meaning": "Award, honor, or expression of praise conferring supreme artistic admiration",
+          "example": "The groundbreaking Broadway musical garnered universal critical accolades and ten Tonys."
+        },
+        {
+          "word": "TROUBADOUR",
+          "meaning": "Traveling medieval singer and poet who composed and performed songs of chivalric love",
+          "example": "Courtly love and chivalric romance were immortalized in the verses of the 12th-century troubadour."
+        },
+        {
+          "word": "VIRTUALWORLD",
+          "meaning": "Computer-simulated 3D online environment where users interact via digital avatars",
+          "example": "Millions of players built fantastical castles and held virtual gatherings across the online virtual world."
+        },
+        {
+          "word": "CULTCLASSIC",
+          "meaning": "Film that acquires a passionate, highly dedicated fanbase despite modest box office release",
+          "example": "The quirky midnight sci-fi comedy bombed initially but became a beloved global cult classic."
+        }
+      ]
+    },
+    {
+      "levelNumber": 31,
+      "title": "Entertainment Level 31",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "PLAYBILL",
+          "meaning": "Printed theater program or poster advertising a production and listing cast bios",
+          "example": "Theatergoers saved their glossy playbills as cherished souvenirs from Broadway productions."
+        },
+        {
+          "word": "ROTOSCOPE",
+          "meaning": "Animation technique tracing over live-action motion picture footage frame by frame",
+          "example": "Animators rotoscoped dancers to replicate graceful human anatomical movement in cartoons."
+        },
+        {
+          "word": "BIGTOP",
+          "meaning": "Main tent of a traveling circus housing the performance rings and grandstands",
+          "example": "Striped red-and-white canvas of the colossal big top rose high above the fairground field."
+        },
+        {
+          "word": "CHARACTERACTOR",
+          "meaning": "Actor who specializes in playing eccentric, unusual, or distinctive supporting roles",
+          "example": "The veteran character actor stole every scene playing the eccentric antique dealer."
+        },
+        {
+          "word": "SOUNDBITE",
+          "meaning": "Short extracted audio clip from a recorded interview chosen for pithy punchiness",
+          "example": "The politician speech was edited into a ten-second sound bite for the evening news broadcast."
+        },
+        {
+          "word": "THEMESONG",
+          "meaning": "Signature musical piece played during the opening credits identifying a program",
+          "example": "Whistling the catchy comedy theme song brought back memories of childhood Saturday mornings."
+        },
+        {
+          "word": "MARIONETTE",
+          "meaning": "Puppet manipulated from above using strings or wires attached to its limbs",
+          "example": "The master puppeteer skillfully manipulated twenty strings to make the wooden marionette dance."
+        },
+        {
+          "word": "LIVETELEVISION",
+          "meaning": "Real-time unedited television broadcast aired simultaneously as events unfold",
+          "example": "Historic rocket launches and global sports tournaments are experienced via live television."
+        },
+        {
+          "word": "TALENTAGENT",
+          "meaning": "Representative who finds employment and negotiates contracts for actors and artists",
+          "example": "Her talent agent secured a lucrative multi-picture contract with the major streaming studio."
+        },
+        {
+          "word": "CONTENTCREATOR",
+          "meaning": "Individual who produces entertaining or educational media material for digital platforms",
+          "example": "Independent content creators monetize their creative videos and tutorials through platform partnerships."
+        },
+        {
+          "word": "VIRTUALREALITY",
+          "meaning": "Immersive computer-generated environment experienced through a head-mounted display",
+          "example": "Putting on the virtual reality headset transported the user onto the edge of a virtual space station."
+        },
+        {
+          "word": "SOUNDSTAGE",
+          "meaning": "Soundproof hangar-like building used for filming movie and television productions",
+          "example": "A massive two-story spaceship interior was constructed across Soundstage 4 on the lot."
+        },
+        {
+          "word": "SONATINA",
+          "meaning": "Short or relatively simple sonata composition in classical instrumental music",
+          "example": "Music students practiced Clementi lively classical sonatinas to master finger dexterity."
+        }
+      ]
+    },
+    {
+      "levelNumber": 32,
+      "title": "Entertainment Level 32",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "JUGGLINGPINS",
+          "meaning": "Club-shaped props weighted and balanced specifically for juggling tosses and catches",
+          "example": "Six wooden juggling pins flew back and forth in a synchronized cross-pattern between the acrobats."
+        },
+        {
+          "word": "SWORDDANCER",
+          "meaning": "Dancer performing intricate rhythmic movements balancing sharp swords on their head",
+          "example": "The folkloric sword dancer spun across the stage balancing a polished scimitar across her brow."
+        },
+        {
+          "word": "DRUMROLL",
+          "meaning": "Rapid succession of drumbeats creating suspense or heralding dramatic announcements",
+          "example": "A crisp snare drumroll silenced the crowd right before the daring aerial leap."
+        },
+        {
+          "word": "IRISOUT",
+          "meaning": "Old-fashioned film transition where a circular mask closes down around a subject",
+          "example": "Silent slapstick comedies often closed on the protagonist wink before an iris-out."
+        },
+        {
+          "word": "CHROMAKEY",
+          "meaning": "Visual effects technique compositing two images together based on color hue separation",
+          "example": "Weather forecasters stand in front of chromakey walls displaying digital weather maps."
+        },
+        {
+          "word": "FRESNEL",
+          "meaning": "Lantern with a stepped lens casting a soft-edged wash of adjustable light",
+          "example": "The lighting designer used twenty warm fresnel fixtures to flood the porch with amber light."
+        },
+        {
+          "word": "FRONTROW",
+          "meaning": "Seating arrangement positioned closest to the performance stage or movie screen",
+          "example": "Sitting in the front row allowed theatergoers to see the raw emotional tears of the actors."
+        },
+        {
+          "word": "LIVESTREAM",
+          "meaning": "Real-time video transmission over the internet allowing immediate interactive chat",
+          "example": "Gamers broadcast their playthroughs to thousands of active viewers via interactive live streams."
+        },
+        {
+          "word": "LOGFLUME",
+          "meaning": "Water thrill ride carrying passengers in hollowed-out log boats down steep splash flumes",
+          "example": "Everyone sitting in the front row of the log flume ride was drenched by the final tidal splash."
+        },
+        {
+          "word": "FLOURISH",
+          "meaning": "Decorative visual display of dexterity with playing cards or magic props demonstrating skill",
+          "example": "The close-up sleight-of-hand magician executed an intricate one-handed card flourish."
+        },
+        {
+          "word": "CALLIOPE",
+          "meaning": "Musical instrument producing sound by sending steam through whistles played from keyboards",
+          "example": "Loud, whistling calliope melodies played continuously from the steam carousel in the park."
+        },
+        {
+          "word": "GELFILTER",
+          "meaning": "Colored transparent plastic sheet placed over stage spotlights to tint lighting colors",
+          "example": "Placing deep blue gel filters over the overhead spotlights transformed the stage into midnight."
+        },
+        {
+          "word": "BESTBOY",
+          "meaning": "Chief assistant to the gaffer or key grip managing equipment and crew logistics",
+          "example": "The best boy electric organized cable runs and managed power distribution for the night shoot."
+        }
+      ]
+    },
+    {
+      "levelNumber": 33,
+      "title": "Entertainment Level 33",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "HUMORIST",
+          "meaning": "Writer or performer who uses witty irony, exaggeration, and satire to entertain",
+          "example": "Mark Twain was celebrated as America greatest humorist for his sharp cultural observations."
+        },
+        {
+          "word": "SPINOFF",
+          "meaning": "Narrative work derived from an existing work focusing on a popular secondary character",
+          "example": "A fan-favorite bounty hunter received his own streaming spinoff series following the finale."
+        },
+        {
+          "word": "FASTMOTION",
+          "meaning": "Photographic technique where actions appear to occur much faster than in reality",
+          "example": "Early silent slapstick chases were recorded in under-cranked fast motion to heighten comedy."
+        },
+        {
+          "word": "LAUREATE",
+          "meaning": "Person honored with a supreme award or recognition in the arts or humanities",
+          "example": "The Nobel laureate in literature delivered a profound keynote lecture on the power of stories."
+        },
+        {
+          "word": "FADEOUT",
+          "meaning": "Gradual darkening of a film image until the screen becomes solid black",
+          "example": "The tragic final scene ended with a melancholic fade-out accompanied by a solo trumpet."
+        },
+        {
+          "word": "RINGMASTER",
+          "meaning": "Master of ceremonies who introduces acts in a traditional circus arena",
+          "example": "Dressed in a scarlet tailcoat and top hat, the booming ringmaster shouted 'Welcome to the show!'"
+        },
+        {
+          "word": "FOGMACHINE",
+          "meaning": "Device emitting a dense harmless vapor simulating atmospheric smoke or eerie mist on stage",
+          "example": "Puffs of dense white vapor from the stage fog machine added theatrical mystery to the guitar solo."
+        },
+        {
+          "word": "AUTOCUE",
+          "meaning": "British brand name and term for teleprompter systems displaying scrolling presenter text",
+          "example": "A quick adjustment to the autocue speed kept pace with the prime minister speech delivery."
+        },
+        {
+          "word": "NEWSCASTER",
+          "meaning": "Television or radio presenter who reads news bulletins and current events reports",
+          "example": "The local newscaster reported traffic delays and weather radar maps every ten minutes."
+        },
+        {
+          "word": "DIRECTORSCUT",
+          "meaning": "Specially edited version of a film reflecting the director original artistic intent",
+          "example": "Fans celebrated the release of the director cut restoring twenty minutes of cut narrative."
+        },
+        {
+          "word": "SATIRIST",
+          "meaning": "Author or comedian who uses irony and ridicule to expose foolishness and social corruption",
+          "example": "Political satirists mocked political hypocrisy on late-night satirical news broadcasts."
+        },
+        {
+          "word": "FLUTIST",
+          "meaning": "Musician who plays the reedless aerophone woodwind flute in chamber ensembles",
+          "example": "Silver keynotes fluttered like birdsong as the symphony flutist played the solo passacaglia."
+        },
+        {
+          "word": "DRUMMER",
+          "meaning": "Musician who plays the drum kit, driving the rhythmic pulse of rock, jazz, and pop bands",
+          "example": "The rock drummer maintained a relentless four-on-the-floor driving beat through the arena anthem."
+        }
+      ]
+    },
+    {
+      "levelNumber": 34,
+      "title": "Entertainment Level 34",
+      "gridRows": 14,
+      "gridCols": 14,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "BINGEWATCHING",
+          "meaning": "Practice of watching multiple episodes of a television series back-to-back in rapid succession",
+          "example": "Rainy weekends were spent binge watching the entire ten-episode season of the fantasy epic."
+        },
+        {
+          "word": "HEADLINER",
+          "meaning": "Star performer or musical group whose name appears at the top of a festival bill",
+          "example": "Eighty thousand fans waited in the rain to see the world-famous festival headliner."
+        },
+        {
+          "word": "BURLESQUE",
+          "meaning": "Theatrical entertainment featuring parody, comic sketches, chorus dancers, and striptease",
+          "example": "Vintage burlesque spectacles paired witty satirical comedy with feathered fan dances."
+        },
+        {
+          "word": "PERCUSSIONIST",
+          "meaning": "Musician who plays rhythm and timekeeping instruments like timpani, cymbals, and chimes",
+          "example": "The versatile orchestral percussionist moved swiftly between triangle, gong, and snare drum."
+        },
+        {
+          "word": "SHOWRUNNER",
+          "meaning": "Leading producer with ultimate creative and management authority over a television series",
+          "example": "The showrunner mapped out the five-year story bible and presided over the writers room."
+        },
+        {
+          "word": "TRUMPETER",
+          "meaning": "Brass instrumentalist who plays the trumpet with brilliance and fanfare",
+          "example": "The virtuoso jazz trumpeter blew a fiery, brassy solo that brought the club to its feet."
+        },
+        {
+          "word": "FARCE",
+          "meaning": "Comic dramatic work using buffoonery, horseplay, and crude characterizations",
+          "example": "Slamming doors, mistaken identities, and lost trousers drove the frantic bedroom farce."
+        },
+        {
+          "word": "STORYBOARD",
+          "meaning": "Sequence of illustrations or drawings detailing planned camera shots for scenes",
+          "example": "Animators pinned color storyboards along the hallway wall to pitch the film story beats."
+        },
+        {
+          "word": "SIDESHOW",
+          "meaning": "Minor additional show or novelty exhibition accompanying a main circus or carnival",
+          "example": "Old-time sideshow banners advertised the fire-eater, sword-swallower, and human marvels."
+        },
+        {
+          "word": "DRAGQUEEN",
+          "meaning": "Performer who adopts an exaggerated theatrical persona of glamorous femininity on stage",
+          "example": "With towering sequined wigs and razor-sharp wit, the drag queen commanded the nightclub stage."
+        },
+        {
+          "word": "FANMAIL",
+          "meaning": "Letters and messages sent to public figures, actors, or musicians by their admirers",
+          "example": "The studio mailroom was flooded with thousands of bags of fan mail from teenage admirers."
+        },
+        {
+          "word": "SETLIST",
+          "meaning": "List of songs or musical pieces that a performer intends to play during a concert",
+          "example": "Fans clamored to grab the taped setlist from the edge of the stage after the encore."
+        },
+        {
+          "word": "MOTIONCAPTURE",
+          "meaning": "Recording the movements of live human actors to animate digital character models",
+          "example": "Wearing a suit covered with reflective tracking dots, the actor performed the digital monster."
+        }
+      ]
+    },
+    {
+      "levelNumber": 35,
+      "title": "Entertainment Level 35",
+      "gridRows": 15,
+      "gridCols": 15,
+      "difficulty": "expert",
+      "words": [
+        {
+          "word": "HARPIST",
+          "meaning": "Musician who plucks the triangular frame harp with forty-seven strings and seven pedals",
+          "example": "Sweeping glissandos cascaded like waterfalls under the delicate fingers of the symphony harpist."
+        },
+        {
+          "word": "WALKTHROUGH",
+          "meaning": "Step-by-step instructional guide or gameplay video showing how to complete a game",
+          "example": "Stuck on an intricate dungeon puzzle, she consulted a comprehensive online game walkthrough."
+        },
+        {
+          "word": "TECHREHEARSAL",
+          "meaning": "Rehearsal dedicated to coordinating scenery shifts, lighting cues, sound, and special effects",
+          "example": "The grueling tech rehearsal halted frequently to calibrate cue timings for the turntable stage."
+        },
+        {
+          "word": "STANDUPROUTINE",
+          "meaning": "Sequence of comedic jokes, anecdotes, and observations delivered by a stand-up comic",
+          "example": "The comedian opened his stand-up routine with hilarious observational jokes about airport security."
+        },
+        {
+          "word": "RACKFOCUS",
+          "meaning": "Practice of shifting the camera lens focus plane rapidly between foreground and background",
+          "example": "A sharp rack focus pulled attention from the wine glass in front to the doorway behind."
+        },
+        {
+          "word": "DANCEFLOOR",
+          "meaning": "Designated open area in nightclubs and ballrooms where patrons dance to amplified music",
+          "example": "Surging bass beats drew hundreds of energetic partygoers onto the packed nightclub dance floor."
+        },
+        {
+          "word": "SUPPORTINGROLE",
+          "meaning": "Acting role secondary in importance to the principal lead but vital to the plot",
+          "example": "He won Best Supporting Actor for his unforgettable portrayal of the eccentric train conductor."
+        },
+        {
+          "word": "ROADIE",
+          "meaning": "Tour crew member who travels with a band handling gear, setup, and stage rigging",
+          "example": "Roadies wheeled heavy flight cases off the semi-trucks and assembled the drum riser."
+        },
+        {
+          "word": "SUPPORTINGACT",
+          "meaning": "Performer or band opening for the main headlining attraction at a concert",
+          "example": "The energetic supporting act won over thousands of new fans before the main band played."
+        },
+        {
+          "word": "RUSHES",
+          "meaning": "Raw film footage quickly developed and screened following each day shooting wrap",
+          "example": "Excited crew members huddled in the screening room to view the raw stunt car rushes."
+        },
+        {
+          "word": "JUMPCUT",
+          "meaning": "Abrupt abrupt transition between two sequential shots of the same subject skipping time",
+          "example": "French New Wave directors pioneered kinetic jump cuts to energize casual scenes."
+        },
+        {
+          "word": "MATCHCUT",
+          "meaning": "Cut in film editing between two different objects or spaces linked by graphic shape",
+          "example": "The famous match cut transformed a tossed prehistoric bone into an orbiting space shuttle."
+        },
+        {
+          "word": "ANIMATOR",
+          "meaning": "Artist who creates multiple sequential images generating the illusion of fluid movement",
+          "example": "The lead animator drew hundreds of expressive sketches to capture the cartoon puppy run."
+        }
+      ]
+    }
+  ]
+}

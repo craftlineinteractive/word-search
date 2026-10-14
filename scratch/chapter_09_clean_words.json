@@ -1,0 +1,1822 @@
+[
+  {
+    "word": "NOUN",
+    "meaning": "A word representing a person, place, thing, or idea",
+    "example": "The word dog is a common noun."
+  },
+  {
+    "word": "VERB",
+    "meaning": "A word used to describe an action, state, or occurrence",
+    "example": "Run is an action verb."
+  },
+  {
+    "word": "ADJECTIVE",
+    "meaning": "A word that modifies or describes a noun or pronoun",
+    "example": "The adjective brilliant describes her mind."
+  },
+  {
+    "word": "ADVERB",
+    "meaning": "A word modifying a verb, adjective, or other adverb",
+    "example": "She spoke softly, where softly is an adverb."
+  },
+  {
+    "word": "PRONOUN",
+    "meaning": "A word that substitutes for a noun or noun phrase",
+    "example": "He and she are personal pronouns."
+  },
+  {
+    "word": "PREPOSITION",
+    "meaning": "A word showing directional or spatial relationship between nouns",
+    "example": "In, on, and at are spatial prepositions."
+  },
+  {
+    "word": "CONJUNCTION",
+    "meaning": "A word connecting clauses, sentences, or words",
+    "example": "And, but, and or are coordinating conjunctions."
+  },
+  {
+    "word": "INTERJECTION",
+    "meaning": "An exclamation expressing sudden emotion or feeling",
+    "example": "Wow! is a spontaneous interjection."
+  },
+  {
+    "word": "DETERMINER",
+    "meaning": "A word introducing a noun such as a, the, or this",
+    "example": "The word this acts as a demonstrative determiner."
+  },
+  {
+    "word": "GERUND",
+    "meaning": "A verb form ending in -ing functioning as a noun",
+    "example": "Swimming is great exercise, where swimming is a gerund."
+  },
+  {
+    "word": "PARTICIPLE",
+    "meaning": "A verb form used as an adjective or in compound tenses",
+    "example": "The burning candle uses a present participle."
+  },
+  {
+    "word": "INFINITIVE",
+    "meaning": "The basic un-conjugated form of a verb usually preceded by to",
+    "example": "To read is the infinitive form."
+  },
+  {
+    "word": "SUBJECT",
+    "meaning": "The noun or pronoun performing the action in a sentence",
+    "example": "The student is the subject of the sentence."
+  },
+  {
+    "word": "OBJECT",
+    "meaning": "The noun receiving the action of a transitive verb",
+    "example": "She kicked the ball, where ball is the direct object."
+  },
+  {
+    "word": "PREDICATE",
+    "meaning": "The part of a sentence containing the verb and stating action",
+    "example": "The predicate tells what the subject does."
+  },
+  {
+    "word": "CLAUSE",
+    "meaning": "A unit of grammatical organization containing subject and verb",
+    "example": "An independent clause expresses a complete thought."
+  },
+  {
+    "word": "COMPLEXCLAUSE",
+    "meaning": "A clause containing an independent and dependent clause",
+    "example": "A complex clause links main and subordinate ideas."
+  },
+  {
+    "word": "MODIFIER",
+    "meaning": "A word or phrase that restricts or adds detail to another word",
+    "example": "Adjectives act as modifiers for nouns."
+  },
+  {
+    "word": "TRANSITIVE",
+    "meaning": "A verb requiring a direct object to complete its meaning",
+    "example": "Bring is a transitive verb needing an object."
+  },
+  {
+    "word": "INTRANSITIVE",
+    "meaning": "A verb that does not take a direct object",
+    "example": "Sleep is an intransitive verb."
+  },
+  {
+    "word": "PLURAL",
+    "meaning": "Form of a word denoting more than one person or thing",
+    "example": "Add -s to form most regular plural nouns."
+  },
+  {
+    "word": "SINGULAR",
+    "meaning": "Denoting one person, item, or single concept",
+    "example": "Cat is a singular noun."
+  },
+  {
+    "word": "CONJUGATION",
+    "meaning": "The variation of verb forms according to tense and person",
+    "example": "Verb conjugation changes run to ran."
+  },
+  {
+    "word": "DECLENSION",
+    "meaning": "The inflection of nouns, pronouns, and adjectives for case",
+    "example": "Latin grammar relies heavily on noun declension."
+  },
+  {
+    "word": "PASSIVE",
+    "meaning": "Voice where the subject receives the action of the verb",
+    "example": "Passive voice places focus on the recipient."
+  },
+  {
+    "word": "ACTIVE",
+    "meaning": "Voice where the subject performs the verb action directly",
+    "example": "Active voice makes sentences direct and strong."
+  },
+  {
+    "word": "TENSE",
+    "meaning": "Category expressing time of action such as past, present, future",
+    "example": "Past tense indicates completed past actions."
+  },
+  {
+    "word": "ASPECT",
+    "meaning": "Grammatical feature denoting duration or completion of action",
+    "example": "Progressive aspect shows ongoing action."
+  },
+  {
+    "word": "DEPENDENTCLAUSE",
+    "meaning": "A clause that cannot stand alone as a sentence",
+    "example": "Subordinate clauses act as dependent clauses."
+  },
+  {
+    "word": "ELLIPSIS",
+    "meaning": "Omission of words from a sentence or mark indicating pause",
+    "example": "Three dots mark an ellipsis in text."
+  },
+  {
+    "word": "APOSTROPHE",
+    "meaning": "Punctuation mark indicating possession or omitted letters",
+    "example": "Use an apostrophe for contractions."
+  },
+  {
+    "word": "HYPHEN",
+    "meaning": "Short dash connecting parts of a compound word",
+    "example": "Well-known uses a hyphen between words."
+  },
+  {
+    "word": "SEMICOLON",
+    "meaning": "Punctuation separating closely related independent clauses",
+    "example": "Use a semicolon between related clauses."
+  },
+  {
+    "word": "PARENTHESIS",
+    "meaning": "Curved punctuation marks enclosing explanatory remarks",
+    "example": "Parenthesis encloses additional side details."
+  },
+  {
+    "word": "BRACKET",
+    "meaning": "Square punctuation marks enclosing inserted editorial material",
+    "example": "Editors use square brackets for inserted notes."
+  },
+  {
+    "word": "ASTERISK",
+    "meaning": "Star-shaped symbol used as a reference mark in text",
+    "example": "An asterisk directs readers to a footnote."
+  },
+  {
+    "word": "AMPERSAND",
+    "meaning": "The character symbol & representing the word and",
+    "example": "The ampersand symbol stands for and."
+  },
+  {
+    "word": "DIACRITIC",
+    "meaning": "A mark added to a letter to indicate pronunciation accent",
+    "example": "The accent grave is a French diacritic."
+  },
+  {
+    "word": "RELATIVECLAUSE",
+    "meaning": "A clause starting with a relative pronoun like who or which",
+    "example": "The boy who called is a relative clause."
+  },
+  {
+    "word": "STANZAS",
+    "meaning": "Grouped set of lines within a poem set off by space",
+    "example": "The poem consists of four quatrain stanzas."
+  },
+  {
+    "word": "ADVERBIALCLAUSE",
+    "meaning": "A dependent clause functioning as an adverb in a sentence",
+    "example": "Because it rained is an adverbial clause."
+  },
+  {
+    "word": "ADJECTIVALCLAUSE",
+    "meaning": "A dependent clause functioning as an adjective modifying a noun",
+    "example": "Which was shiny acts as an adjectival clause."
+  },
+  {
+    "word": "HYPERBOLE",
+    "meaning": "Exaggerated statements not meant to be taken literally",
+    "example": "I'm so hungry I could eat a horse is hyperbole."
+  },
+  {
+    "word": "NOUNPHRASE",
+    "meaning": "A phrase that acts as a noun within a sentence structure",
+    "example": "The big red car is a noun phrase."
+  },
+  {
+    "word": "VERBPHRASE",
+    "meaning": "The syntactic unit consisting of an auxiliary and main verb",
+    "example": "Has been running is a verb phrase."
+  },
+  {
+    "word": "ONOMATOPOEIA",
+    "meaning": "Words imitating the natural sounds associated with things",
+    "example": "Buzz, hiss, and sizzle are onomatopoeia words."
+  },
+  {
+    "word": "OXYMORON",
+    "meaning": "A figure of speech combining contradictory terms",
+    "example": "Deafening silence is a classic oxymoron."
+  },
+  {
+    "word": "PARADOX",
+    "meaning": "A self-contradictory statement that reveals a deeper truth",
+    "example": "Less is more is a well-known architectural paradox."
+  },
+  {
+    "word": "PREPOSITIONALPHRASE",
+    "meaning": "A phrase consisting of a preposition and its object",
+    "example": "Under the table is a prepositional phrase."
+  },
+  {
+    "word": "PARTICIPIALPHRASE",
+    "meaning": "A phrase starting with a participle modifying a noun",
+    "example": "Walking down the street is a participial phrase."
+  },
+  {
+    "word": "ALLUSION",
+    "meaning": "An indirect or passing reference to a person, event, or literary work",
+    "example": "The speech contained a subtle biblical allusion."
+  },
+  {
+    "word": "ANAPHORA",
+    "meaning": "Repetition of a word or phrase at the beginning of successive clauses",
+    "example": "I have a dream uses rhetorical anaphora."
+  },
+  {
+    "word": "ASSONANCE",
+    "meaning": "Repetition of identical vowel sounds in close words",
+    "example": "The light of the fire is a sight uses assonance."
+  },
+  {
+    "word": "CONSONANCE",
+    "meaning": "Repetition of consonant sounds within close words",
+    "example": "Pitter patter demonstrates consonance."
+  },
+  {
+    "word": "EUPHEMISM",
+    "meaning": "A mild or indirect word substituted for one considered harsh",
+    "example": "Passed away is a polite euphemism for died."
+  },
+  {
+    "word": "FORESHADOWING",
+    "meaning": "Advance hints of what is to come later in a story narrative",
+    "example": "Dark storm clouds provided early foreshadowing."
+  },
+  {
+    "word": "IMAGERY",
+    "meaning": "Visually descriptive or figurative language evoking sensory detail",
+    "example": "Vivid imagery paints pictures with words."
+  },
+  {
+    "word": "JUXTAPOSITION",
+    "meaning": "Placing two contrasting elements side by side for effect",
+    "example": "Juxtaposition of light and dark heightens drama."
+  },
+  {
+    "word": "GERUNDPHRASE",
+    "meaning": "A phrase built around a gerund acting as a noun",
+    "example": "Eating fresh fruit is a healthy gerund phrase."
+  },
+  {
+    "word": "PARALLELISM",
+    "meaning": "Using matching grammatical structure across phrases or clauses",
+    "example": "Parallelism gives balance and rhythm to speeches."
+  },
+  {
+    "word": "PERSONA",
+    "meaning": "The aspect of someone's character presented to or perceived by others",
+    "example": "The poet adopted a mysterious narrator persona."
+  },
+  {
+    "word": "INFINITIVEPHRASE",
+    "meaning": "A phrase starting with an infinitive verb form",
+    "example": "To win the prize is an infinitive phrase."
+  },
+  {
+    "word": "APPOSITIVEPHRASE",
+    "meaning": "A noun phrase placed next to another noun to rename it",
+    "example": "My dog, a beagle, is an appositive phrase."
+  },
+  {
+    "word": "INDEPENDENTCLAUSE",
+    "meaning": "A clause expressing a complete thought that stands alone",
+    "example": "She ran fast is an independent clause."
+  },
+  {
+    "word": "SYNECDOCHE",
+    "meaning": "A figure of speech where a part represents the whole",
+    "example": "All hands on deck uses hands as synecdoche for workers."
+  },
+  {
+    "word": "UNDERSTATEMENT",
+    "meaning": "Presenting something as smaller or less important than it is",
+    "example": "Saying it is chilly during a blizzard is understatement."
+  },
+  {
+    "word": "CONNOTATION",
+    "meaning": "An idea or feeling that a word invokes in addition to its literal meaning",
+    "example": "Home carries warm emotional connotations."
+  },
+  {
+    "word": "DENOTATION",
+    "meaning": "The literal primary meaning of a word in contrast to feelings",
+    "example": "The denotation of home is a dwelling place."
+  },
+  {
+    "word": "ETHOS",
+    "meaning": "Rhetorical appeal to credibility, ethics, and character authority",
+    "example": "Establishing ethos builds trust with listeners."
+  },
+  {
+    "word": "PATHOS",
+    "meaning": "Rhetorical appeal to emotion and audience sympathy",
+    "example": "Pathos touches the audience's heart."
+  },
+  {
+    "word": "LOGOS",
+    "meaning": "Rhetorical appeal to logic, reason, and structured evidence",
+    "example": "Logos relies on statistics and rational facts."
+  },
+  {
+    "word": "KAIROS",
+    "meaning": "The opportune, golden, or critical moment for action",
+    "example": "Rhetorical kairos seizes the precise right timing."
+  },
+  {
+    "word": "EPIPHANY",
+    "meaning": "A moment of sudden intuitive revelation or insight",
+    "example": "The character experienced a profound moral epiphany."
+  },
+  {
+    "word": "SOLILOQUIZE",
+    "meaning": "To utter a soliloquy or talk to oneself dramatically",
+    "example": "The actor soliloquized under the spotlight."
+  },
+  {
+    "word": "COORDINATING",
+    "meaning": "Conjunctions like and, but, or joining equal structures",
+    "example": "And and but are coordinating conjunctions."
+  },
+  {
+    "word": "CHIASMUS",
+    "meaning": "Rhetorical structure reversing word order in parallel phrases",
+    "example": "Ask not what your country can do for you is chiasmus."
+  },
+  {
+    "word": "LITOTES",
+    "meaning": "Understatement using double negatives to express positive meaning",
+    "example": "Not bad at all is classic litotes."
+  },
+  {
+    "word": "MEIOSIS",
+    "meaning": "Rhetorical understatement belittling a person or situation",
+    "example": "Calling a wound a scratch is litotes or meiosis."
+  },
+  {
+    "word": "METONYMY",
+    "meaning": "Substituting a related attribute for the thing meant",
+    "example": "The Crown refers metonymically to the monarch."
+  },
+  {
+    "word": "ZEUGMA",
+    "meaning": "A word applying to two others in different senses",
+    "example": "She broke his car and his heart is zeugma."
+  },
+  {
+    "word": "SYNONYM",
+    "meaning": "A word having the same or nearly same meaning as another",
+    "example": "Happy is a synonym for joyful."
+  },
+  {
+    "word": "ANTONYM",
+    "meaning": "A word expressing the opposite meaning of another word",
+    "example": "Cold is the antonym of hot."
+  },
+  {
+    "word": "HOMONYM",
+    "meaning": "Words sharing same spelling and pronunciation but different meanings",
+    "example": "Bark of a tree vs dog bark are homonyms."
+  },
+  {
+    "word": "HOMOPHONE",
+    "meaning": "Words sounding the same but having different spellings and meanings",
+    "example": "Their, there, and they're are common homophones."
+  },
+  {
+    "word": "SUBORDINATING",
+    "meaning": "Conjunctions like although, because introducing dependent clauses",
+    "example": "Because is a subordinating conjunction."
+  },
+  {
+    "word": "ACRONYM",
+    "meaning": "A word formed from the initial letters of a name or phrase",
+    "example": "NASA is an acronym for space administration."
+  },
+  {
+    "word": "ANAGRAM",
+    "meaning": "A word formed by rearranging the letters of another word",
+    "example": "Listen is an anagram of silent."
+  },
+  {
+    "word": "PALINDROME",
+    "meaning": "A word or phrase reading the same backward as forward",
+    "example": "Radar and madam are classic palindromes."
+  },
+  {
+    "word": "COMPOUND",
+    "meaning": "A word formed by combining two separate existing words",
+    "example": "Sunlight is a compound word."
+  },
+  {
+    "word": "DERIVATIVE",
+    "meaning": "A word formed by adding prefixes or suffixes to a root word",
+    "example": "Happiness is a derivative of happy."
+  },
+  {
+    "word": "ETYMOLOGY",
+    "meaning": "The study of origin and historical development of words",
+    "example": "Etymology traces English roots back to Latin."
+  },
+  {
+    "word": "CORRELATIVE",
+    "meaning": "Paired conjunctions like either-or and neither-nor",
+    "example": "Either-or are correlative conjunctions."
+  },
+  {
+    "word": "ARCHAISM",
+    "meaning": "An old or obsolete word no longer in general everyday use",
+    "example": "Thou and thee are poetic archaisms."
+  },
+  {
+    "word": "IDIOM",
+    "meaning": "An expression whose meaning is not predictable from literal words",
+    "example": "Biting the bullet is a common English idiom."
+  },
+  {
+    "word": "SLANG",
+    "meaning": "Informal non-standard vocabulary used by specific social groups",
+    "example": "Youth slang evolves rapidly across generations."
+  },
+  {
+    "word": "JARGON",
+    "meaning": "Specialized technical vocabulary used by a trade or profession",
+    "example": "Medical jargon can sound mysterious to laypersons."
+  },
+  {
+    "word": "DIALECT",
+    "meaning": "A regional or social variety of a language distinguished by vocabulary",
+    "example": "Southern dialect features unique regional phrasing."
+  },
+  {
+    "word": "LEXICON",
+    "meaning": "The complete vocabulary of a person, language, or branch of knowledge",
+    "example": "Computer science has expanded our daily lexicon."
+  },
+  {
+    "word": "ACTIVEVOICE",
+    "meaning": "Sentence structure where the subject performs the verb action",
+    "example": "Active voice creates direct and punchy writing."
+  },
+  {
+    "word": "SEMANTICS",
+    "meaning": "The branch of linguistics concerned with meaning of words",
+    "example": "Debating semantics focuses on word definitions."
+  },
+  {
+    "word": "PASSIVEVOICE",
+    "meaning": "Sentence structure where the subject receives the verb action",
+    "example": "Passive voice shifts focus onto the object."
+  },
+  {
+    "word": "PRAGMATICS",
+    "meaning": "The study of language use in context and practical communication",
+    "example": "Pragmatics explores conversational implied meaning."
+  },
+  {
+    "word": "PHONETICS",
+    "meaning": "The branch of linguistics studying human speech sounds",
+    "example": "Phonetics maps international speech symbols."
+  },
+  {
+    "word": "PHONOLOGY",
+    "meaning": "The study of sound systems and patterns within a specific language",
+    "example": "Phonology analyzes how phonemes interact."
+  },
+  {
+    "word": "MORPHOLOGY",
+    "meaning": "The study of internal structure of words and morphemes",
+    "example": "Morphology examines prefixes, roots, and suffixes."
+  },
+  {
+    "word": "LOANWORD",
+    "meaning": "A word adopted from one language into another without translation",
+    "example": "Caf\u00e9 is a French loanword in English."
+  },
+  {
+    "word": "PORTMANTEAU",
+    "meaning": "A word blending sounds and meanings of two distinct words",
+    "example": "Brunch is a portmanteau of breakfast and lunch."
+  },
+  {
+    "word": "RECURSION",
+    "meaning": "The repeating of items in a self-similar way in syntax rules",
+    "example": "Linguistic recursion enables infinite sentence building."
+  },
+  {
+    "word": "LEXICOGRAPHY",
+    "meaning": "The editing and compiling of dictionaries",
+    "example": "Samuel Johnson was a pioneer of English lexicography."
+  },
+  {
+    "word": "MONONYM",
+    "meaning": "A person known and addressed by a single name",
+    "example": "Cher and Madonna are famous mononyms."
+  },
+  {
+    "word": "COINAGE",
+    "meaning": "The creation or invention of a new word or phrase",
+    "example": "Shakespeare was famous for prolific word coinage."
+  },
+  {
+    "word": "SPOONERISM",
+    "meaning": "A verbal slip swapping initial sounds of two words",
+    "example": "Saying noble tons of soil instead of noble sons of toil."
+  },
+  {
+    "word": "MALAPROPISM",
+    "meaning": "Using an incorrect word in place of a similar sounding one",
+    "example": "Mistaking allegory for alligator is a malapropism."
+  },
+  {
+    "word": "TAUTOLOGY",
+    "meaning": "Redundant repetition of an idea using different words",
+    "example": "Free gift is an everyday tautology."
+  },
+  {
+    "word": "PLEONASM",
+    "meaning": "Use of more words than necessary to express an idea",
+    "example": "I saw it with my own eyes is pleonasm."
+  },
+  {
+    "word": "RETRONYM",
+    "meaning": "A new term created for an old item whose original name is ambiguous",
+    "example": "Acoustic guitar became a retronym after electric guitars arrived."
+  },
+  {
+    "word": "EPONYM",
+    "meaning": "A word derived from the name of a person or place",
+    "example": "Boycott is an eponym named after Captain Boycott."
+  },
+  {
+    "word": "TOPONYM",
+    "meaning": "A place name or word derived from a geographical location",
+    "example": "Champagne is a toponym named after the French region."
+  },
+  {
+    "word": "DEMONYM",
+    "meaning": "A name given to residents of a specific place",
+    "example": "Parisian is the demonym for people from Paris."
+  },
+  {
+    "word": "AUTONYM",
+    "meaning": "A word that describes itself or name used by a group for itself",
+    "example": "Polysyllabic is an autonym because it has five syllables."
+  },
+  {
+    "word": "VOWEL",
+    "meaning": "A speech sound produced without significant constriction in vocal tract",
+    "example": "A, E, I, O, U are standard English vowel letters."
+  },
+  {
+    "word": "CONSONANT",
+    "meaning": "A speech sound produced by obstructing airflow in vocal tract",
+    "example": "B, C, D are consonant sounds in the alphabet."
+  },
+  {
+    "word": "PASTTENSE",
+    "meaning": "Verb tense expressing action that occurred in the past",
+    "example": "Walked is in the past tense."
+  },
+  {
+    "word": "DIPHTHONG",
+    "meaning": "A sound formed by the combination of two vowels in a single syllable",
+    "example": "The coin sound contains a gliding diphthong."
+  },
+  {
+    "word": "TRIPHTHONG",
+    "meaning": "A union of three vowel sounds pronounced in one syllable",
+    "example": "Fire in some dialects is pronounced with a triphthong."
+  },
+  {
+    "word": "INTONATION",
+    "meaning": "The rise and fall of the voice pitch in speaking",
+    "example": "Rising intonation signals a spoken question."
+  },
+  {
+    "word": "SPELLING",
+    "meaning": "Forming words with the correct sequence of letters",
+    "example": "Correct spelling is essential in formal writing."
+  },
+  {
+    "word": "PRESENTTENSE",
+    "meaning": "Verb tense expressing action occurring right now",
+    "example": "Walks is in the present tense."
+  },
+  {
+    "word": "PHONEME",
+    "meaning": "The smallest perceptually distinct unit of sound in a language",
+    "example": "Changing a phoneme alters word meaning."
+  },
+  {
+    "word": "MORPHEME",
+    "meaning": "The smallest meaningful grammatical unit in a language",
+    "example": "Un- and -happy are two morphemes in unhappy."
+  },
+  {
+    "word": "GLOTTAL",
+    "meaning": "A speech sound articulated using the glottis or vocal cords",
+    "example": "A glottal stop occurs in middle of uh-oh."
+  },
+  {
+    "word": "PLOSIVE",
+    "meaning": "A consonant sound produced by stopping airflow then releasing it",
+    "example": "P, B, T, D are plosive consonant sounds."
+  },
+  {
+    "word": "FRICATIVE",
+    "meaning": "A consonant produced by forcing air through a narrow channel",
+    "example": "F and V are fricative speech sounds."
+  },
+  {
+    "word": "AFFRICATE",
+    "meaning": "A complex consonant combining a plosive and a fricative",
+    "example": "Ch and J are affricate sounds."
+  },
+  {
+    "word": "ALLOPHONE",
+    "meaning": "Any of the spoken variations of a single phoneme",
+    "example": "The p in pin vs spin are allophones."
+  },
+  {
+    "word": "ENUNCIATION",
+    "meaning": "The act of pronouncing words clearly and distinctly",
+    "example": "Clear enunciation aids public speaking delivery."
+  },
+  {
+    "word": "FUTURETENSE",
+    "meaning": "Verb tense expressing action that will happen in the future",
+    "example": "Will walk is in the future tense."
+  },
+  {
+    "word": "PERFECTTENSE",
+    "meaning": "Verb tense denoting completed or perfected action",
+    "example": "Has walked is in the perfect tense."
+  },
+  {
+    "word": "ORTHOGRAPHY",
+    "meaning": "The conventional spelling system of a language",
+    "example": "English orthography contains many historical irregularities."
+  },
+  {
+    "word": "ORTHOGRAPHIC",
+    "meaning": "Relating to the conventional spelling system of a language",
+    "example": "Check orthographic rules for double consonants."
+  },
+  {
+    "word": "TRANSLITERATION",
+    "meaning": "Converting letters of one script into corresponding letters of another",
+    "example": "Transliteration maps Greek text to Latin letters."
+  },
+  {
+    "word": "INSCRIPTION",
+    "meaning": "Words engraved or carved on a monument, stone, or coin",
+    "example": "The ancient stone tablet featured a Latin inscription."
+  },
+  {
+    "word": "PROGRESSIVETENSE",
+    "meaning": "Verb tense showing continuous ongoing action",
+    "example": "Is walking is in the progressive tense."
+  },
+  {
+    "word": "SUBJUNCTIVEMOOD",
+    "meaning": "Verb mood expressing hypothetical or counterfactual states",
+    "example": "If I were king uses subjunctive mood."
+  },
+  {
+    "word": "IMPERATIVEMOOD",
+    "meaning": "Verb mood giving direct commands or requests",
+    "example": "Stop! uses the imperative mood."
+  },
+  {
+    "word": "CALLIGRAPHER",
+    "meaning": "An artist specialized in fine decorative handwriting",
+    "example": "The calligrapher inked formal invitation cards."
+  },
+  {
+    "word": "STENOGRAPHY",
+    "meaning": "Shorthand writing system for rapid note-taking",
+    "example": "Court reporters use stenography machines."
+  },
+  {
+    "word": "CRYPTONYM",
+    "meaning": "A secret code name or pseudonymous designation",
+    "example": "Spies operate under designated cryptonyms."
+  },
+  {
+    "word": "PSEUDONYM",
+    "meaning": "A fictitious name used by an author to conceal identity",
+    "example": "Mark Twain was the pen name pseudonym of Samuel Clemens."
+  },
+  {
+    "word": "ANONYMOUS",
+    "meaning": "Written or authored by an unidentified person",
+    "example": "An anonymous donor gifted rare manuscripts."
+  },
+  {
+    "word": "INDICATIVEMOOD",
+    "meaning": "Verb mood stating facts or asking direct questions",
+    "example": "Indicative mood expresses factual statements."
+  },
+  {
+    "word": "HETERONYM",
+    "meaning": "Words spelled the same but pronounced differently with different meanings",
+    "example": "Desert to abandon vs desert dry land are heteronyms."
+  },
+  {
+    "word": "CAPONYM",
+    "meaning": "A word changing meaning and pronunciation when capitalized",
+    "example": "Polish the country vs polish to shine is a caponym."
+  },
+  {
+    "word": "ORONYM",
+    "meaning": "Phrases that sound identical due to shared spoken boundaries",
+    "example": "Ice cream vs I scream is a classic oronym."
+  },
+  {
+    "word": "CONTRONYM",
+    "meaning": "A word with two opposite or contradictory meanings",
+    "example": "Cleave can mean to adhere or to split apart."
+  },
+  {
+    "word": "AUTOANTONYM",
+    "meaning": "A word that can mean its own opposite",
+    "example": "Sanction can mean permit or prohibit."
+  },
+  {
+    "word": "INTERROGATIVEMOOD",
+    "meaning": "Verb form used for asking questions directly",
+    "example": "Interrogative mood asks direct questions."
+  },
+  {
+    "word": "LIPOGRAM",
+    "meaning": "A composition written while deliberately avoiding a specific letter",
+    "example": "A lipogram written without the letter E."
+  },
+  {
+    "word": "LOGOGRAM",
+    "meaning": "A written symbol representing an entire word or phrase",
+    "example": "Chinese characters are classic logograms."
+  },
+  {
+    "word": "CONDITIONALMOOD",
+    "meaning": "Verb mood expressing actions dependent on conditions",
+    "example": "Would go uses conditional mood."
+  },
+  {
+    "word": "ACUMEN",
+    "meaning": "The ability to make good judgments and quick decisions",
+    "example": "Her sharp business acumen guided the firm to success."
+  },
+  {
+    "word": "ALACRITY",
+    "meaning": "Brisk, eager, and cheerful readiness to act",
+    "example": "He accepted the invitation with genuine alacrity."
+  },
+  {
+    "word": "AMENABLE",
+    "meaning": "Open and responsive to suggestion or agreeable",
+    "example": "The team was amenable to testing new ideas."
+  },
+  {
+    "word": "ANOMALY",
+    "meaning": "Something that deviates from what is standard, normal, or expected",
+    "example": "The sudden weather spike was an unusual anomaly."
+  },
+  {
+    "word": "AUDACIOUS",
+    "meaning": "Showing a willingness to take surprisingly bold risks",
+    "example": "His audacious plan succeeded against all odds."
+  },
+  {
+    "word": "BENEVOLENT",
+    "meaning": "Well meaning, kindly, and charitable in spirit",
+    "example": "A benevolent patron funded scholarships for students."
+  },
+  {
+    "word": "CANDID",
+    "meaning": "Truthful, straightforward, and frank in speech",
+    "example": "She gave a candid interview about her career."
+  },
+  {
+    "word": "COGENT",
+    "meaning": "Clear, logical, and convincing in argument",
+    "example": "He presented a cogent case to the board."
+  },
+  {
+    "word": "DEFERENCE",
+    "meaning": "Polite submission and respect shown to elders or authority",
+    "example": "He bowed his head in deference to the judge."
+  },
+  {
+    "word": "ELOQUENT",
+    "meaning": "Fluent, persuasive, and expressive in speaking or writing",
+    "example": "The leader gave an eloquent keynote address."
+  },
+  {
+    "word": "EMPATHY",
+    "meaning": "The ability to understand and share the feelings of another",
+    "example": "Empathy fosters strong interpersonal relationships."
+  },
+  {
+    "word": "EQUANIMITY",
+    "meaning": "Mental calmness, composure, and evenness of temper in hardship",
+    "example": "She faced unexpected challenges with equanimity."
+  },
+  {
+    "word": "ERUDITE",
+    "meaning": "Having or showing great knowledge learned from study",
+    "example": "The erudite professor authored ten history books."
+  },
+  {
+    "word": "ESOTERIC",
+    "meaning": "Intended for or understood by only a small specialized group",
+    "example": "Quantum mechanics papers contain esoteric formulas."
+  },
+  {
+    "word": "FASTIDIOUS",
+    "meaning": "Very attentive to accuracy, detail, and meticulous precision",
+    "example": "The editor was fastidious about grammatical accuracy."
+  },
+  {
+    "word": "FORTUITOUS",
+    "meaning": "Happening by lucky chance rather than design",
+    "example": "Their fortuitous meeting led to a partnership."
+  },
+  {
+    "word": "GREGARIOUS",
+    "meaning": "Fond of company, sociable, and outgoing in nature",
+    "example": "Gregarious hosts make every guest feel welcome."
+  },
+  {
+    "word": "IMPETUOUS",
+    "meaning": "Acting or done quickly and rashly without thought",
+    "example": "Avoid impetuous decisions made in anger."
+  },
+  {
+    "word": "INEFFABLE",
+    "meaning": "Too great or extreme to be expressed or described in words",
+    "example": "The sunset filled her with ineffable wonder."
+  },
+  {
+    "word": "INFALLIBLE",
+    "meaning": "Incapable of making mistakes or being wrong",
+    "example": "No human system is completely infallible."
+  },
+  {
+    "word": "INGENUOUS",
+    "meaning": "Innocent, unsuspecting, candid, and sincere",
+    "example": "Her ingenuous smile disarmed hostile critics."
+  },
+  {
+    "word": "LUCID",
+    "meaning": "Expressed clearly and easy to understand",
+    "example": "The manual provided lucid step-by-step instructions."
+  },
+  {
+    "word": "MAGNANIMOUS",
+    "meaning": "Generous and forgiving toward a rival or less powerful person",
+    "example": "The victor was magnanimous in welcoming the runner-up."
+  },
+  {
+    "word": "METICULOUS",
+    "meaning": "Showing great attention to detail and thorough care",
+    "example": "Restoring antique manuscripts requires meticulous effort."
+  },
+  {
+    "word": "NOSTALGIA",
+    "meaning": "A sentimental longing or affection for the past",
+    "example": "Old music tracks evoked fond childhood nostalgia."
+  },
+  {
+    "word": "OPULENT",
+    "meaning": "Ostentatiously rich, luxurious, and lavish",
+    "example": "The palace ballroom featured opulent chandeliers."
+  },
+  {
+    "word": "PERSPICACIOUS",
+    "meaning": "Having ready insight into and understanding of things",
+    "example": "The perspicacious detective noticed subtle clues."
+  },
+  {
+    "word": "PRAGMATIC",
+    "meaning": "Dealing with things sensibly and realistically based on practical results",
+    "example": "They took a pragmatic approach to solving budget issues."
+  },
+  {
+    "word": "RESILIENT",
+    "meaning": "Able to withstand or recover quickly from difficult conditions",
+    "example": "Resilient trees bend in storms without breaking."
+  },
+  {
+    "word": "SAGACIOUS",
+    "meaning": "Having or showing keen mental discernment and good judgment",
+    "example": "The sagacious elder offered wise counsel."
+  },
+  {
+    "word": "SERENDIPITY",
+    "meaning": "The occurrence of valuable events by chance in a happy way",
+    "example": "Discovering the rare book was pure serendipity."
+  },
+  {
+    "word": "SUCCINCT",
+    "meaning": "Briefly and clearly expressed without unnecessary words",
+    "example": "Provide a succinct summary of the report."
+  },
+  {
+    "word": "SYNERGY",
+    "meaning": "The interaction of combined elements producing a greater total effect",
+    "example": "Teamwork created synergy across departments."
+  },
+  {
+    "word": "TACITURN",
+    "meaning": "Reserved or uncommunicative in speech; saying little",
+    "example": "The taciturn guide spoke only when asked."
+  },
+  {
+    "word": "TENACIOUS",
+    "meaning": "Tending to keep a firm hold of something; persistent",
+    "example": "Her tenacious effort won her the championship."
+  },
+  {
+    "word": "UBIQUITOUS",
+    "meaning": "Present, appearing, or found everywhere",
+    "example": "Smartphones have become ubiquitous in daily modern life."
+  },
+  {
+    "word": "VENERABLE",
+    "meaning": "Accorded a great deal of respect because of age or wisdom",
+    "example": "The venerable university was founded centuries ago."
+  },
+  {
+    "word": "VERACITY",
+    "meaning": "Conformity to facts, accuracy, and truthfulness",
+    "example": "Cross-check references to confirm veracity of claims."
+  },
+  {
+    "word": "VINDICATE",
+    "meaning": "Clear someone of blame or suspicion with evidence",
+    "example": "New DNA evidence served to vindicate the defendant."
+  },
+  {
+    "word": "ZEALOUS",
+    "meaning": "Having or showing great energy and enthusiasm for a cause",
+    "example": "Zealous volunteers gathered donations for the shelter."
+  },
+  {
+    "word": "COMPLEXSENTENCE",
+    "meaning": "A sentence with one independent and one dependent clause",
+    "example": "Complex sentences express nuanced thoughts."
+  },
+  {
+    "word": "COMPOUNDSENTENCE",
+    "meaning": "A sentence with two independent clauses joined by conjunction",
+    "example": "Compound sentences link complete ideas."
+  },
+  {
+    "word": "SIMPLESENTENCE",
+    "meaning": "A sentence with a single independent clause and subject",
+    "example": "A simple sentence conveys one main point."
+  },
+  {
+    "word": "ELOCUTION",
+    "meaning": "The skill of clear and expressive oral speech delivery",
+    "example": "Elocution lessons improve public speaking poise."
+  },
+  {
+    "word": "FLUENCY",
+    "meaning": "The ability to express oneself easily and articulately in a language",
+    "example": "Living abroad accelerates conversational fluency."
+  },
+  {
+    "word": "ORATORY",
+    "meaning": "The art of formal public speaking and eloquent address",
+    "example": "His powerful oratory inspired millions to act."
+  },
+  {
+    "word": "PARALLELSTRUCTURE",
+    "meaning": "Using identical grammatical forms for lists and series",
+    "example": "Parallel structure enhances rhythmic prose."
+  },
+  {
+    "word": "PARAPHRASE",
+    "meaning": "Expressing the meaning of a written text using different words",
+    "example": "Paraphrase the paragraph to check your understanding."
+  },
+  {
+    "word": "SENTENCIA",
+    "meaning": "A short moralizing statement or aphorism in literature",
+    "example": "Classical essays included memorable sentencia."
+  },
+  {
+    "word": "ENUNCIATE",
+    "meaning": "To pronounce words clearly and articulately",
+    "example": "Enunciate clearly during public speeches."
+  },
+  {
+    "word": "ARTICULATED",
+    "meaning": "Expressed in clear, distinct, and coherent words",
+    "example": "She articulated her thesis masterfully."
+  },
+  {
+    "word": "DICTIONARYENTRY",
+    "meaning": "A single word definition item listed in a dictionary",
+    "example": "Each dictionary entry includes part of speech."
+  },
+  {
+    "word": "HEADWORD",
+    "meaning": "The word standing at the beginning of a dictionary entry",
+    "example": "Look up the headword in the lexicon."
+  },
+  {
+    "word": "ETYMOLOGIST",
+    "meaning": "A scholar who researches historical word origins",
+    "example": "The etymologist traced the Latin root."
+  },
+  {
+    "word": "PHONETICIAN",
+    "meaning": "A linguist specializing in the study of speech sounds",
+    "example": "The phonetician transcribed vocal accents."
+  },
+  {
+    "word": "SYNTACTICIAN",
+    "meaning": "A linguist studying sentence structure rules",
+    "example": "The syntactician analyzed phrase trees."
+  },
+  {
+    "word": "VERBAL",
+    "meaning": "Relating to or in the form of words spoken or written",
+    "example": "Verbal communication skills are vital in leadership."
+  },
+  {
+    "word": "LINGUIST",
+    "meaning": "A person skilled in foreign languages or studying linguistics",
+    "example": "The linguist fluent in five languages analyzed dialects."
+  },
+  {
+    "word": "SEMANTICIST",
+    "meaning": "A scholar who studies word meanings and logic",
+    "example": "The semanticist analyzed truth conditions."
+  },
+  {
+    "word": "GRAMMARIAN",
+    "meaning": "A person who studies or writes about grammar rules",
+    "example": "The grammarian edited the textbook manuscript."
+  },
+  {
+    "word": "VERBATIM",
+    "meaning": "In exactly the same words as were used originally",
+    "example": "Record the quote verbatim without changing a word."
+  },
+  {
+    "word": "PROLIXITY",
+    "meaning": "Tedious wordiness and excessive use of unnecessary words",
+    "example": "Avoid prolixity by editing out filler phrases."
+  },
+  {
+    "word": "BREVITY",
+    "meaning": "Concise and exact use of words in writing or speech",
+    "example": "Brevity is the soul of wit."
+  },
+  {
+    "word": "VERBOSITY",
+    "meaning": "The quality of using more words than needed; wordiness",
+    "example": "Her verbosity made simple ideas hard to follow."
+  },
+  {
+    "word": "LOQUACITY",
+    "meaning": "The quality of talking a great deal; talkativeness",
+    "example": "His natural loquacity kept the party lively."
+  },
+  {
+    "word": "VOLUBILITY",
+    "meaning": "The quality of talking fluently, readily, or incessantly",
+    "example": "She answered questions with impressive volubility."
+  },
+  {
+    "word": "ARTICULATE",
+    "meaning": "Having or showing the ability to speak fluently and coherently",
+    "example": "An articulate speaker conveys ideas effortlessly."
+  },
+  {
+    "word": "INARTICULATE",
+    "meaning": "Unable to speak distinctly or express oneself clearly",
+    "example": "He felt inarticulate when overcome by emotion."
+  },
+  {
+    "word": "PERORATION",
+    "meaning": "The concluding part of a speech emphasizing key points",
+    "example": "The speaker roused the crowd in his final peroration."
+  },
+  {
+    "word": "EXORDIUM",
+    "meaning": "The introductory part of an argument or discourse",
+    "example": "The attorney opened with a compelling exordium."
+  },
+  {
+    "word": "ALLOCUTION",
+    "meaning": "A formal address or speech given by an authoritative figure",
+    "example": "The judge delivered a solemn allocution to the court."
+  },
+  {
+    "word": "DECLAIM",
+    "meaning": "Speak rhetorically or passionately in public",
+    "example": "Students learned to declaim classical poetry aloud."
+  },
+  {
+    "word": "RECITE",
+    "meaning": "Repeat aloud a poem or passage from memory in public",
+    "example": "She can recite Shakespeare's sonnets by heart."
+  },
+  {
+    "word": "NARRATE",
+    "meaning": "Give a spoken or written account of a story or event",
+    "example": "An actor was hired to narrate the documentary film."
+  },
+  {
+    "word": "EXPOUND",
+    "meaning": "Present and explain a theory or idea systematically",
+    "example": "The scholar expounded on ancient philosophy."
+  },
+  {
+    "word": "ELUCIDATE",
+    "meaning": "Make something clear or explain complex ideas thoroughly",
+    "example": "The teacher used diagrams to elucidate the concept."
+  },
+  {
+    "word": "EXPLICATE",
+    "meaning": "Analyze and develop an idea or text in detail",
+    "example": "Literary critics explicate poetic metaphors."
+  },
+  {
+    "word": "PREACH",
+    "meaning": "Deliver a sermon or publicly advocate a moral position",
+    "example": "The speaker preached the importance of kindness."
+  },
+  {
+    "word": "HARANGUE",
+    "meaning": "A lengthy and aggressive speech delivered to a crowd",
+    "example": "He launched into a fiery harangue against waste."
+  },
+  {
+    "word": "DIATRIBE",
+    "meaning": "A forceful and bitter verbal attack against someone",
+    "example": "The editorial was a scathing diatribe against corruption."
+  },
+  {
+    "word": "EXEGESIS",
+    "meaning": "Critical explanation or interpretation of a text, especially scripture",
+    "example": "Scholars perform detailed biblical exegesis."
+  },
+  {
+    "word": "PRAGMATICIST",
+    "meaning": "A linguist studying contextual meaning in speech",
+    "example": "The pragmaticist analyzed speech act context."
+  },
+  {
+    "word": "DIALECTOLOGY",
+    "meaning": "The scientific study of linguistic regional dialects",
+    "example": "Dialectology maps regional accent variations."
+  },
+  {
+    "word": "SOCIOLINGUIST",
+    "meaning": "A scholar examining language in social contexts",
+    "example": "The sociolinguist studied youth slang patterns."
+  },
+  {
+    "word": "PSYCHOLINGUIST",
+    "meaning": "A scientist researching brain language processing",
+    "example": "The psycholinguist tested word retrieval speed."
+  },
+  {
+    "word": "NEUROLINGUIST",
+    "meaning": "A researcher studying brain structures for speech",
+    "example": "The neurolinguist scanned Broca's area."
+  },
+  {
+    "word": "ENDNOTE",
+    "meaning": "A citation or note placed at the end of an article or book chapter",
+    "example": "Consult endnotes for detailed academic references."
+  },
+  {
+    "word": "LEXICALITEM",
+    "meaning": "A single word or chain of words forming a vocabulary unit",
+    "example": "Each lexical item has a dictionary entry."
+  },
+  {
+    "word": "BIBLIOGRAPHY",
+    "meaning": "A list of books and sources referenced in a scholarly work",
+    "example": "Include a complete bibliography at the end of your thesis."
+  },
+  {
+    "word": "PLAGIARISM",
+    "meaning": "Taking someone else's work or ideas and passing them off as one's own",
+    "example": "Academic integrity policies strictly prohibit plagiarism."
+  },
+  {
+    "word": "SUMMARY",
+    "meaning": "A brief statement accounting for the main points of a text",
+    "example": "Write a one-page executive summary of the paper."
+  },
+  {
+    "word": "SYNOPSIS",
+    "meaning": "A brief summary or general survey of an outline storyline",
+    "example": "Read the movie synopsis before buying tickets."
+  },
+  {
+    "word": "TARGETWORD",
+    "meaning": "The central word being studied or searched in a puzzle",
+    "example": "Find the targetword in the letter grid."
+  },
+  {
+    "word": "PR\u00c9CIS",
+    "meaning": "A summary or abstract of a text or speech",
+    "example": "Students prepared a precise written pr\u00e9cis of the article."
+  },
+  {
+    "word": "COMPENDIUM",
+    "meaning": "A concise collection of detailed information about a subject",
+    "example": "The encyclopedia serves as a compendium of knowledge."
+  },
+  {
+    "word": "WORDPUZZLE",
+    "meaning": "A game or challenge centered on uncovering word patterns",
+    "example": "Solve daily wordpuzzle grids for fun."
+  },
+  {
+    "word": "WORDSEARCH",
+    "meaning": "A grid puzzle where players locate hidden horizontal words",
+    "example": "Circle hidden terms in a wordsearch grid."
+  },
+  {
+    "word": "GAZETTEER",
+    "meaning": "A geographical dictionary or index of place names",
+    "example": "Look up city coordinates in the gazetteer."
+  },
+  {
+    "word": "CROSSWORDPUZZLE",
+    "meaning": "A grid puzzle intersecting words based on clues",
+    "example": "Solve the Sunday crosswordpuzzle over coffee."
+  },
+  {
+    "word": "SPELLINGBEE",
+    "meaning": "A competition where contestants spell difficult words",
+    "example": "She won the national spellingbee title."
+  },
+  {
+    "word": "LEXICOGRAPHER",
+    "meaning": "A scholar who compiles and edits dictionaries",
+    "example": "Lexicographers track evolving word definitions."
+  },
+  {
+    "word": "WORDPLAY",
+    "meaning": "Playful wit involving puns, double meanings, and anagrams",
+    "example": "Wilde was famous for clever literary wordplay."
+  },
+  {
+    "word": "PUNNING",
+    "meaning": "Making humorous wordplay on double meanings or homophones",
+    "example": "Punning adds humor to conversational banter."
+  },
+  {
+    "word": "PHONOLOGICAL",
+    "meaning": "Relating to the systematic organization of sounds in spoken language",
+    "example": "Phonological rules govern sound patterns."
+  },
+  {
+    "word": "DOUBLEENTENDRE",
+    "meaning": "A spoken phrase open to two interpretations",
+    "example": "Comedians use doubleentendre for humor."
+  },
+  {
+    "word": "BACKFORMATION",
+    "meaning": "A word created by removing supposed affixes from a root",
+    "example": "Edit is a backformation from editor."
+  },
+  {
+    "word": "TYPEFACE",
+    "meaning": "A particular design of type like Times New Roman or Helvetica",
+    "example": "Choose a clean, readable serif typeface."
+  },
+  {
+    "word": "FOLKETYMOLOGY",
+    "meaning": "A popular but false derivation of a word's origin",
+    "example": "Folk etymology falsely explains word roots."
+  },
+  {
+    "word": "KERNING",
+    "meaning": "The adjustment of space between individual characters in typography",
+    "example": "Proper kerning creates visually balanced headlines."
+  },
+  {
+    "word": "TRACKING",
+    "meaning": "Adjusting uniform spacing across a block of text characters",
+    "example": "Widen tracking to create airy letterhead typography."
+  },
+  {
+    "word": "LEADING",
+    "meaning": "The vertical space between lines of printed text",
+    "example": "Increase leading to improve paragraph readability."
+  },
+  {
+    "word": "LIGATURE",
+    "meaning": "A special character joining two letters together like fl or fi",
+    "example": "Fine typography uses decorative font ligatures."
+  },
+  {
+    "word": "PICA",
+    "meaning": "A unit of typographic measurement equal to 12 points",
+    "example": "Designers measure column widths in picas."
+  },
+  {
+    "word": "POINT",
+    "meaning": "The smallest unit of typographic measurement equal to 1/72 inch",
+    "example": "Set headline titles in 24-point bold type."
+  },
+  {
+    "word": "SERIF",
+    "meaning": "A small decorative stroke attached to the end of a letter stem",
+    "example": "Times New Roman is a classic serif font."
+  },
+  {
+    "word": "SANSSERIF",
+    "meaning": "A typeface without small decorative stroke extensions on letters",
+    "example": "Helvetica is a popular modern sans-serif typeface."
+  },
+  {
+    "word": "MONOSPACE",
+    "meaning": "A font whose characters each occupy the exact same horizontal width",
+    "example": "Code editors use monospace fonts like Courier."
+  },
+  {
+    "word": "CURSIVE",
+    "meaning": "Writing with characters joined together in a flowing hand",
+    "example": "Children learn cursive handwriting in primary school."
+  },
+  {
+    "word": "CALLIGRAPHIC",
+    "meaning": "Relating to beautiful ornamental handwritten lettering",
+    "example": "The wedding invite featured calligraphic scripts."
+  },
+  {
+    "word": "LETTERPRESS",
+    "meaning": "Relief printing using raised inked type pressed onto paper",
+    "example": "Letterpress invitations feature tactile indented lettering."
+  },
+  {
+    "word": "COMPUTATIONAL",
+    "meaning": "Using computer algorithms to analyze language structures",
+    "example": "Computational linguistics powers machine translation."
+  },
+  {
+    "word": "NEUROLINGUISTICS",
+    "meaning": "The study of neural mechanisms in the human brain controlling language",
+    "example": "Neurolinguistics studies brain activity during speech."
+  },
+  {
+    "word": "PSYCHOLINGUISTICS",
+    "meaning": "The study of psychological factors enabling humans to acquire language",
+    "example": "Psycholinguistics investigates how children learn words."
+  },
+  {
+    "word": "SOCIOLINGUISTICS",
+    "meaning": "The study of language in relation to social factors and dialects",
+    "example": "Sociolinguistics explores regional accents and slang."
+  },
+  {
+    "word": "ETHNOLINGUISTICS",
+    "meaning": "Study of relationships between language and cultural behavior",
+    "example": "Ethnolinguistics explores how worldview shapes vocabulary."
+  },
+  {
+    "word": "PALEOLINGUISTICS",
+    "meaning": "Reconstructing ancient extinct parent languages using historical data",
+    "example": "Paleolinguistics traces Proto-Indo-European roots."
+  },
+  {
+    "word": "DIACHRONIC",
+    "meaning": "Studying language development and change through historical time",
+    "example": "Diachronic analysis tracks sound shifts across centuries."
+  },
+  {
+    "word": "SYNCHRONIC",
+    "meaning": "Studying language at a single specific point in time",
+    "example": "Synchronic study analyzes modern English grammar."
+  },
+  {
+    "word": "UNIVERSAL",
+    "meaning": "Grammatical patterns shared across all human languages",
+    "example": "Chomsky proposed a universal grammar framework."
+  },
+  {
+    "word": "INNATENESS",
+    "meaning": "The hypothesis that humans possess an inborn capacity for language",
+    "example": "Innateness theory explains rapid child language learning."
+  },
+  {
+    "word": "GRAMMATICALITY",
+    "meaning": "Conformity of a sentence to the structural rules of a grammar",
+    "example": "Linguists test native speaker judgments of grammaticality."
+  },
+  {
+    "word": "WELLFORMEDNESS",
+    "meaning": "The state of a sentence being grammatically and syntactically valid",
+    "example": "Parsing algorithms verify sentence well-formedness."
+  },
+  {
+    "word": "AMBIGUITY",
+    "meaning": "The quality of being open to more than one interpretation",
+    "example": "Syntactic ambiguity creates confusing headlines."
+  },
+  {
+    "word": "DISAMBIGUATION",
+    "meaning": "The removal of uncertainty or multiple meanings from text",
+    "example": "Context aids natural language disambiguation."
+  },
+  {
+    "word": "ISOGLOSS",
+    "meaning": "A line on a map marking the boundary of a linguistic feature",
+    "example": "An isogloss separates regional dialect word choices."
+  },
+  {
+    "word": "CREOLE",
+    "meaning": "A stable natural language developed from a pidgin simplified blend",
+    "example": "Haitian Creole is a fully developed natural language."
+  },
+  {
+    "word": "PIDGIN",
+    "meaning": "A simplified contact language formed between non-native groups",
+    "example": "Trade pidgins emerge when groups need basic commerce."
+  },
+  {
+    "word": "LINGUAFRANCA",
+    "meaning": "A common language adopted for communication between speakers of different tongues",
+    "example": "English serves as a global lingua franca for aviation."
+  },
+  {
+    "word": "VERNACULAR",
+    "meaning": "The native language or dialect spoken by ordinary people in a region",
+    "example": "Mark Twain wrote dialogue in authentic regional vernacular."
+  },
+  {
+    "word": "MOTHERTONGUE",
+    "meaning": "The first language learned from birth; native language",
+    "example": "Her mother tongue is Spanish."
+  },
+  {
+    "word": "POLYGLOT",
+    "meaning": "A person who knows and uses several foreign languages",
+    "example": "The polyglot spoke six European languages fluently."
+  },
+  {
+    "word": "BILINGUAL",
+    "meaning": "Able to speak two languages fluently",
+    "example": "Bilingual education fosters cognitive agility."
+  },
+  {
+    "word": "MULTILINGUAL",
+    "meaning": "Using or involving several languages simultaneously",
+    "example": "Switzerland is a multilingual country with four official tongues."
+  },
+  {
+    "word": "LOANBLEND",
+    "meaning": "A compound word combining native and foreign root elements",
+    "example": "Loanblend words fuse native and foreign roots."
+  },
+  {
+    "word": "INTERPRETER",
+    "meaning": "A person who translates spoken words live between foreign speakers",
+    "example": "UN interpreters provide real-time translation."
+  },
+  {
+    "word": "DECIPHERMENT",
+    "meaning": "The analysis and reading of ancient unknown writing scripts",
+    "example": "Decipherment of Egyptian hieroglyphs via the Rosetta Stone."
+  },
+  {
+    "word": "ROSETTASTONE",
+    "meaning": "Key artifact enabling translation of ancient Egyptian hieroglyphs",
+    "example": "The Rosetta Stone contained Greek and Egyptian scripts."
+  },
+  {
+    "word": "HIEROGLYPHICS",
+    "meaning": "Enigmatic pictorial script used in ancient Egypt",
+    "example": "Egyptian hieroglyphics carved on temple stone walls."
+  },
+  {
+    "word": "CUNEIFORM",
+    "meaning": "Wedge-shaped characters carved into clay tablets in ancient Sumer",
+    "example": "Cuneiform is one of Earth's earliest writing systems."
+  },
+  {
+    "word": "PICTOGRAM",
+    "meaning": "A pictorial symbol representing a word, phrase, or object",
+    "example": "Cave art pictograms documented early hunting events."
+  },
+  {
+    "word": "LOANTRANSLATION",
+    "meaning": "A literal word-for-word translation of a foreign phrase",
+    "example": "Flea market is a loantranslation of French phrase."
+  },
+  {
+    "word": "SYLLABARY",
+    "meaning": "A set of written symbols representing spoken syllables",
+    "example": "Japanese Hiragana is a phonetic syllabary."
+  },
+  {
+    "word": "ALPHABETIC",
+    "meaning": "Relating to a system of letter symbols representing speech sounds",
+    "example": "Alphabetic scripts use individual letters for phonemes."
+  },
+  {
+    "word": "VOWELSHIFT",
+    "meaning": "A major historical sound change altering long vowel pronunciations",
+    "example": "The Great Vowel Shift transformed Middle English speech."
+  },
+  {
+    "word": "GRIMMSLAW",
+    "meaning": "A set of sound laws describing Germanic consonant shifts",
+    "example": "Grimm's Law explains sound changes from Proto-Indo-European."
+  },
+  {
+    "word": "COGNATE",
+    "meaning": "Words in different languages having a common historical ancestor",
+    "example": "English night and German Nacht are historical cognates."
+  },
+  {
+    "word": "FALSEFRIEND",
+    "meaning": "Words in two languages that look similar but have different meanings",
+    "example": "Spanish embarazada does not mean embarrassed."
+  },
+  {
+    "word": "BORROWING",
+    "meaning": "Adopting words from foreign languages into native vocabulary",
+    "example": "English vocabulary grew through extensive lexical borrowing."
+  },
+  {
+    "word": "CALQUE",
+    "meaning": "A word or phrase borrowed by literal word-for-word translation",
+    "example": "Flea market is a calque of French march\u00e9 aux puces."
+  },
+  {
+    "word": "NEOLOGIZE",
+    "meaning": "To coin, invent, or use new words or expressions",
+    "example": "Tech innovators neologize daily as digital tools evolve."
+  },
+  {
+    "word": "ARTICULATION",
+    "meaning": "The formation of clear and distinct speech sounds",
+    "example": "Vocal exercises improve speech articulation."
+  },
+  {
+    "word": "CALQUEPRINT",
+    "meaning": "A literal translation borrowed from another language",
+    "example": "Calqueprint expressions mirror foreign phrasing."
+  },
+  {
+    "word": "HEADWORDENTRY",
+    "meaning": "The primary printed entry word in a reference lexicon",
+    "example": "Look up headwordentry in the lexicon."
+  },
+  {
+    "word": "LEXICALGAP",
+    "meaning": "An absence of a word in a language for a specific concept",
+    "example": "A lexicalgap occurs when no single word exists."
+  },
+  {
+    "word": "LEXICAL",
+    "meaning": "Relating to the words or vocabulary of a language",
+    "example": "Lexical richness expands writing depth."
+  },
+  {
+    "word": "ALPHABETICALLY",
+    "meaning": "Arranged in order according to the alphabet",
+    "example": "Words are listed alphabetically in dictionaries."
+  },
+  {
+    "word": "EXPRESSION",
+    "meaning": "The process of making known one's thoughts or feelings in words",
+    "example": "Creative writing offers freedom of personal expression."
+  },
+  {
+    "word": "COMMUNICATION",
+    "meaning": "The imparting or exchanging of information by speaking or writing",
+    "example": "Clear communication resolves team misunderstandings."
+  },
+  {
+    "word": "MESSAGING",
+    "meaning": "Sending verbal or digital communications between parties",
+    "example": "Digital messaging connects people instantly."
+  },
+  {
+    "word": "STATEMENT",
+    "meaning": "A definite or clear expression of something in speech or writing",
+    "example": "The witness gave an official written statement."
+  },
+  {
+    "word": "ASSERTION",
+    "meaning": "A confident and forceful statement of fact or belief",
+    "example": "Back up your main assertion with concrete evidence."
+  },
+  {
+    "word": "DECLARATION",
+    "meaning": "A formal or explicit announcement or statement",
+    "example": "The signers issued a historical declaration of freedom."
+  },
+  {
+    "word": "PROCLAMATION",
+    "meaning": "A public or official announcement of great importance",
+    "example": "The mayor issued an official holiday proclamation."
+  },
+  {
+    "word": "PRONUNCIATIONS",
+    "meaning": "The ways in which words or languages are spoken",
+    "example": "Check pronunciations in the phonetics key."
+  },
+  {
+    "word": "EPIGRAM",
+    "meaning": "A pithy, witty, or concise saying or poem",
+    "example": "Wilde was famous for sharp satirical epigrams."
+  },
+  {
+    "word": "GRAMMATICAL",
+    "meaning": "Conforming to the rules of grammar and syntax",
+    "example": "Ensure sentences are grammatical and clear."
+  },
+  {
+    "word": "EPITAPH",
+    "meaning": "A phrase or statement written in memory of a person who has died",
+    "example": "A moving poetic epitaph was carved on the gravestone."
+  },
+  {
+    "word": "EPITHET",
+    "meaning": "An adjective or descriptive phrase expressing a quality characteristic",
+    "example": "Alexander the Great uses the epithet Great."
+  },
+  {
+    "word": "MOTTO",
+    "meaning": "A short sentence or phrase summarizing guiding beliefs",
+    "example": "The school motto is Truth and Courage."
+  },
+  {
+    "word": "SLOGAN",
+    "meaning": "A short catchy phrase used in advertising or political campaigns",
+    "example": "The campaign created a memorable safety slogan."
+  },
+  {
+    "word": "SEMANTICALLY",
+    "meaning": "In a way that relates to logic or word meaning",
+    "example": "The phrases are semantically identical."
+  },
+  {
+    "word": "MAXIM",
+    "meaning": "A short, pithy statement expressing a general truth or rule of conduct",
+    "example": "Honesty is the best policy is a timeless moral maxim."
+  },
+  {
+    "word": "ADAGE",
+    "meaning": "A traditional proverb or short statement expressing a general truth",
+    "example": "An apple a day is an ancient folk adage."
+  },
+  {
+    "word": "PROVERB",
+    "meaning": "A short traditional saying offering advice or general truth",
+    "example": "Actions speak louder than words is a famous proverb."
+  },
+  {
+    "word": "APHORISM",
+    "meaning": "A pithy observation that contains a general truth",
+    "example": "Knowledge is power is a classic aphorism."
+  },
+  {
+    "word": "AXIOM",
+    "meaning": "A statement or proposition regarded as self-evidently true",
+    "example": "Mathematical proofs build on foundational axioms."
+  },
+  {
+    "word": "TRUISM",
+    "meaning": "A statement that is obviously true and says nothing new",
+    "example": "It is what it is is a common colloquial truism."
+  },
+  {
+    "word": "PLATITUDE",
+    "meaning": "A remark or statement used too often to be interesting or thoughtful",
+    "example": "Avoid empty platitudes when comforting a friend."
+  },
+  {
+    "word": "CLICH\u00c9",
+    "meaning": "A phrase or opinion overused to the point of betraying lack of thought",
+    "example": "Time will tell has become a tired writing clich\u00e9."
+  },
+  {
+    "word": "COLLOQUIALISM",
+    "meaning": "A word or phrase that is not formal or literary; informal speech",
+    "example": "Gonna and wanna are everyday spoken colloquialisms."
+  },
+  {
+    "word": "PHONETICALLY",
+    "meaning": "In a manner according to spoken speech sounds",
+    "example": "Spell technical terms phonetically."
+  },
+  {
+    "word": "SPOKENWORD",
+    "meaning": "Poetic performance art relying on oral rhythm and cadence",
+    "example": "Spoken word poetry sessions feature intense oral delivery."
+  },
+  {
+    "word": "ORALTRADITION",
+    "meaning": "Passing stories, history, and folklore down through speech",
+    "example": "Ancient myths survived for centuries via oral tradition."
+  },
+  {
+    "word": "BALLAD",
+    "meaning": "A poem or song narrating a story in short stanzas",
+    "example": "Folk singers performed traditional story ballads."
+  },
+  {
+    "word": "SYNTACTICALLY",
+    "meaning": "In a manner adhering to sentence structure syntax rules",
+    "example": "The sentence is syntactically correct."
+  },
+  {
+    "word": "HAIKU",
+    "meaning": "A Japanese poetic form of three unrhymed lines of 5, 7, 5 syllables",
+    "example": "A traditional haiku reflects seasonal natural imagery."
+  },
+  {
+    "word": "LIMERICK",
+    "meaning": "A humorous, frequently bawdy verse of three long and two short lines",
+    "example": "Limericks feature a distinctive AABBA rhyme scheme."
+  },
+  {
+    "word": "MORPHOLOGICAL",
+    "meaning": "Relating to the internal structure of words and roots",
+    "example": "Morphological analysis breaks words into roots and prefixes."
+  },
+  {
+    "word": "ODE",
+    "meaning": "A formal lyrical poem addressing a particular subject poetically",
+    "example": "Keats wrote Ode on a Grecian Urn."
+  },
+  {
+    "word": "PASTORAL",
+    "meaning": "Work of literature portraying idealized rural country life",
+    "example": "Pastoral poetry celebrates quiet shepherd country fields."
+  },
+  {
+    "word": "SATIRICAL",
+    "meaning": "Containing or using irony, sarcasm, or ridicule to expose flaw",
+    "example": "The satirical cartoon poked fun at political corruption."
+  },
+  {
+    "word": "DIDACTIC",
+    "meaning": "Intended to teach, particularly in having moral instruction",
+    "example": "Fables have a clear didactic purpose for children."
+  },
+  {
+    "word": "NEOLOGISM",
+    "meaning": "A newly coined word or expression entering popular speech",
+    "example": "Tech advancements constantly generate useful neologisms."
+  },
+  {
+    "word": "IRONIC",
+    "meaning": "Happening in a way opposite to what is expected",
+    "example": "It was ironic that the fire station caught fire."
+  }
+]

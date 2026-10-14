@@ -1,0 +1,1857 @@
+[
+  {
+    "word": "FALCON",
+    "definition": "Fast predatory bird of prey with long pointed wings",
+    "example": "The peregrine falcon dove at high speed to capture prey."
+  },
+  {
+    "word": "KESTREL",
+    "definition": "Small falcon that hovers in the air while hunting",
+    "example": "The common kestrel hovered over the grassland searching for mice."
+  },
+  {
+    "word": "HARRIER",
+    "definition": "Slender hawk hunting low over open country",
+    "example": "The marsh harrier glided low across the reedbed."
+  },
+  {
+    "word": "OSPREY",
+    "definition": "Large fish-eating bird of prey",
+    "example": "The osprey plunged feet-first into the lake to catch trout."
+  },
+  {
+    "word": "BUZZARD",
+    "definition": "Large hawk with broad wings and rounded tail",
+    "example": "A buzzard circled lazily over the forest valley."
+  },
+  {
+    "word": "MERLIN",
+    "definition": "Small fierce falcon hunting small birds",
+    "example": "The merlin chased a flock of pipits across the moor."
+  },
+  {
+    "word": "CARACARA",
+    "definition": "South American bird of prey related to falcons",
+    "example": "The crested caracara scavenged along the coastal shore."
+  },
+  {
+    "word": "GYRFALCON",
+    "definition": "Largest falcon species breeding in Arctic regions",
+    "example": "The white gyrfalcon hunted ptarmigan in icy tundra."
+  },
+  {
+    "word": "VULTURE",
+    "definition": "Large scavenging bird with featherless head",
+    "example": "A flock of vultures circled high above the savanna."
+  },
+  {
+    "word": "SCREECHOWL",
+    "definition": "Small owl known for its piercing trilling call",
+    "example": "The eastern screechowl roosted in a hollow tree trunk."
+  },
+  {
+    "word": "SNOWYOWL",
+    "definition": "Large white Arctic owl with dark spots",
+    "example": "The snowyowl perched quietly on a snowbank watching for lemmings."
+  },
+  {
+    "word": "GREATOWL",
+    "definition": "Large horned owl with yellow eyes",
+    "example": "The great horned owl hunted rabbits under full moonlight."
+  },
+  {
+    "word": "TAWNYOWL",
+    "definition": "Woodland owl with mottled brown plumage",
+    "example": "The tawnyowl called out from the oak woods at night."
+  },
+  {
+    "word": "HARPYEAGLE",
+    "definition": "Massive tropical forest eagle preying on sloths",
+    "example": "The harpyeagle used immense talons to capture tree-dwelling mammals."
+  },
+  {
+    "word": "GOSHAWK",
+    "definition": "Large powerful hawk of dense northern forests",
+    "example": "The northern goshawk maneuvered agilely through pine trees."
+  },
+  {
+    "word": "SPARROWHAWK",
+    "definition": "Small hawk hunting songbirds in woodland and gardens",
+    "example": "The sparrowhawk darted low through garden hedges."
+  },
+  {
+    "word": "SECRETARYBIRD",
+    "definition": "Tall African bird of prey hunting snakes on foot",
+    "example": "The secretarybird stomped on venomous snakes with strong legs."
+  },
+  {
+    "word": "LAMMERGEIER",
+    "definition": "Bearded vulture that drops bones on rocks to crack them",
+    "example": "The lammergeier dropped large bones onto mountain scree."
+  },
+  {
+    "word": "GRIFFON",
+    "definition": "Old World vulture with pale downy head and neck",
+    "example": "The Eurasian griffon soared over mountain gorges."
+  },
+  {
+    "word": "ACCIPITER",
+    "definition": "Hawk of genus Accipiter with short rounded wings",
+    "example": "Accipiter species excel at rapid pursuit in woodland cover."
+  },
+  {
+    "word": "BUTEO",
+    "definition": "Broad-winged soaring hawk of open country",
+    "example": "The red-tailed hawk is a classic North American bueto."
+  },
+  {
+    "word": "GOLDENEAGLE",
+    "definition": "Massive dark brown raptor with golden nape feathers",
+    "example": "The golden eagle glided majestically over mountain peaks."
+  },
+  {
+    "word": "BALDEAGLE",
+    "definition": "North American sea eagle with white head and tail",
+    "example": "The bald eagle swooped down to snatch salmon."
+  },
+  {
+    "word": "HAWKOWL",
+    "definition": "Day-hunting Arctic owl with hawk-like long tail",
+    "example": "The northern hawkowl perched atop a spruce tree."
+  },
+  {
+    "word": "PYGMYOWL",
+    "definition": "Tiny diurnal owl preying on small birds and mice",
+    "example": "The Eurasian pygmyowl called with a soft whistled note."
+  },
+  {
+    "word": "SCOPSOWL",
+    "definition": "Small nocturnal owl with subtle ear tufts",
+    "example": "The Eurasian scopsowl called rhythmically at night."
+  },
+  {
+    "word": "BOOBOOK",
+    "definition": "Small dark Australian owl named after its call",
+    "example": "The southern boobook called from eucalyptus trees."
+  },
+  {
+    "word": "MOREPORK",
+    "definition": "Small owl of New Zealand with two-note hoot call",
+    "example": "The kiwi forest echoed with the morepork call."
+  },
+  {
+    "word": "MALLARD",
+    "definition": "Common wild duck with iridescent green head on drakes",
+    "example": "Mallard ducks swam peacefully across the park pond."
+  },
+  {
+    "word": "PINTAIL",
+    "definition": "Slender duck with long pointed central tail feathers",
+    "example": "The northern pintail dabbled in shallow marshland waters."
+  },
+  {
+    "word": "WIGEON",
+    "definition": "Medium-sized dabbling duck with cream forehead stripe",
+    "example": "Flocks of Eurasian wigeon grazed on coastal saltmarsh grass."
+  },
+  {
+    "word": "CANVASBACK",
+    "definition": "North American diving duck with wedge-shaped reddish head",
+    "example": "Canvasback ducks dived deep to feed on wild celery roots."
+  },
+  {
+    "word": "MERGANSER",
+    "definition": "Fish-eating duck with narrow serrated bill",
+    "example": "The crested hooded merganser swam in clear mountain streams."
+  },
+  {
+    "word": "SHELDUCK",
+    "definition": "Large waterfowl intermediate between duck and goose",
+    "example": "Common shelducks nested in abandoned rabbit burrows."
+  },
+  {
+    "word": "HARLEQUIN",
+    "definition": "Colorful sea duck inhabiting rushing mountain streams",
+    "example": "Harlequin ducks navigated rough river rapids with ease."
+  },
+  {
+    "word": "FLAMINGO",
+    "definition": "Tall wading bird with pink plumage and hooked bill",
+    "example": "A flock of pink flamingos waded in the alkaline lake."
+  },
+  {
+    "word": "EGRET",
+    "definition": "White heron with long slender plumes during breeding",
+    "example": "The snowy egret stirred shallow water with bright yellow feet."
+  },
+  {
+    "word": "BITTERN",
+    "definition": "Solitary secretive marsh heron with cryptic brown camouflage",
+    "example": "The Eurasian bittern blended seamlessly with tall brown reeds."
+  },
+  {
+    "word": "IBIS",
+    "definition": "Wading bird with long downward-curved bill",
+    "example": "The glossy ibis probed soft mud for crayfish."
+  },
+  {
+    "word": "SPOONBILL",
+    "definition": "Wading bird with spatulate bill swept side to side",
+    "example": "The roseate spoonbill filter-fed in shallow estuarine waters."
+  },
+  {
+    "word": "PELICAN",
+    "definition": "Large water bird with large throat pouch for fish",
+    "example": "Brown pelicans plunged into ocean waves to scoop up anchovies."
+  },
+  {
+    "word": "CORMORANT",
+    "definition": "Dark aquatic bird that dives deep to catch fish",
+    "example": "The cormorant spread its wings to dry on coastal rocks."
+  },
+  {
+    "word": "ANHINGA",
+    "definition": "Water bird with needle-like bill known as snakebird",
+    "example": "The anhinga swam with only its slender neck above water."
+  },
+  {
+    "word": "FRIGATEBIRD",
+    "definition": "Seabird with long narrow wings and deeply forked tail",
+    "example": "Male frigatebirds inflated large red throat sacs during courtship."
+  },
+  {
+    "word": "GANNET",
+    "definition": "Large seabird that plunge-dives into sea for fish",
+    "example": "Northern gannets folded their wings back like arrowheads when diving."
+  },
+  {
+    "word": "BOOBY",
+    "definition": "Tropical seabird with brightly colored feet",
+    "example": "Blue-footed boobies performed synchronized courtship footwork dances."
+  },
+  {
+    "word": "ALBATROSS",
+    "definition": "Huge ocean bird with immense wingspan for gliding",
+    "example": "The wandering albatross glided over stormy Southern Ocean waves."
+  },
+  {
+    "word": "PETREL",
+    "definition": "Tubenosed seabird flying low over open ocean",
+    "example": "The storm petrel fluttered over ocean swells gathering plankton."
+  },
+  {
+    "word": "SHEARWATER",
+    "definition": "Long-winged seabird gliding low over wave crests",
+    "example": "Manx shearwaters returned to island burrows under cover of darkness."
+  },
+  {
+    "word": "FULMAR",
+    "definition": "Petrel-like seabird nesting on steep ocean cliffs",
+    "example": "Northern fulmars defended cliff nests by spitting foul oil."
+  },
+  {
+    "word": "GUILLEMOT",
+    "definition": "Black and white seabird nesting in dense cliff colonies",
+    "example": "Common guillemots laid pear-shaped eggs on bare cliff ledges."
+  },
+  {
+    "word": "RAZORBILL",
+    "definition": "Colonial seabird with thick black bill crossed by white line",
+    "example": "Razorbills dived deep under ocean waters to catch sandeels."
+  },
+  {
+    "word": "SKIMMER",
+    "definition": "Water bird with longer lower mandible used to scoop fish",
+    "example": "Black skimmers flew low skimming water surfaces with lower bill."
+  },
+  {
+    "word": "AVOCET",
+    "definition": "Wading bird with long upturned bill and long blue legs",
+    "example": "Pied avocets swept upturned bills through estuarine silt."
+  },
+  {
+    "word": "STILT",
+    "definition": "Slender wading bird with extremely long pink legs",
+    "example": "Black-necked stilts waded through shallow salt ponds."
+  },
+  {
+    "word": "LAPWING",
+    "definition": "Plover-like wading bird with crest and iridescent plumage",
+    "example": "Northern lapwings flew in erratic tumbling flight over pastures."
+  },
+  {
+    "word": "CURLEW",
+    "definition": "Large wading bird with long downward-slender bill",
+    "example": "The Eurasian curlew uttered a mournful whistle across mudflats."
+  },
+  {
+    "word": "GODWIT",
+    "definition": "Long-legged wading bird with long straight or slightly recurved bill",
+    "example": "Bar-tailed godwits made non-stop migratory flights across the Pacific."
+  },
+  {
+    "word": "WOODCOCK",
+    "definition": "Secretive woodland bird with long bill and cryptic pattern",
+    "example": "The American woodcock performed aerial courtship sky dances at dusk."
+  },
+  {
+    "word": "PHALAROPE",
+    "definition": "Small wading bird that spins on water to raise prey",
+    "example": "Red-necked phalaropes spun in circles to create water vortexes."
+  },
+  {
+    "word": "JACANA",
+    "definition": "Tropical wader with huge feet walking on floating vegetation",
+    "example": "The comb-crested jacana walked gracefully on lily pads."
+  },
+  {
+    "word": "GALLINULE",
+    "definition": "Water bird of rail family with colorful frontal shield",
+    "example": "Purple gallinules climbed marsh vegetation using long toes."
+  },
+  {
+    "word": "SHOVELER",
+    "definition": "Dabbling duck with broad spatulate bill for filtering plankton",
+    "example": "Northern shovelers filtered seeds from water surface."
+  },
+  {
+    "word": "POCHARD",
+    "definition": "Medium diving duck with chestnut head and grey body",
+    "example": "Common pochards dived into deep lake waters."
+  },
+  {
+    "word": "GARGANEY",
+    "definition": "Small migratory duck with prominent white stripe over eye",
+    "example": "Garganey ducks migrated across Eurasia in spring."
+  },
+  {
+    "word": "GOLDENEYE",
+    "definition": "Diving duck with bright yellow iris and round white cheek patch",
+    "example": "Common goldeneyes nested in tree hollows near lakes."
+  },
+  {
+    "word": "BUFFLEHEAD",
+    "definition": "Small North American diving duck with large white head patch",
+    "example": "Bufflehead ducks dived quickly when startled."
+  },
+  {
+    "word": "GOOSANDER",
+    "definition": "Large fish-eating sawbill duck of clear rivers",
+    "example": "Goosander broods swam behind mother in mountain streams."
+  },
+  {
+    "word": "MUSCOVY",
+    "definition": "Large tropical duck with warty red facial caruncles",
+    "example": "Muscovy ducks roosted in rainforest tree branches."
+  },
+  {
+    "word": "GADWALL",
+    "definition": "Subtle grey dabbling duck with white wing speculum",
+    "example": "Gadwall pairs dabbled along marsh margins."
+  },
+  {
+    "word": "GREBE",
+    "definition": "Aquatic diving bird with lobed toes and silk-like plumage",
+    "example": "Great crested grebes performed elaborate weed dances."
+  },
+  {
+    "word": "DOWITCHER",
+    "definition": "Medium sandpiper with long straight bill probing like sewing machine",
+    "example": "Long-billed dowitchers probed muddy pool margins rapidly."
+  },
+  {
+    "word": "WILLET",
+    "definition": "Large North American shorebird with bold black-and-white wing pattern",
+    "example": "The willet called loudly while patrolling sandy beaches."
+  },
+  {
+    "word": "REDSHANK",
+    "definition": "Medium wading bird with bright orange-red legs",
+    "example": "The common redshank called its noisy alarm warning."
+  },
+  {
+    "word": "GREENSHANK",
+    "definition": "Slightly recurved-billed wader with long greenish legs",
+    "example": "The greenshank uttered a ringing three-note call."
+  },
+  {
+    "word": "TATTLER",
+    "definition": "Grey shorebird of Pacific coasts foraging along rocky shores",
+    "example": "Wandering tattlers bobbed actively on wave-washed rocks."
+  },
+  {
+    "word": "SURFBIRD",
+    "definition": "Stocky Pacific shorebird feeding exclusively on rocky wave zones",
+    "example": "The surfbird picked barnacles from rocky tide pools."
+  },
+  {
+    "word": "BLUEBIRD",
+    "definition": "Small North American thrush with bright blue upperparts",
+    "example": "The eastern bluebird nested in wooden nest boxes."
+  },
+  {
+    "word": "NIGHTINGALE",
+    "definition": "Small brown songbird famous for rich nocturnal song",
+    "example": "The nightingale sang melodious trills from thick bushes at midnight."
+  },
+  {
+    "word": "REDSTART",
+    "definition": "Small insect-eating songbird with bright orange-red tail",
+    "example": "The American redstart fluttered through tree foliage catching flies."
+  },
+  {
+    "word": "WHEATEAR",
+    "definition": "Small terrestrial songbird of open stony habitats",
+    "example": "Northern wheatears migrated across oceans between Arctic and Africa."
+  },
+  {
+    "word": "CHIFFCHAFF",
+    "definition": "Small olive-green warbler named after its repetitive song",
+    "example": "The chiffchaff called its name repeatedly from woodland treetops."
+  },
+  {
+    "word": "BLACKCAP",
+    "definition": "Warbler with distinctive black or chestnut cap",
+    "example": "The male blackcap sang a clear flute-like melody from hawthorn hedges."
+  },
+  {
+    "word": "WHITETHROAT",
+    "definition": "Small warbler with white throat patch",
+    "example": "Greater whitethroats sang scratchy courtship songs during flight displays."
+  },
+  {
+    "word": "GROSBEAK",
+    "definition": "Songbird with large heavy conical bill for seeds",
+    "example": "Rose-breasted grosbeaks visited backyard sunflower seed feeders."
+  },
+  {
+    "word": "TANAGER",
+    "definition": "Brilliantly colored American songbird",
+    "example": "The scarlet tanager displayed striking red and black plumage."
+  },
+  {
+    "word": "MEADOWLARK",
+    "definition": "Yellow-breasted songbird of open grasslands",
+    "example": "Western meadowlarks whistled cheerful tunes from fence posts."
+  },
+  {
+    "word": "GRACKLE",
+    "definition": "Iridescent blackbird with long keel-shaped tail",
+    "example": "Common grackles gathered in noisy flocks in oak trees."
+  },
+  {
+    "word": "STARLING",
+    "definition": "Gregarous songbird with iridescent spangled plumage",
+    "example": "Starlings formed shimmering, swirling murmurations at sunset."
+  },
+  {
+    "word": "MYNA",
+    "definition": "Asian songbird famous for vocal mimicry",
+    "example": "The hill myna imitated human speech and whistles."
+  },
+  {
+    "word": "JACKDAW",
+    "definition": "Small black crow with grey nape and pale eyes",
+    "example": "Jackdaws nested in chimney pots and church towers."
+  },
+  {
+    "word": "TREECREEPER",
+    "definition": "Small brown bird climbing spirally up tree trunks",
+    "example": "The treecreeper probed tree bark crevices for spiders."
+  },
+  {
+    "word": "DIPPER",
+    "definition": "Aquatic songbird that walks underwater in mountain streams",
+    "example": "The white-throated dipper dived into icy river currents."
+  },
+  {
+    "word": "SWIFTLET",
+    "definition": "Small swift nesting in caves using hardened saliva",
+    "example": "Edible-nest swiftlets constructed nests on dark cave walls."
+  },
+  {
+    "word": "PIPIT",
+    "definition": "Small streaked songbird of open habitats with long hind claws",
+    "example": "Meadow pipits parachuted down during aerial song flights."
+  },
+  {
+    "word": "WAGTAIL",
+    "definition": "Slender songbird constantly wagging its long tail",
+    "example": "The pied wagtail darted across river stones catching insects."
+  },
+  {
+    "word": "SHRIKE",
+    "definition": "Predatory songbird impaling prey on thorns or barbed wire",
+    "example": "The loggerhead shrike impaled grasshoppers on thorn bushes."
+  },
+  {
+    "word": "WAXWING",
+    "definition": "Sleek crested songbird with waxy red tips on wing feathers",
+    "example": "Bohemian waxwings fed eagerly on winter rowan berries."
+  },
+  {
+    "word": "SUNBIRD",
+    "definition": "Tiny colorful Old World bird feeding on flower nectar",
+    "example": "Metallic green sunbirds hovered over tropical blossoms."
+  },
+  {
+    "word": "HONEYEATER",
+    "definition": "Australasian bird specialized for nectar feeding",
+    "example": "Red wattlebirds squabbled over eucalyptus flower nectar."
+  },
+  {
+    "word": "FLOWERPECKER",
+    "definition": "Tiny bird feeding on mistletoe berries and nectar",
+    "example": "The scarlet-backed flowerpecker dispersed mistletoe seeds."
+  },
+  {
+    "word": "WAXBILL",
+    "definition": "Small African finch with bright red bill",
+    "example": "Common waxbills flitted in small flocks through grassy fields."
+  },
+  {
+    "word": "MANNIKIN",
+    "definition": "Small seed-eating estrildid finch",
+    "example": "Nutmeg mannikins gathered in rice paddies in Asia."
+  },
+  {
+    "word": "GOLDFINCH",
+    "definition": "Brightly colored finch with red face and yellow wing patch",
+    "example": "The European goldfinch fed on thistle seeds."
+  },
+  {
+    "word": "GREENFINCH",
+    "definition": "Stocky olive-green finch with bright yellow wing flashes",
+    "example": "The greenfinch visited garden sunflower feeders."
+  },
+  {
+    "word": "CHAFFINCH",
+    "definition": "Common woodland finch with pink breast and white wingbars",
+    "example": "The male chaffinch sang from oak branches."
+  },
+  {
+    "word": "BULLFINCH",
+    "definition": "Stocky finch with rose-red underparts and black cap",
+    "example": "The Eurasian bullfinch ate fruit tree buds in spring."
+  },
+  {
+    "word": "HAWFINCH",
+    "definition": "Massive heavy-billed finch capable of cracking cherry stones",
+    "example": "The hawfinch cracked hornbeam seeds with ease."
+  },
+  {
+    "word": "LINNET",
+    "definition": "Small brown finch with crimson forehead on males",
+    "example": "Linnets twittered over gorse-covered hills."
+  },
+  {
+    "word": "SISKIN",
+    "definition": "Small streaky yellow-green finch with notched tail",
+    "example": "Siskins hung upside down on alder cones."
+  },
+  {
+    "word": "CROSSBILL",
+    "definition": "Finch with mandibles crossed for prying open pine cones",
+    "example": "The red crossbill extracted seeds from pine cones."
+  },
+  {
+    "word": "REEDBUNTING",
+    "definition": "Streaked bunting with black head and white collar",
+    "example": "The reedbunting sang from phragmites reed stalks."
+  },
+  {
+    "word": "SNOWBUNTING",
+    "definition": "High Arctic bunting with white winter plumage",
+    "example": "Snowbuntings whirled like snowflakes over tundra."
+  },
+  {
+    "word": "SKYLARK",
+    "definition": "Grassland lark famous for long soaring song flights",
+    "example": "The skylark hovered high above meadow fields."
+  },
+  {
+    "word": "WOODLARK",
+    "definition": "Woodland lark with distinct white eye-stripes",
+    "example": "The woodlark sang flute-like song spirals."
+  },
+  {
+    "word": "LEAFWARBLER",
+    "definition": "Small active warbler flitting through foliage",
+    "example": "The leafwarbler flitted rapidly among birch leaves."
+  },
+  {
+    "word": "WILLOWWARBLER",
+    "definition": "Migratory warbler with sweet descending song",
+    "example": "The willowwarbler sang from birch groves."
+  },
+  {
+    "word": "REEDWARBLER",
+    "definition": "Secretive brown warbler building woven nest on reeds",
+    "example": "The reedwarbler wove its cup nest between reed stalks."
+  },
+  {
+    "word": "SEDGEWARBLER",
+    "definition": "Streaked warbler with creamy eye-stripe and lively song",
+    "example": "The sedgewarbler sang energetic mimicry songs."
+  },
+  {
+    "word": "BLUETIT",
+    "definition": "Small agile tit with blue cap and yellow underparts",
+    "example": "The blue tit performed acrobatic flips while hunting."
+  },
+  {
+    "word": "COALTIT",
+    "definition": "Small dark tit with white patch on back of neck",
+    "example": "The coaltit cached pine seeds in tree bark."
+  },
+  {
+    "word": "MARSHTIT",
+    "definition": "Small brown-backed tit with neat glossy black cap",
+    "example": "The marshtit uttered explosive pitch calls."
+  },
+  {
+    "word": "LONGTAILEDTIT",
+    "definition": "Tiny fluffy pink and white bird with very long tail",
+    "example": "Longtailedtits roosted huddled together on branches."
+  },
+  {
+    "word": "WOODPIGEON",
+    "definition": "Large grey pigeon with white neck patch",
+    "example": "The woodpigeon cooed loudly from high oak branches."
+  },
+  {
+    "word": "ROCKDOVE",
+    "definition": "Wild ancestral species of domestic pigeons",
+    "example": "Wild rockdoves nested on sea cliffs."
+  },
+  {
+    "word": "COLLAREDDOVE",
+    "definition": "Pale grey dove with thin black neck collar",
+    "example": "The collared-dove cooed from urban roof tiles."
+  },
+  {
+    "word": "MOURNINGDOVE",
+    "definition": "Slender dove with mournful cooing call",
+    "example": "The mourningdove perched on wires at sunset."
+  },
+  {
+    "word": "CAPERCAILLIE",
+    "definition": "Huge woodland grouse famous for courtship leks",
+    "example": "The capercaillie fanned its tail on pine branches."
+  },
+  {
+    "word": "BLACKGROUSE",
+    "definition": "Black gamebird with lyre-shaped tail on leks",
+    "example": "Male blackgrouse displayed at dawn leks."
+  },
+  {
+    "word": "FIELDFARE",
+    "definition": "Large colorful thrush with grey head and chestnut back",
+    "example": "Fieldfares fed on orchard apples in winter."
+  },
+  {
+    "word": "REDWING",
+    "definition": "Small thrush with rusty red flanks and cream eyestripe",
+    "example": "The redwing called out thin whistling notes."
+  },
+  {
+    "word": "MISTLETHRUSH",
+    "definition": "Large bold thrush with spotted breast and wild song",
+    "example": "The mistlethrush sang loudly during winter storms."
+  },
+  {
+    "word": "SONGTHRUSH",
+    "definition": "Medium thrush with dark brown spots on buff breast",
+    "example": "The songthrush smashed snails against stone anvils."
+  },
+  {
+    "word": "RINGOUZEL",
+    "definition": "Mountain thrush with white crescent patch on breast",
+    "example": "The ringouzel sang from rocky mountain crags."
+  },
+  {
+    "word": "WHINCHAT",
+    "definition": "Small grassland chat with bold white eyestripe",
+    "example": "The whinchat perched on bracken stems."
+  },
+  {
+    "word": "STONECHAT",
+    "definition": "Stocky chat with dark head and bright orange breast",
+    "example": "The stonechat made sharp clicking calls."
+  },
+  {
+    "word": "LYREBIRD",
+    "definition": "Australian songbird famous for astonishing vocal mimicry",
+    "example": "The superb lyrebird mimicked chainsaws and camera shutters."
+  },
+  {
+    "word": "PITOHUI",
+    "definition": "Poisonous songbird native to New Guinea",
+    "example": "The hooded pitohui harbors batrachotoxin in its feathers."
+  },
+  {
+    "word": "DRONGO",
+    "definition": "Aggressive tropical songbird with fork tail",
+    "example": "The fork-tailed drongo mimicked alarm calls to steal food."
+  },
+  {
+    "word": "MONARCH",
+    "definition": "Small active insectivorous flycatcher songbird",
+    "example": "The black-naped monarch flitted through tropical canopy."
+  },
+  {
+    "word": "ARACARI",
+    "definition": "Small toucan with colorful banded plumage",
+    "example": "Chestnut-eared aracaris fed on wild figs in the canopy."
+  },
+  {
+    "word": "TOUCANET",
+    "definition": "Small green toucan of Neotropical forests",
+    "example": "The emerald toucanet perched quietly in cloud forest foliage."
+  },
+  {
+    "word": "HORNBILL",
+    "definition": "Large tropical bird with huge curved bill topped by casque",
+    "example": "The rhinoceros hornbill amplified calls using its hollow casque."
+  },
+  {
+    "word": "HOOPOE",
+    "definition": "Distinctive bird with erectile crest and striped wings",
+    "example": "The hoopoe probed lawns with its long curved bill for grubs."
+  },
+  {
+    "word": "MOTMOT",
+    "definition": "Neotropical bird with racquet-tipped central tail feathers",
+    "example": "The turquoise-browed motmot swung its racquet tail like a pendulum."
+  },
+  {
+    "word": "TROGON",
+    "definition": "Colorful forest bird with soft plumage and square tail",
+    "example": "The elegant trogon nested in hollow tree cavities."
+  },
+  {
+    "word": "QUETZAL",
+    "definition": "Brilliant green and red trogon with long tail plumes",
+    "example": "The resplendent quetzal flew across cloud forest canopy."
+  },
+  {
+    "word": "HUMMINGBIRD",
+    "definition": "Tiny bird capable of hovering and flying backwards",
+    "example": "The ruby-throated hummingbird hovered rapidly near red flowers."
+  },
+  {
+    "word": "ROADRUNNER",
+    "definition": "Fast ground-dwelling cuckoo of arid American deserts",
+    "example": "The crested roadrunner sprinted across desert roads pursuing lizards."
+  },
+  {
+    "word": "FROGMOUTH",
+    "definition": "Nocturnal bird with wide frog-like gape blending with bark",
+    "example": "The tawny frogmouth camouflaged as a broken tree branch."
+  },
+  {
+    "word": "POOTOO",
+    "definition": "Cryptic nocturnal Neotropical bird perching upright on stumps",
+    "example": "The great pootoo perched motionlessly imitating a dead fence post."
+  },
+  {
+    "word": "TURUTA",
+    "definition": "Cuckoo-like bird of South American forests",
+    "example": "Secretive squirrel cuckoos glided smoothly between branches."
+  },
+  {
+    "word": "TURTLEDOVE",
+    "definition": "Slender dove known as symbol of affection",
+    "example": "European turtledoves cooed gently from orchard branches."
+  },
+  {
+    "word": "KINGFISHER",
+    "definition": "Brightly colored bird with long sharp bill diving for fish",
+    "example": "The common kingfisher flashed bright cyan across the stream."
+  },
+  {
+    "word": "WOODPECKER",
+    "definition": "Bird that pecks tree bark to find insects",
+    "example": "The red-headed woodpecker hammered on a dead branch."
+  },
+  {
+    "word": "COCKATOO",
+    "definition": "Crested parrot native to Australasia",
+    "example": "The sulphur-crested cockatoo raised its yellow crest."
+  },
+  {
+    "word": "PARAKEET",
+    "definition": "Small long-tailed parrot species",
+    "example": "The monk parakeet built large communal twig nests."
+  },
+  {
+    "word": "COCKATIEL",
+    "definition": "Small Australian crested parrot",
+    "example": "The pet cocktiel whistled melodies and mimicked sounds."
+  },
+  {
+    "word": "BUDGERIGAR",
+    "definition": "Small Australian parakeet widely kept as pet",
+    "example": "Wild green budgerigars flew in large desert flocks."
+  },
+  {
+    "word": "LOVEBIRD",
+    "definition": "Small social parrot native to Africa",
+    "example": "Peach-faced lovebirds preened each other affectionately."
+  },
+  {
+    "word": "LORIKEET",
+    "definition": "Australasian parrot specialized for nectar feeding",
+    "example": "The rainbow lorikeet possessed a brush-tipped tongue."
+  },
+  {
+    "word": "OSTRICH",
+    "definition": "Largest flightless bird native to African savannas",
+    "example": "The ostrich ran across desert plains at high speeds."
+  },
+  {
+    "word": "CASSOWARY",
+    "definition": "Large flightless rainforest bird with helmet-like casque",
+    "example": "The southern cassowary dispersed large seeds through rainforests."
+  },
+  {
+    "word": "RHEA",
+    "definition": "Large flightless bird native to South America",
+    "example": "Greater rheas grazed alongside cattle on pampas grasslands."
+  },
+  {
+    "word": "PENGUIN",
+    "definition": "Flightless marine bird adapted for swimming in cold seas",
+    "example": "Emperor penguins huddled together against Antarctic blizzards."
+  },
+  {
+    "word": "JUNGLEFOWL",
+    "definition": "Tropical pheasant ancestral to domestic chickens",
+    "example": "Red junglefowl crowed in Southeast Asian tropical forests."
+  },
+  {
+    "word": "PTARMIGAN",
+    "definition": "Arctic grouse turning white in winter for camouflage",
+    "example": "Rock ptarmigan blended perfectly into snowy mountain slopes."
+  },
+  {
+    "word": "GUINEAFOWL",
+    "definition": "African game bird with helmeted head and spotted plumage",
+    "example": "Helmeted guineafowl roosted high in acacia trees at night."
+  },
+  {
+    "word": "MEGAPODE",
+    "definition": "Stocky bird building large mound incubators for eggs",
+    "example": "The male maleo built large sand mounds warmed by volcanic heat."
+  },
+  {
+    "word": "CHUKAR",
+    "definition": "Eurasian partridge with bold black flank stripes",
+    "example": "The chukar called from arid rocky desert canyon walls."
+  },
+  {
+    "word": "PLUMAGE",
+    "definition": "Collective term for all feathers covering a bird body",
+    "example": "Bright breeding plumage attracted potential mates in spring."
+  },
+  {
+    "word": "FLIGHTFEATHER",
+    "definition": "Large stiff feather on wing or tail essential for flight",
+    "example": "Flightfeathers provided lift and thrust during flapping flight."
+  },
+  {
+    "word": "PRIMARIES",
+    "definition": "Main flight feathers on outer edge of bird wing",
+    "example": "Long primaries enabled rapid acrobatic aerial maneuvers."
+  },
+  {
+    "word": "SECONDARIES",
+    "definition": "Flight feathers attached to forearm bone of wing",
+    "example": "Broad secondaries provided surface area for soaring glides."
+  },
+  {
+    "word": "TERTIALS",
+    "definition": "Innermost flight feathers covering wing base near body",
+    "example": "Overlapping tertials protected inner wing feathers when folded."
+  },
+  {
+    "word": "COVERTS",
+    "definition": "Small feathers covering bases of flight feathers",
+    "example": "Greater wing coverts showed distinct white wingbars."
+  },
+  {
+    "word": "RECTRICES",
+    "definition": "Tail feathers used for steering and braking in flight",
+    "example": "Stiff rectrices supported woodpeckers while climbing tree trunks."
+  },
+  {
+    "word": "REMIGES",
+    "definition": "Flight feathers of bird wing collectively",
+    "example": "Asymmetric remiges generated aerodynamic lift during downstroke."
+  },
+  {
+    "word": "MANDIBLE",
+    "definition": "Upper or lower part of bird beak",
+    "example": "The lower mandible was specially adapted for skimming water."
+  },
+  {
+    "word": "CULMEN",
+    "definition": "Dorsal ridge of upper mandible of bird bill",
+    "example": "Measurements of bill culmen length distinguished subspecies."
+  },
+  {
+    "word": "CARUNCLE",
+    "definition": "Fleshy outgrowth on head or neck of certain birds",
+    "example": "Bright red caruncles adorned the wild turkey neck."
+  },
+  {
+    "word": "GULLET",
+    "definition": "Esophagus or throat area of a bird",
+    "example": "The pelican stored freshly caught fish in its expandable throat sac."
+  },
+  {
+    "word": "PROVENTRICULUS",
+    "definition": "Glandular first part of bird stomach secreting digestive enzymes",
+    "example": "Gastric juices in proventriculus dissolved bone fragments."
+  },
+  {
+    "word": "CLOACA",
+    "definition": "Common posterior opening for digestive and reproductive systems",
+    "example": "Avian eggs passed through the cloaca during laying."
+  },
+  {
+    "word": "PYGOSTYLE",
+    "definition": "Fused tail vertebrae supporting tail feathers",
+    "example": "The muscular pygostyle controlled fan-like tail movements."
+  },
+  {
+    "word": "SYRINX",
+    "definition": "Vocal organ of birds located at base of trachea",
+    "example": "Complex muscles around syrinx enabled dual-voice song melodies."
+  },
+  {
+    "word": "TARSUS",
+    "definition": "Lower leg bone of bird above foot",
+    "example": "Wading birds possess elongated tarsus bones for walking in water."
+  },
+  {
+    "word": "ZYGODACTYL",
+    "definition": "Foot arrangement with two toes forward and two facing back",
+    "example": "Zygodactyl feet allowed parrots to grasp branches and food."
+  },
+  {
+    "word": "ANISODACTYL",
+    "definition": "Foot arrangement with three toes forward and one facing back",
+    "example": "Anisodactyl toe layout enabled songbirds to perch securely."
+  },
+  {
+    "word": "TOTIPALMATE",
+    "definition": "Webbing connecting all four toes of bird foot",
+    "example": "Pelicans have totipalmate feet optimized for powerful swimming."
+  },
+  {
+    "word": "UROPYGIAL",
+    "definition": "Preen gland at base of tail producing waterproofing oil",
+    "example": "Birds rub oil from uropygial gland onto feathers using beaks."
+  },
+  {
+    "word": "AVICULTURE",
+    "definition": "Practice of keeping and breeding wild birds in captivity",
+    "example": "Aviculture conservation saved endangered parrot species."
+  },
+  {
+    "word": "ORNITHOLOGY",
+    "definition": "Scientific study of birds and their behavior",
+    "example": "Ornithology research tracked migration via GPS."
+  },
+  {
+    "word": "PASSERINE",
+    "definition": "Perching bird of order Passeriformes with anisodactyl feet",
+    "example": "Over half of all living bird species belong to passerines."
+  },
+  {
+    "word": "NEOTROPICAL",
+    "definition": "Biogeographic region comprising tropical Americas",
+    "example": "Neotropical migrants flew to wintering grounds."
+  },
+  {
+    "word": "PALEOGNATH",
+    "definition": "Flightless or primitive bird with ancient palate structure",
+    "example": "Paleognath birds include ostriches and kiwis."
+  },
+  {
+    "word": "NEOGNATH",
+    "definition": "Modern bird class comprising vast majority of living species",
+    "example": "Neognath birds exhibit flexible upper jaw palates."
+  },
+  {
+    "word": "PTERYLOSIS",
+    "definition": "Arrangement of feather tracts on body of bird",
+    "example": "Study of pterylosis revealed distinct feather growth patterns."
+  },
+  {
+    "word": "APTERYLIA",
+    "definition": "Featherless areas of skin between feather tracts",
+    "example": "Apterylia skin patches facilitated heat dissipation."
+  },
+  {
+    "word": "PTERYLAE",
+    "definition": "Tracts of skin on bird body where feathers grow",
+    "example": "Feathers grow in organized rows within defined pterylae."
+  },
+  {
+    "word": "RHYNCHOKINESIS",
+    "definition": "Ability to flex upper bill tip independently",
+    "example": "Sandpipers used rhynchokinesis to grasp buried worms."
+  },
+  {
+    "word": "CALLOSITY",
+    "definition": "Hardened thickened patch of skin on bird body",
+    "example": "African ostriches possess callosity pads on chest."
+  },
+  {
+    "word": "HALLUX",
+    "definition": "First digit or hind toe of bird foot",
+    "example": "Strong hallux claws enabled raptors to grip prey."
+  },
+  {
+    "word": "ALULA",
+    "definition": "Small group of feathers attached to thumb of bird wing",
+    "example": "Extending the alula prevented stalling during landing."
+  },
+  {
+    "word": "GAPE",
+    "definition": "Width of open bird mouth from corner to corner",
+    "example": "Wide gape allowed nightjars to catch flying moths."
+  },
+  {
+    "word": "BARBULE",
+    "definition": "Microscopic projection branching off feather barb",
+    "example": "Hooked barbules interlocked to form smooth vane."
+  },
+  {
+    "word": "CALAMUS",
+    "definition": "Hollow base of feather shaft anchoring into skin",
+    "example": "Quill pens were crafted from the hollow calamus."
+  },
+  {
+    "word": "RACHIS",
+    "definition": "Central stiff shaft of feather above skin line",
+    "example": "Flexible rachis supported feather vane against air."
+  },
+  {
+    "word": "VANE",
+    "definition": "Flat webbed part of feather on either side of rachis",
+    "example": "Smooth feather vane repelled water drops effortlessly."
+  },
+  {
+    "word": "PELLET",
+    "definition": "Regurgitated mass of indigestible bones and fur",
+    "example": "Owls regurgitated indigestible pellets beneath roosts."
+  },
+  {
+    "word": "GUANO",
+    "definition": "Accumulated excrement of seabirds harvested as fertilizer",
+    "example": "Guano deposits provided rich natural nitrate fertilizer."
+  },
+  {
+    "word": "PREENING",
+    "definition": "Act of cleaning and realigning feathers using beak",
+    "example": "The heron engaged in preening after washing in the stream."
+  },
+  {
+    "word": "MOULTING",
+    "definition": "Periodic shedding and replacement of old feathers",
+    "example": "Annual moulting refreshed worn flight feathers before migration."
+  },
+  {
+    "word": "DABBLING",
+    "definition": "Feeding on water surface or tipping up in shallow water",
+    "example": "Dabbling ducks tipped tail up to feed on submersed plants."
+  },
+  {
+    "word": "COURTSHIP",
+    "definition": "Behavior aimed at attracting a mate for breeding",
+    "example": "Elaborate courtship dances showcased vibrant plumage colors."
+  },
+  {
+    "word": "ROOKERY",
+    "definition": "Colony of breeding birds such as rooks or penguins",
+    "example": "Thousands of penguins nested densely across the rocky rookery."
+  },
+  {
+    "word": "MURMURATION",
+    "definition": "Large swirling flock of starlings moving in unison",
+    "example": "A breathtaking murmuration formed shifting patterns against twilight sky."
+  },
+  {
+    "word": "INCUBATION",
+    "definition": "Warming of eggs by sitting on them until hatching",
+    "example": "Parent birds shared incubation duties over twenty days."
+  },
+  {
+    "word": "NESTLING",
+    "definition": "Young bird that has not yet left the nest",
+    "example": "Hungry nestlings chirped loudly when parents returned with food."
+  },
+  {
+    "word": "FLEDGLING",
+    "definition": "Young bird that has just fledged and learned to fly",
+    "example": "The fledgling made short shaky flights between low branches."
+  },
+  {
+    "word": "TERRITORY",
+    "definition": "Defended area used for nesting or feeding",
+    "example": "Male robin sang vigorously from treetops to claim territory."
+  },
+  {
+    "word": "SUBADULT",
+    "definition": "Stage of bird development between juvenile and full adult",
+    "example": "Subadult eagles lacked pure white head feathers of adults."
+  },
+  {
+    "word": "ROOSTING",
+    "definition": "Settling down to rest or sleep on perch",
+    "example": "Crows gathered at urban roosting sites at dusk."
+  },
+  {
+    "word": "LEK",
+    "definition": "Gathering area where males perform courtship displays",
+    "example": "Male sage grouse gathered at traditional lek grounds."
+  },
+  {
+    "word": "BROOD",
+    "definition": "Family of young birds hatched together",
+    "example": "The hen guided her brood of chicks through grass."
+  },
+  {
+    "word": "FLOCKING",
+    "definition": "Gathering of birds into organized group",
+    "example": "Flocking behavior provided safety from aerial predators."
+  },
+  {
+    "word": "MIGRATION",
+    "definition": "Seasonal movement of birds between grounds",
+    "example": "Arctic terns completed longest annual migration."
+  },
+  {
+    "word": "SOARING",
+    "definition": "Flying high without flapping by using rising thermals",
+    "example": "Vultures maintained soaring flight using thermal updrafts."
+  },
+  {
+    "word": "GLIDING",
+    "definition": "Descended flight moving forward without flapping wings",
+    "example": "Albatrosses practiced dynamic gliding across waves."
+  },
+  {
+    "word": "HOVERING",
+    "definition": "Remaining suspended in fixed position by rapid flapping",
+    "example": "Kestrels used hovering flight to spot mice."
+  },
+  {
+    "word": "DIVE",
+    "definition": "Steep high-speed downward flight toward prey",
+    "example": "Falcons execute high-speed dive stoops."
+  },
+  {
+    "word": "PADDLING",
+    "definition": "Swimming across water surface using webbed feet",
+    "example": "Swans engaged in paddling across calm lake waters."
+  },
+  {
+    "word": "WADING",
+    "definition": "Walking through shallow water on long legs",
+    "example": "Herons practiced slow wading along river banks."
+  },
+  {
+    "word": "SQUAWK",
+    "definition": "Loud harsh raucous bird call",
+    "example": "Parrots uttered loud squawks while flying."
+  },
+  {
+    "word": "SCREECH",
+    "definition": "Harsh high-pitched piercing scream call",
+    "example": "Barn owls produced eerie screech sounds while hunting."
+  },
+  {
+    "word": "MIMICRY",
+    "definition": "Ability of bird to copy sounds or calls of other species",
+    "example": "Mockingbirds exhibited vocal mimicry of car alarms."
+  },
+  {
+    "word": "IMMATURE",
+    "definition": "Bird that has not reached full adult plumage",
+    "example": "Immature gulls exhibited mottled brown plumage."
+  },
+  {
+    "word": "OYSTERCATCHER",
+    "definition": "Large black and white shorebird with long orange bill",
+    "example": "The oystercatcher pried open mussels on rocky shores."
+  },
+  {
+    "word": "SANDERLING",
+    "definition": "Small pale sandpiper running rapidly after retreating waves",
+    "example": "Sanderlings scampered back and forth along sandy beaches."
+  },
+  {
+    "word": "KITTIWAKE",
+    "definition": "Small cliff-nesting gull named after its ringing call",
+    "example": "Black-legged kittiwakes nested on narrow sea cliff ledges."
+  },
+  {
+    "word": "RUFF",
+    "definition": "Medium wading bird famous for elaborate male neck ruffs",
+    "example": "Male ruffs displayed colorful feather frills on leks."
+  },
+  {
+    "word": "JACKSNIPE",
+    "definition": "Small secretive snipe with rhythmic bouncing motion",
+    "example": "The jacksnipe crouched motionlessly in wet marsh."
+  },
+  {
+    "word": "WHIMBREL",
+    "definition": "Wading bird similar to curlew with striped crown",
+    "example": "The whimbrel whistled a seven-note flight call."
+  },
+  {
+    "word": "DUNLIN",
+    "definition": "Small sandpiper with black belly patch in summer",
+    "example": "Flocks of dunlin twisted in synchronized flight."
+  },
+  {
+    "word": "DOTTEREL",
+    "definition": "Tundra plover with bright rufous breast and white eyestripe",
+    "example": "The mountain dotterel showed remarkable tameness."
+  },
+  {
+    "word": "TURNSTONE",
+    "definition": "Robust shorebird that flips stones and shells for food",
+    "example": "The ruddy turnstone flipped heavy seaweed."
+  },
+  {
+    "word": "CORNBUNTING",
+    "definition": "Stocky streaked bunting with jingling key-like song",
+    "example": "The cornbunting sang its metallic song from fences."
+  },
+  {
+    "word": "CROW",
+    "definition": "Common intelligent black bird of genus Corvus",
+    "example": "The crow solved multi-step puzzle tools easily."
+  },
+  {
+    "word": "RAVEN",
+    "definition": "Large heavy-billed black corvid known for high intelligence",
+    "example": "The common raven performed aerial rolls in mountain winds."
+  },
+  {
+    "word": "ROOK",
+    "definition": "Gregarious Eurasian crow with bare grey skin at bill base",
+    "example": "Rooks built colonial stick nests in treetops."
+  },
+  {
+    "word": "MAGPIE",
+    "definition": "Long-tailed black and white iridescent corvid",
+    "example": "The Eurasian magpie recognized itself in mirror tests."
+  },
+  {
+    "word": "JAY",
+    "definition": "Colorful woodland corvid with bright blue wing bar",
+    "example": "The Eurasian jay buried acorns to store for winter."
+  },
+  {
+    "word": "CHICKADEE",
+    "definition": "Small black-capped North American songbird",
+    "example": "The black-capped chickadee called its name in winter."
+  },
+  {
+    "word": "NUTHATCH",
+    "definition": "Bird capable of walking headfirst down tree trunks",
+    "example": "The Eurasian nuthatch wedged nuts into bark to crack."
+  },
+  {
+    "word": "WREN",
+    "definition": "Tiny brown songbird with cocked tail and loud song",
+    "example": "The Eurasian wren sang a surprisingly loud ringing song."
+  },
+  {
+    "word": "SWALLOW",
+    "definition": "Slender insectivorous bird with long forked tail",
+    "example": "The barn swallow built mud cup nests under barn eaves."
+  },
+  {
+    "word": "MARTIN",
+    "definition": "Social swallow nesting in colonies or martin houses",
+    "example": "Purple martins nested in multi-room birdhouses."
+  },
+  {
+    "word": "LARK",
+    "definition": "Ground-dwelling songbird of open country with song flight",
+    "example": "The crested lark forage along dry roadside tracks."
+  },
+  {
+    "word": "FLYCATCHER",
+    "definition": "Bird that sallies out from perch to catch flying insects",
+    "example": "The spotted flycatcher darted from branch to catch flies."
+  },
+  {
+    "word": "VIREO",
+    "definition": "Small green or grey insectivorous songbird of American foliage",
+    "example": "The red-eyed vireo sang continuously from forest canopy."
+  },
+  {
+    "word": "SPARROW",
+    "definition": "Small streaked brown seed-eating songbird",
+    "example": "The house sparrow lived closely alongside human dwellings."
+  },
+  {
+    "word": "FINCH",
+    "definition": "Seed-eating songbird with stout conical bill",
+    "example": "Darwin finches exhibited diverse bill shapes on Galapagos."
+  },
+  {
+    "word": "CANARY",
+    "definition": "Small yellow songbird native to Canary Islands",
+    "example": "Domestic canaries sang melodious songs in aviary enclosures."
+  },
+  {
+    "word": "ROBIN",
+    "definition": "Popular songbird with red or orange breast",
+    "example": "The European robin defended garden territories year round."
+  },
+  {
+    "word": "THRUSH",
+    "definition": "Songbird family famous for rich complex songs",
+    "example": "The wood thrush sang beautiful flutelike evening songs."
+  },
+  {
+    "word": "BLACKBIRD",
+    "definition": "Dark songbird with yellow bill and melodic song",
+    "example": "The male Eurasian blackbird sang from chimney tops at dawn."
+  },
+  {
+    "word": "WARBLER",
+    "definition": "Small active insectivorous songbird with melodic song",
+    "example": "The yellow warbler gleamed bright yellow among willow leaves."
+  },
+  {
+    "word": "BUNTING",
+    "definition": "Small seed-eating songbird related to finches",
+    "example": "The indigo bunting displayed vibrant blue breeding plumage."
+  },
+  {
+    "word": "CARDINAL",
+    "definition": "North American songbird with bright red male plumage and crest",
+    "example": "The northern cardinal whistled cheerily from snowy branches."
+  },
+  {
+    "word": "ORIOLE",
+    "definition": "Brilliantly plumaged orange and black songbird",
+    "example": "The Baltimore oriole wove hanging pouch nests from fibers."
+  },
+  {
+    "word": "BLUEJAY",
+    "definition": "Crested North American songbird with bright blue upperparts",
+    "example": "The bluejay mimicked hawk calls to startle feeder birds."
+  },
+  {
+    "word": "FIRETAIL",
+    "definition": "Australian finch with bright red rump and tail feathers",
+    "example": "The beautiful firetail flitted through coastal heath scrub."
+  },
+  {
+    "word": "MINIVET",
+    "definition": "Slender tropical Asian songbird with fiery red male plumage",
+    "example": "Scarlet minivets moved in bright canopy flocks."
+  },
+  {
+    "word": "BABBLER",
+    "definition": "Social tropical bird living in noisy group parties",
+    "example": "Jungle babblers moved through undergrowth in groups of seven."
+  },
+  {
+    "word": "LAUGHINGTHRUSH",
+    "definition": "Asian forest songbird with loud laughing vocalizations",
+    "example": "The chestnut-crowned laughingthrush called from bamboo thickets."
+  },
+  {
+    "word": "TREESWIFT",
+    "definition": "Arboreal relative of swifts with perching feet and crest",
+    "example": "The crested treeswift perched on high dead branches."
+  },
+  {
+    "word": "KINGLET",
+    "definition": "Tiny active songbird with colorful crown patch",
+    "example": "The ruby-crowned kinglet flashed its hidden red crown patch."
+  },
+  {
+    "word": "BUSHTIT",
+    "definition": "Tiny social American songbird building long pendulous nests",
+    "example": "Flocks of bushtits moved through oak scrub in winter."
+  },
+  {
+    "word": "VERDIN",
+    "definition": "Tiny desert songbird with yellow head building thorny nests",
+    "example": "The verdin built hollow globe nests in thorny mesquite."
+  },
+  {
+    "word": "LOGGERHEAD",
+    "definition": "Shrike species known for impaling prey on thorns",
+    "example": "The loggerhead shrike surveyed pastures from fence lines."
+  },
+  {
+    "word": "CRESTEDLARK",
+    "definition": "Lark with prominent upright crest on head",
+    "example": "The crestedlark ran along dusty roadside trails."
+  },
+  {
+    "word": "HORNEDLARK",
+    "definition": "Lark with feather tufts resembling tiny horns",
+    "example": "The hornedlark nested on bare tundra and alpine fields."
+  },
+  {
+    "word": "NODDY",
+    "definition": "Tropical tern with pale cap nesting on ocean islands",
+    "example": "Brown noddies nested on rocky ledges of coral atolls."
+  },
+  {
+    "word": "AUKLET",
+    "definition": "Small North American Pacific sea alcid",
+    "example": "Crested auklets emitted strong citrus odor during breeding."
+  },
+  {
+    "word": "MURRELET",
+    "definition": "Small sea alcid nesting in old-growth forest trees",
+    "example": "Marbled murrelets flew inland to lay eggs on mossy tree limbs."
+  },
+  {
+    "word": "PETRELLET",
+    "definition": "Tiny oceanic petrel nesting in burrow colonies",
+    "example": "Small petrellets fluttered low over ocean waves at night."
+  },
+  {
+    "word": "COWBIRD",
+    "definition": "Brood parasitic blackbird laying eggs in other birds nests",
+    "example": "The brown-headed cowbird laid eggs in warbler nests."
+  },
+  {
+    "word": "BOBOLINK",
+    "definition": "Grassland songbird with striking black and buff male plumage",
+    "example": "The bobolink sang bubbly songs while hovering over meadows."
+  },
+  {
+    "word": "TOWHEE",
+    "definition": "Large ground-dwelling sparrow with rufous flanks",
+    "example": "The eastern towhee scratched leaf litter shouting drink-your-tea."
+  },
+  {
+    "word": "JUNCO",
+    "definition": "Small dark grey sparrow with white outer tail feathers",
+    "example": "Dark-eyed juncos visited snowy ground feeders in winter."
+  },
+  {
+    "word": "DICKCISSEL",
+    "definition": "Grassland songbird with yellow breast and black chevron",
+    "example": "Male dickcissels sang loud songs from prairie alfalfa stems."
+  },
+  {
+    "word": "CHAT",
+    "definition": "Active insectivorous songbird of thickets and scrub",
+    "example": "The yellow-breasted chat produced unusual whistles and cackles."
+  },
+  {
+    "word": "PHAINOPEPLA",
+    "definition": "Sleek black glossy crested silky-flycatcher",
+    "example": "The phainopepla fed on desert mistletoe berries."
+  },
+  {
+    "word": "SAPSUCKER",
+    "definition": "Woodpecker species drilling neat rows of holes in tree bark for sap",
+    "example": "The yellow-bellied sapsucker licked tree sap from bark wells."
+  },
+  {
+    "word": "FLICKER",
+    "definition": "Large North American woodpecker foraging on ground for ants",
+    "example": "The northern flicker anted on lush lawns in suburban gardens."
+  },
+  {
+    "word": "HORNERO",
+    "definition": "South American ovenbird constructing dome-shaped mud oven nests",
+    "example": "The rufous hornero built a sturdy clay nest atop fence posts."
+  },
+  {
+    "word": "MANAKIN",
+    "definition": "Small brilliantly plumaged Neotropical bird famous for moonwalk dances",
+    "example": "The red-capped manakin performed rapid wing-snap courtship dances."
+  },
+  {
+    "word": "BECARD",
+    "definition": "Passerine bird of Neotropical forests related to tityras",
+    "example": "The rose-throated becard nested in suspended weaver-like nests."
+  },
+  {
+    "word": "OREOTROCHILUS",
+    "definition": "High Andean hillstar hummingbird adapted to extreme cold",
+    "example": "The Andean hillstar torpored at night to survive freezing temperatures."
+  },
+  {
+    "word": "SEEDEATER",
+    "definition": "Small Neotropical finch-like bird with short conical bill",
+    "example": "The variable seedeater fed on wild grass seeds in clearings."
+  },
+  {
+    "word": "SEEDCRACKER",
+    "definition": "African estrildid finch possessing massive bill for hard seeds",
+    "example": "The black-bellied seedcracker cracked hard nut seeds with ease."
+  },
+  {
+    "word": "CORDONBLEU",
+    "definition": "Small African finch with bright blue facial markings",
+    "example": "The red-cheeked cordonbleu flitted through dry thorn scrub."
+  },
+  {
+    "word": "FIREFINCH",
+    "definition": "Small red-plumaged African finch foraging on ground",
+    "example": "The African firefinch gleaned grass seeds around village gardens."
+  },
+  {
+    "word": "AMADAVAT",
+    "definition": "Small colorful Asian finch popular in aviculture",
+    "example": "The red amadavat displayed bright crimson plumage during breeding."
+  },
+  {
+    "word": "LONGBILL",
+    "definition": "Forest bird with long bill probing understory foliage",
+    "example": "The yellow-longbill searched tropical leaves for insects."
+  },
+  {
+    "word": "LEAFTOSSER",
+    "definition": "Neotropical forest bird flicking dead leaves to find prey",
+    "example": "The tawny-throated leaftosser tossed damp leaf litter aside."
+  },
+  {
+    "word": "WOODCREEPER",
+    "definition": "Neotropical bird climbing tree trunks with stiff tail support",
+    "example": "The plain woodcreeper followed army ant swarms to catch insects."
+  },
+  {
+    "word": "OVENBIRD",
+    "definition": "Forest warbler constructing dome-shaped leaf nests on forest floor",
+    "example": "The ovenbird sang its loud teacher-teacher song from lower branches."
+  },
+  {
+    "word": "CONEFINCH",
+    "definition": "Small Andean bird specialized for feeding on floral nectar",
+    "example": "The giant conebinch probed bromeliad flowers high in trees."
+  },
+  {
+    "word": "SPOROPHILA",
+    "definition": "Genus of Neotropical seedeaters feeding on grass seeds",
+    "example": "Sporophila species migrate across grassland river basins."
+  },
+  {
+    "word": "CASQUE",
+    "definition": "Hollow horn-like structure on upper bill of hornbills and cassowaries",
+    "example": "The helmeted hornbill casque is made of solid ivory-like keratin."
+  },
+  {
+    "word": "SPECULUM",
+    "definition": "Brightly colored iridescent patch on secondary wing feathers of ducks",
+    "example": "The mallard speculum gleamed violet-blue bordered with white."
+  },
+  {
+    "word": "NUCHAL",
+    "definition": "Relating to nape or back part of bird neck",
+    "example": "The golden eagle exhibited a prominent nuchal crest of golden feathers."
+  },
+  {
+    "word": "TOMIAL",
+    "definition": "Tooth-like projection on cutting edge of falcon bill",
+    "example": "The tomial tooth allowed falcons to sever prey spinal cords instantly."
+  },
+  {
+    "word": "OPERCULUM",
+    "definition": "Fleshy flap covering nostrils of certain birds like pigeons",
+    "example": "The soft operculum protected nostrils from dusty seed chaff."
+  },
+  {
+    "word": "PECTINATE",
+    "definition": "Comb-like serrated edge on middle claw of certain herons and owls",
+    "example": "Herons used pectinate claws to groom and clean powder down feathers."
+  },
+  {
+    "word": "POWDERDOWN",
+    "definition": "Specialized down feathers that break into fine water-repellent powder",
+    "example": "Herons spread powderdown across contour feathers during preening."
+  },
+  {
+    "word": "CERE",
+    "definition": "Fleshy waxy patch at base of bill containing nostrils in raptors",
+    "example": "The bright yellow cere of the peregrine falcon contrasted with black bill."
+  },
+  {
+    "word": "SYNDACTYL",
+    "definition": "Foot condition where inner toes are fused for part of length",
+    "example": "Kingfishers possess syndactyl feet for perching on slick branches."
+  },
+  {
+    "word": "PALMATE",
+    "definition": "Standard webbed foot arrangement with three front toes joined",
+    "example": "Ducks and gulls possess palmate feet for swimming propulsion."
+  },
+  {
+    "word": "PAMPRODACTYL",
+    "definition": "Foot arrangement where all four toes can rotate forward",
+    "example": "Swifts possess pamprodactyl feet for clinging to vertical cave walls."
+  },
+  {
+    "word": "HETERODACTYL",
+    "definition": "Foot arrangement with toes 1 and 2 facing back, 3 and 4 forward",
+    "example": "Trogons are the only birds possessing heterodactyl foot structure."
+  },
+  {
+    "word": "RETICULATE",
+    "definition": "Tarsus skin pattern covered in small polygonal scales",
+    "example": "Raptor feet feature reticulate scales for gripping slippery prey."
+  },
+  {
+    "word": "SCUTELLATE",
+    "definition": "Tarsus skin covered in overlapping plate-like scales",
+    "example": "Songbirds exhibit scutellate scales along front of tarsus."
+  },
+  {
+    "word": "BOOTED",
+    "definition": "Tarsus covered by smooth unbroken skin sheath",
+    "example": "Thrushes display booted tarsus legs lacking individual scale plates."
+  },
+  {
+    "word": "FILOPLUME",
+    "definition": "Slender hair-like feather with small tuft of barbs at tip",
+    "example": "Filoplumes act as sensory receptors monitoring flight feather alignment."
+  },
+  {
+    "word": "BRISTLE",
+    "definition": "Stiff hair-like feather around eyes and mouth of insectivorous birds",
+    "example": "Rictal bristles guided flying insects into open gape of nightjars."
+  },
+  {
+    "word": "WINGBAR",
+    "definition": "Distinct line of contrasting color across folded wing coverts",
+    "example": "The chaffinch showed two bold white wingbars in flight."
+  },
+  {
+    "word": "EYESTRIPE",
+    "definition": "Line of distinct color running horizontally through bird eye",
+    "example": "The chiffchaff exhibited a subtle pale superciliary eyestripe."
+  },
+  {
+    "word": "RUFOUS",
+    "definition": "Reddish-brown or rust color on bird feathers",
+    "example": "The rufous hummingbird gleamed bright copper-red in sunlight."
+  },
+  {
+    "word": "IRIDESCENCE",
+    "definition": "Luminous rainbow-like color shimmer changing with light angle",
+    "example": "Hummingbird throat gorgets exhibited brilliant optical iridescence."
+  },
+  {
+    "word": "GORGET",
+    "definition": "Patch of brightly colored iridescent feathers on throat of hummingbirds",
+    "example": "The male ruby-throat flashed a glowing scarlet gorget display."
+  },
+  {
+    "word": "FACIALDISC",
+    "definition": "Concave feather arrangement on owl face focusing sound to ears",
+    "example": "The facialdisc of the barn owl acted as acoustic parabolic reflector."
+  },
+  {
+    "word": "EARTUFT",
+    "definition": "Feather tufts on head of certain owls raised during display",
+    "example": "Great horned owls raised prominent ear-tufts when alert."
+  },
+  {
+    "word": "TERRESTRIAL",
+    "definition": "Living or foraging primarily on ground",
+    "example": "Ostriches and rheas are strictly terrestrial flightless species."
+  },
+  {
+    "word": "ARBOREAL",
+    "definition": "Living or foraging primarily in trees and forest canopy",
+    "example": "Toucans and parrots are tree-dwelling arboreal species."
+  },
+  {
+    "word": "SAXICOLOUS",
+    "definition": "Inhabiting or nesting among rocks and rocky cliffs",
+    "example": "Rock doves and wheatears are saxicolous birds of rocky habitats."
+  },
+  {
+    "word": "COLONIAL",
+    "definition": "Nesting in large dense groups or colonies",
+    "example": "Gannets and penguins are highly colonial nesting seabirds."
+  },
+  {
+    "word": "MONOGAMOUS",
+    "definition": "Forming exclusive breeding pair bond for season or life",
+    "example": "Swans and albatrosses remain strictly monogamous for life."
+  },
+  {
+    "word": "POLYGAMOUS",
+    "definition": "Mating with multiple partners during breeding season",
+    "example": "Pheasants and grouse exhibit polygamous mating behaviors."
+  },
+  {
+    "word": "POLYANDROUS",
+    "definition": "Female mating with multiple males who raise her broods",
+    "example": "Jacana females practice polyandrous breeding with multiple males."
+  },
+  {
+    "word": "PRECOCIAL",
+    "definition": "Chicks hatched with down feathers able to walk and feed immediately",
+    "example": "Ducklings and chicks are precocial requiring minimal parental feeding."
+  },
+  {
+    "word": "ALTRICIAL",
+    "definition": "Chicks hatched blind, featherless, and helpless requiring intense care",
+    "example": "Songbird nestlings are altricial depending entirely on parents."
+  },
+  {
+    "word": "SYMPATRIC",
+    "definition": "Occurring within same geographic area without interbreeding",
+    "example": "Sympatric warbler species partitioned canopy feeding heights."
+  },
+  {
+    "word": "ALLOPATRIC",
+    "definition": "Occurring in separate isolated geographic regions",
+    "example": "Allopatric speciation created distinct island finch species."
+  },
+  {
+    "word": "VAGRANT",
+    "definition": "Individual bird wandering far outside normal species range",
+    "example": "A vagrant Asian warbler generated excitement among birdwatchers."
+  },
+  {
+    "word": "IRRUPTION",
+    "definition": "Sudden mass movement of northern birds south due to food shortage",
+    "example": "Winter irruption brought snowy owls into southern farm fields."
+  },
+  {
+    "word": "PASSAGE",
+    "definition": "Migratory flight of birds passing through region without staying",
+    "example": "Spring passage brought thousands of waders through coastal mudflats."
+  },
+  {
+    "word": "STOOP",
+    "definition": "High-speed vertical dive performed by falcon targeting prey",
+    "example": "The falcon entered a steep stoop at two hundred miles per hour."
+  },
+  {
+    "word": "HOVER",
+    "definition": "Maintaining stationary position in air by rapid wingbeats",
+    "example": "Kestrels hover over fields watching for movement in grass."
+  },
+  {
+    "word": "GLIDE",
+    "definition": "Sustained forward flight on motionless outstretched wings",
+    "example": "Albatrosses glided for miles without single wing flap."
+  },
+  {
+    "word": "SOAR",
+    "definition": "Rising high on thermal updrafts or mountain ridge winds",
+    "example": "Eagles soared effortlessly in widening circles over valleys."
+  },
+  {
+    "word": "CHIRP",
+    "definition": "Short sharp high-pitched note uttered by small birds",
+    "example": "Sparrows chirped cheerful notes from garden hedges at dawn."
+  },
+  {
+    "word": "WARBLE",
+    "definition": "Melodious singing with gentle warbling trills",
+    "example": "The garden warbler sang a rich continuous warble from bushes."
+  },
+  {
+    "word": "HOOT",
+    "definition": "Deep resonant call produced by owls",
+    "example": "The tawny owl hooted from deep within dark woods."
+  },
+  {
+    "word": "CALL",
+    "definition": "Short vocalization used for contact, alarm, or coordination",
+    "example": "The robin gave a sharp tick-tick alarm call at predator presence."
+  },
+  {
+    "word": "BARNOWL",
+    "definition": "Medium white-faced owl with heart-shaped facial disc",
+    "example": "The barnowl hunted mice quietly inside old farm barns."
+  },
+  {
+    "word": "GREENWOODPECKER",
+    "definition": "Large European woodpecker with bright green back feeding on ants",
+    "example": "The greenwoodpecker yaffled loudly from garden lawns."
+  },
+  {
+    "word": "PIEDFLYCATCHER",
+    "definition": "Black and white migratory songbird nesting in tree holes",
+    "example": "The male piedflycatcher sang near wooden nest boxes."
+  },
+  {
+    "word": "REDBREASTED",
+    "definition": "Flycatcher with bright orange-red breast patch",
+    "example": "The redbreasted flycatcher flicked its tail in shady ravines."
+  },
+  {
+    "word": "FIRECREST",
+    "definition": "Tiny active songbird with brilliant fiery orange crest",
+    "example": "The firecrest darted through conifer branches in search of insects."
+  },
+  {
+    "word": "GOLDCREST",
+    "definition": "Smallest European songbird with bright yellow crown patch",
+    "example": "The goldcrest hovered beneath spruce needles to pick up tiny spiders."
+  },
+  {
+    "word": "CETTISWARBLER",
+    "definition": "Secretive dark brown warbler with explosive loud call",
+    "example": "The cettiswarbler shouted its sudden loud song from riverbank brambles."
+  },
+  {
+    "word": "DARTFORDWARBLER",
+    "definition": "Long-tailed dark warbler of gorse heathlands with red eye ring",
+    "example": "The dartfordwarbler perched on prickly gorse stems in sunshine."
+  },
+  {
+    "word": "CASPIANTERN",
+    "definition": "Largest tern species in world with heavy coral-red bill",
+    "example": "The caspiantern uttered a harsh heron-like croak while flying over lake."
+  },
+  {
+    "word": "SANDWICHTERN",
+    "definition": "Crested sea tern with yellow tip on black bill",
+    "example": "Sandwichterns plunge-dived into sea waves to catch sandeels."
+  },
+  {
+    "word": "ROSEATETERN",
+    "definition": "Slender sea tern with rosy flush on white underparts",
+    "example": "The roseatetern nested on rocky islands among common terns."
+  },
+  {
+    "word": "COMMONTERN",
+    "definition": "Widespread sea tern with red bill tipped with black",
+    "example": "Commonterns hovered over coastal bays before plunge diving."
+  },
+  {
+    "word": "ARCTICTERN",
+    "definition": "Migratory seabird traveling from Arctic to Antarctic and back",
+    "example": "The arctictern defended its tundra nest with aggressive swoops."
+  },
+  {
+    "word": "BEEEATER",
+    "definition": "Colorful tropical bird catching bees and wasps in mid-air",
+    "example": "The European bee-eater beat wasps against branches to remove stingers."
+  },
+  {
+    "word": "ROLLER",
+    "definition": "Brilliant blue bird of open woodland performing acrobatic flight displays",
+    "example": "The European roller tumbled through the air during courtship display."
+  }
+]
