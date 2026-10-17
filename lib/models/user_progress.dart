@@ -119,6 +119,16 @@ class UserProgress {
         .length;
   }
 
+  // World-oriented aliases for smooth terminology transition
+  int get activeWorldId => activeChapterId;
+  set activeWorldId(int id) => activeChapterId = id;
+  Set<int> get unlockedWorlds => unlockedChapters;
+  int getStarsForWorld(int worldId) => getStarsForChapter(worldId);
+  int getRequiredStarsForWorld(int worldId) => getRequiredStarsForChapter(worldId);
+  int getStarsNeededForWorld(int worldId) => getStarsNeededForChapter(worldId);
+  bool isWorldUnlocked(int worldId) => isChapterUnlocked(worldId);
+  void unlockWorld(int worldId) => unlockChapter(worldId);
+
   List<String> getLevelFoundWords(int chapterId, int levelNumber) {
     return activeLevelWords['${chapterId}_$levelNumber'] ?? [];
   }

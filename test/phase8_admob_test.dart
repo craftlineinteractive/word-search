@@ -8,34 +8,33 @@ import 'package:word_search/widgets/reward_ad_dialog.dart';
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
 
-  group('Phase 8 - Unity LevelPlay Ads & Monetization Architecture QA', () {
+  group('Phase 8 - Google AdMob Ads & Monetization Architecture QA', () {
     setUp(() async {
       SharedPreferences.setMockInitialValues({});
     });
 
-    test('AdManager contains valid user Unity LevelPlay credentials', () {
+    test('AdManager contains valid user production and test ad unit IDs', () {
       final manager = AdManager.instance;
       expect(
-        AdManager.prodAppKey,
-        equals('28024314d'),
+        AdManager.prodAppId,
+        equals('ca-app-pub-9274756665778143~5857930867'),
       );
       expect(
         AdManager.prodBannerAdUnitId,
-        equals('7n3t4ahi0tyf7rbh'),
+        equals('ca-app-pub-9274756665778143/7578206649'),
       );
       expect(
         AdManager.prodInterstitialAdUnitId,
-        equals('bktm1o6v90p3nn67'),
+        equals('ca-app-pub-9274756665778143/4952043301'),
       );
       expect(
         AdManager.prodRewardedAdUnitId,
-        equals('wu6ot3k21l8yqukp'),
+        equals('ca-app-pub-9274756665778143/7902385139'),
       );
 
-      expect(manager.appKey, equals('28024314d'));
-      expect(manager.bannerAdUnitId, equals('7n3t4ahi0tyf7rbh'));
-      expect(manager.interstitialAdUnitId, equals('bktm1o6v90p3nn67'));
-      expect(manager.rewardedAdUnitId, equals('wu6ot3k21l8yqukp'));
+      expect(manager.bannerAdUnitId, isNotEmpty);
+      expect(manager.interstitialAdUnitId, isNotEmpty);
+      expect(manager.rewardedAdUnitId, isNotEmpty);
     });
 
     test('AdManager respects Ads Removed purchase state', () {

@@ -293,7 +293,7 @@ class _ChapterLevelsScreenState extends State<ChapterLevelsScreen> {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
                     Text(
-                      'Chapter ${widget.chapter.id} ($totalLevels Levels)',
+                      'World ${widget.chapter.id} ($totalLevels Levels)',
                       style: TextStyle(
                         fontFamily: 'Fredoka',
                         fontSize: 16,
@@ -422,3 +422,7 @@ class _ChapterLevelsScreenState extends State<ChapterLevelsScreen> {
     );
   }
 }
+
+/// Backward-compatible alias for WorldLevelsScreen
+typedef WorldLevelsScreen = ChapterLevelsScreen;
+

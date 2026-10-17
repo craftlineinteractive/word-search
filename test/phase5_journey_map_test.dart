@@ -40,7 +40,7 @@ void main() {
       SharedPreferences.setMockInitialValues({});
       await SoundManager.instance.init();
       final jsonStr = File(
-        'assets/data/chapter_01_food.json',
+        'assets/data/world_01_food.json',
       ).readAsStringSync();
       final chapter1 = Chapter.fromJson(
         json.decode(jsonStr) as Map<String, dynamic>,
@@ -150,8 +150,8 @@ void main() {
         await tester.pump(const Duration(milliseconds: 500));
         await tester.pump(const Duration(milliseconds: 500));
 
-        // Navigates to ChapterLevelsScreen
-        expect(find.text('Chapter 1 (35 Levels)'), findsOneWidget);
+        // Navigates to WorldLevelsScreen (ChapterLevelsScreen)
+        expect(find.text('World 1 (120 Levels)'), findsOneWidget);
       },
     );
   });

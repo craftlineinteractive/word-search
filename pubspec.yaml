@@ -40,7 +40,7 @@ dependencies:
   audioplayers: ^6.1.0
   url_launcher: ^6.3.0
   share_plus: ^10.1.4
-  unity_levelplay_mediation: ^9.2.0
+  google_mobile_ads: ^9.1.0
   in_app_purchase: ^3.2.0
   in_app_review: ^2.0.12
 

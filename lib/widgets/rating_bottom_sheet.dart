@@ -122,7 +122,7 @@ class _RatingBottomSheetState extends State<RatingBottomSheet> {
           const SizedBox(height: 8),
 
           Text(
-            'Tap stars to rate us on Google Play Store!\nYour support helps us create more chapters.',
+            'Tap stars to rate us on Google Play Store!\nYour support helps us create more worlds.',
             textAlign: TextAlign.center,
             style: TextStyle(
               color: textSecondary,

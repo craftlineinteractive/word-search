@@ -35,7 +35,7 @@ class Chapter {
     return Chapter(
       id: json['id'] as int? ?? 1,
       key: json['key'] as String? ?? '',
-      title: json['title'] as String? ?? 'Chapter',
+      title: json['title'] as String? ?? 'World',
       iconAsset: json['iconAsset'] as String? ?? '',
       themeColor: json['themeColor'] as int? ?? 0xFF4CAF50,
       levels: rawLevels
@@ -44,3 +44,7 @@ class Chapter {
     );
   }
 }
+
+/// Backward-compatible alias for the user-facing 'World' concept
+typedef World = Chapter;
+

@@ -1,7 +1,5 @@
-import 'dart:io';
-import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:unity_levelplay_mediation/unity_levelplay_mediation.dart';
+import 'package:google_mobile_ads/google_mobile_ads.dart';
 import '../screens/shop_screen.dart';
 import '../services/ad_manager.dart';
 import '../services/sound_manager.dart';
@@ -14,23 +12,49 @@ class BannerAdWidget extends StatefulWidget {
   State<BannerAdWidget> createState() => _BannerAdWidgetState();
 }
 
-class _BannerAdWidgetState extends State<BannerAdWidget>
-    with LevelPlayBannerAdViewListener {
-  final GlobalKey<LevelPlayBannerAdViewState> _bannerKey =
-      GlobalKey<LevelPlayBannerAdViewState>();
+class _BannerAdWidgetState extends State<BannerAdWidget> {
+  BannerAd? _bannerAd;
   bool _isAdLoaded = false;
 
-  bool get _isMobilePlatform =>
-      !kIsWeb && (Platform.isAndroid || Platform.isIOS);
-
   @override
-  void dispose() {
-    if (_isMobilePlatform) {
-      try {
-        _bannerKey.currentState?.destroy();
-      } catch (_) {}
-    }
-    super.dispose();
+  void initState() {
+    super.initState();
+    _loadBannerAd();
+  }
+
+  void _loadBannerAd({String? overrideUnitId}) {
+    if (AdManager.instance.isAdsRemoved) return;
+
+    final unitId = overrideUnitId ?? AdManager.instance.bannerAdUnitId;
+
+    _bannerAd?.dispose();
+    _bannerAd = BannerAd(
+      adUnitId: unitId,
+      size: AdSize.banner,
+      request: const AdRequest(),
+      listener: BannerAdListener(
+        onAdLoaded: (ad) {
+          if (mounted) {
+            setState(() {
+              _isAdLoaded = true;
+            });
+          }
+        },
+        onAdFailedToLoad: (ad, error) {
+          ad.dispose();
+          debugPrint('BannerAd failed ($unitId): ${error.message} (code ${error.code})');
+          if (mounted) {
+            setState(() {
+              _isAdLoaded = false;
+            });
+          }
+          // Fallback to test banner unit if production fails before Play Store approval
+          if (unitId != AdManager.testBannerAdUnitId) {
+            _loadBannerAd(overrideUnitId: AdManager.testBannerAdUnitId);
+          }
+        },
+      ),
+    )..load();
   }
 
   void _openShopForRemoveAds(BuildContext context) {
@@ -43,68 +67,10 @@ class _BannerAdWidgetState extends State<BannerAdWidget>
     );
   }
 
-  // ==================== LevelPlayBannerAdViewListener ====================
-
   @override
-  void onAdLoaded(LevelPlayAdInfo adInfo) {
-    if (mounted) {
-      setState(() {
-        _isAdLoaded = true;
-      });
-    }
-  }
-
-  @override
-  void onAdLoadFailed(LevelPlayAdError error) {
-    debugPrint('LevelPlay Banner failed: $error');
-    if (mounted) {
-      setState(() {
-        _isAdLoaded = false;
-      });
-    }
-  }
-
-  @override
-  void onAdDisplayed(LevelPlayAdInfo adInfo) {}
-
-  @override
-  void onAdDisplayFailed(LevelPlayAdInfo adInfo, LevelPlayAdError error) {
-    if (mounted) {
-      setState(() {
-        _isAdLoaded = false;
-      });
-    }
-  }
-
-  @override
-  void onAdClicked(LevelPlayAdInfo adInfo) {}
-
-  @override
-  void onAdExpanded(LevelPlayAdInfo adInfo) {}
-
-  @override
-  void onAdCollapsed(LevelPlayAdInfo adInfo) {}
-
-  @override
-  void onAdLeftApplication(LevelPlayAdInfo adInfo) {}
-
-  // ==================== UI BUILD ====================
-
-  Widget _buildPlaceholder() {
-    return Container(
-      height: 50,
-      alignment: Alignment.center,
-      child: const Text(
-        'AD SPACE RESERVED',
-        style: TextStyle(
-          fontFamily: 'Fredoka',
-          color: Color(0xFF64748B),
-          fontSize: 11,
-          fontWeight: FontWeight.bold,
-          letterSpacing: 1.2,
-        ),
-      ),
-    );
+  void dispose() {
+    _bannerAd?.dispose();
+    super.dispose();
   }
 
   @override
@@ -116,29 +82,26 @@ class _BannerAdWidgetState extends State<BannerAdWidget>
     final isDark = AppTheme.isDark(context);
 
     Widget adContent;
-    if (!_isMobilePlatform) {
-      // Graceful fallback for non-mobile (Desktop/Web/Test environment)
-      adContent = _buildPlaceholder();
+    if (!_isAdLoaded || _bannerAd == null) {
+      adContent = Container(
+        height: 50,
+        alignment: Alignment.center,
+        child: const Text(
+          'AD SPACE RESERVED',
+          style: TextStyle(
+            fontFamily: 'Fredoka',
+            color: Color(0xFF64748B),
+            fontSize: 11,
+            fontWeight: FontWeight.bold,
+            letterSpacing: 1.2,
+          ),
+        ),
+      );
     } else {
       adContent = SizedBox(
-        width: LevelPlayAdSize.BANNER.width.toDouble(),
-        height: LevelPlayAdSize.BANNER.height.toDouble(),
-        child: Stack(
-          alignment: Alignment.center,
-          children: [
-            if (!_isAdLoaded) _buildPlaceholder(),
-            LevelPlayBannerAdView(
-              key: _bannerKey,
-              adUnitId: AdManager.instance.bannerAdUnitId,
-              adSize: LevelPlayAdSize.BANNER,
-              listener: this,
-              placementName: 'WordSearch_Banner_Main',
-              onPlatformViewCreated: () {
-                _bannerKey.currentState?.loadAd();
-              },
-            ),
-          ],
-        ),
+        width: _bannerAd!.size.width.toDouble(),
+        height: _bannerAd!.size.height.toDouble(),
+        child: AdWidget(ad: _bannerAd!),
       );
     }
 

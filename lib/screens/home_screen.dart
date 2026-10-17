@@ -521,8 +521,8 @@ class _HomeScreenState extends State<HomeScreen> {
     Color textPrimary,
     Color textSecondary,
   ) {
-    const totalLevels = 1050;
-    const totalPossibleStars = 3150;
+    const totalLevels = 3600;
+    const totalPossibleStars = 10800;
     final progressFraction = totalLevels > 0
         ? (_clearedLevels / totalLevels).clamp(0.0, 1.0)
         : 0.0;

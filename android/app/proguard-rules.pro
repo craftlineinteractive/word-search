@@ -9,14 +9,10 @@
 -keep class androidx.work.** { *; }
 -keep class androidx.startup.** { *; }
 
-# Unity LevelPlay (ironSource)
--keepclassmembers class * implements android.os.Parcelable {
-    public static final ** CREATOR;
-}
--dontwarn com.ironsource.**
--keep class com.ironsource.** { *; }
--dontwarn com.unity3d.mediation.**
--keep class com.unity3d.mediation.** { *; }
+# Google Mobile Ads
+-dontwarn com.google.android.gms.**
+-keep class com.google.android.gms.internal.ads.** { *; }
+-keep class com.google.android.gms.ads.** { *; }
 
 # Room
 -dontwarn androidx.room.**

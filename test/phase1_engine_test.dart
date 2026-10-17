@@ -197,9 +197,9 @@ void main() {
     });
   });
 
-  group('Phase 1 - Chapter JSON Files Integrity QA', () {
-    test('chapter_01_food.json is valid and contains word meanings', () {
-      final file = File('assets/data/chapter_01_food.json');
+  group('Phase 1 - World/Chapter JSON Files Integrity QA', () {
+    test('world_01_food.json is valid and contains word meanings', () {
+      final file = File('assets/data/world_01_food.json');
       expect(file.existsSync(), isTrue);
 
       final jsonStr = file.readAsStringSync();
@@ -220,8 +220,8 @@ void main() {
       }
     });
 
-    test('chapter_02_holiday.json is valid and contains word meanings', () {
-      final file = File('assets/data/chapter_02_holiday.json');
+    test('world_02_holiday.json is valid and contains word meanings', () {
+      final file = File('assets/data/world_02_holiday.json');
       expect(file.existsSync(), isTrue);
 
       final jsonStr = file.readAsStringSync();

@@ -80,13 +80,7 @@ class _LevelsMapScreenState extends State<LevelsMapScreen> {
   }
 
   int _getCompletedLevelsForChapter(int chapterId) {
-    int count = 0;
-    for (int lvl = 1; lvl <= 35; lvl++) {
-      if (_userProgress.isLevelCompleted(chapterId, lvl)) {
-        count++;
-      }
-    }
-    return count;
+    return _userProgress.getCompletedLevelsCount(chapterId);
   }
 
   int _getTotalStars() {
@@ -95,7 +89,7 @@ class _LevelsMapScreenState extends State<LevelsMapScreen> {
 
   ChapterStatus _getChapterStatus(int chapterId, int index) {
     final completedCount = _getCompletedLevelsForChapter(chapterId);
-    if (completedCount >= 35) {
+    if (completedCount >= 120) {
       return ChapterStatus.completed;
     }
     if (_userProgress.isChapterUnlocked(chapterId)) {
@@ -164,7 +158,7 @@ class _LevelsMapScreenState extends State<LevelsMapScreen> {
             ),
             const SizedBox(height: 14),
             Text(
-              'Chapter ${chapterMeta.id} Locked!',
+              'World ${chapterMeta.id} Locked!',
               style: TextStyle(
                 fontFamily: 'Fredoka',
                 fontSize: 22,
@@ -205,7 +199,7 @@ class _LevelsMapScreenState extends State<LevelsMapScreen> {
             ),
             const SizedBox(height: 14),
             Text(
-              'You need $needed more stars to unlock Chapter ${chapterMeta.id}: ${chapterMeta.title}.\n\nEarn stars by finding all words in previous chapters!',
+              'You need $needed more stars to unlock World ${chapterMeta.id}: ${chapterMeta.title}.\n\nEarn stars by finding all words in previous worlds!',
               textAlign: TextAlign.center,
               style: TextStyle(
                 fontFamily: 'Fredoka',
@@ -372,7 +366,7 @@ class _LevelsMapScreenState extends State<LevelsMapScreen> {
                 ),
                 const SizedBox(width: 6),
                 Text(
-                  'CH ${_userProgress.activeChapterId} / 30',
+                  'WORLD ${_userProgress.activeChapterId} / 30',
                   style: TextStyle(
                     fontFamily: 'Fredoka',
                     color: textPrimary,
@@ -535,7 +529,7 @@ class _LevelsMapScreenState extends State<LevelsMapScreen> {
                         chapter: catalog[i],
                         status: _getChapterStatus(catalog[i].id, i),
                         completedLevelsCount: _getCompletedLevelsForChapter(catalog[i].id),
-                        totalLevelsCount: 35,
+                        totalLevelsCount: 120,
                         requiredStars: _userProgress.getRequiredStarsForChapter(catalog[i].id),
                         onTap: () => _onChapterTapped(catalog[i]),
                       ),

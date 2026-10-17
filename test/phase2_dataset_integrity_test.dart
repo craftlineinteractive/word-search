@@ -32,9 +32,10 @@ void main() {
     );
 
     test(
-      'Total level count exceeds 1000 across all 30 chapters with 9x9/11x11/13x13/14x14 scaling',
+      'Total level count is exactly 3,600 across all 30 worlds (120 levels each) with letter diversity and global uniqueness',
       () {
         int totalLevelsCount = 0;
+        final Set<String> globalSeenWords = {};
 
         for (var meta in LevelRepository.catalog) {
           final file = File('assets/data/${meta.jsonFile}');
@@ -43,12 +44,12 @@ void main() {
 
           expect(chapter.id, equals(meta.id));
           expect(chapter.title, equals(meta.title));
-          expect(chapter.levels.isNotEmpty, isTrue);
+          expect(chapter.levels.length, equals(120), reason: 'Each world must have exactly 120 levels');
 
           totalLevelsCount += chapter.levels.length;
 
           for (var level in chapter.levels) {
-            // Verify progressive grid scaling: 9x9 (1-9), 11x11 (10-17), 13x13 (18-24), 14x14 (25-35)
+            // Verify progressive grid scaling: 9x9 (1-9), 11x11 (10-17), 13x13 (18-24), 14x14 (25-120)
             if (level.levelNumber >= 25) {
               expect(level.gridRows, greaterThanOrEqualTo(14));
               expect(level.gridCols, greaterThanOrEqualTo(14));
@@ -73,19 +74,46 @@ void main() {
               expect(maxDim, greaterThanOrEqualTo(w.word.length));
             }
 
-            // Verify words and educational meanings
+            // Verify letter diversity: at most 2 words start with the same alphabet in any level
+            final Map<String, int> letterCounts = {};
+            for (var w in level.words) {
+              final firstChar = w.word[0];
+              letterCounts[firstChar] = (letterCounts[firstChar] ?? 0) + 1;
+              expect(
+                letterCounts[firstChar],
+                lessThanOrEqualTo(2),
+                reason: 'In ${meta.jsonFile} Level ${level.levelNumber}, at most 2 words can start with $firstChar',
+              );
+            }
+
+            // Verify words, educational meanings, and global uniqueness
             for (var w in level.words) {
               expect(w.word.isNotEmpty, isTrue);
               expect(w.word, equals(w.word.toUpperCase()));
               expect(w.meaning.isNotEmpty, isTrue);
+              expect(
+                globalSeenWords.contains(w.word),
+                isFalse,
+                reason: 'Duplicate word found: ${w.word}',
+              );
+              globalSeenWords.add(w.word);
             }
           }
         }
 
         print(
-          'Verified $totalLevelsCount total levels across 30 chapters (Target: 1000+ Levels).',
+          'Verified $totalLevelsCount total levels across 30 worlds (Target: 3,600 Levels).',
         );
-        expect(totalLevelsCount, greaterThanOrEqualTo(1000));
+        expect(totalLevelsCount, equals(3600));
+        expect(globalSeenWords.length, equals(38310));
+
+        // Verify animal worlds distribution (Birds: 18, Pets: 22, Wild Animals: 26)
+        final birds = LevelRepository.catalog.firstWhere((m) => m.key == 'birds');
+        final pets = LevelRepository.catalog.firstWhere((m) => m.key == 'pets');
+        final wildAnimals = LevelRepository.catalog.firstWhere((m) => m.key == 'wild-animals');
+        expect(birds.id, equals(18));
+        expect(pets.id, equals(22));
+        expect(wildAnimals.id, equals(26));
       },
     );
 

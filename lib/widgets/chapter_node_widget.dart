@@ -4,6 +4,10 @@ import '../theme/app_theme.dart';
 
 enum ChapterStatus { locked, active, completed }
 
+/// Backward-compatible aliases for World terminology
+typedef WorldStatus = ChapterStatus;
+typedef WorldNodeWidget = ChapterNodeWidget;
+
 class ChapterNodeWidget extends StatefulWidget {
   final ChapterMeta chapter;
   final ChapterStatus status;
@@ -17,7 +21,7 @@ class ChapterNodeWidget extends StatefulWidget {
     required this.chapter,
     required this.status,
     this.completedLevelsCount = 0,
-    this.totalLevelsCount = 35,
+    this.totalLevelsCount = 120,
     this.requiredStars = 0,
     required this.onTap,
   });
