@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import '../models/user_progress.dart';
 import '../services/ad_manager.dart';
 import '../services/sound_manager.dart';
+import 'organic_wood_button.dart';
+import 'parchment_card.dart';
 
 enum RewardType { coins, hint }
 
@@ -44,11 +46,12 @@ class _RewardAdDialogState extends State<RewardAdDialog> {
     AdManager.instance.preloadRewarded();
   }
 
-  void _watchAd() {
+  Future<void> _watchAd() async {
+    if (_isLoadingAd) return;
     SoundManager.instance.playButtonClick();
     setState(() => _isLoadingAd = true);
 
-    AdManager.instance.showRewardedAd(
+    await AdManager.instance.showRewardedAd(
       onUserEarnedReward: (reward) async {
         final progress = await UserProgress.load();
         if (_selectedType == RewardType.coins) {
@@ -69,8 +72,9 @@ class _RewardAdDialogState extends State<RewardAdDialog> {
                 _selectedType == RewardType.coins
                     ? '🎉 You earned +50 Free Coins!'
                     : '💡 You earned +1 Free Hint!',
+                style: const TextStyle(fontFamily: 'Fredoka', fontWeight: FontWeight.bold),
               ),
-              backgroundColor: const Color(0xFF00E676),
+              backgroundColor: const Color(0xFF2E7D32),
             ),
           );
         }
@@ -83,8 +87,11 @@ class _RewardAdDialogState extends State<RewardAdDialog> {
           setState(() => _isLoadingAd = false);
           ScaffoldMessenger.of(context).showSnackBar(
             const SnackBar(
-              content: Text('Ad is loading or unavailable. Please try again shortly.'),
-              backgroundColor: Color(0xFFE53935),
+              content: Text(
+                'Ad is loading or unavailable. Please try again shortly.',
+                style: TextStyle(fontFamily: 'Fredoka', fontWeight: FontWeight.bold),
+              ),
+              backgroundColor: Color(0xFFC62828),
             ),
           );
         }
@@ -96,171 +103,164 @@ class _RewardAdDialogState extends State<RewardAdDialog> {
   Widget build(BuildContext context) {
     final isCoins = _selectedType == RewardType.coins;
 
-    return AlertDialog(
-      backgroundColor: const Color(0xFF0C1938),
-      shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.circular(24),
-        side: const BorderSide(color: Color(0xFF1E3A6D), width: 1.5),
-      ),
-      title: Column(
-        children: [
-          Container(
-            padding: const EdgeInsets.all(16),
-            decoration: BoxDecoration(
-              gradient: const LinearGradient(
-                colors: [Color(0xFFFFD700), Color(0xFFFF9100)],
+    return Dialog(
+      backgroundColor: Colors.transparent,
+      insetPadding: const EdgeInsets.symmetric(horizontal: 22, vertical: 24),
+      child: ParchmentCard(
+        padding: const EdgeInsets.all(22),
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            // Reward Icon
+            Container(
+              padding: const EdgeInsets.all(16),
+              decoration: BoxDecoration(
+                gradient: const LinearGradient(
+                  colors: [Color(0xFFFFD54F), Color(0xFFFF9800)],
+                ),
+                shape: BoxShape.circle,
+                border: Border.all(color: const Color(0xFF5D4037), width: 2.5),
+                boxShadow: [
+                  BoxShadow(
+                    color: const Color(0xFF2A1810).withAlpha(100),
+                    blurRadius: 12,
+                    offset: const Offset(0, 4),
+                  ),
+                ],
               ),
-              shape: BoxShape.circle,
-              boxShadow: [
-                BoxShadow(
-                  color: const Color(0xFFFF9100).withAlpha(150),
-                  blurRadius: 16,
-                  offset: const Offset(0, 4),
+              child: Icon(
+                isCoins ? Icons.monetization_on_rounded : Icons.lightbulb_rounded,
+                size: 38,
+                color: const Color(0xFF2A1810),
+              ),
+            ),
+            const SizedBox(height: 14),
+
+            const Text(
+              'Free Rewards!',
+              style: TextStyle(
+                fontFamily: 'Fredoka',
+                fontSize: 22,
+                fontWeight: FontWeight.w900,
+                color: Color(0xFF2A1810),
+                letterSpacing: 0.6,
+              ),
+            ),
+            const SizedBox(height: 8),
+
+            const Text(
+              'Watch a short sponsored video to claim your reward instantly:',
+              textAlign: TextAlign.center,
+              style: TextStyle(
+                fontFamily: 'Fredoka',
+                fontSize: 13,
+                color: Color(0xFF5D4037),
+                height: 1.35,
+              ),
+            ),
+            const SizedBox(height: 16),
+
+            // Reward Selection Tabs
+            Row(
+              children: [
+                Expanded(
+                  child: GestureDetector(
+                    onTap: () {
+                      SoundManager.instance.playButtonClick();
+                      setState(() => _selectedType = RewardType.coins);
+                    },
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(vertical: 10),
+                      decoration: BoxDecoration(
+                        color: isCoins ? const Color(0xFFFFD54F) : const Color(0xFFFFFDF5),
+                        borderRadius: BorderRadius.circular(14),
+                        border: Border.all(
+                          color: isCoins ? const Color(0xFFE65100) : const Color(0xFFD7CCC8),
+                          width: isCoins ? 2.0 : 1.2,
+                        ),
+                      ),
+                      child: const Column(
+                        children: [
+                          Icon(Icons.monetization_on_rounded, color: Color(0xFFE65100), size: 26),
+                          SizedBox(height: 4),
+                          Text(
+                            '+50 COINS',
+                            style: TextStyle(
+                              fontFamily: 'Fredoka',
+                              color: Color(0xFF2A1810),
+                              fontWeight: FontWeight.w900,
+                              fontSize: 12,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ),
+                ),
+                const SizedBox(width: 10),
+                Expanded(
+                  child: GestureDetector(
+                    onTap: () {
+                      SoundManager.instance.playButtonClick();
+                      setState(() => _selectedType = RewardType.hint);
+                    },
+                    child: Container(
+                      padding: const EdgeInsets.symmetric(vertical: 10),
+                      decoration: BoxDecoration(
+                        color: !isCoins ? const Color(0xFFFFD54F) : const Color(0xFFFFFDF5),
+                        borderRadius: BorderRadius.circular(14),
+                        border: Border.all(
+                          color: !isCoins ? const Color(0xFFE65100) : const Color(0xFFD7CCC8),
+                          width: !isCoins ? 2.0 : 1.2,
+                        ),
+                      ),
+                      child: const Column(
+                        children: [
+                          Icon(Icons.lightbulb_rounded, color: Color(0xFFFFA000), size: 26),
+                          SizedBox(height: 4),
+                          Text(
+                            '+1 FREE HINT',
+                            style: TextStyle(
+                              fontFamily: 'Fredoka',
+                              color: Color(0xFF2A1810),
+                              fontWeight: FontWeight.w900,
+                              fontSize: 12,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ),
                 ),
               ],
             ),
-            child: Icon(
-              isCoins ? Icons.monetization_on_rounded : Icons.lightbulb_rounded,
-              size: 40,
-              color: Colors.white,
-            ),
-          ),
-          const SizedBox(height: 12),
-          const Text(
-            'Free Rewards!',
-            style: TextStyle(
-              fontFamily: 'Fredoka',
-              fontSize: 22,
-              fontWeight: FontWeight.bold,
-              color: Colors.white,
-              letterSpacing: 0.8,
-            ),
-          ),
-        ],
-      ),
-      content: Column(
-        mainAxisSize: MainAxisSize.min,
-        children: [
-          const Text(
-            'Watch a short sponsored video to claim your reward instantly:',
-            textAlign: TextAlign.center,
-            style: TextStyle(
-              fontFamily: 'Fredoka',
-              fontSize: 14,
-              color: Color(0xFF90A4AE),
-              height: 1.3,
-            ),
-          ),
-          const SizedBox(height: 18),
+            const SizedBox(height: 20),
 
-          // Reward Selection Tabs
-          Row(
-            children: [
-              Expanded(
-                child: GestureDetector(
-                  onTap: () {
-                    SoundManager.instance.playButtonClick();
-                    setState(() => _selectedType = RewardType.coins);
-                  },
-                  child: Container(
-                    padding: const EdgeInsets.symmetric(vertical: 12),
-                    decoration: BoxDecoration(
-                      color: isCoins ? const Color(0xFF1E88E5) : const Color(0xFF132347),
-                      borderRadius: BorderRadius.circular(16),
-                      border: Border.all(
-                        color: isCoins ? const Color(0xFF42A5F5) : const Color(0xFF1E3A6D),
-                      ),
-                    ),
-                    child: const Column(
-                      children: [
-                        Icon(Icons.monetization_on_rounded, color: Color(0xFFFFD700), size: 28),
-                        SizedBox(height: 4),
-                        Text(
-                          '+50 COINS',
-                          style: TextStyle(
-                            fontFamily: 'Fredoka',
-                            color: Colors.white,
-                            fontWeight: FontWeight.bold,
-                            fontSize: 13,
-                          ),
-                        ),
-                      ],
-                    ),
-                  ),
-                ),
-              ),
-              const SizedBox(width: 12),
-              Expanded(
-                child: GestureDetector(
-                  onTap: () {
-                    SoundManager.instance.playButtonClick();
-                    setState(() => _selectedType = RewardType.hint);
-                  },
-                  child: Container(
-                    padding: const EdgeInsets.symmetric(vertical: 12),
-                    decoration: BoxDecoration(
-                      color: !isCoins ? const Color(0xFF1E88E5) : const Color(0xFF132347),
-                      borderRadius: BorderRadius.circular(16),
-                      border: Border.all(
-                        color: !isCoins ? const Color(0xFF42A5F5) : const Color(0xFF1E3A6D),
-                      ),
-                    ),
-                    child: const Column(
-                      children: [
-                        Icon(Icons.lightbulb_rounded, color: Color(0xFFFFB300), size: 28),
-                        SizedBox(height: 4),
-                        Text(
-                          '+1 FREE HINT',
-                          style: TextStyle(
-                            fontFamily: 'Fredoka',
-                            color: Colors.white,
-                            fontWeight: FontWeight.bold,
-                            fontSize: 13,
-                          ),
-                        ),
-                      ],
-                    ),
-                  ),
-                ),
-              ),
-            ],
-          ),
-        ],
-      ),
-      actionsAlignment: MainAxisAlignment.center,
-      actions: [
-        Padding(
-          padding: const EdgeInsets.only(bottom: 12, left: 16, right: 16),
-          child: SizedBox(
-            width: double.infinity,
-            height: 50,
-            child: ElevatedButton.icon(
-              style: ElevatedButton.styleFrom(
-                backgroundColor: const Color(0xFF00E676),
-                foregroundColor: Colors.white,
-                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
-              ),
-              onPressed: _isLoadingAd ? null : _watchAd,
-              icon: _isLoadingAd
-                  ? const SizedBox(
-                      width: 20,
-                      height: 20,
-                      child: CircularProgressIndicator(strokeWidth: 2, color: Colors.white),
-                    )
-                  : const Icon(Icons.play_circle_filled_rounded, size: 24),
-              label: Text(
-                _isLoadingAd ? 'LOADING AD...' : 'WATCH VIDEO',
-                style: const TextStyle(
+            // Watch Video Button
+            OrganicWoodButton(
+              text: _isLoadingAd ? 'LOADING AD...' : 'WATCH VIDEO',
+              icon: Icons.play_circle_filled_rounded,
+              variant: WoodButtonVariant.forest,
+              height: 48,
+              onPressed: _isLoadingAd ? () {} : _watchAd,
+            ),
+            const SizedBox(height: 8),
+
+            TextButton(
+              onPressed: () => Navigator.pop(context),
+              child: const Text(
+                'MAYBE LATER',
+                style: TextStyle(
                   fontFamily: 'Fredoka',
-                  fontSize: 15,
+                  fontSize: 12,
                   fontWeight: FontWeight.bold,
-                  letterSpacing: 0.8,
+                  color: Color(0xFF8D6E63),
                 ),
               ),
             ),
-          ),
+          ],
         ),
-      ],
+      ),
     );
   }
 }

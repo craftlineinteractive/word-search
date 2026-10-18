@@ -3,50 +3,51 @@ import 'package:flutter/material.dart';
 class AppTheme {
   static const String fontName = 'Fredoka';
 
-  // Soft Lightweight Dark Palette Colors (No harsh pitch black or heavy navy)
-  static const Color darkBackground = Color(0xFF1E2430);
-  static const Color darkSurface = Color(0xFF262D3D);
-  static const Color darkCard = Color(0xFF2D3547);
-  static const Color darkTextPrimary = Color(0xFFFFFFFF);
-  static const Color darkTextSecondary = Color(0xFF94A3B8);
+  // Light Palette Colors (Warm Enchanted Forest & Tactile Cartoon Theme)
+  static const Color lightBackground = Color(0xFFFBF8F1);
+  static const Color lightSurface = Color(0xFFFFFDF8);
+  static const Color lightCard = Color(0xFFF3ECE0);
+  static const Color lightTextPrimary = Color(0xFF2A1810);
+  static const Color lightTextSecondary = Color(0xFF6B584E);
 
-  // Light Palette Colors
-  static const Color lightBackground = Color(0xFFF0F4F9);
-  static const Color lightSurface = Color(0xFFFFFFFF);
-  static const Color lightCard = Color(0xFFE2E8F0);
-  static const Color lightTextPrimary = Color(0xFF0F172A);
-  static const Color lightTextSecondary = Color(0xFF64748B);
+  // Fallback compatibility tokens
+  static const Color darkBackground = lightBackground;
+  static const Color darkSurface = lightSurface;
+  static const Color darkCard = lightCard;
+  static const Color darkTextPrimary = lightTextPrimary;
+  static const Color darkTextSecondary = lightTextSecondary;
 
   // Vibrant Game Accents
-  static const Color accentGolden = Color(0xFFFFD700);
-  static const Color accentGreen = Color(0xFF00E676);
-  static const Color accentPink = Color(0xFFFF4081);
-  static const Color accentCyan = Color(0xFF00E5FF);
-  static const Color accentOrange = Color(0xFFFF9100);
+  static const Color accentGolden = Color(0xFFFFB300);
+  static const Color accentGreen = Color(0xFF16A34A);
+  static const Color accentPink = Color(0xFFF43F5E);
+  static const Color accentCyan = Color(0xFF0284C7);
+  static const Color accentOrange = Color(0xFFEA580C);
+  static const Color accentWood = Color(0xFF8B5A2B);
 
-  // Helper getters
+  // Helper getters - Single Light Mode Enforced
   static bool isDark(BuildContext context) {
-    return Theme.of(context).brightness == Brightness.dark;
+    return false;
   }
 
   static Color getBackgroundColor(BuildContext context) {
-    return isDark(context) ? darkBackground : lightBackground;
+    return lightBackground;
   }
 
   static Color getSurfaceColor(BuildContext context) {
-    return isDark(context) ? darkSurface : lightSurface;
+    return lightSurface;
   }
 
   static Color getCardColor(BuildContext context) {
-    return isDark(context) ? darkCard : lightCard;
+    return lightCard;
   }
 
   static Color getTextPrimaryColor(BuildContext context) {
-    return isDark(context) ? darkTextPrimary : lightTextPrimary;
+    return lightTextPrimary;
   }
 
   static Color getTextSecondaryColor(BuildContext context) {
-    return isDark(context) ? darkTextSecondary : lightTextSecondary;
+    return lightTextSecondary;
   }
 
   // Dark Theme

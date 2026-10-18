@@ -115,26 +115,29 @@
 - [x] Verified `flutter analyze` (0 issues) and `flutter test` (55/55 passed).
 
 ### Phase 9: Forest Aesthetic, World Theming, Tactile Game UI & 3-Star Achievements
-- [ ] **9.1: Achievement Data Model & Persistence**
-  - Implement `Achievement` & `AchievementTier` in `lib/models/achievement.dart` (3-star multi-tier Clash of Clans style).
-  - Update `UserProgress` with `achievementStats`, `claimedAchievementTiers`, and reward delivery.
-  - Create `test/achievement_model_test.dart`.
-- [ ] **9.2: Achievement Catalog & Service**
-  - Create `AchievementService` in `lib/services/achievement_service.dart` with 16 deep long-term achievements (48 milestone stars).
-  - Create `test/achievement_service_test.dart`.
-- [ ] **9.3: Procedural World Theming & Animated Particles Engine**
-  - Implement `WorldTheme` in `lib/theme/world_theme.dart` (Forest default, plus specific themes for all 30 worlds like Food, Ocean, Holiday).
-  - Implement `AmbientParticlesOverlay` in `lib/widgets/ambient_particles_overlay.dart` (60fps procedural fireflies/pollen, steam, bubbles, snow).
-- [ ] **9.4: Tactile Game UI Components (Organic Wood Buttons, Vine Frames, Stone Tablets)**
-  - Implement `OrganicWoodButton` in `lib/widgets/organic_wood_button.dart` (carved 3D wood bevel, leaf/flower vines, sound effects).
+- [ ] **9.1: Data Models, Persistence & Legacy Migration**
+  - Implement `Achievement` & `AchievementTier` in `lib/models/achievement.dart`.
+  - Update `UserProgress` with `achievementStats`, `claimedAchievementTiers`, and atomic `saveWithResult()`.
+  - Implement verified backfill for `levels_completed` and `gameplay_stars_earned = completedLevels.length * 3`.
+  - Add tests: `test/achievement_migration_test.dart` and `test/reward_claim_crash_safety_test.dart`.
+- [ ] **9.2: Theme Foundation & Tactile 2D Game Components**
+  - Implement `WorldTheme` in `lib/theme/world_theme.dart` with token contracts and mapping for Forest + all 30 Worlds.
+  - Implement `AmbientParticlesOverlay` in `lib/widgets/ambient_particles_overlay.dart` (max 15 particles, lifecycle, reduced motion).
+  - Implement `OrganicWoodButton` in `lib/widgets/organic_wood_button.dart` (carved 3D wood bevel, leaf/flower accents).
   - Implement `ParchmentCard` in `lib/widgets/parchment_card.dart` and `ClashStarWidget` in `lib/widgets/clash_star_widget.dart`.
-- [ ] **9.5: Clash of Clans 3-Star Achievement Screen**
-  - Implement `AchievementsScreen` in `lib/screens/achievements_screen.dart` with filter tabs, 3-star step progression, reward claim buttons, and sound/particle effects.
-- [ ] **9.6: Sliding In-Game Top Notification Banner**
-  - Implement `AchievementNotificationBanner` in `lib/widgets/achievement_notification_banner.dart` with sliding dropdown, glowing trophy, sound fanfare, and auto-dismiss.
-- [ ] **9.7: Screen Makeover: Forest Theme for Home, World Map & Settings**
-  - Upgrade `HomeScreen`, `LevelsMapScreen`, and `SettingsScreen` with the lush forest theme, organic wood buttons, and ambient fireflies.
-- [ ] **9.8: Screen Makeover: Themed World Level Map & Gameplay Screen**
-  - Upgrade `ChapterLevelsScreen` and `GameplayScreen` with dynamic world theming (Food culinary steam, Ocean coral bubbles, etc.) and achievement event hooks.
-- [ ] **9.9: Verification & Automated Test Suite**
-  - Execute full test suite with widget tests, `flutter analyze`, and `flutter test`.
+  - Add tests: `test/world_theme_mapping_test.dart`.
+- [ ] **9.3: Pilot Integration — World 1 (Food) End-to-End**
+  - Apply `WorldTheme.food` to `ChapterLevelsScreen` (Food 120-level map) and `GameplayScreen` (Food puzzle level).
+  - Integrate session timer, hint tracking (`usedHintInSession`), and anti-farming word/level hooks.
+  - Add tests: `test/achievement_anti_farming_test.dart` and `test/streak_tracking_test.dart`.
+- [ ] **9.4: Full Theming Rollout — Forest Default & 30 World Themes**
+  - Upgrade `HomeScreen`, `LevelsMapScreen` (World Roadmap), and `SettingsScreen` with the Forest theme.
+  - Connect all 30 world themes in `ChapterLevelsScreen` and `GameplayScreen`.
+- [ ] **9.5: 3-Star Achievement System & Top Sliding Banner**
+  - Implement `AchievementService` in `lib/services/achievement_service.dart` with all 16 achievements (48 milestone stars).
+  - Implement `AchievementsScreen` in `lib/screens/achievements_screen.dart` with Clash of Clans 3-star cards, progress bars, and claim buttons.
+  - Implement `AchievementNotificationBanner` in `lib/widgets/achievement_notification_banner.dart` and mount in root shell.
+- [ ] **9.6: Comprehensive Verification & Regression Suite**
+  - Run full test suite including all 5 new test files.
+  - Run `flutter analyze` (target: 0 issues).
+  - Benchmark performance on device/simulator.

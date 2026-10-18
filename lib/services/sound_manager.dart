@@ -19,11 +19,14 @@ class SoundManager with WidgetsBindingObserver {
   AudioPlayer? _bgmPlayer;
   final Random _random = Random();
   int _sfxSequence = 0;
+  int _lastSfxTimestamp = 0;
+  String? _lastSfxAsset;
 
   bool _isSoundEnabled = true;
   bool _isMusicEnabled = true;
   bool _isHapticsEnabled = true;
   bool _isBgmPlaying = false;
+  bool _isAppInBackground = false;
 
   bool get isSoundEnabled => _isSoundEnabled;
   bool get isMusicEnabled => _isMusicEnabled;
@@ -64,10 +67,20 @@ class SoundManager with WidgetsBindingObserver {
   AudioPlayer get _getBgmPlayer {
     if (_bgmPlayer == null) {
       _bgmPlayer = AudioPlayer(playerId: 'bgm_player');
-      _bgmPlayer!.setVolume(0.40);
-      _bgmPlayer!.onPlayerStateChanged.listen((state) {
-        _isBgmPlaying = (state == PlayerState.playing);
-      });
+      try {
+        _bgmPlayer!.setVolume(0.40);
+        _bgmPlayer!.onPlayerStateChanged.listen((state) {
+          _isBgmPlaying = (state == PlayerState.playing);
+          // Auto-recovery: If Android transiently paused BGM while music is enabled and app is in foreground and ad is not showing, resume immediately
+          if (state == PlayerState.paused && _isMusicEnabled && !_isAdShowing && !_isAppInBackground) {
+            Future.delayed(const Duration(milliseconds: 100), () {
+              if (_isMusicEnabled && !_isAdShowing && !_isAppInBackground && _bgmPlayer?.state == PlayerState.paused) {
+                _bgmPlayer?.resume();
+              }
+            });
+          }
+        });
+      } catch (_) {}
     }
     return _bgmPlayer!;
   }
@@ -77,17 +90,19 @@ class SoundManager with WidgetsBindingObserver {
     if (_bgmListenerRegistered) return;
     _bgmListenerRegistered = true;
 
-    _getBgmPlayer.onPlayerComplete.listen((_) {
-      // When current track finishes, play the next one from shuffled playlist
-      if (_isMusicEnabled && !_isAdShowing) {
-        _playNextTrack();
-      }
-    });
+    try {
+      _getBgmPlayer.onPlayerComplete.listen((_) {
+        // When current track finishes, play the next one from shuffled playlist
+        if (_isMusicEnabled && !_isAdShowing && !_isAppInBackground) {
+          _playNextTrack();
+        }
+      });
+    } catch (_) {}
   }
 
   /// Plays the next track in the shuffled playlist
   Future<void> _playNextTrack() async {
-    if (!_isMusicEnabled) return;
+    if (!_isMusicEnabled || _isAppInBackground || _isAdShowing) return;
     try {
       _currentBgmTrack = _getNextTrack();
       final player = _getBgmPlayer;
@@ -103,7 +118,10 @@ class SoundManager with WidgetsBindingObserver {
   AudioPlayer get _getSfxPlayer {
     if (_sfxPlayer == null) {
       _sfxPlayer = AudioPlayer(playerId: 'sfx_player');
-      _sfxPlayer!.setVolume(0.9);
+      try {
+        _sfxPlayer!.setReleaseMode(ReleaseMode.stop);
+        _sfxPlayer!.setVolume(0.9);
+      } catch (_) {}
     }
     return _sfxPlayer!;
   }
@@ -115,46 +133,54 @@ class SoundManager with WidgetsBindingObserver {
       _isMusicEnabled = prefs.getBool(_keyMusic) ?? true;
       _isHapticsEnabled = prefs.getBool(_keyHaptics) ?? true;
 
-      // Configure Global Audio Context for non-stealing BGM and SFX mixing
-      await AudioPlayer.global.setAudioContext(
-        AudioContext(
-          android: const AudioContextAndroid(
-            isSpeakerphoneOn: true,
-            stayAwake: true,
-            contentType: AndroidContentType.music,
-            usageType: AndroidUsageType.game,
-            audioFocus: AndroidAudioFocus.none, // Never steal audio focus
+      // Safe individual configuration for BGM
+      try {
+        final bgm = _getBgmPlayer;
+        await bgm.setAudioContext(
+          AudioContext(
+            android: const AudioContextAndroid(
+              isSpeakerphoneOn: false,
+              stayAwake: false,
+              contentType: AndroidContentType.music,
+              usageType: AndroidUsageType.game,
+              audioFocus: AndroidAudioFocus.none,
+              audioMode: AndroidAudioMode.normal,
+            ),
+            iOS: AudioContextIOS(
+              category: AVAudioSessionCategory.ambient,
+              options: const {
+                AVAudioSessionOptions.mixWithOthers,
+              },
+            ),
           ),
-          iOS: AudioContextIOS(
-            category: AVAudioSessionCategory.ambient,
-            options: const {
-              AVAudioSessionOptions.mixWithOthers,
-            },
-          ),
-        ),
-      );
+        );
+        await bgm.setVolume(0.40);
+      } catch (_) {}
 
-      final sfx = _getSfxPlayer;
-      await sfx.setAudioContext(
-        AudioContext(
-          android: const AudioContextAndroid(
-            isSpeakerphoneOn: true,
-            stayAwake: false,
-            contentType: AndroidContentType.sonification,
-            usageType: AndroidUsageType.game,
-            audioFocus: AndroidAudioFocus.none, // SFX will NEVER interrupt BGM
+      // Safe individual configuration for SFX using game music stream (not muted by phone silent mode)
+      try {
+        final sfx = _getSfxPlayer;
+        await sfx.setAudioContext(
+          AudioContext(
+            android: const AudioContextAndroid(
+              isSpeakerphoneOn: false,
+              stayAwake: false,
+              contentType: AndroidContentType.music,
+              usageType: AndroidUsageType.game,
+              audioFocus: AndroidAudioFocus.none,
+              audioMode: AndroidAudioMode.normal,
+            ),
+            iOS: AudioContextIOS(
+              category: AVAudioSessionCategory.ambient,
+              options: const {
+                AVAudioSessionOptions.mixWithOthers,
+              },
+            ),
           ),
-          iOS: AudioContextIOS(
-            category: AVAudioSessionCategory.ambient,
-            options: const {
-              AVAudioSessionOptions.mixWithOthers,
-            },
-          ),
-        ),
-      );
-
-      final bgm = _getBgmPlayer;
-      await bgm.setVolume(0.40);
+        );
+        await sfx.setReleaseMode(ReleaseMode.stop);
+        await sfx.setVolume(0.9);
+      } catch (_) {}
 
       // Register the completion listener for auto-advancing tracks
       _ensureBgmCompletionListener();
@@ -169,15 +195,20 @@ class SoundManager with WidgetsBindingObserver {
 
   @override
   void didChangeAppLifecycleState(AppLifecycleState state) {
-    if (state == AppLifecycleState.paused ||
-        state == AppLifecycleState.inactive ||
-        state == AppLifecycleState.hidden ||
-        state == AppLifecycleState.detached) {
-      pauseBgm();
-    } else if (state == AppLifecycleState.resumed) {
-      if (_isMusicEnabled && !_isAdShowing) {
-        resumeBgm();
-      }
+    switch (state) {
+      case AppLifecycleState.paused:
+      case AppLifecycleState.inactive:
+      case AppLifecycleState.hidden:
+      case AppLifecycleState.detached:
+        _isAppInBackground = true;
+        pauseBgm();
+        break;
+      case AppLifecycleState.resumed:
+        _isAppInBackground = false;
+        if (_isMusicEnabled && !_isAdShowing) {
+          resumeBgm();
+        }
+        break;
     }
   }
 
@@ -286,9 +317,7 @@ class SoundManager with WidgetsBindingObserver {
 
   Future<void> playLetterTap() async {
     _triggerNativeHaptics('light');
-    if (!_isSoundEnabled) return;
-
-    _playSfx('sounds/tap_letter.mp3');
+    // Letter tap sound removed per user request
   }
 
   Future<void> playButtonClick() async {
@@ -319,10 +348,14 @@ class SoundManager with WidgetsBindingObserver {
     _playSfx('sounds/level_win.mp3');
   }
 
+  Future<void> playVictoryFanfare() async {
+    await playLevelWin();
+  }
+
   Future<void> playError() async {
     if (_isHapticsEnabled) {
       try {
-        await _hapticsChannel.invokeMethod('vibrate', {'duration': 50, 'amplitude': 200});
+        _hapticsChannel.invokeMethod('vibrate', {'duration': 50, 'amplitude': 200});
       } catch (_) {
         HapticFeedback.vibrate();
       }
@@ -334,11 +367,18 @@ class SoundManager with WidgetsBindingObserver {
 
   /// Cancels any previous audio playback instantly so rapid clicks only play the latest tap without queuing.
   Future<void> _playSfx(String assetPath) async {
+    final now = DateTime.now().millisecondsSinceEpoch;
+    if (assetPath == _lastSfxAsset && (now - _lastSfxTimestamp) < 60) {
+      return;
+    }
+    _lastSfxTimestamp = now;
+    _lastSfxAsset = assetPath;
+
     final currentSeq = ++_sfxSequence;
     try {
       final player = _getSfxPlayer;
       if (currentSeq != _sfxSequence) return;
-      await player.stop();
+      // Play source directly without calling stop() which can throw IllegalStateException on Android MediaPlayer
       await player.play(AssetSource(assetPath));
     } catch (_) {}
   }

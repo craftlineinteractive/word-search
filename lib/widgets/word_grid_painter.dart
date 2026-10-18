@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import '../models/grid_coordinate.dart';
 import '../models/placed_word.dart';
+import '../theme/world_theme.dart';
 
 class WordGridPainter extends CustomPainter {
   static const double gridPadding = 8.0;
@@ -12,6 +13,7 @@ class WordGridPainter extends CustomPainter {
   final GridCoordinate? hintCoordinate;
   final double hintAnimationValue;
   final bool isDark;
+  final WorldTheme? worldTheme;
 
   WordGridPainter({
     required this.grid,
@@ -20,7 +22,8 @@ class WordGridPainter extends CustomPainter {
     this.activeSelectionColor = const Color(0xFFFFD740),
     this.hintCoordinate,
     this.hintAnimationValue = 0.0,
-    this.isDark = true,
+    this.isDark = false,
+    this.worldTheme,
   });
 
   @override
@@ -35,12 +38,18 @@ class WordGridPainter extends CustomPainter {
     final double cellHeight = innerHeight / rows;
 
     // 1. Draw subtle grid background cells with symmetrical padding
+    final cellBgColor = worldTheme?.cellBackgroundColor ??
+        (isDark ? const Color(0xFF262D3D).withAlpha(150) : const Color(0xFFF1F5F9));
+    final cellBorderColor = worldTheme != null
+        ? worldTheme!.gridBorderColor.withAlpha(90)
+        : (isDark ? const Color(0xFF3F4A63).withAlpha(120) : const Color(0xFFE2E8F0));
+
     final cellBgPaint = Paint()
-      ..color = isDark ? const Color(0xFF262D3D).withAlpha(150) : const Color(0xFFF1F5F9)
+      ..color = cellBgColor
       ..style = PaintingStyle.fill;
 
     final cellBorderPaint = Paint()
-      ..color = isDark ? const Color(0xFF3F4A63).withAlpha(120) : const Color(0xFFE2E8F0)
+      ..color = cellBorderColor
       ..style = PaintingStyle.stroke
       ..strokeWidth = 1.0;
 
@@ -115,8 +124,8 @@ class WordGridPainter extends CustomPainter {
         coordinates: found.coordinates,
         cellWidth: cellWidth,
         cellHeight: cellHeight,
-        color: Color(found.colorValue).withAlpha(isDark ? 150 : 135),
-        borderColor: Color(found.colorValue).withAlpha(isDark ? 210 : 190),
+        color: Color(found.colorValue).withAlpha(140),
+        borderColor: Color(found.colorValue).withAlpha(210),
       );
     }
 
@@ -127,47 +136,47 @@ class WordGridPainter extends CustomPainter {
         coordinates: activeSelection!,
         cellWidth: cellWidth,
         cellHeight: cellHeight,
-        color: activeSelectionColor.withAlpha(isDark ? 130 : 110),
-        borderColor: activeSelectionColor.withAlpha(isDark ? 220 : 190),
+        color: activeSelectionColor.withAlpha(130),
+        borderColor: activeSelectionColor.withAlpha(220),
       );
     }
 
     // 5. Render Cell Letters
     final double fontSize = _calculateFontSize(cellWidth, cellHeight);
+    final letterColor = worldTheme?.letterColor ??
+        (isDark ? Colors.white : const Color(0xFF2A1810));
+
     final standardTextStyle = TextStyle(
-      color: isDark ? Colors.white : const Color(0xFF0F172A),
-      fontSize: 18,
+      color: letterColor,
+      fontSize: fontSize,
       fontWeight: FontWeight.w700,
       fontFamily: 'Fredoka',
     );
 
-    const hintLetterTextStyle = TextStyle(
-      color: Color(0xFF0F172A), // Dark obsidian for maximum contrast over bright yellow hint
-      fontSize: 18,
+    final hintLetterTextStyle = TextStyle(
+      color: const Color(0xFF2A1810),
+      fontSize: fontSize,
       fontWeight: FontWeight.w900,
       fontFamily: 'Fredoka',
     );
 
     for (int r = 0; r < rows; r++) {
       for (int c = 0; c < cols; c++) {
-        final isHintCell = (hintCoordinate != null && hintCoordinate!.row == r && hintCoordinate!.col == c);
-        final style = isHintCell
-            ? hintLetterTextStyle.copyWith(fontSize: fontSize * 1.05)
-            : standardTextStyle.copyWith(fontSize: fontSize);
-
-        final textSpan = TextSpan(
-          text: grid[r][c],
-          style: style,
-        );
+        final letter = grid[r][c];
+        final isHint = hintCoordinate != null &&
+            hintCoordinate!.row == r &&
+            hintCoordinate!.col == c;
 
         final textPainter = TextPainter(
-          text: textSpan,
+          text: TextSpan(
+            text: letter,
+            style: isHint ? hintLetterTextStyle : standardTextStyle,
+          ),
           textDirection: TextDirection.ltr,
-          textAlign: TextAlign.center,
         )..layout();
 
-        final double x = gridPadding + c * cellWidth + (cellWidth - textPainter.width) / 2;
-        final double y = gridPadding + r * cellHeight + (cellHeight - textPainter.height) / 2;
+        final x = gridPadding + c * cellWidth + (cellWidth - textPainter.width) / 2;
+        final y = gridPadding + r * cellHeight + (cellHeight - textPainter.height) / 2;
 
         textPainter.paint(canvas, Offset(x, y));
       }
@@ -184,60 +193,40 @@ class WordGridPainter extends CustomPainter {
   }) {
     if (coordinates.isEmpty) return;
 
-    final double radius = cellWidth * 0.40;
-
-    final fillPaint = Paint()
-      ..color = color
-      ..style = PaintingStyle.fill;
-
-    final borderPaint = Paint()
-      ..color = borderColor
-      ..style = PaintingStyle.stroke
-      ..strokeWidth = 1.5
-      ..strokeCap = StrokeCap.round
-      ..strokeJoin = StrokeJoin.round;
-
-    if (coordinates.length == 1) {
-      final c = coordinates.first;
-      final center = Offset(
-        gridPadding + c.col * cellWidth + cellWidth / 2,
-        gridPadding + c.row * cellHeight + cellHeight / 2,
-      );
-      canvas.drawCircle(center, radius, fillPaint);
-      canvas.drawCircle(center, radius, borderPaint);
-      return;
-    }
-
     final first = coordinates.first;
     final last = coordinates.last;
-    final start = Offset(
+
+    final startCenter = Offset(
       gridPadding + first.col * cellWidth + cellWidth / 2,
       gridPadding + first.row * cellHeight + cellHeight / 2,
     );
-    final end = Offset(
+    final endCenter = Offset(
       gridPadding + last.col * cellWidth + cellWidth / 2,
       gridPadding + last.row * cellHeight + cellHeight / 2,
     );
 
-    final lineFillPaint = Paint()
+    final radius = cellWidth * 0.42;
+
+    final fillPaint = Paint()
       ..color = color
-      ..style = PaintingStyle.stroke
       ..strokeWidth = radius * 2
-      ..strokeCap = StrokeCap.round;
+      ..strokeCap = StrokeCap.round
+      ..style = PaintingStyle.stroke;
 
-    final lineBorderPaint = Paint()
+    final borderStrokePaint = Paint()
       ..color = borderColor
-      ..style = PaintingStyle.stroke
-      ..strokeWidth = radius * 2 + 2
-      ..strokeCap = StrokeCap.round;
+      ..strokeWidth = radius * 2 + 3.0
+      ..strokeCap = StrokeCap.round
+      ..style = PaintingStyle.stroke;
 
-    canvas.drawLine(start, end, lineBorderPaint);
-    canvas.drawLine(start, end, lineFillPaint);
+    // Draw border halo then inner fill
+    canvas.drawLine(startCenter, endCenter, borderStrokePaint);
+    canvas.drawLine(startCenter, endCenter, fillPaint);
   }
 
-  double _calculateFontSize(double cellW, double cellH) {
-    final double minDim = cellW < cellH ? cellW : cellH;
-    return (minDim * 0.52).clamp(12.0, 24.0);
+  double _calculateFontSize(double cellWidth, double cellHeight) {
+    final minDim = cellWidth < cellHeight ? cellWidth : cellHeight;
+    return (minDim * 0.52).clamp(14.0, 26.0);
   }
 
   @override
@@ -248,6 +237,7 @@ class WordGridPainter extends CustomPainter {
         oldDelegate.activeSelectionColor != activeSelectionColor ||
         oldDelegate.hintCoordinate != hintCoordinate ||
         oldDelegate.hintAnimationValue != hintAnimationValue ||
-        oldDelegate.isDark != isDark;
+        oldDelegate.isDark != isDark ||
+        oldDelegate.worldTheme != worldTheme;
   }
 }

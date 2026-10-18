@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:shared_preferences/shared_preferences.dart';
-
 class ThemeManager {
   static final ThemeManager instance = ThemeManager._internal();
 
@@ -8,39 +6,16 @@ class ThemeManager {
 
   ThemeManager._internal();
 
-  static const String _keyThemeMode = 'wp_theme_mode';
+  final ValueNotifier<ThemeMode> themeModeNotifier = ValueNotifier<ThemeMode>(ThemeMode.light);
 
-  final ValueNotifier<ThemeMode> themeModeNotifier = ValueNotifier<ThemeMode>(ThemeMode.dark);
-
-  ThemeMode get currentThemeMode => themeModeNotifier.value;
+  ThemeMode get currentThemeMode => ThemeMode.light;
 
   Future<void> init() async {
-    try {
-      final prefs = await SharedPreferences.getInstance();
-      final savedMode = prefs.getString(_keyThemeMode);
-      if (savedMode == 'light') {
-        themeModeNotifier.value = ThemeMode.light;
-      } else if (savedMode == 'system') {
-        themeModeNotifier.value = ThemeMode.system;
-      } else {
-        themeModeNotifier.value = ThemeMode.dark;
-      }
-    } catch (_) {
-      themeModeNotifier.value = ThemeMode.dark;
-    }
+    themeModeNotifier.value = ThemeMode.light;
   }
 
   Future<void> setThemeMode(ThemeMode mode) async {
-    themeModeNotifier.value = mode;
-    try {
-      final prefs = await SharedPreferences.getInstance();
-      String modeStr = 'system';
-      if (mode == ThemeMode.light) {
-        modeStr = 'light';
-      } else if (mode == ThemeMode.dark) {
-        modeStr = 'dark';
-      }
-      await prefs.setString(_keyThemeMode, modeStr);
-    } catch (_) {}
+    // Single light mode enforced across entire game
+    themeModeNotifier.value = ThemeMode.light;
   }
 }

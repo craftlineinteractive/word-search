@@ -1,15 +1,23 @@
 import 'package:flutter_test/flutter_test.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'package:word_search/main.dart';
+import 'package:word_search/widgets/craftline_branding.dart';
 
 void main() {
-  testWidgets('WordPuzzleApp smoke test', (WidgetTester tester) async {
-    // Build our app and trigger a frame.
-    await tester.pumpWidget(const WordPuzzleApp());
-    await tester.pumpAndSettle();
+  TestWidgetsFlutterBinding.ensureInitialized();
 
-    // Verify that title and Play button render
-    expect(find.text('Word Search'), findsWidgets);
-    expect(find.text('Continue – Level 1'), findsOneWidget);
-    expect(find.text('All Levels'), findsOneWidget);
+  setUp(() {
+    SharedPreferences.setMockInitialValues({});
+  });
+
+  testWidgets('WordPuzzleApp smoke test renders SplashScreen and CraftlineLogo', (WidgetTester tester) async {
+    // Build our app and trigger an initial frame.
+    await tester.pumpWidget(const WordPuzzleApp());
+    await tester.pump();
+
+    // Verify that title and Craftline branding logo render immediately on splash
+    expect(find.text('WORD SEARCH'), findsWidgets);
+    expect(find.byType(CraftlineLogo), findsOneWidget);
   });
 }
+

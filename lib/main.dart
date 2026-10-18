@@ -1,22 +1,61 @@
 import 'package:flutter/material.dart';
-import 'screens/home_screen.dart';
-import 'services/ad_manager.dart';
-import 'services/iap_manager.dart';
+import 'screens/splash_screen.dart';
 import 'services/sound_manager.dart';
 import 'services/theme_manager.dart';
 import 'theme/app_theme.dart';
 
+import 'package:audioplayers/audioplayers.dart';
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await SoundManager.instance.init();
-  await ThemeManager.instance.init();
-  await AdManager.instance.init();
-  await IapManager.instance.init();
+  try {
+    await AudioPlayer.global.setAudioContext(
+      AudioContext(
+        android: const AudioContextAndroid(
+          isSpeakerphoneOn: false,
+          stayAwake: false,
+          contentType: AndroidContentType.music,
+          usageType: AndroidUsageType.game,
+          audioFocus: AndroidAudioFocus.none, // Both SFX & BGM never steal focus from each other
+          audioMode: AndroidAudioMode.normal,
+        ),
+        iOS: AudioContextIOS(
+          category: AVAudioSessionCategory.ambient,
+          options: const {
+            AVAudioSessionOptions.mixWithOthers,
+          },
+        ),
+      ),
+    );
+  } catch (_) {}
   runApp(const WordPuzzleApp());
 }
 
-class WordPuzzleApp extends StatelessWidget {
+class WordPuzzleApp extends StatefulWidget {
   const WordPuzzleApp({super.key});
+
+  @override
+  State<WordPuzzleApp> createState() => _WordPuzzleAppState();
+}
+
+class _WordPuzzleAppState extends State<WordPuzzleApp> with WidgetsBindingObserver {
+  @override
+  void initState() {
+    super.initState();
+    WidgetsBinding.instance.addObserver(this);
+  }
+
+  @override
+  void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
+    super.dispose();
+  }
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    // Forward state directly to SoundManager to guarantee BGM stops on screen lock/minimize
+    SoundManager.instance.didChangeAppLifecycleState(state);
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -27,11 +66,11 @@ class WordPuzzleApp extends StatelessWidget {
           title: 'Word Search',
           debugShowCheckedModeBanner: false,
           theme: AppTheme.lightTheme,
-          darkTheme: AppTheme.darkTheme,
-          themeMode: currentMode,
-          home: const HomeScreen(),
+          themeMode: ThemeMode.light,
+          home: const SplashScreen(),
         );
       },
     );
   }
 }
+

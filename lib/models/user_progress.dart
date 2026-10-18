@@ -88,7 +88,7 @@ class UserProgress {
 
   int getRequiredStarsForChapter(int chapterId) {
     if (chapterId <= 1) return 0;
-    return (chapterId - 1) * 25;
+    return (chapterId - 1) * 60;
   }
 
   int getStarsNeededForChapter(int chapterId) {

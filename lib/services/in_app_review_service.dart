@@ -73,18 +73,35 @@ class InAppReviewService {
 
   /// Opens the Google Play Store listing directly.
   Future<void> openStoreListing() async {
+    await markAsRated();
+
+    // 1. Try market:// details URI which launches Google Play Store app directly
+    try {
+      final marketUri = Uri.parse('market://details?id=com.craftlineinteractive.wordsearch');
+      if (await canLaunchUrl(marketUri)) {
+        await launchUrl(marketUri, mode: LaunchMode.externalApplication);
+        return;
+      }
+    } catch (_) {}
+
+    // 2. Try in_app_review plugin
     try {
       await _inAppReview.openStoreListing(
         appStoreId: 'com.craftlineinteractive.wordsearch',
       );
       await markAsRated();
+      return;
+    } catch (_) {}
+
+    // 3. Fallback to web Play Store link with external browser
+    try {
+      final uri = Uri.parse(playStoreUrl);
+      await launchUrl(uri, mode: LaunchMode.externalApplication);
+      await markAsRated();
     } catch (_) {
       try {
         final uri = Uri.parse(playStoreUrl);
-        if (await canLaunchUrl(uri)) {
-          await launchUrl(uri, mode: LaunchMode.externalApplication);
-          await markAsRated();
-        }
+        await launchUrl(uri, mode: LaunchMode.platformDefault);
       } catch (_) {}
     }
   }
@@ -110,15 +127,17 @@ class InAppReviewService {
       // 2. Don't prompt on initial levels to ensure positive engagement
       if (completedLevel < 3) return;
 
+      // Guaranteed milestone triggers (Level 5, 15, 30) where user has positive momentum
+      final bool isMilestone = (completedLevel == 5 || completedLevel == 15 || completedLevel == 30);
+
       final prefs = await SharedPreferences.getInstance();
-
       final lastLevel = prefs.getInt(_keyLastPromptLevel) ?? 0;
-      // Ensure at least 5 levels passed since last prompt
-      if (completedLevel - lastLevel < 5) return;
 
-      // Check random probability
-      final rand = Random().nextDouble();
-      if (rand >= probability) return;
+      if (!isMilestone) {
+        if (completedLevel - lastLevel < 5) return;
+        final rand = Random().nextDouble();
+        if (rand >= probability) return;
+      }
 
       // Check if native review is available
       final available = await isAvailable();

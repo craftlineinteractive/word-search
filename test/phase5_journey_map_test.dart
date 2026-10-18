@@ -23,6 +23,13 @@ void main() {
           },
         );
     TestDefaultBinaryMessengerBinding.instance.defaultBinaryMessenger
+        .setMockMethodCallHandler(
+          const MethodChannel('xyz.luan/audioplayers'),
+          (MethodCall methodCall) async {
+            return 1;
+          },
+        );
+    TestDefaultBinaryMessengerBinding.instance.defaultBinaryMessenger
         .setMockMessageHandler('flutter/assets', (ByteData? message) async {
           if (message == null) return null;
           final String key = utf8.decode(message.buffer.asUint8List());

@@ -6,7 +6,11 @@ import '../services/daily_puzzle_service.dart';
 import '../services/level_repository.dart';
 import '../services/sound_manager.dart';
 import '../theme/app_theme.dart';
+import '../widgets/ambient_particles_overlay.dart';
 import '../widgets/banner_ad_widget.dart';
+import '../widgets/organic_wood_button.dart';
+import '../widgets/parchment_card.dart';
+import 'achievements_screen.dart';
 import 'gameplay_screen.dart';
 import 'levels_map_screen.dart';
 import 'settings_screen.dart';
@@ -21,7 +25,7 @@ class HomeScreen extends StatefulWidget {
   State<HomeScreen> createState() => _HomeScreenState();
 }
 
-class _HomeScreenState extends State<HomeScreen> {
+class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateMixin {
   int _coins = 50;
   int _hints = 3;
   int _clearedLevels = 0;
@@ -31,11 +35,24 @@ class _HomeScreenState extends State<HomeScreen> {
   Chapter? _nextChapter;
   PuzzleLevel? _nextLevel;
 
+  late final AnimationController _cloudController;
+
   @override
   void initState() {
     super.initState();
     _loadProgress();
     SoundManager.instance.startContinuousBgm();
+
+    _cloudController = AnimationController(
+      vsync: this,
+      duration: const Duration(seconds: 24),
+    )..repeat();
+  }
+
+  @override
+  void dispose() {
+    _cloudController.dispose();
+    super.dispose();
   }
 
   Future<void> _loadProgress() async {
@@ -67,9 +84,7 @@ class _HomeScreenState extends State<HomeScreen> {
         LevelRepository.catalog.first.jsonFile,
       );
       targetChapter = firstChapter;
-      targetLevel = firstChapter.levels.isNotEmpty
-          ? firstChapter.levels.first
-          : null;
+      targetLevel = firstChapter.levels.isNotEmpty ? firstChapter.levels.first : null;
     }
 
     if (mounted) {
@@ -97,8 +112,7 @@ class _HomeScreenState extends State<HomeScreen> {
       await Navigator.push(
         context,
         MaterialPageRoute(
-          builder: (_) =>
-              GameplayScreen(chapter: _nextChapter!, level: _nextLevel!),
+          builder: (_) => GameplayScreen(chapter: _nextChapter!, level: _nextLevel!),
         ),
       );
       _loadProgress();
@@ -114,15 +128,41 @@ class _HomeScreenState extends State<HomeScreen> {
       await Navigator.push(
         context,
         MaterialPageRoute(
-          builder: (_) =>
-              GameplayScreen(chapter: dailyChapter, level: dailyLevel),
+          builder: (_) => GameplayScreen(chapter: dailyChapter, level: dailyLevel),
         ),
       );
       _loadProgress();
     }
   }
 
-  void _openShopDialog() async {
+  void _openLevelsMap() async {
+    SoundManager.instance.playButtonClick();
+    await Navigator.push(
+      context,
+      MaterialPageRoute(builder: (_) => const LevelsMapScreen()),
+    );
+    _loadProgress();
+  }
+
+  void _openAchievements() async {
+    SoundManager.instance.playButtonClick();
+    await Navigator.push(
+      context,
+      MaterialPageRoute(builder: (_) => const AchievementsScreen()),
+    );
+    _loadProgress();
+  }
+
+  void _openSettings() async {
+    SoundManager.instance.playButtonClick();
+    await Navigator.push(
+      context,
+      MaterialPageRoute(builder: (_) => const SettingsScreen()),
+    );
+    _loadProgress();
+  }
+
+  void _openShop() async {
     SoundManager.instance.playButtonClick();
     await Navigator.push(
       context,
@@ -133,225 +173,122 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
-    final isDark = AppTheme.isDark(context);
-    final textPrimary = AppTheme.getTextPrimaryColor(context);
-    final textSecondary = AppTheme.getTextSecondaryColor(context);
+    const Color strokeDark = Color(0xFF2A1810);
+    const int totalLevels = 3600;
+    const int totalPossibleStars = 3600 * 3;
+    final progressFraction = (_clearedLevels / totalLevels).clamp(0.0, 1.0);
 
     return Scaffold(
+      backgroundColor: AppTheme.lightBackground,
       body: Stack(
         children: [
-          // Full Screen Background Image
-          Positioned.fill(
-            child: Image.asset(
-              'assets/images/home_bg.png',
-              fit: BoxFit.cover,
-              errorBuilder: (ctx, err, stack) => Container(
-                color: isDark
-                    ? const Color(0xFF081226)
-                    : const Color(0xFFF8FAFC),
-              ),
-            ),
-          ),
-          // Subtle Tint Overlay for Card Readability
-          Positioned.fill(
-            child: Container(
-              color: isDark
-                  ? Colors.black.withAlpha(80)
-                  : Colors.white.withAlpha(30),
-            ),
+          // ==================== LAYER 1: ENCHANTED FOREST BACKDROP ====================
+          _buildForestBackground(),
+
+          // ==================== LAYER 2: AMBIENT FIREFLIES PARTICLES ====================
+          const AmbientParticlesOverlay(
+            maxParticles: 14,
+            type: ParticleType.fireflies,
           ),
 
+          // ==================== LAYER 3: FOREGROUND PROPS & SCENERY ====================
+          _buildForegroundScenery(),
+
+          // ==================== LAYER 4: MAIN INTERACTIVE UI ====================
           SafeArea(
             child: Column(
               children: [
-                _buildTopBar(isDark, textPrimary),
+                // Top Currency & Settings Header Bar
+                _buildTopBar(strokeDark),
 
+                // Scrollable Content
                 Expanded(
-                  child: Center(
-                    child: SingleChildScrollView(
-                      physics: const BouncingScrollPhysics(),
-                      child: Padding(
-                        padding: const EdgeInsets.symmetric(
-                          horizontal: 24.0,
-                          vertical: 8.0,
+                  child: SingleChildScrollView(
+                    physics: const BouncingScrollPhysics(),
+                    padding: const EdgeInsets.symmetric(horizontal: 22.0, vertical: 8.0),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.center,
+                      children: [
+                        const SizedBox(height: 12),
+
+                        // Game Title Banner with 2D Cartoon Styling
+                        _buildGameTitle(strokeDark),
+
+                        const SizedBox(height: 24),
+
+                        // Primary Play / Continue Button
+                        OrganicWoodButton(
+                          width: double.infinity,
+                          height: 62,
+                          variant: WoodButtonVariant.primary,
+                          fontSize: 21,
+                          leading: Container(
+                            padding: const EdgeInsets.all(6),
+                            decoration: const BoxDecoration(
+                              shape: BoxShape.circle,
+                              color: Color(0xFF2A1810),
+                            ),
+                            child: const Icon(
+                              Icons.play_arrow_rounded,
+                              color: Color(0xFFFFB300),
+                              size: 26,
+                            ),
+                          ),
+                          text: 'PLAY LEVEL $_nextLevelOverall',
+                          onPressed: _continueGame,
                         ),
-                        child: Column(
+
+                        const SizedBox(height: 14),
+
+                        // Secondary Navigation: World Map & Achievements
+                        Row(
                           children: [
-                            // App Logo Icon
-                            Container(
-                              width: 90,
-                              height: 90,
-                              decoration: BoxDecoration(
-                                borderRadius: BorderRadius.circular(22),
-                                color: isDark
-                                    ? const Color(0xFF132347)
-                                    : Colors.white,
-                                border: Border.all(
-                                  color: isDark
-                                      ? const Color(0xFF1E3A6D)
-                                      : const Color(0xFFE2E8F0),
-                                  width: 1.5,
-                                ),
-                                boxShadow: [
-                                  BoxShadow(
-                                    color: Colors.black.withAlpha(
-                                      isDark ? 60 : 20,
-                                    ),
-                                    blurRadius: 16,
-                                    offset: const Offset(0, 6),
-                                  ),
-                                ],
-                              ),
-                              child: ClipRRect(
-                                borderRadius: BorderRadius.circular(20),
-                                child: Image.asset(
-                                  'assets/images/word_search_icon.png',
-                                  fit: BoxFit.cover,
-                                  errorBuilder: (ctx, err, stack) => const Icon(
-                                    Icons.grid_on_rounded,
-                                    size: 50,
-                                    color: Color(0xFF29B6F6),
-                                  ),
-                                ),
+                            Expanded(
+                              child: OrganicWoodButton(
+                                height: 50,
+                                variant: WoodButtonVariant.forest,
+                                fontSize: 14,
+                                icon: Icons.map_rounded,
+                                text: 'WORLD MAP',
+                                onPressed: _openLevelsMap,
                               ),
                             ),
-
-                            const SizedBox(height: 12),
-
-                            // App Title
-                            Text(
-                              'Word Search',
-                              style: TextStyle(
-                                fontFamily: 'Fredoka',
-                                fontSize: 26,
-                                fontWeight: FontWeight.bold,
-                                color: textPrimary,
-                                letterSpacing: 0.8,
-                              ),
-                            ),
-
-                            const SizedBox(height: 3),
-
-                            // Subtitle
-                            Text(
-                              '1050 Hand-Crafted Puzzle Levels',
-                              style: TextStyle(
-                                fontFamily: 'Fredoka',
-                                fontSize: 13,
-                                color: textSecondary,
-                                fontWeight: FontWeight.w500,
-                              ),
-                            ),
-
-                            const SizedBox(height: 16),
-
-                            // ==================== 3. PROGRESS CARD ====================
-                            _buildProgressCard(
-                              isDark,
-                              textPrimary,
-                              textSecondary,
-                            ),
-
-                            const SizedBox(height: 14),
-
-                            // ==================== 4. DAILY PUZZLE MINI CARD ====================
-                            _buildDailyPuzzleCard(
-                              isDark,
-                              textPrimary,
-                              textSecondary,
-                            ),
-
-                            const SizedBox(height: 14),
-
-                            // ==================== 5. ACTION BUTTONS ====================
-                            // Continue Level Button
-                            SizedBox(
-                              width: double.infinity,
-                              height: 50,
-                              child: ElevatedButton(
-                                style: ElevatedButton.styleFrom(
-                                  backgroundColor: const Color(0xFF2563EB),
-                                  foregroundColor: Colors.white,
-                                  elevation: 4,
-                                  shape: RoundedRectangleBorder(
-                                    borderRadius: BorderRadius.circular(16),
-                                  ),
-                                  shadowColor: const Color(
-                                    0xFF2563EB,
-                                  ).withAlpha(120),
-                                ),
-                                onPressed: _continueGame,
-                                child: Text(
-                                  'Continue – Level $_nextLevelOverall',
-                                  style: const TextStyle(
-                                    fontFamily: 'Fredoka',
-                                    fontSize: 16,
-                                    fontWeight: FontWeight.bold,
-                                    letterSpacing: 0.8,
-                                  ),
-                                ),
-                              ),
-                            ),
-
-                            const SizedBox(height: 10),
-
-                            // All Levels Button
-                            SizedBox(
-                              width: double.infinity,
-                              height: 50,
-                              child: OutlinedButton.icon(
-                                style: OutlinedButton.styleFrom(
-                                  backgroundColor: isDark
-                                      ? const Color(0xFF132347)
-                                      : Colors.white,
-                                  foregroundColor: textPrimary,
-                                  side: BorderSide(
-                                    color: isDark
-                                        ? const Color(0xFF1E3A6D)
-                                        : const Color(0xFFCBD5E1),
-                                    width: 1.5,
-                                  ),
-                                  elevation: isDark ? 0 : 2,
-                                  shape: RoundedRectangleBorder(
-                                    borderRadius: BorderRadius.circular(16),
-                                  ),
-                                ),
-                                onPressed: () async {
-                                  SoundManager.instance.playButtonClick();
-                                  await Navigator.push(
-                                    context,
-                                    MaterialPageRoute(
-                                      builder: (_) => const LevelsMapScreen(),
-                                    ),
-                                  );
-                                  _loadProgress();
-                                },
-                                icon: Icon(
-                                  Icons.grid_view_rounded,
-                                  size: 20,
-                                  color: isDark
-                                      ? const Color(0xFF42A5F5)
-                                      : const Color(0xFF2563EB),
-                                ),
-                                label: Text(
-                                  'All Levels',
-                                  style: TextStyle(
-                                    fontFamily: 'Fredoka',
-                                    fontSize: 15,
-                                    fontWeight: FontWeight.bold,
-                                    color: textPrimary,
-                                  ),
-                                ),
+                            const SizedBox(width: 12),
+                            Expanded(
+                              child: OrganicWoodButton(
+                                height: 50,
+                                variant: WoodButtonVariant.secondary,
+                                fontSize: 14,
+                                icon: Icons.emoji_events_rounded,
+                                text: 'ACHIEVEMENTS',
+                                onPressed: _openAchievements,
                               ),
                             ),
                           ],
                         ),
-                      ),
+
+                        const SizedBox(height: 18),
+
+                        // Daily Challenge Card
+                        _buildDailyCard(strokeDark),
+
+                        const SizedBox(height: 16),
+
+                        // Overall Journey Progress Parchment Card
+                        _buildProgressCard(
+                          strokeDark,
+                          totalLevels,
+                          totalPossibleStars,
+                          progressFraction,
+                        ),
+
+                        const SizedBox(height: 20),
+                      ],
                     ),
                   ),
                 ),
 
-                // ==================== 6. BANNER AD ====================
+                // Bottom Ad Banner
                 const BannerAdWidget(),
               ],
             ),
@@ -361,123 +298,259 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
-  Widget _buildTopBar(bool isDark, Color textPrimary) {
+  // ---------------------------------------------------------------------------
+  // SCENERY & ENVIRONMENT BUILDERS
+  // ---------------------------------------------------------------------------
+
+  Widget _buildForestBackground() {
+    return Positioned.fill(
+      child: Container(
+        decoration: const BoxDecoration(
+          gradient: LinearGradient(
+            begin: Alignment.topCenter,
+            end: Alignment.bottomCenter,
+            stops: [0.0, 0.45, 0.75, 1.0],
+            colors: [
+              Color(0xFFBAE6FD), // Sunny Sky Blue
+              Color(0xFFE0F2FE), // Soft Morning Horizon
+              Color(0xFFDCFCE7), // Distant Spring Meadows
+              Color(0xFFFEF9C3), // Warm Ground Sunlit Glow
+            ],
+          ),
+        ),
+        child: Stack(
+          children: [
+            // Drifting Clouds Layer
+            AnimatedBuilder(
+              animation: _cloudController,
+              builder: (context, _) {
+                final double screenWidth = MediaQuery.of(context).size.width;
+                final double cloudOffset1 = (_cloudController.value * (screenWidth + 200)) - 100;
+                final double cloudOffset2 = (((_cloudController.value + 0.5) % 1.0) * (screenWidth + 200)) - 100;
+
+                return Stack(
+                  children: [
+                    Positioned(
+                      top: 40,
+                      left: cloudOffset1,
+                      child: Image.asset(
+                        'assets/game_art/shared/forest/forest_cloud1.png',
+                        width: 140,
+                        opacity: const AlwaysStoppedAnimation(0.85),
+                        errorBuilder: (context, error, stackTrace) => const SizedBox(),
+                      ),
+                    ),
+                    Positioned(
+                      top: 85,
+                      left: cloudOffset2,
+                      child: Image.asset(
+                        'assets/game_art/shared/forest/forest_cloud2.png',
+                        width: 155,
+                        opacity: const AlwaysStoppedAnimation(0.75),
+                        errorBuilder: (context, error, stackTrace) => const SizedBox(),
+                      ),
+                    ),
+                  ],
+                );
+              },
+            ),
+
+            // Lush Green Pine & Foliage Canopy Layers (Colorized with rich forest green tints)
+            Positioned(
+              bottom: 110,
+              left: -30,
+              child: Image.asset(
+                'assets/game_art/shared/forest/forest_tree_pine.png',
+                width: 220,
+                height: 320,
+                color: const Color(0xFF166534).withAlpha(160),
+                colorBlendMode: BlendMode.srcIn,
+                errorBuilder: (context, error, stackTrace) => const SizedBox(),
+              ),
+            ),
+            Positioned(
+              bottom: 100,
+              right: -40,
+              child: Image.asset(
+                'assets/game_art/shared/forest/forest_tree_oak.png',
+                width: 250,
+                height: 340,
+                color: const Color(0xFF15803D).withAlpha(175),
+                colorBlendMode: BlendMode.srcIn,
+                errorBuilder: (context, error, stackTrace) => const SizedBox(),
+              ),
+            ),
+
+            // Distant Soft Spring Meadow Hill
+            Positioned(
+              bottom: 30,
+              left: -50,
+              right: -50,
+              height: 120,
+              child: Container(
+                decoration: BoxDecoration(
+                  borderRadius: const BorderRadius.vertical(
+                    top: Radius.elliptical(360, 110),
+                  ),
+                  gradient: LinearGradient(
+                    begin: Alignment.topCenter,
+                    end: Alignment.bottomCenter,
+                    colors: [
+                      const Color(0xFF86EFAC).withAlpha(190), // Soft Mint Spring Meadow
+                      const Color(0xFF4ADE80).withAlpha(220), // Lush Green Meadow
+                    ],
+                  ),
+                ),
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildForegroundScenery() {
+    return Positioned(
+      bottom: 50,
+      left: 0,
+      right: 0,
+      child: IgnorePointer(
+        child: SizedBox(
+          height: 120,
+          child: Stack(
+            clipBehavior: Clip.none,
+            children: [
+              // Lush Foreground Green Meadow Mound
+              Positioned(
+                bottom: -15,
+                left: -30,
+                right: -30,
+                height: 65,
+                child: Container(
+                  decoration: BoxDecoration(
+                    borderRadius: const BorderRadius.vertical(
+                      top: Radius.elliptical(280, 60),
+                    ),
+                    gradient: const LinearGradient(
+                      begin: Alignment.topCenter,
+                      end: Alignment.bottomCenter,
+                      colors: [
+                        Color(0xFF4ADE80), // Vibrant Spring Green
+                        Color(0xFF16A34A), // Deep Meadow Green
+                      ],
+                    ),
+                    boxShadow: [
+                      BoxShadow(
+                        color: const Color(0xFF14532D).withAlpha(60),
+                        blurRadius: 8,
+                        offset: const Offset(0, -3),
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+
+              // Left Shrub & Red Toadstool
+              Positioned(
+                bottom: 12,
+                left: 12,
+                child: Image.asset(
+                  'assets/game_art/shared/forest/forest_bush.png',
+                  width: 68,
+                  height: 68,
+                  errorBuilder: (context, error, stackTrace) => const SizedBox(),
+                ),
+              ),
+              Positioned(
+                bottom: 10,
+                left: 60,
+                child: Image.asset(
+                  'assets/game_art/shared/forest/forest_mushroom_red.png',
+                  width: 48,
+                  height: 48,
+                  errorBuilder: (context, error, stackTrace) => const SizedBox(),
+                ),
+              ),
+
+              // Friendly Forest Bear Mascot Greeting Player
+              Positioned(
+                bottom: 14,
+                right: 18,
+                child: Image.asset(
+                  'assets/game_art/shared/animals/animal_bear.png',
+                  width: 72,
+                  height: 66,
+                  errorBuilder: (context, error, stackTrace) => const SizedBox(),
+                ),
+              ),
+              Positioned(
+                bottom: 10,
+                right: 80,
+                child: Image.asset(
+                  'assets/game_art/shared/forest/forest_mushroom_brown.png',
+                  width: 44,
+                  height: 44,
+                  errorBuilder: (context, error, stackTrace) => const SizedBox(),
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+
+  // ---------------------------------------------------------------------------
+  // INTERACTIVE UI COMPONENTS
+  // ---------------------------------------------------------------------------
+
+  Widget _buildTopBar(Color strokeDark) {
     return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 10.0),
+      padding: const EdgeInsets.symmetric(horizontal: 18.0, vertical: 8.0),
       child: Row(
         children: [
-          // Coins Pill
+          // Coins Badge (Tap to open Shop)
           GestureDetector(
-            onTap: _openShopDialog,
+            onTap: _openShop,
             child: Container(
               padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
               decoration: BoxDecoration(
-                color: isDark ? const Color(0xFF132347) : Colors.white,
+                color: const Color(0xFFFFFBEB),
                 borderRadius: BorderRadius.circular(20),
-                border: Border.all(
-                  color: isDark
-                      ? const Color(0xFFFFD700)
-                      : const Color(0xFFFFB300),
-                  width: 1.2,
-                ),
+                border: Border.all(color: strokeDark, width: 2.2),
+                boxShadow: [
+                  BoxShadow(
+                    color: strokeDark.withAlpha(40),
+                    blurRadius: 4,
+                    offset: const Offset(0, 2),
+                  ),
+                ],
               ),
               child: Row(
                 children: [
                   const Icon(
                     Icons.monetization_on_rounded,
-                    color: Color(0xFFFFD700),
-                    size: 18,
+                    color: Color(0xFFFFB300),
+                    size: 20,
                   ),
                   const SizedBox(width: 6),
                   Text(
                     '$_coins',
-                    style: TextStyle(
+                    style: const TextStyle(
                       fontFamily: 'Fredoka',
-                      color: textPrimary,
+                      fontSize: 15,
                       fontWeight: FontWeight.bold,
-                      fontSize: 14,
+                      color: Color(0xFF2A1810),
                     ),
                   ),
-                ],
-              ),
-            ),
-          ),
-
-          const SizedBox(width: 8),
-
-          // Hints Pill
-          GestureDetector(
-            onTap: _openShopDialog,
-            child: Container(
-              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
-              decoration: BoxDecoration(
-                color: isDark ? const Color(0xFF132347) : Colors.white,
-                borderRadius: BorderRadius.circular(20),
-                border: Border.all(
-                  color: isDark
-                      ? const Color(0xFFFFD54F)
-                      : const Color(0xFFFFB300),
-                  width: 1.2,
-                ),
-              ),
-              child: Row(
-                children: [
-                  const Icon(
-                    Icons.lightbulb_rounded,
-                    color: Color(0xFFFFB300),
-                    size: 18,
-                  ),
-                  const SizedBox(width: 6),
-                  Text(
-                    '$_hints',
-                    style: TextStyle(
-                      fontFamily: 'Fredoka',
-                      color: textPrimary,
-                      fontWeight: FontWeight.bold,
-                      fontSize: 14,
+                  const SizedBox(width: 4),
+                  Container(
+                    padding: const EdgeInsets.all(2),
+                    decoration: const BoxDecoration(
+                      color: Color(0xFF16A34A),
+                      shape: BoxShape.circle,
                     ),
-                  ),
-                ],
-              ),
-            ),
-          ),
-
-          const Spacer(),
-
-          // Shop Button
-          GestureDetector(
-            onTap: _openShopDialog,
-            child: Container(
-              padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 6),
-              decoration: BoxDecoration(
-                gradient: const LinearGradient(
-                  colors: [Color(0xFFFFB300), Color(0xFFFF9100)],
-                ),
-                borderRadius: BorderRadius.circular(20),
-                boxShadow: [
-                  BoxShadow(
-                    color: const Color(0xFFFF9100).withAlpha(120),
-                    blurRadius: 8,
-                    offset: const Offset(0, 2),
-                  ),
-                ],
-              ),
-              child: const Row(
-                children: [
-                  Icon(
-                    Icons.workspace_premium_rounded,
-                    color: Colors.white,
-                    size: 18,
-                  ),
-                  SizedBox(width: 4),
-                  Text(
-                    'Shop',
-                    style: TextStyle(
-                      fontFamily: 'Fredoka',
-                      color: Colors.white,
-                      fontWeight: FontWeight.bold,
-                      fontSize: 14,
-                    ),
+                    child: const Icon(Icons.add, color: Colors.white, size: 12),
                   ),
                 ],
               ),
@@ -486,28 +559,70 @@ class _HomeScreenState extends State<HomeScreen> {
 
           const SizedBox(width: 10),
 
-          // Settings Button
-          Material(
-            color: isDark ? const Color(0xFF1E3A6D) : Colors.white,
-            shape: const CircleBorder(),
-            elevation: 2,
-            child: InkWell(
-              customBorder: const CircleBorder(),
-              onTap: () async {
-                SoundManager.instance.playButtonClick();
-                await Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (_) => const SettingsScreen()),
-                );
-                _loadProgress();
-              },
-              child: Padding(
-                padding: const EdgeInsets.all(8.0),
-                child: Icon(
-                  Icons.settings_rounded,
-                  color: isDark ? Colors.white : const Color(0xFF1E293B),
+          // Hints Badge
+          Container(
+            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+            decoration: BoxDecoration(
+              color: const Color(0xFFFFFBEB),
+              borderRadius: BorderRadius.circular(20),
+              border: Border.all(color: strokeDark, width: 2.2),
+              boxShadow: [
+                BoxShadow(
+                  color: strokeDark.withAlpha(40),
+                  blurRadius: 4,
+                  offset: const Offset(0, 2),
+                ),
+              ],
+            ),
+            child: Row(
+              children: [
+                const Icon(
+                  Icons.lightbulb_rounded,
+                  color: Color(0xFFFFB300),
                   size: 20,
                 ),
+                const SizedBox(width: 6),
+                Text(
+                  '$_hints',
+                  style: const TextStyle(
+                    fontFamily: 'Fredoka',
+                    fontSize: 15,
+                    fontWeight: FontWeight.bold,
+                    color: Color(0xFF2A1810),
+                  ),
+                ),
+              ],
+            ),
+          ),
+
+          const Spacer(),
+
+          // Settings Button (Wooden Carved Style)
+          GestureDetector(
+            onTap: _openSettings,
+            child: Container(
+              width: 44,
+              height: 44,
+              decoration: BoxDecoration(
+                gradient: const LinearGradient(
+                  begin: Alignment.topCenter,
+                  end: Alignment.bottomCenter,
+                  colors: [Color(0xFFB45309), Color(0xFF78350F)],
+                ),
+                shape: BoxShape.circle,
+                border: Border.all(color: strokeDark, width: 2.2),
+                boxShadow: [
+                  BoxShadow(
+                    color: strokeDark.withAlpha(60),
+                    blurRadius: 4,
+                    offset: const Offset(0, 2.5),
+                  ),
+                ],
+              ),
+              child: const Icon(
+                Icons.settings_rounded,
+                color: Color(0xFFFFFBEB),
+                size: 22,
               ),
             ),
           ),
@@ -516,34 +631,166 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
-  Widget _buildProgressCard(
-    bool isDark,
-    Color textPrimary,
-    Color textSecondary,
-  ) {
-    const totalLevels = 3600;
-    const totalPossibleStars = 10800;
-    final progressFraction = totalLevels > 0
-        ? (_clearedLevels / totalLevels).clamp(0.0, 1.0)
-        : 0.0;
-
-    return Container(
-      padding: const EdgeInsets.all(16),
-      decoration: BoxDecoration(
-        color: isDark ? const Color(0xFF262D3D) : Colors.white,
-        borderRadius: BorderRadius.circular(20),
-        border: Border.all(
-          color: isDark ? const Color(0xFF3F4A63) : const Color(0xFFE2E8F0),
-          width: 1.5,
+  Widget _buildGameTitle(Color strokeDark) {
+    return Column(
+      children: [
+        Stack(
+          alignment: Alignment.center,
+          children: [
+            // Dark Stroke Shadow Layer
+            Text(
+              'WORD SEARCH',
+              style: TextStyle(
+                fontFamily: 'Fredoka',
+                fontSize: 38,
+                fontWeight: FontWeight.w900,
+                letterSpacing: 2.5,
+                foreground: Paint()
+                  ..style = PaintingStyle.stroke
+                  ..strokeWidth = 6.5
+                  ..color = strokeDark,
+              ),
+            ),
+            // Top Golden Gradient Fill Layer
+            ShaderMask(
+              shaderCallback: (bounds) => const LinearGradient(
+                begin: Alignment.topCenter,
+                end: Alignment.bottomCenter,
+                colors: [Color(0xFFFFF176), Color(0xFFFFB300), Color(0xFFEA580C)],
+              ).createShader(bounds),
+              child: const Text(
+                'WORD SEARCH',
+                style: TextStyle(
+                  fontFamily: 'Fredoka',
+                  fontSize: 38,
+                  fontWeight: FontWeight.w900,
+                  letterSpacing: 2.5,
+                  color: Colors.white,
+                ),
+              ),
+            ),
+          ],
         ),
-        boxShadow: [
-          BoxShadow(
-            color: Colors.black.withAlpha(isDark ? 50 : 15),
-            blurRadius: 12,
-            offset: const Offset(0, 4),
+
+        const SizedBox(height: 4),
+
+        // Subtitle Wood Ribbon
+        Container(
+          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
+          decoration: BoxDecoration(
+            color: const Color(0xFF15803D),
+            borderRadius: BorderRadius.circular(14),
+            border: Border.all(color: strokeDark, width: 2.0),
+            boxShadow: [
+              BoxShadow(
+                color: strokeDark.withAlpha(40),
+                blurRadius: 4,
+                offset: const Offset(0, 2),
+              ),
+            ],
+          ),
+          child: const Text(
+            'ENCHANTED WORLDS',
+            style: TextStyle(
+              fontFamily: 'Fredoka',
+              fontSize: 12,
+              fontWeight: FontWeight.bold,
+              letterSpacing: 1.5,
+              color: Color(0xFFFFFBEB),
+            ),
+          ),
+        ),
+      ],
+    );
+  }
+
+  Widget _buildDailyCard(Color strokeDark) {
+    final formattedDate = DailyPuzzleService.getFormattedDate();
+
+    return ParchmentCard(
+      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+      onTap: _openDailyPuzzle,
+      child: Row(
+        children: [
+          Container(
+            padding: const EdgeInsets.all(8),
+            decoration: BoxDecoration(
+              color: _isDailyCompleted ? const Color(0xFF16A34A) : const Color(0xFFE11D48),
+              shape: BoxShape.circle,
+              border: Border.all(color: strokeDark, width: 1.5),
+            ),
+            child: Icon(
+              _isDailyCompleted ? Icons.check_circle_rounded : Icons.calendar_month_rounded,
+              color: Colors.white,
+              size: 22,
+            ),
+          ),
+          const SizedBox(width: 12),
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Row(
+                  children: [
+                    const Text(
+                      'Daily Puzzle',
+                      style: TextStyle(
+                        fontFamily: 'Fredoka',
+                        fontSize: 16,
+                        fontWeight: FontWeight.bold,
+                        color: Color(0xFF2A1810),
+                      ),
+                    ),
+                    const SizedBox(width: 8),
+                    Container(
+                      padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 2),
+                      decoration: BoxDecoration(
+                        color: _isDailyCompleted ? const Color(0xFF16A34A) : const Color(0xFFFFB300),
+                        borderRadius: BorderRadius.circular(8),
+                        border: Border.all(color: strokeDark, width: 1.0),
+                      ),
+                      child: Text(
+                        _isDailyCompleted ? 'SOLVED' : '+50 COINS',
+                        style: const TextStyle(
+                          fontFamily: 'Fredoka',
+                          fontSize: 10,
+                          fontWeight: FontWeight.bold,
+                          color: Color(0xFF2A1810),
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+                const SizedBox(height: 2),
+                Text(
+                  _isDailyCompleted ? 'Completed today • Great job!' : formattedDate,
+                  style: const TextStyle(
+                    fontFamily: 'Fredoka',
+                    fontSize: 12,
+                    color: Color(0xFF6B584E),
+                  ),
+                ),
+              ],
+            ),
+          ),
+          const Icon(
+            Icons.arrow_forward_ios_rounded,
+            color: Color(0xFF6B584E),
+            size: 16,
           ),
         ],
       ),
+    );
+  }
+
+  Widget _buildProgressCard(
+    Color strokeDark,
+    int totalLevels,
+    int totalPossibleStars,
+    double progressFraction,
+  ) {
+    return ParchmentCard(
+      padding: const EdgeInsets.all(16),
       child: Column(
         children: [
           Row(
@@ -557,28 +804,28 @@ class _HomeScreenState extends State<HomeScreen> {
                       children: [
                         const Icon(
                           Icons.check_circle_rounded,
-                          color: Color(0xFF00E676),
+                          color: Color(0xFF16A34A),
                           size: 18,
                         ),
                         const SizedBox(width: 6),
                         Text(
                           '$_clearedLevels / $totalLevels',
-                          style: TextStyle(
+                          style: const TextStyle(
                             fontFamily: 'Fredoka',
-                            fontSize: 15,
+                            fontSize: 16,
                             fontWeight: FontWeight.bold,
-                            color: textPrimary,
+                            color: Color(0xFF2A1810),
                           ),
                         ),
                       ],
                     ),
                     const SizedBox(height: 3),
-                    Text(
+                    const Text(
                       'Levels Cleared',
                       style: TextStyle(
                         fontFamily: 'Fredoka',
                         fontSize: 11,
-                        color: textSecondary,
+                        color: Color(0xFF6B584E),
                       ),
                     ),
                   ],
@@ -587,11 +834,9 @@ class _HomeScreenState extends State<HomeScreen> {
 
               // Vertical Divider
               Container(
-                width: 1,
+                width: 1.5,
                 height: 32,
-                color: isDark
-                    ? const Color(0xFF1E3A6D)
-                    : const Color(0xFFE2E8F0),
+                color: strokeDark.withAlpha(40),
               ),
 
               // Stars Collected Metric
@@ -601,30 +846,35 @@ class _HomeScreenState extends State<HomeScreen> {
                     Row(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
-                        const Icon(
-                          Icons.star_rounded,
-                          color: Color(0xFFFFD700),
-                          size: 20,
+                        Image.asset(
+                          'assets/game_art/shared/ui/ui_star_gold.png',
+                          width: 18,
+                          height: 18,
+                          errorBuilder: (context, error, stackTrace) => const Icon(
+                            Icons.star_rounded,
+                            color: Color(0xFFFFB300),
+                            size: 18,
+                          ),
                         ),
-                        const SizedBox(width: 4),
+                        const SizedBox(width: 6),
                         Text(
                           '$_totalStars / $totalPossibleStars',
-                          style: TextStyle(
+                          style: const TextStyle(
                             fontFamily: 'Fredoka',
-                            fontSize: 15,
+                            fontSize: 16,
                             fontWeight: FontWeight.bold,
-                            color: textPrimary,
+                            color: Color(0xFF2A1810),
                           ),
                         ),
                       ],
                     ),
                     const SizedBox(height: 3),
-                    Text(
+                    const Text(
                       'Stars Collected',
                       style: TextStyle(
                         fontFamily: 'Fredoka',
                         fontSize: 11,
-                        color: textSecondary,
+                        color: Color(0xFF6B584E),
                       ),
                     ),
                   ],
@@ -640,145 +890,14 @@ class _HomeScreenState extends State<HomeScreen> {
             borderRadius: BorderRadius.circular(6),
             child: LinearProgressIndicator(
               value: progressFraction,
-              minHeight: 6,
-              backgroundColor: isDark
-                  ? const Color(0xFF1E293B)
-                  : const Color(0xFFE2E8F0),
+              minHeight: 8,
+              backgroundColor: const Color(0xFFE2E8F0),
               valueColor: const AlwaysStoppedAnimation<Color>(
-                Color(0xFF2563EB),
+                Color(0xFF16A34A),
               ),
             ),
           ),
         ],
-      ),
-    );
-  }
-
-  Widget _buildDailyPuzzleCard(
-    bool isDark,
-    Color textPrimary,
-    Color textSecondary,
-  ) {
-    final formattedDate = DailyPuzzleService.getFormattedDate();
-
-    return GestureDetector(
-      onTap: _openDailyPuzzle,
-      child: Container(
-        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
-        decoration: BoxDecoration(
-          gradient: LinearGradient(
-            colors: _isDailyCompleted
-                ? (isDark
-                      ? [
-                          const Color(0xFF0F5132).withAlpha(150),
-                          const Color(0xFF198754).withAlpha(150),
-                        ]
-                      : [const Color(0xFFD1E7DD), const Color(0xFFC3E6CB)])
-                : (isDark
-                      ? [
-                          const Color(0xFF6B21A8).withAlpha(200),
-                          const Color(0xFF4C1D95).withAlpha(200),
-                        ]
-                      : [const Color(0xFFF3E8FF), const Color(0xFFE9D5FF)]),
-          ),
-          borderRadius: BorderRadius.circular(18),
-          border: Border.all(
-            color: _isDailyCompleted
-                ? const Color(0xFF00E676)
-                : const Color(0xFFA855F7),
-            width: 1.5,
-          ),
-          boxShadow: [
-            BoxShadow(
-              color:
-                  (_isDailyCompleted
-                          ? const Color(0xFF00E676)
-                          : const Color(0xFFA855F7))
-                      .withAlpha(isDark ? 60 : 30),
-              blurRadius: 8,
-              offset: const Offset(0, 3),
-            ),
-          ],
-        ),
-        child: Row(
-          children: [
-            Container(
-              padding: const EdgeInsets.all(8),
-              decoration: BoxDecoration(
-                color: _isDailyCompleted
-                    ? const Color(0xFF00E676)
-                    : const Color(0xFFA855F7),
-                shape: BoxShape.circle,
-              ),
-              child: Icon(
-                _isDailyCompleted
-                    ? Icons.check_circle_rounded
-                    : Icons.calendar_month_rounded,
-                color: Colors.white,
-                size: 20,
-              ),
-            ),
-            const SizedBox(width: 12),
-            Expanded(
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Row(
-                    children: [
-                      Text(
-                        'Daily Puzzle',
-                        style: TextStyle(
-                          fontFamily: 'Fredoka',
-                          fontSize: 15,
-                          fontWeight: FontWeight.bold,
-                          color: textPrimary,
-                        ),
-                      ),
-                      const SizedBox(width: 6),
-                      Container(
-                        padding: const EdgeInsets.symmetric(
-                          horizontal: 6,
-                          vertical: 2,
-                        ),
-                        decoration: BoxDecoration(
-                          color: _isDailyCompleted
-                              ? const Color(0xFF00E676)
-                              : const Color(0xFFFFB300),
-                          borderRadius: BorderRadius.circular(8),
-                        ),
-                        child: Text(
-                          _isDailyCompleted ? 'SOLVED' : '+50 COINS',
-                          style: const TextStyle(
-                            fontFamily: 'Fredoka',
-                            fontSize: 10,
-                            fontWeight: FontWeight.bold,
-                            color: Colors.white,
-                          ),
-                        ),
-                      ),
-                    ],
-                  ),
-                  const SizedBox(height: 2),
-                  Text(
-                    _isDailyCompleted
-                        ? 'Completed today • Great job!'
-                        : formattedDate,
-                    style: TextStyle(
-                      fontFamily: 'Fredoka',
-                      fontSize: 12,
-                      color: textSecondary,
-                    ),
-                  ),
-                ],
-              ),
-            ),
-            Icon(
-              Icons.arrow_forward_ios_rounded,
-              color: textSecondary,
-              size: 16,
-            ),
-          ],
-        ),
       ),
     );
   }

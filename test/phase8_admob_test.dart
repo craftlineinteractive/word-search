@@ -17,19 +17,19 @@ void main() {
       final manager = AdManager.instance;
       expect(
         AdManager.prodAppId,
-        equals('ca-app-pub-9274756665778143~5857930867'),
+        equals('ca-app-pub-9274756665778143~5341916389'),
       );
       expect(
         AdManager.prodBannerAdUnitId,
-        equals('ca-app-pub-9274756665778143/7578206649'),
+        equals('ca-app-pub-9274756665778143/1314895679'),
       );
       expect(
         AdManager.prodInterstitialAdUnitId,
-        equals('ca-app-pub-9274756665778143/4952043301'),
+        equals('ca-app-pub-9274756665778143/6375650663'),
       );
       expect(
         AdManager.prodRewardedAdUnitId,
-        equals('ca-app-pub-9274756665778143/7902385139'),
+        equals('ca-app-pub-9274756665778143/6470274573'),
       );
 
       expect(manager.bannerAdUnitId, isNotEmpty);

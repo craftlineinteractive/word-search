@@ -81,10 +81,23 @@ The following files contained hardcoded "Chapter" terminology and/or hardcoded 3
   - The superior game architecture in Flutter uses `CustomPainter` with `AnimationController` and `TickerProviderStateMixin`.
   - Particles (floating fireflies, golden pollen, ocean bubbles, rising culinary steam, falling snow) are managed as an array of 20–30 procedural structs with randomized phase offsets, sinusoidal horizontal drift, vertical float velocities, and alpha breathing pulses.
   - Wrapped in `RepaintBoundary` to prevent re-rendering the underlying UI tree, achieving a steady 60–120 FPS on Impeller.
-- **Clash of Clans 3-Star Multi-Tier Achievement Mechanics:**
-  - Standard achievements give a single reward and quickly run out, leaving players with no long-term engagement.
-  - The Clash of Clans 3-star model features 3 progressive milestone steps per achievement (★☆☆ Bronze, ★★☆ Silver, ★★★ Gold).
-  - Each step increases in difficulty (e.g., 100 words -> 1,000 words -> 5,000 words) and awards escalating coin/hint bonuses.
-  - Persistent tracking: `UserProgress` stores raw counters (`achievementStats`) and claimed tier indexes (`claimedAchievementTiers`) to ensure offline persistence and idempotent reward claiming.
-  - Instant Feedback: Sliding top notification banner appears in real-time when any tier target is achieved during gameplay, with fanfare audio and golden visual glow.
+- **Star Differentiation:**
+  - Gameplay Level Stars: Earned by beating levels (3 stars per level, up to 10,800 max). Used for World unlock thresholds.
+  - Achievement Milestone Stars: Bronze/Silver/Gold medals (up to 48 total stars, 3 per achievement). Displayed on Achievement cards and header.
+  - Backfilling during migration computes `gameplay_stars_earned = completedLevels.length * 3` from verified completed levels without automatically claiming achievement stars.
+- **Anti-Farming & Replay Prevention:**
+  - `words_found`, `speed_demon_count`, `hint_free_levels`, and streak increments only occur on uncompleted levels.
+  - Replaying a level in `completedLevels` yields zero progress to those counters.
+- **Crash-Safe Idempotent Reward Claiming:**
+  - Claim status `claimedAchievementTiers[id]` and coin/hint balance updates are committed atomically.
+  - Save failure rolls back memory state cleanly.
+  - Mutex lock and `tier > claimedTier` prevent double-claiming on rapid taps or app restarts.
+- **Streak Rules:**
+  - Increments on first-try victory of an uncompleted level without restarting or skipping.
+  - Resets on quitting/leaving level, restarting, or using Skip Level booster.
+  - Preserved on app backgrounding/pausing; resets if process is killed before completion.
+- **World Theme Mapping (All 30 Worlds):**
+  - All 30 worlds assigned deterministic palettes, prop motifs, and capped ambient particles (12–15 max).
+  - Enchanted Forest is the default theme for Home, Roadmap, and Settings.
+
 

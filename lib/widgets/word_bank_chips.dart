@@ -1,24 +1,24 @@
 import 'package:flutter/material.dart';
 import '../models/placed_word.dart';
 import '../models/word_item.dart';
-import '../theme/app_theme.dart';
+import '../theme/world_theme.dart';
 
 class WordBankChips extends StatelessWidget {
   final List<WordItem> levelWords;
   final List<PlacedWord> foundWords;
   final Function(WordItem wordItem) onWordTap;
+  final WorldTheme? worldTheme;
 
   const WordBankChips({
     super.key,
     required this.levelWords,
     required this.foundWords,
     required this.onWordTap,
+    this.worldTheme,
   });
 
   @override
   Widget build(BuildContext context) {
-    final isDark = AppTheme.isDark(context);
-
     return Center(
       child: Wrap(
         spacing: 8.0,
@@ -36,7 +36,6 @@ class WordBankChips extends StatelessWidget {
             context: context,
             wordItem: wordItem,
             isFound: isFound,
-            isDark: isDark,
             foundColor: isFound ? Color(foundWord.colorValue) : null,
           );
         }).toList(),
@@ -48,7 +47,6 @@ class WordBankChips extends StatelessWidget {
     required BuildContext context,
     required WordItem wordItem,
     required bool isFound,
-    required bool isDark,
     Color? foundColor,
   }) {
     Color chipBg;
@@ -57,47 +55,48 @@ class WordBankChips extends StatelessWidget {
     Color iconColor;
 
     if (isFound) {
-      // Solid, rich "hard" color matching the word on the grid
-      final solidColor = foundColor ?? const Color(0xFF2563EB);
+      final solidColor = foundColor ?? const Color(0xFF2E7D32);
       chipBg = solidColor;
-      chipBorder = solidColor;
+      chipBorder = const Color(0xFF2A1810);
       chipText = Colors.white;
       iconColor = Colors.white70;
     } else {
-      chipBg = isDark ? const Color(0xFF262D3D).withAlpha(180) : Colors.white;
-      chipBorder = isDark ? const Color(0xFF3F4A63) : const Color(0xFFCBD5E1);
-      chipText = isDark ? const Color(0xFFE2E8F0) : const Color(0xFF0F172A);
-      iconColor = isDark ? Colors.white30 : const Color(0xFF94A3B8);
+      chipBg = const Color(0xFFFFF9E6);
+      chipBorder = worldTheme != null
+          ? worldTheme!.gridBorderColor.withAlpha(140)
+          : const Color(0xFF8D6E63);
+      chipText = const Color(0xFF2A1810);
+      iconColor = const Color(0xFF8D6E63);
     }
 
     return Material(
       color: Colors.transparent,
       child: InkWell(
-        borderRadius: BorderRadius.circular(16),
+        borderRadius: BorderRadius.circular(14),
         onTap: () => onWordTap(wordItem),
         child: AnimatedContainer(
-          duration: const Duration(milliseconds: 300),
+          duration: const Duration(milliseconds: 280),
           curve: Curves.easeOutCubic,
-          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 7),
+          padding: const EdgeInsets.symmetric(horizontal: 13, vertical: 6),
           decoration: BoxDecoration(
             color: chipBg,
-            borderRadius: BorderRadius.circular(16),
+            borderRadius: BorderRadius.circular(14),
             border: Border.all(
               color: chipBorder,
-              width: 1.5,
+              width: 1.8,
             ),
             boxShadow: [
               if (isFound)
                 BoxShadow(
-                  color: (foundColor ?? const Color(0xFF2563EB)).withAlpha(isDark ? 90 : 60),
-                  blurRadius: 8,
+                  color: (foundColor ?? const Color(0xFF2E7D32)).withAlpha(80),
+                  blurRadius: 6,
                   offset: const Offset(0, 2),
                 )
-              else if (!isDark)
+              else
                 BoxShadow(
-                  color: Colors.black.withAlpha(10),
-                  blurRadius: 4,
-                  offset: const Offset(0, 2),
+                  color: const Color(0xFF2A1810).withAlpha(20),
+                  blurRadius: 3,
+                  offset: const Offset(0, 1.5),
                 ),
             ],
           ),
@@ -106,10 +105,10 @@ class WordBankChips extends StatelessWidget {
             children: [
               if (isFound)
                 const Padding(
-                  padding: EdgeInsets.only(right: 6.0),
+                  padding: EdgeInsets.only(right: 5.0),
                   child: Icon(
                     Icons.check_rounded,
-                    size: 15,
+                    size: 14,
                     color: Colors.white,
                   ),
                 ),
@@ -118,12 +117,12 @@ class WordBankChips extends StatelessWidget {
                 style: TextStyle(
                   fontFamily: 'Fredoka',
                   fontSize: 14,
-                  fontWeight: FontWeight.bold,
-                  letterSpacing: 0.8,
+                  fontWeight: FontWeight.w900,
+                  letterSpacing: 0.6,
                   color: chipText,
                   decoration: isFound ? TextDecoration.lineThrough : null,
                   decorationColor: Colors.white,
-                  decorationThickness: 2.0,
+                  decorationThickness: 2.2,
                 ),
               ),
               const SizedBox(width: 4),

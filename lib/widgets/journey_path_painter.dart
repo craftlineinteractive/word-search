@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 
+/// Renders a storybook woodland cobblestone trail connecting all 30 World nodes.
+/// Employs smooth cubic Bezier curves, textured flagstones, and ambient sunlight
+/// glows along completed path segments.
 class JourneyPathPainter extends CustomPainter {
   final List<Offset> nodePositions;
   final int activeChapterIndex;
@@ -9,39 +12,58 @@ class JourneyPathPainter extends CustomPainter {
   const JourneyPathPainter({
     required this.nodePositions,
     required this.activeChapterIndex,
-    this.roadWidth = 14.0,
-    this.isDark = true,
+    this.roadWidth = 16.0,
+    this.isDark = false,
   });
 
   @override
   void paint(Canvas canvas, Size size) {
     if (nodePositions.length < 2) return;
 
-    // 1. Glowing outer ambient trail for completed / active path
+    // Outer glow for unlocked journey
     final Paint glowPaint = Paint()
-      ..color = (isDark ? const Color(0xFF00E676) : const Color(0xFF10B981)).withAlpha(isDark ? 60 : 40)
-      ..strokeWidth = roadWidth + 10
+      ..color = const Color(0xFFFFD54F).withAlpha(85)
+      ..strokeWidth = roadWidth + 12
       ..style = PaintingStyle.stroke
       ..strokeCap = StrokeCap.round
       ..strokeJoin = StrokeJoin.round;
 
-    final Paint completedRoadPaint = Paint()
-      ..color = isDark ? const Color(0xFF1E88E5) : const Color(0xFF3B82F6)
+    // Trail border (dark bark brown for storybook outline)
+    final Paint borderPaint = Paint()
+      ..color = const Color(0xFF4E342E)
+      ..strokeWidth = roadWidth + 4
+      ..style = PaintingStyle.stroke
+      ..strokeCap = StrokeCap.round
+      ..strokeJoin = StrokeJoin.round;
+
+    // Unlocked cobblestone road fill (warm cream/terracotta cobblestone)
+    final Paint unlockedRoadPaint = Paint()
+      ..color = const Color(0xFFFFE082)
       ..strokeWidth = roadWidth
       ..style = PaintingStyle.stroke
       ..strokeCap = StrokeCap.round
       ..strokeJoin = StrokeJoin.round;
 
+    // Locked road border (muted earthen stroke)
+    final Paint lockedBorderPaint = Paint()
+      ..color = const Color(0xFF795548).withAlpha(150)
+      ..strokeWidth = roadWidth + 2
+      ..style = PaintingStyle.stroke
+      ..strokeCap = StrokeCap.round
+      ..strokeJoin = StrokeJoin.round;
+
+    // Locked road fill (rustic dirt trail)
     final Paint lockedRoadPaint = Paint()
-      ..color = isDark ? const Color(0xFF1E293B) : const Color(0xFFCBD5E1)
+      ..color = const Color(0xFFD7CCC8)
       ..strokeWidth = roadWidth - 2
       ..style = PaintingStyle.stroke
       ..strokeCap = StrokeCap.round
       ..strokeJoin = StrokeJoin.round;
 
+    // Center cobblestone highlight dash
     final Paint centerDashedPaint = Paint()
-      ..color = const Color(0xFFFFD700)
-      ..strokeWidth = 2.5
+      ..color = const Color(0xFFFFF8E1)
+      ..strokeWidth = 3.0
       ..style = PaintingStyle.stroke
       ..strokeCap = StrokeCap.round;
 
@@ -62,12 +84,14 @@ class JourneyPathPainter extends CustomPainter {
       final bool isSegmentUnlocked = i < activeChapterIndex;
 
       if (isSegmentUnlocked) {
-        // Glowing halo + Unlocked Road
+        // Glowing sunlight halo + border + warm path
         canvas.drawPath(segmentPath, glowPaint);
-        canvas.drawPath(segmentPath, completedRoadPaint);
-        _drawDashedPath(canvas, segmentPath, centerDashedPaint, dashLength: 8.0, gapLength: 6.0);
+        canvas.drawPath(segmentPath, borderPaint);
+        canvas.drawPath(segmentPath, unlockedRoadPaint);
+        _drawDashedPath(canvas, segmentPath, centerDashedPaint, dashLength: 10.0, gapLength: 8.0);
       } else {
-        // Dimmed / Locked Road
+        // Rustic earthen trail with soft border
+        canvas.drawPath(segmentPath, lockedBorderPaint);
         canvas.drawPath(segmentPath, lockedRoadPaint);
       }
 
@@ -77,10 +101,18 @@ class JourneyPathPainter extends CustomPainter {
   }
 
   void _drawSteppingStones(Canvas canvas, Offset p1, Offset p2, bool isUnlocked) {
+    final stoneShadowPaint = Paint()
+      ..color = const Color(0xFF3E2723).withAlpha(80)
+      ..style = PaintingStyle.fill;
+
     final stonePaint = Paint()
       ..color = isUnlocked
-          ? const Color(0xFFFFD700).withAlpha(200)
-          : (isDark ? const Color(0xFF334155) : const Color(0xFF94A3B8))
+          ? const Color(0xFFFFB300)
+          : const Color(0xFF8D6E63)
+      ..style = PaintingStyle.fill;
+
+    final highlightPaint = Paint()
+      ..color = Colors.white.withAlpha(isUnlocked ? 160 : 70)
       ..style = PaintingStyle.fill;
 
     // 3 intermediate stepping stones between nodes
@@ -98,7 +130,15 @@ class JourneyPathPainter extends CustomPainter {
       final double x = uuu * p1.dx + 3 * uu * t * c1.dx + 3 * u * tt * c2.dx + ttt * p2.dx;
       final double y = uuu * p1.dy + 3 * uu * t * c1.dy + 3 * u * tt * c2.dy + ttt * p2.dy;
 
-      canvas.drawCircle(Offset(x, y), isUnlocked ? 3.5 : 2.5, stonePaint);
+      final center = Offset(x, y);
+      final radius = isUnlocked ? 4.5 : 3.5;
+
+      // Drop shadow
+      canvas.drawCircle(center.translate(0, 1.5), radius, stoneShadowPaint);
+      // Main stone
+      canvas.drawCircle(center, radius, stonePaint);
+      // Subtle top highlight
+      canvas.drawCircle(center.translate(-1, -1), radius * 0.4, highlightPaint);
     }
   }
 

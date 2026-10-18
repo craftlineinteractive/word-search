@@ -11,10 +11,10 @@ class AdManager {
 
   // ==================== AD UNIT IDS ====================
   // Production AdMob IDs provided by user:
-  static const String prodAppId = 'ca-app-pub-9274756665778143~5857930867';
-  static const String prodBannerAdUnitId = 'ca-app-pub-9274756665778143/7578206649';
-  static const String prodInterstitialAdUnitId = 'ca-app-pub-9274756665778143/4952043301';
-  static const String prodRewardedAdUnitId = 'ca-app-pub-9274756665778143/7902385139';
+  static const String prodAppId = 'ca-app-pub-9274756665778143~5341916389';
+  static const String prodBannerAdUnitId = 'ca-app-pub-9274756665778143/1314895679';
+  static const String prodInterstitialAdUnitId = 'ca-app-pub-9274756665778143/6375650663';
+  static const String prodRewardedAdUnitId = 'ca-app-pub-9274756665778143/6470274573';
 
   // Google Test Ad Unit IDs (used as safe fallback during development/testing)
   static const String testBannerAdUnitId = 'ca-app-pub-3940256099942544/6300978111';
@@ -36,6 +36,8 @@ class AdManager {
 
   int _completedLevelsSinceLastAd = 0;
   static const int interstitialFrequency = 3; // Show interstitial every 3 completed levels
+  DateTime? _lastInterstitialShownTime;
+  static const Duration minInterstitialInterval = Duration(seconds: 90); // Minimum 90s cooldown to prevent ad spam
 
   bool get isAdsRemoved => _isAdsRemoved;
   bool get isInitialized => _isInitialized;
@@ -151,7 +153,7 @@ class AdManager {
     );
   }
 
-  /// Called after a level is completed. Shows an interstitial ad every 3 completed levels.
+  /// Called after a level is completed. Shows an interstitial ad every 3 completed levels with cooldown protection.
   void showInterstitialIfEligible({Function()? onAdClosed}) {
     if (_isAdsRemoved) {
       onAdClosed?.call();
@@ -159,9 +161,14 @@ class AdManager {
     }
 
     _completedLevelsSinceLastAd++;
-    if (_completedLevelsSinceLastAd >= interstitialFrequency) {
+    final now = DateTime.now();
+    final bool isCooldownElapsed = _lastInterstitialShownTime == null ||
+        now.difference(_lastInterstitialShownTime!) >= minInterstitialInterval;
+
+    if (_completedLevelsSinceLastAd >= interstitialFrequency && isCooldownElapsed) {
       if (_interstitialAd != null) {
         _completedLevelsSinceLastAd = 0;
+        _lastInterstitialShownTime = now;
         _interstitialAd!.fullScreenContentCallback = FullScreenContentCallback(
           onAdShowedFullScreenContent: (ad) {
             SoundManager.instance.setAdShowing(true);
@@ -183,7 +190,11 @@ class AdManager {
         );
         _interstitialAd!.show();
         return;
+      } else {
+        preloadInterstitial();
       }
+    } else if (_interstitialAd == null && !_isInterstitialLoading) {
+      preloadInterstitial();
     }
     onAdClosed?.call();
   }
@@ -216,12 +227,24 @@ class AdManager {
     );
   }
 
-  /// Shows a rewarded ad. Invokes [onUserEarnedReward] if user watched the ad.
-  void showRewardedAd({
+  /// Shows a rewarded ad. If an ad is currently loading, waits up to 4.5 seconds for it to finish.
+  /// Invokes [onUserEarnedReward] if user watched the ad.
+  Future<void> showRewardedAd({
     required Function(RewardItem reward) onUserEarnedReward,
     Function()? onAdDismissed,
     Function()? onAdFailedToLoad,
-  }) {
+  }) async {
+    // If not immediately available, give in-flight preload up to 4.5 seconds to finish
+    if (_rewardedAd == null) {
+      if (!_isRewardedLoading) {
+        preloadRewarded();
+      }
+      final stopwatch = Stopwatch()..start();
+      while (_rewardedAd == null && _isRewardedLoading && stopwatch.elapsedMilliseconds < 4500) {
+        await Future.delayed(const Duration(milliseconds: 200));
+      }
+    }
+
     if (_rewardedAd != null) {
       _rewardedAd!.fullScreenContentCallback = FullScreenContentCallback(
         onAdShowedFullScreenContent: (ad) {

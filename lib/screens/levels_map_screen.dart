@@ -4,9 +4,11 @@ import '../models/user_progress.dart';
 import '../services/daily_puzzle_service.dart';
 import '../services/level_repository.dart';
 import '../services/sound_manager.dart';
-import '../theme/app_theme.dart';
+import '../widgets/ambient_particles_overlay.dart';
 import '../widgets/chapter_node_widget.dart';
 import '../widgets/journey_path_painter.dart';
+import '../widgets/organic_wood_button.dart';
+import '../widgets/parchment_card.dart';
 import 'chapter_levels_screen.dart';
 import 'gameplay_screen.dart';
 import 'settings_screen.dart';
@@ -23,9 +25,9 @@ class _LevelsMapScreenState extends State<LevelsMapScreen> {
   late UserProgress _userProgress;
   final ScrollController _scrollController = ScrollController();
 
-  static const double _nodeVerticalSpacing = 145.0;
+  static const double _nodeVerticalSpacing = 190.0;
   static const double _bottomPadding = 140.0;
-  static const double _topPadding = 100.0;
+  static const double _topPadding = 110.0;
 
   @override
   void initState() {
@@ -121,162 +123,153 @@ class _LevelsMapScreenState extends State<LevelsMapScreen> {
   }
 
   void _showLockedChapterDialog(ChapterMeta chapterMeta) {
-    final isDark = AppTheme.isDark(context);
-    final textPrimary = AppTheme.getTextPrimaryColor(context);
-    final textSecondary = AppTheme.getTextSecondaryColor(context);
     final requiredStars = _userProgress.getRequiredStarsForChapter(chapterMeta.id);
     final totalStars = _userProgress.getTotalStars();
     final needed = _userProgress.getStarsNeededForChapter(chapterMeta.id);
 
     showDialog(
       context: context,
-      builder: (ctx) => AlertDialog(
-        backgroundColor: isDark ? const Color(0xFF0C1938) : Colors.white,
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(24),
-          side: BorderSide(
-            color: isDark ? const Color(0xFF1E3A6D) : const Color(0xFFE2E8F0),
-            width: 1.5,
-          ),
-        ),
-        title: Column(
-          children: [
-            Container(
-              padding: const EdgeInsets.all(16),
-              decoration: BoxDecoration(
-                color: const Color(0xFFE53935),
-                shape: BoxShape.circle,
-                boxShadow: [
-                  BoxShadow(
-                    color: const Color(0xFFE53935).withAlpha(120),
-                    blurRadius: 16,
-                    offset: const Offset(0, 4),
+      builder: (ctx) => Dialog(
+        backgroundColor: Colors.transparent,
+        insetPadding: const EdgeInsets.symmetric(horizontal: 24),
+        child: ParchmentCard(
+          padding: const EdgeInsets.all(22),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              // Lock Icon Badge
+              Container(
+                width: 64,
+                height: 64,
+                decoration: BoxDecoration(
+                  gradient: const LinearGradient(
+                    colors: [Color(0xFFE53935), Color(0xFFC62828)],
                   ),
-                ],
-              ),
-              child: const Icon(Icons.lock_rounded, size: 36, color: Colors.white),
-            ),
-            const SizedBox(height: 14),
-            Text(
-              'World ${chapterMeta.id} Locked!',
-              style: TextStyle(
-                fontFamily: 'Fredoka',
-                fontSize: 22,
-                fontWeight: FontWeight.bold,
-                color: textPrimary,
-              ),
-            ),
-          ],
-        ),
-        content: Column(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            Container(
-              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
-              decoration: BoxDecoration(
-                color: isDark ? const Color(0xFF132347) : const Color(0xFFF1F5F9),
-                borderRadius: BorderRadius.circular(16),
-                border: Border.all(
-                  color: isDark ? const Color(0xFF1E3A6D) : const Color(0xFFE2E8F0),
-                ),
-              ),
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  const Icon(Icons.star_rounded, color: Color(0xFFFFB300), size: 24),
-                  const SizedBox(width: 8),
-                  Text(
-                    '$totalStars / $requiredStars Stars',
-                    style: TextStyle(
-                      fontFamily: 'Fredoka',
-                      fontSize: 18,
-                      fontWeight: FontWeight.bold,
-                      color: textPrimary,
+                  shape: BoxShape.circle,
+                  border: Border.all(color: const Color(0xFF5D4037), width: 2.5),
+                  boxShadow: [
+                    BoxShadow(
+                      color: const Color(0xFFC62828).withAlpha(120),
+                      blurRadius: 12,
+                      offset: const Offset(0, 4),
                     ),
-                  ),
-                ],
-              ),
-            ),
-            const SizedBox(height: 14),
-            Text(
-              'You need $needed more stars to unlock World ${chapterMeta.id}: ${chapterMeta.title}.\n\nEarn stars by finding all words in previous worlds!',
-              textAlign: TextAlign.center,
-              style: TextStyle(
-                fontFamily: 'Fredoka',
-                fontSize: 14,
-                color: textSecondary,
-                height: 1.3,
-              ),
-            ),
-          ],
-        ),
-        actionsAlignment: MainAxisAlignment.center,
-        actions: [
-          Padding(
-            padding: const EdgeInsets.only(bottom: 12, left: 16, right: 16),
-            child: SizedBox(
-              width: double.infinity,
-              height: 48,
-              child: ElevatedButton(
-                style: ElevatedButton.styleFrom(
-                  backgroundColor: const Color(0xFF1E88E5),
-                  foregroundColor: Colors.white,
-                  shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+                  ],
                 ),
+                child: const Icon(Icons.lock_rounded, size: 34, color: Colors.white),
+              ),
+              const SizedBox(height: 14),
+
+              Text(
+                'World ${chapterMeta.id} Locked!',
+                style: const TextStyle(
+                  fontFamily: 'Fredoka',
+                  fontSize: 22,
+                  fontWeight: FontWeight.w900,
+                  color: Color(0xFF2A1810),
+                ),
+              ),
+              const SizedBox(height: 12),
+
+              // Star progress card
+              Container(
+                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+                decoration: BoxDecoration(
+                  color: const Color(0xFFFFFDF5),
+                  borderRadius: BorderRadius.circular(16),
+                  border: Border.all(color: const Color(0xFF5D4037), width: 1.8),
+                ),
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    const Icon(Icons.star_rounded, color: Color(0xFFFFB300), size: 26),
+                    const SizedBox(width: 8),
+                    Text(
+                      '$totalStars / $requiredStars Stars',
+                      style: const TextStyle(
+                        fontFamily: 'Fredoka',
+                        fontSize: 18,
+                        fontWeight: FontWeight.w900,
+                        color: Color(0xFF2A1810),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(height: 14),
+
+              Text(
+                'You need $needed more stars to unlock World ${chapterMeta.id}: ${chapterMeta.title}.\n\nEarn stars by completing words in earlier worlds!',
+                textAlign: TextAlign.center,
+                style: const TextStyle(
+                  fontFamily: 'Fredoka',
+                  fontSize: 14,
+                  color: Color(0xFF5D4037),
+                  height: 1.35,
+                ),
+              ),
+              const SizedBox(height: 20),
+
+              OrganicWoodButton(
+                text: 'GO EARN STARS',
+                icon: Icons.star_rounded,
+                variant: WoodButtonVariant.primary,
+                height: 48,
                 onPressed: () => Navigator.pop(ctx),
-                child: const Text(
-                  'GO EARN STARS',
-                  style: TextStyle(
-                    fontFamily: 'Fredoka',
-                    fontSize: 15,
-                    fontWeight: FontWeight.bold,
-                  ),
-                ),
               ),
-            ),
+            ],
           ),
-        ],
+        ),
       ),
     );
   }
 
   @override
   Widget build(BuildContext context) {
-    final isDark = AppTheme.isDark(context);
-
     return Scaffold(
+      backgroundColor: const Color(0xFFFBF8F1),
       body: Stack(
         children: [
-          // Full Screen Background Image
+          // 1. Storybook Forest Canvas Gradient
           Positioned.fill(
-            child: Image.asset(
-              'assets/images/chapter_map_bg.png',
-              fit: BoxFit.cover,
-              errorBuilder: (ctx, err, stack) => Container(
-                color: isDark ? const Color(0xFF081226) : const Color(0xFFF8FAFC),
+            child: Container(
+              decoration: const BoxDecoration(
+                gradient: LinearGradient(
+                  begin: Alignment.topCenter,
+                  end: Alignment.bottomCenter,
+                  colors: [
+                    Color(0xFFE8F5E9), // Soft sunlit forest canopy sky
+                    Color(0xFFC8E6C9), // Gentle meadow
+                    Color(0xFFA5D6A7), // Lush ground
+                  ],
+                ),
               ),
             ),
           ),
-          // Subtle Tint Overlay for Readability
-          Positioned.fill(
-            child: Container(
-              color: isDark ? Colors.black.withAlpha(80) : Colors.white.withAlpha(30),
+
+          // 2. Ambient Drifting Fireflies
+          const Positioned.fill(
+            child: AmbientParticlesOverlay(
+              particleCount: 12,
+              particleColor: Color(0xFFFFEB3B),
             ),
           ),
 
+          // 3. Main Content
           SafeArea(
             child: Column(
               children: [
-                // 1. Top Header
-                _buildTopHeader(isDark),
+                // Top Storybook Header Bar
+                _buildTopHeader(),
 
-                // 2. Main Body (Roadmap Journey or Daily Challenge)
+                // Journey Map or Daily Tab
                 Expanded(
-                  child: _selectedTab == 0 ? _buildWindingJourneyMap(isDark) : _buildDailyTab(isDark),
+                  child: _selectedTab == 0
+                      ? _buildWindingJourneyMap()
+                      : _buildDailyTab(),
                 ),
 
-                // 3. Bottom Navigation
-                _buildBottomNav(isDark),
+                // Tactile Bottom Navigation
+                _buildBottomNav(),
               ],
             ),
           ),
@@ -285,126 +278,120 @@ class _LevelsMapScreenState extends State<LevelsMapScreen> {
     );
   }
 
-  Widget _buildTopHeader(bool isDark) {
-    final textPrimary = AppTheme.getTextPrimaryColor(context);
-
+  Widget _buildTopHeader() {
     return Container(
-      padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 10.0),
-      decoration: BoxDecoration(
-        color: isDark ? const Color(0xFF0B192C).withAlpha(230) : Colors.white.withAlpha(230),
-        boxShadow: [
-          BoxShadow(
-            color: Colors.black.withAlpha(isDark ? 80 : 15),
-            blurRadius: 6,
-            offset: const Offset(0, 3),
-          ),
-        ],
-      ),
-      child: Row(
-        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-        children: [
-          // Back Button
-          Material(
-            color: isDark ? const Color(0xFF1E3A6D) : Colors.white,
-            shape: const CircleBorder(),
-            elevation: 2,
-            child: InkWell(
-              customBorder: const CircleBorder(),
-              onTap: () {
-                SoundManager.instance.playButtonClick();
-                Navigator.pop(context);
-              },
-              child: Padding(
-                padding: const EdgeInsets.all(8.0),
-                child: Icon(Icons.arrow_back_ios_new_rounded, color: textPrimary, size: 20),
+      margin: const EdgeInsets.symmetric(horizontal: 14.0, vertical: 8.0),
+      child: ParchmentCard(
+        padding: const EdgeInsets.symmetric(horizontal: 14.0, vertical: 8.0),
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          children: [
+            // Back Button
+            Material(
+              color: const Color(0xFF8D6E63),
+              shape: const CircleBorder(),
+              elevation: 2,
+              child: InkWell(
+                customBorder: const CircleBorder(),
+                onTap: () {
+                  SoundManager.instance.playButtonClick();
+                  Navigator.pop(context);
+                },
+                child: const Padding(
+                  padding: EdgeInsets.all(7.0),
+                  child: Icon(Icons.arrow_back_ios_new_rounded, color: Colors.white, size: 18),
+                ),
               ),
             ),
-          ),
 
-          // Stars Collected Pill
-          Container(
-            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 5),
-            decoration: BoxDecoration(
-              color: isDark ? const Color(0xFF1E3A6D) : Colors.white,
-              borderRadius: BorderRadius.circular(20),
-              border: Border.all(color: const Color(0xFFFFD700), width: 1.2),
-            ),
-            child: Row(
-              children: [
-                const Icon(Icons.star_rounded, color: Color(0xFFFFD700), size: 18),
-                const SizedBox(width: 4),
-                Text(
-                  '${_getTotalStars()}',
-                  style: TextStyle(
-                    fontFamily: 'Fredoka',
-                    color: textPrimary,
-                    fontWeight: FontWeight.bold,
-                    fontSize: 14,
+            // Stars Collected Plaque
+            Container(
+              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 5),
+              decoration: BoxDecoration(
+                color: const Color(0xFFFFF9E6),
+                borderRadius: BorderRadius.circular(16),
+                border: Border.all(color: const Color(0xFF5D4037), width: 1.5),
+              ),
+              child: Row(
+                children: [
+                  const Icon(Icons.star_rounded, color: Color(0xFFFFB300), size: 19),
+                  const SizedBox(width: 4),
+                  Text(
+                    '${_getTotalStars()}',
+                    style: const TextStyle(
+                      fontFamily: 'Fredoka',
+                      color: Color(0xFF2A1810),
+                      fontWeight: FontWeight.w900,
+                      fontSize: 14,
+                    ),
                   ),
-                ),
-              ],
-            ),
-          ),
-
-          // Chapter Progress Pill
-          Container(
-            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 5),
-            decoration: BoxDecoration(
-              color: isDark ? const Color(0xFF1E3A6D) : Colors.white,
-              borderRadius: BorderRadius.circular(20),
-              border: Border.all(
-                color: isDark ? const Color(0xFF00E676) : const Color(0xFF10B981),
-                width: 1.2,
+                ],
               ),
             ),
-            child: Row(
-              children: [
-                Icon(
-                  Icons.flag_rounded,
-                  color: isDark ? const Color(0xFF00E676) : const Color(0xFF10B981),
-                  size: 18,
+
+            // World Progress Plaque
+            Container(
+              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 5),
+              decoration: BoxDecoration(
+                gradient: const LinearGradient(
+                  colors: [Color(0xFF43A047), Color(0xFF2E7D32)],
                 ),
-                const SizedBox(width: 6),
-                Text(
-                  'WORLD ${_userProgress.activeChapterId} / 30',
-                  style: TextStyle(
-                    fontFamily: 'Fredoka',
-                    color: textPrimary,
-                    fontWeight: FontWeight.bold,
-                    fontSize: 14,
+                borderRadius: BorderRadius.circular(16),
+                border: Border.all(color: const Color(0xFF1B5E20), width: 1.5),
+                boxShadow: [
+                  BoxShadow(
+                    color: const Color(0xFF1B5E20).withAlpha(80),
+                    blurRadius: 4,
+                    offset: const Offset(0, 2),
                   ),
-                ),
-              ],
-            ),
-          ),
-
-          // Settings Button
-          Material(
-            color: isDark ? const Color(0xFF1E3A6D) : Colors.white,
-            shape: const CircleBorder(),
-            elevation: 2,
-            child: InkWell(
-              customBorder: const CircleBorder(),
-              onTap: () async {
-                SoundManager.instance.playButtonClick();
-                await Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (_) => const SettingsScreen()),
-                );
-                _loadProgress();
-              },
-              child: Padding(
-                padding: const EdgeInsets.all(8.0),
-                child: Icon(Icons.settings_rounded, color: textPrimary, size: 20),
+                ],
+              ),
+              child: Row(
+                children: [
+                  const Icon(Icons.flag_rounded, color: Colors.white, size: 16),
+                  const SizedBox(width: 5),
+                  Text(
+                    'WORLD ${_userProgress.activeChapterId} / 30',
+                    style: const TextStyle(
+                      fontFamily: 'Fredoka',
+                      color: Colors.white,
+                      fontWeight: FontWeight.w900,
+                      fontSize: 12,
+                      letterSpacing: 0.5,
+                    ),
+                  ),
+                ],
               ),
             ),
-          ),
-        ],
+
+            // Settings Button
+            Material(
+              color: const Color(0xFF8D6E63),
+              shape: const CircleBorder(),
+              elevation: 2,
+              child: InkWell(
+                customBorder: const CircleBorder(),
+                onTap: () async {
+                  SoundManager.instance.playButtonClick();
+                  await Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (_) => const SettingsScreen()),
+                  );
+                  _loadProgress();
+                },
+                child: const Padding(
+                  padding: EdgeInsets.all(7.0),
+                  child: Icon(Icons.settings_rounded, color: Colors.white, size: 18),
+                ),
+              ),
+            ),
+          ],
+        ),
       ),
     );
   }
 
-  Widget _buildWindingJourneyMap(bool isDark) {
+  Widget _buildWindingJourneyMap() {
     final catalog = LevelRepository.catalog;
     final int count = catalog.length;
     final double totalHeight = (count - 1) * _nodeVerticalSpacing + _bottomPadding + _topPadding;
@@ -413,9 +400,9 @@ class _LevelsMapScreenState extends State<LevelsMapScreen> {
       builder: (context, constraints) {
         final double screenWidth = constraints.maxWidth;
         final double centerX = screenWidth / 2.0;
-        final double amplitude = (screenWidth - 140) / 2.0;
+        final double amplitude = (screenWidth - 156) / 2.0;
 
-        // Calculate (x, y) coordinates for all 30 chapter nodes from bottom (Chapter 1) to top (Chapter 30)
+        // Calculate (x, y) coordinates for all 30 world nodes from bottom (World 1) to top (World 30)
         final List<Offset> nodePositions = [];
         for (int i = 0; i < count; i++) {
           final double swayX = centerX + sin(i * 0.95) * amplitude;
@@ -433,67 +420,99 @@ class _LevelsMapScreenState extends State<LevelsMapScreen> {
             height: totalHeight,
             child: Stack(
               children: [
-                // 1. Smooth Bezier Winding Road Painter
+                // 1. Environmental Decorative Props scattered along the map
+                // Bottom trees & bushes near World 1
+                Positioned(
+                  left: 14,
+                  top: totalHeight - 170,
+                  child: Image.asset(
+                    'assets/game_art/shared/forest/forest_bush.png',
+                    width: 58,
+                    height: 58,
+                    errorBuilder: (ctx, err, stack) => const SizedBox(),
+                  ),
+                ),
+                Positioned(
+                  right: 18,
+                  top: totalHeight - 220,
+                  child: Image.asset(
+                    'assets/game_art/shared/forest/forest_mushroom_red.png',
+                    width: 42,
+                    height: 42,
+                    errorBuilder: (ctx, err, stack) => const SizedBox(),
+                  ),
+                ),
+                // Mid-map foliage
+                Positioned(
+                  left: 12,
+                  top: totalHeight * 0.6,
+                  child: Image.asset(
+                    'assets/game_art/shared/forest/forest_bush.png',
+                    width: 52,
+                    height: 52,
+                    errorBuilder: (ctx, err, stack) => const SizedBox(),
+                  ),
+                ),
+                Positioned(
+                  right: 16,
+                  top: totalHeight * 0.35,
+                  child: Image.asset(
+                    'assets/game_art/shared/forest/forest_mushroom_brown.png',
+                    width: 44,
+                    height: 44,
+                    errorBuilder: (ctx, err, stack) => const SizedBox(),
+                  ),
+                ),
+                // Upper clouds near summit
+                Positioned(
+                  left: 20,
+                  top: 40,
+                  child: Image.asset(
+                    'assets/game_art/shared/forest/forest_cloud1.png',
+                    width: 86,
+                    height: 48,
+                    errorBuilder: (ctx, err, stack) => const SizedBox(),
+                  ),
+                ),
+                Positioned(
+                  right: 24,
+                  top: 90,
+                  child: Image.asset(
+                    'assets/game_art/shared/forest/forest_cloud2.png',
+                    width: 90,
+                    height: 50,
+                    errorBuilder: (ctx, err, stack) => const SizedBox(),
+                  ),
+                ),
+
+                // 2. Smooth Bezier Storybook Cobblestone Trail
                 Positioned.fill(
                   child: CustomPaint(
                     painter: JourneyPathPainter(
                       nodePositions: nodePositions,
                       activeChapterIndex: activeIndex != -1 ? activeIndex : 0,
-                      isDark: isDark,
+                      isDark: false,
                     ),
                   ),
                 ),
 
-                // 2. Start Flag at Bottom (Positioned comfortably below Chapter 1 without overlap)
+
+
+                // 4. Summit Master Trophy at World 30
                 Positioned(
-                  left: nodePositions.first.dx - 55,
-                  top: nodePositions.first.dy + 72,
+                  left: nodePositions.last.dx - 48,
+                  top: nodePositions.last.dy - 64,
                   child: Container(
                     padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 5),
                     decoration: BoxDecoration(
-                      color: const Color(0xFF00E676),
-                      borderRadius: BorderRadius.circular(14),
-                      boxShadow: [
-                        BoxShadow(
-                          color: const Color(0xFF00E676).withAlpha(120),
-                          blurRadius: 8,
-                          offset: const Offset(0, 3),
-                        ),
-                      ],
-                    ),
-                    child: const Row(
-                      mainAxisSize: MainAxisSize.min,
-                      children: [
-                        Icon(Icons.flag_rounded, color: Colors.white, size: 16),
-                        SizedBox(width: 4),
-                        Text(
-                          'START JOURNEY',
-                          style: TextStyle(
-                            fontFamily: 'Fredoka',
-                            fontSize: 11,
-                            fontWeight: FontWeight.bold,
-                            color: Colors.white,
-                          ),
-                        ),
-                      ],
-                    ),
-                  ),
-                ),
-
-                // 3. Summit Trophy at Top
-                Positioned(
-                  left: nodePositions.last.dx - 40,
-                  top: nodePositions.last.dy - 60,
-                  child: Container(
-                    padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 4),
-                    decoration: BoxDecoration(
                       gradient: const LinearGradient(
-                        colors: [Color(0xFFFFD700), Color(0xFFFF9100)],
+                        colors: [Color(0xFFFFD54F), Color(0xFFFF9800)],
                       ),
                       borderRadius: BorderRadius.circular(14),
+                      border: Border.all(color: const Color(0xFF5D4037), width: 2),
                       boxShadow: [
                         BoxShadow(
-                          color: const Color(0xFFFF9100).withAlpha(140),
+                          color: const Color(0xFFFF9800).withAlpha(140),
                           blurRadius: 10,
                           offset: const Offset(0, 4),
                         ),
@@ -502,15 +521,15 @@ class _LevelsMapScreenState extends State<LevelsMapScreen> {
                     child: const Row(
                       mainAxisSize: MainAxisSize.min,
                       children: [
-                        Icon(Icons.emoji_events_rounded, color: Colors.white, size: 16),
+                        Icon(Icons.emoji_events_rounded, color: Color(0xFF2A1810), size: 16),
                         SizedBox(width: 4),
                         Text(
                           'SUMMIT MASTER',
                           style: TextStyle(
                             fontFamily: 'Fredoka',
                             fontSize: 11,
-                            fontWeight: FontWeight.bold,
-                            color: Colors.white,
+                            fontWeight: FontWeight.w900,
+                            color: Color(0xFF2A1810),
                           ),
                         ),
                       ],
@@ -518,13 +537,13 @@ class _LevelsMapScreenState extends State<LevelsMapScreen> {
                   ),
                 ),
 
-                // 4. Render all 30 Chapter Nodes
+                // 5. Render all 30 World Nodes
                 for (int i = 0; i < count; i++)
                   Positioned(
-                    left: nodePositions[i].dx - 54,
+                    left: nodePositions[i].dx - 68,
                     top: nodePositions[i].dy - 48,
                     child: SizedBox(
-                      width: 108,
+                      width: 136,
                       child: ChapterNodeWidget(
                         chapter: catalog[i],
                         status: _getChapterStatus(catalog[i].id, i),
@@ -543,194 +562,194 @@ class _LevelsMapScreenState extends State<LevelsMapScreen> {
     );
   }
 
-  Widget _buildDailyTab(bool isDark) {
-    final textPrimary = AppTheme.getTextPrimaryColor(context);
-    final textSecondary = AppTheme.getTextSecondaryColor(context);
+  Widget _buildDailyTab() {
     final todayKey = DailyPuzzleService.getTodayKey();
     final bool isDone = _userProgress.isDailyPuzzleCompleted(todayKey);
     final formattedDate = DailyPuzzleService.getFormattedDate();
 
     return Center(
-      child: Padding(
-        padding: const EdgeInsets.all(28.0),
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Container(
-              padding: const EdgeInsets.all(20),
-              decoration: BoxDecoration(
-                color: isDark ? const Color(0xFF132347) : Colors.white,
-                shape: BoxShape.circle,
-                border: Border.all(
-                  color: isDone ? const Color(0xFF00E676) : const Color(0xFFFFD700),
-                  width: 2,
-                ),
-                boxShadow: [
-                  BoxShadow(
-                    color: (isDone ? const Color(0xFF00E676) : const Color(0xFFFFD700))
-                        .withAlpha(isDark ? 80 : 40),
-                    blurRadius: 16,
-                    offset: const Offset(0, 4),
+      child: SingleChildScrollView(
+        padding: const EdgeInsets.all(24.0),
+        child: ParchmentCard(
+          padding: const EdgeInsets.all(24.0),
+          child: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              // Calendar Badge
+              Container(
+                padding: const EdgeInsets.all(18),
+                decoration: BoxDecoration(
+                  gradient: LinearGradient(
+                    colors: isDone
+                        ? const [Color(0xFF43A047), Color(0xFF2E7D32)]
+                        : const [Color(0xFFFFD54F), Color(0xFFFF9800)],
                   ),
-                ],
-              ),
-              child: Icon(
-                isDone ? Icons.check_circle_rounded : Icons.calendar_month_rounded,
-                size: 54,
-                color: isDone ? const Color(0xFF00E676) : const Color(0xFFFFD700),
-              ),
-            ),
-            const SizedBox(height: 18),
-            Text(
-              'Daily Puzzle Challenge',
-              style: TextStyle(
-                fontFamily: 'Fredoka',
-                color: textPrimary,
-                fontSize: 22,
-                fontWeight: FontWeight.bold,
-              ),
-            ),
-            const SizedBox(height: 6),
-            Text(
-              formattedDate,
-              style: TextStyle(
-                fontFamily: 'Fredoka',
-                color: const Color(0xFFFFB300),
-                fontSize: 15,
-                fontWeight: FontWeight.bold,
-              ),
-            ),
-            const SizedBox(height: 8),
-            Text(
-              isDone
-                  ? 'You have already solved today\'s puzzle and earned +50 Coins! Come back tomorrow for a new challenge.'
-                  : 'A fresh unique handcrafted word puzzle every single day! Solve today\'s puzzle to earn +50 Bonus Coins.',
-              textAlign: TextAlign.center,
-              style: TextStyle(
-                fontFamily: 'Fredoka',
-                color: textSecondary,
-                fontSize: 14,
-                height: 1.4,
-              ),
-            ),
-            const SizedBox(height: 24),
-            ElevatedButton(
-              style: ElevatedButton.styleFrom(
-                backgroundColor: isDone ? const Color(0xFF00E676) : const Color(0xFF2563EB),
-                foregroundColor: Colors.white,
-                padding: const EdgeInsets.symmetric(horizontal: 28, vertical: 14),
-                shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(24)),
-              ),
-              onPressed: () async {
-                SoundManager.instance.playButtonClick();
-                final dailyLevel = await DailyPuzzleService.getDailyPuzzle();
-                final dailyChapter = DailyPuzzleService.getDailyChapter();
-                if (mounted) {
-                  await Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (_) => GameplayScreen(
-                        chapter: dailyChapter,
-                        level: dailyLevel,
-                      ),
+                  shape: BoxShape.circle,
+                  border: Border.all(color: const Color(0xFF5D4037), width: 2.5),
+                  boxShadow: [
+                    BoxShadow(
+                      color: (isDone ? const Color(0xFF2E7D32) : const Color(0xFFFF9800)).withAlpha(100),
+                      blurRadius: 14,
+                      offset: const Offset(0, 4),
                     ),
-                  );
-                  _loadProgress();
-                }
-              },
-              child: Text(
-                isDone ? "VIEW TODAY'S PUZZLE" : "PLAY TODAY'S PUZZLE (+50 COINS)",
-                style: const TextStyle(fontFamily: 'Fredoka', fontSize: 15, fontWeight: FontWeight.bold),
+                  ],
+                ),
+                child: Icon(
+                  isDone ? Icons.check_circle_rounded : Icons.calendar_month_rounded,
+                  size: 48,
+                  color: isDone ? Colors.white : const Color(0xFF2A1810),
+                ),
               ),
-            ),
-          ],
+              const SizedBox(height: 16),
+
+              const Text(
+                'Daily Puzzle Challenge',
+                style: TextStyle(
+                  fontFamily: 'Fredoka',
+                  color: Color(0xFF2A1810),
+                  fontSize: 22,
+                  fontWeight: FontWeight.w900,
+                ),
+              ),
+              const SizedBox(height: 6),
+
+              Text(
+                formattedDate,
+                style: const TextStyle(
+                  fontFamily: 'Fredoka',
+                  color: Color(0xFFE65100),
+                  fontSize: 15,
+                  fontWeight: FontWeight.w900,
+                ),
+              ),
+              const SizedBox(height: 12),
+
+              Text(
+                isDone
+                    ? 'You have already solved today\'s puzzle and earned +50 Coins! Come back tomorrow for a fresh daily quest.'
+                    : 'A handcrafted word puzzle released every single day! Solve today\'s puzzle to earn +50 Bonus Coins.',
+                textAlign: TextAlign.center,
+                style: const TextStyle(
+                  fontFamily: 'Fredoka',
+                  color: Color(0xFF5D4037),
+                  fontSize: 14,
+                  height: 1.35,
+                ),
+              ),
+              const SizedBox(height: 22),
+
+              OrganicWoodButton(
+                text: isDone ? "VIEW TODAY'S PUZZLE" : "PLAY TODAY (+50 COINS)",
+                icon: isDone ? Icons.visibility_rounded : Icons.play_arrow_rounded,
+                variant: isDone ? WoodButtonVariant.forest : WoodButtonVariant.primary,
+                height: 52,
+                onPressed: () async {
+                  SoundManager.instance.playButtonClick();
+                  final dailyLevel = await DailyPuzzleService.getDailyPuzzle();
+                  final dailyChapter = DailyPuzzleService.getDailyChapter();
+                  if (mounted) {
+                    await Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (_) => GameplayScreen(
+                          chapter: dailyChapter,
+                          level: dailyLevel,
+                        ),
+                      ),
+                    );
+                    _loadProgress();
+                  }
+                },
+              ),
+            ],
+          ),
         ),
       ),
     );
   }
 
-  Widget _buildBottomNav(bool isDark) {
+  Widget _buildBottomNav() {
     return Container(
-      decoration: BoxDecoration(
-        color: isDark ? const Color(0xFF0B192C) : Colors.white,
-        border: Border(
-          top: BorderSide(
-            color: isDark ? const Color(0xFF1E293B) : const Color(0xFFE2E8F0),
-            width: 1,
-          ),
-        ),
-      ),
-      child: Row(
-        children: [
-          Expanded(
-            child: InkWell(
-              onTap: () {
-                SoundManager.instance.playButtonClick();
-                setState(() => _selectedTab = 0);
-              },
-              child: Padding(
-                padding: const EdgeInsets.symmetric(vertical: 12.0),
-                child: Column(
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                    Icon(
-                      Icons.map_rounded,
-                      color: _selectedTab == 0
-                          ? (isDark ? const Color(0xFF00E676) : const Color(0xFF10B981))
-                          : (isDark ? const Color(0xFF64748B) : const Color(0xFF94A3B8)),
-                    ),
-                    const SizedBox(height: 4),
-                    Text(
-                      'Journey Map',
-                      style: TextStyle(
-                        fontFamily: 'Fredoka',
+      margin: const EdgeInsets.symmetric(horizontal: 14.0, vertical: 8.0),
+      child: ParchmentCard(
+        padding: const EdgeInsets.symmetric(vertical: 4.0),
+        child: Row(
+          children: [
+            Expanded(
+              child: InkWell(
+                borderRadius: BorderRadius.circular(14),
+                onTap: () {
+                  SoundManager.instance.playButtonClick();
+                  setState(() => _selectedTab = 0);
+                },
+                child: Padding(
+                  padding: const EdgeInsets.symmetric(vertical: 8.0),
+                  child: Column(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Icon(
+                        Icons.map_rounded,
                         color: _selectedTab == 0
-                            ? (isDark ? const Color(0xFF00E676) : const Color(0xFF10B981))
-                            : (isDark ? const Color(0xFF64748B) : const Color(0xFF94A3B8)),
-                        fontSize: 12,
-                        fontWeight: FontWeight.bold,
+                            ? const Color(0xFF2E7D32)
+                            : const Color(0xFF8D6E63),
+                        size: 24,
                       ),
-                    ),
-                  ],
+                      const SizedBox(height: 3),
+                      Text(
+                        'Journey Map',
+                        style: TextStyle(
+                          fontFamily: 'Fredoka',
+                          color: _selectedTab == 0
+                              ? const Color(0xFF2E7D32)
+                              : const Color(0xFF8D6E63),
+                          fontSize: 12,
+                          fontWeight: FontWeight.w900,
+                        ),
+                      ),
+                    ],
+                  ),
                 ),
               ),
             ),
-          ),
-          Expanded(
-            child: InkWell(
-              onTap: () {
-                SoundManager.instance.playButtonClick();
-                setState(() => _selectedTab = 1);
-              },
-              child: Padding(
-                padding: const EdgeInsets.symmetric(vertical: 12.0),
-                child: Column(
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                    Icon(
-                      Icons.star_rate_rounded,
-                      color: _selectedTab == 1
-                          ? const Color(0xFFFFB300)
-                          : (isDark ? const Color(0xFF64748B) : const Color(0xFF94A3B8)),
-                    ),
-                    const SizedBox(height: 4),
-                    Text(
-                      'Daily Challenge',
-                      style: TextStyle(
-                        fontFamily: 'Fredoka',
+            Container(width: 1.5, height: 28, color: const Color(0xFFD7CCC8)),
+            Expanded(
+              child: InkWell(
+                borderRadius: BorderRadius.circular(14),
+                onTap: () {
+                  SoundManager.instance.playButtonClick();
+                  setState(() => _selectedTab = 1);
+                },
+                child: Padding(
+                  padding: const EdgeInsets.symmetric(vertical: 8.0),
+                  child: Column(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Icon(
+                        Icons.star_rate_rounded,
                         color: _selectedTab == 1
-                            ? const Color(0xFFFFB300)
-                            : (isDark ? const Color(0xFF64748B) : const Color(0xFF94A3B8)),
-                        fontSize: 12,
-                        fontWeight: FontWeight.bold,
+                            ? const Color(0xFFE65100)
+                            : const Color(0xFF8D6E63),
+                        size: 24,
                       ),
-                    ),
-                  ],
+                      const SizedBox(height: 3),
+                      Text(
+                        'Daily Challenge',
+                        style: TextStyle(
+                          fontFamily: 'Fredoka',
+                          color: _selectedTab == 1
+                              ? const Color(0xFFE65100)
+                              : const Color(0xFF8D6E63),
+                          fontSize: 12,
+                          fontWeight: FontWeight.w900,
+                        ),
+                      ),
+                    ],
+                  ),
                 ),
               ),
             ),
-          ),
-        ],
+          ],
+        ),
       ),
     );
   }

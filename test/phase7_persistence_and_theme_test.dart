@@ -10,6 +10,7 @@ import 'package:word_search/screens/levels_map_screen.dart';
 import 'package:word_search/services/sound_manager.dart';
 import 'package:word_search/services/theme_manager.dart';
 import 'package:word_search/theme/app_theme.dart';
+import 'package:word_search/widgets/chapter_node_widget.dart';
 import 'package:word_search/widgets/game_3d_button.dart';
 
 void main() {
@@ -131,11 +132,12 @@ void main() {
           home: const HomeScreen(),
         ),
       );
-      await tester.pumpAndSettle();
+      await tester.pump();
+      await tester.pump(const Duration(milliseconds: 500));
 
-      expect(find.text('Word Search'), findsWidgets);
-      expect(find.text('Continue – Level 1'), findsOneWidget);
-      expect(find.text('All Levels'), findsOneWidget);
+      expect(find.text('WORD SEARCH'), findsWidgets);
+      expect(find.text('WORLD MAP'), findsOneWidget);
+      expect(find.text('ACHIEVEMENTS'), findsOneWidget);
     });
 
     testWidgets('LevelsMapScreen renders in Light Mode without errors', (
@@ -152,8 +154,8 @@ void main() {
       await tester.pump(const Duration(milliseconds: 300));
       await tester.pump(const Duration(milliseconds: 300));
 
-      expect(find.text('START JOURNEY'), findsOneWidget);
       expect(find.text('SUMMIT MASTER'), findsOneWidget);
+      expect(find.byType(ChapterNodeWidget), findsWidgets);
     });
 
     test(
@@ -168,17 +170,17 @@ void main() {
 
         // Chapter 1 is always unlocked
         expect(progress.isChapterUnlocked(1), isTrue);
-        // Chapter 2 requires 25 stars
-        expect(progress.getRequiredStarsForChapter(2), equals(25));
+        // Chapter 2 requires 60 stars (20 completed levels)
+        expect(progress.getRequiredStarsForChapter(2), equals(60));
         expect(progress.isChapterUnlocked(2), isFalse);
-        expect(progress.getStarsNeededForChapter(2), equals(25));
+        expect(progress.getStarsNeededForChapter(2), equals(60));
 
-        // Complete 9 levels in Chapter 1 -> 27 stars
-        for (int i = 1; i <= 9; i++) {
+        // Complete 20 levels in Chapter 1 -> 60 stars
+        for (int i = 1; i <= 20; i++) {
           progress.completeLevel(1, i);
         }
 
-        expect(progress.getTotalStars(), equals(27));
+        expect(progress.getTotalStars(), equals(60));
         expect(progress.isChapterUnlocked(2), isTrue);
         expect(progress.getStarsNeededForChapter(2), equals(0));
       },

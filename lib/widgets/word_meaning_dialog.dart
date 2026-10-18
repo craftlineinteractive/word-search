@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '../models/word_item.dart';
-import '../theme/app_theme.dart';
-import 'game_3d_button.dart';
+import 'organic_wood_button.dart';
+import 'parchment_card.dart';
 
 class WordMeaningDialog extends StatelessWidget {
   final WordItem wordItem;
@@ -26,26 +26,11 @@ class WordMeaningDialog extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final isDark = AppTheme.isDark(context);
-    final textPrimary = AppTheme.getTextPrimaryColor(context);
-    final textSecondary = AppTheme.getTextSecondaryColor(context);
-
     return Dialog(
       backgroundColor: Colors.transparent,
-      insetPadding: const EdgeInsets.symmetric(horizontal: 24, vertical: 24),
-      child: Container(
-        padding: const EdgeInsets.all(24),
-        decoration: BoxDecoration(
-          color: isDark ? const Color(0xFF0C1938) : Colors.white,
-          borderRadius: BorderRadius.circular(24),
-          boxShadow: [
-            BoxShadow(
-              color: Colors.black.withAlpha(isDark ? 80 : 25),
-              blurRadius: 20,
-              offset: const Offset(0, 6),
-            ),
-          ],
-        ),
+      insetPadding: const EdgeInsets.symmetric(horizontal: 22, vertical: 24),
+      child: ParchmentCard(
+        padding: const EdgeInsets.all(22),
         child: Column(
           mainAxisSize: MainAxisSize.min,
           crossAxisAlignment: CrossAxisAlignment.stretch,
@@ -57,67 +42,66 @@ class WordMeaningDialog extends StatelessWidget {
                 Container(
                   padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
                   decoration: BoxDecoration(
-                    color: isDark ? const Color(0xFF1E3A6D) : const Color(0xFFE0F2FE),
+                    color: const Color(0xFFFFF9E6),
                     borderRadius: BorderRadius.circular(12),
+                    border: Border.all(color: const Color(0xFF5D4037), width: 1.5),
                   ),
                   child: Text(
                     categoryTitle.toUpperCase(),
-                    style: TextStyle(
+                    style: const TextStyle(
                       fontFamily: 'Fredoka',
                       fontSize: 11,
-                      fontWeight: FontWeight.w700,
-                      color: isDark ? const Color(0xFF38BDF8) : const Color(0xFF0284C7),
+                      fontWeight: FontWeight.w900,
+                      color: Color(0xFFE65100),
                       letterSpacing: 0.8,
                     ),
                   ),
                 ),
                 IconButton(
                   onPressed: () => Navigator.of(context).pop(),
-                  icon: Icon(Icons.close_rounded, color: textSecondary),
+                  icon: const Icon(Icons.close_rounded, color: Color(0xFF5D4037)),
                   padding: EdgeInsets.zero,
                   constraints: const BoxConstraints(),
                 ),
               ],
             ),
-            const SizedBox(height: 16),
+            const SizedBox(height: 14),
 
             // Word Title
             Text(
               wordItem.word.toUpperCase(),
-              style: TextStyle(
+              style: const TextStyle(
                 fontFamily: 'Fredoka',
-                fontSize: 26,
-                fontWeight: FontWeight.w700,
-                color: textPrimary,
+                fontSize: 24,
+                fontWeight: FontWeight.w900,
+                color: Color(0xFF2A1810),
                 letterSpacing: 1.0,
               ),
             ),
             const SizedBox(height: 12),
 
-            // Definition Section
+            // Meaning Section
             Container(
-              padding: const EdgeInsets.all(14),
+              padding: const EdgeInsets.all(12),
               decoration: BoxDecoration(
-                color: isDark ? const Color(0xFF132347) : const Color(0xFFF8FAFC),
+                color: const Color(0xFFFFFDF5),
                 borderRadius: BorderRadius.circular(14),
-                border: Border.all(
-                  color: isDark ? const Color(0xFF1E3A6D) : const Color(0xFFE2E8F0),
-                ),
+                border: Border.all(color: const Color(0xFFD7CCC8), width: 1.5),
               ),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  Row(
+                  const Row(
                     children: [
-                      Icon(Icons.menu_book_rounded, size: 16, color: const Color(0xFFFFB300)),
-                      const SizedBox(width: 6),
+                      Icon(Icons.menu_book_rounded, size: 16, color: Color(0xFFFF9800)),
+                      SizedBox(width: 6),
                       Text(
                         'MEANING',
                         style: TextStyle(
                           fontFamily: 'Fredoka',
                           fontSize: 12,
-                          fontWeight: FontWeight.w700,
-                          color: const Color(0xFFFFB300),
+                          fontWeight: FontWeight.w900,
+                          color: Color(0xFFFF9800),
                         ),
                       ),
                     ],
@@ -125,10 +109,11 @@ class WordMeaningDialog extends StatelessWidget {
                   const SizedBox(height: 6),
                   Text(
                     wordItem.meaning,
-                    style: TextStyle(
+                    style: const TextStyle(
+                      fontFamily: 'Fredoka',
                       fontSize: 14,
-                      color: isDark ? const Color(0xFFE2E8F0) : const Color(0xFF334155),
-                      height: 1.4,
+                      color: Color(0xFF3E2723),
+                      height: 1.35,
                     ),
                   ),
                 ],
@@ -136,31 +121,29 @@ class WordMeaningDialog extends StatelessWidget {
             ),
 
             if (wordItem.example != null && wordItem.example!.isNotEmpty) ...[
-              const SizedBox(height: 12),
+              const SizedBox(height: 10),
               // Example Sentence Section
               Container(
-                padding: const EdgeInsets.all(14),
+                padding: const EdgeInsets.all(12),
                 decoration: BoxDecoration(
-                  color: isDark ? const Color(0xFF132347) : const Color(0xFFF8FAFC),
+                  color: const Color(0xFFFFFDF5),
                   borderRadius: BorderRadius.circular(14),
-                  border: Border.all(
-                    color: isDark ? const Color(0xFF1E3A6D) : const Color(0xFFE2E8F0),
-                  ),
+                  border: Border.all(color: const Color(0xFFD7CCC8), width: 1.5),
                 ),
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Row(
-                      children: const [
-                        Icon(Icons.lightbulb_outline_rounded, size: 16, color: Color(0xFF00E676)),
+                    const Row(
+                      children: [
+                        Icon(Icons.lightbulb_outline_rounded, size: 16, color: Color(0xFF2E7D32)),
                         SizedBox(width: 6),
                         Text(
                           'EXAMPLE SENTENCE',
                           style: TextStyle(
                             fontFamily: 'Fredoka',
                             fontSize: 12,
-                            fontWeight: FontWeight.w700,
-                            color: Color(0xFF00E676),
+                            fontWeight: FontWeight.w900,
+                            color: Color(0xFF2E7D32),
                           ),
                         ),
                       ],
@@ -168,11 +151,12 @@ class WordMeaningDialog extends StatelessWidget {
                     const SizedBox(height: 6),
                     Text(
                       '"${wordItem.example}"',
-                      style: TextStyle(
+                      style: const TextStyle(
+                        fontFamily: 'Fredoka',
                         fontSize: 13,
                         fontStyle: FontStyle.italic,
-                        color: isDark ? const Color(0xFFCBD5E1) : const Color(0xFF475569),
-                        height: 1.4,
+                        color: Color(0xFF5D4037),
+                        height: 1.35,
                       ),
                     ),
                   ],
@@ -180,13 +164,13 @@ class WordMeaningDialog extends StatelessWidget {
               ),
             ],
 
-            const SizedBox(height: 20),
+            const SizedBox(height: 18),
 
-            // 3D Dismiss Button
-            Game3dButton(
-              color: Game3dButtonColor.blue,
-              height: 48,
+            // Dismiss Button
+            OrganicWoodButton(
               text: 'GOT IT!',
+              variant: WoodButtonVariant.forest,
+              height: 46,
               onPressed: () => Navigator.of(context).pop(),
             ),
           ],

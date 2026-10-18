@@ -35,68 +35,52 @@ void main() {
     });
 
     test(
-      'ThemeManager defaults to Dark and toggles between Light, Dark, System',
+      'ThemeManager enforces Light Mode permanently across the game',
       () async {
         final manager = ThemeManager.instance;
         await manager.init();
-        expect(manager.currentThemeMode, equals(ThemeMode.dark));
+        expect(manager.currentThemeMode, equals(ThemeMode.light));
 
         await manager.setThemeMode(ThemeMode.light);
         expect(manager.currentThemeMode, equals(ThemeMode.light));
-
-        await manager.setThemeMode(ThemeMode.system);
-        expect(manager.currentThemeMode, equals(ThemeMode.system));
-
-        await manager.setThemeMode(ThemeMode.dark);
-        expect(manager.currentThemeMode, equals(ThemeMode.dark));
       },
     );
 
-    test('AppTheme provides valid lightTheme and darkTheme ThemeData', () {
+    test('AppTheme provides valid lightTheme ThemeData', () {
       final light = AppTheme.lightTheme;
-      final dark = AppTheme.darkTheme;
 
       expect(light.brightness, equals(Brightness.light));
-      expect(dark.brightness, equals(Brightness.dark));
-
       expect(light.scaffoldBackgroundColor, equals(AppTheme.lightBackground));
-      expect(dark.scaffoldBackgroundColor, equals(AppTheme.darkBackground));
+      expect(AppTheme.isDark(testerContext ?? lightThemeContextStub()), isFalse);
     });
 
     testWidgets(
-      'SettingsScreen displays System, Light, and Dark theme cards and switches theme on tap',
+      'SettingsScreen renders cleanly in single Light Mode without dark mode selector',
       (WidgetTester tester) async {
         await tester.pumpWidget(
           MaterialApp(
             theme: AppTheme.lightTheme,
-            darkTheme: AppTheme.darkTheme,
-            themeMode: ThemeMode.dark,
+            themeMode: ThemeMode.light,
             home: const SettingsScreen(),
           ),
         );
         await tester.pumpAndSettle();
 
-        expect(find.text('THEME & APPEARANCE'), findsOneWidget);
-        expect(find.text('System'), findsOneWidget);
-        expect(find.text('Light'), findsOneWidget);
-        expect(find.text('Dark'), findsOneWidget);
-
-        // Tap Light Mode Card
-        final lightCard = find.widgetWithText(InkWell, 'Light');
-        expect(lightCard, findsOneWidget);
-        await tester.tap(lightCard);
-        await tester.pumpAndSettle();
-
-        expect(ThemeManager.instance.currentThemeMode, equals(ThemeMode.light));
-
-        // Tap Dark Mode Card
-        final darkCard = find.widgetWithText(InkWell, 'Dark');
-        expect(darkCard, findsOneWidget);
-        await tester.tap(darkCard);
-        await tester.pumpAndSettle();
-
-        expect(ThemeManager.instance.currentThemeMode, equals(ThemeMode.dark));
+        expect(find.text('AUDIO & HAPTICS'), findsOneWidget);
+        expect(find.text('Sound Effects'), findsOneWidget);
+        expect(find.text('Background Music'), findsOneWidget);
+        expect(find.text('THEME & APPEARANCE'), findsNothing);
       },
     );
   });
+}
+
+BuildContext? testerContext;
+BuildContext lightThemeContextStub() {
+  return _DummyContext();
+}
+
+class _DummyContext implements BuildContext {
+  @override
+  dynamic noSuchMethod(Invocation invocation) => super.noSuchMethod(invocation);
 }
