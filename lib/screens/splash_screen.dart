@@ -83,10 +83,10 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
       ]);
     } catch (_) {}
 
-    // Ensure splash display lasts around 3.5 seconds (3 to 4 sec per user request)
+    // Ensure custom splash display lasts exactly 4 seconds per user request
     final elapsed = DateTime.now().difference(startTime).inMilliseconds;
-    if (elapsed < 3500) {
-      await Future.delayed(Duration(milliseconds: 3500 - elapsed));
+    if (elapsed < 4000) {
+      await Future.delayed(Duration(milliseconds: 4000 - elapsed));
     }
 
     if (!mounted) return;
