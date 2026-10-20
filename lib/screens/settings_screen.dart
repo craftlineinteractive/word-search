@@ -198,7 +198,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                             _buildActionRow(
                               icon: Icons.info_outline_rounded,
                               title: 'App Version',
-                              subtitle: 'Version 1.0.1 • 30 Worlds • 3,600 Levels',
+                              subtitle: 'Version 1.1.0',
                               onTap: null,
                             ),
                           ],

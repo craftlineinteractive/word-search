@@ -58,6 +58,11 @@ class _ChapterLevelsScreenState extends State<ChapterLevelsScreen> {
     }
 
     SoundManager.instance.playButtonClick();
+    _userProgress.activeChapterId = widget.chapter.id;
+    _userProgress.activeLevelIndex = level.levelNumber;
+    await _userProgress.save();
+    if (!mounted) return;
+
     await Navigator.push(
       context,
       MaterialPageRoute(
@@ -481,10 +486,14 @@ class _ChapterLevelsScreenState extends State<ChapterLevelsScreen> {
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: List.generate(3, (starIdx) {
+                final earnedStars = isCompleted
+                    ? _userProgress.getLevelStars(widget.chapter.id, level.levelNumber)
+                    : 0;
+                final bool isStarEarned = starIdx < earnedStars;
                 return Icon(
-                  Icons.star_rounded,
+                  isStarEarned ? Icons.star_rounded : Icons.star_outline_rounded,
                   size: 11,
-                  color: isCompleted
+                  color: isStarEarned
                       ? const Color(0xFFFFB300)
                       : const Color(0xFFBCAAA4),
                 );

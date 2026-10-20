@@ -18,6 +18,12 @@ class UserProgress {
   final Set<String> completedDailyPuzzles; // format: "YYYY-MM-DD" e.g. "2026-09-02"
   final Map<String, List<String>> dailyPuzzleFoundWords; // format: "YYYY-MM-DD" -> ["WORD1", "WORD2"]
 
+  // Achievements Progress Tracking: achievementId -> highestClaimedTierNumber (1, 2, or 3)
+  final Map<String, int> claimedAchievementTiers;
+
+  // Level Stars Tracking: "chapterId_levelNumber" -> stars earned (1, 2, or 3)
+  final Map<String, int> levelStars;
+
   UserProgress({
     this.coins = 50,
     this.hints = 3,
@@ -29,11 +35,15 @@ class UserProgress {
     Map<String, List<String>>? activeLevelWords,
     Set<String>? completedDailyPuzzles,
     Map<String, List<String>>? dailyPuzzleFoundWords,
+    Map<String, int>? claimedAchievementTiers,
+    Map<String, int>? levelStars,
   }) : completedLevels = completedLevels ?? {},
        unlockedChapters = unlockedChapters ?? {1},
        activeLevelWords = activeLevelWords ?? {},
        completedDailyPuzzles = completedDailyPuzzles ?? {},
-       dailyPuzzleFoundWords = dailyPuzzleFoundWords ?? {};
+       dailyPuzzleFoundWords = dailyPuzzleFoundWords ?? {},
+       claimedAchievementTiers = claimedAchievementTiers ?? {},
+       levelStars = levelStars ?? {};
 
   static Future<UserProgress> load() async {
     try {
@@ -58,8 +68,11 @@ class UserProgress {
     coins += amount;
   }
 
-  void completeLevel(int chapterId, int levelNumber) {
-    completedLevels.add('${chapterId}_$levelNumber');
+  void completeLevel(int chapterId, int levelNumber, {int stars = 3}) {
+    final key = '${chapterId}_$levelNumber';
+    completedLevels.add(key);
+    final existingStars = levelStars[key] ?? 0;
+    levelStars[key] = max(existingStars, stars.clamp(1, 3));
     // Note: Do NOT delete activeLevelWords so completed words remain visible upon re-entry
     unlockedChapters.add(chapterId);
 
@@ -70,25 +83,41 @@ class UserProgress {
     }
   }
 
+  int getLevelStars(int chapterId, int levelNumber) {
+    final key = '${chapterId}_$levelNumber';
+    if (!completedLevels.contains(key)) return 0;
+    return levelStars[key] ?? 3;
+  }
+
   bool isLevelCompleted(int chapterId, int levelNumber) {
     return completedLevels.contains('${chapterId}_$levelNumber');
   }
 
-  void markLevelCompleted(int chapterId, int levelNumber) {
-    completeLevel(chapterId, levelNumber);
+  void markLevelCompleted(int chapterId, int levelNumber, {int stars = 3}) {
+    completeLevel(chapterId, levelNumber, stars: stars);
   }
 
   int getTotalStars() {
-    return completedLevels.length * 3;
+    int total = 0;
+    for (final key in completedLevels) {
+      total += levelStars[key] ?? 3;
+    }
+    return total;
   }
 
   int getStarsForChapter(int chapterId) {
-    return getCompletedLevelsCount(chapterId) * 3;
+    int total = 0;
+    for (final key in completedLevels) {
+      if (key.startsWith('${chapterId}_')) {
+        total += levelStars[key] ?? 3;
+      }
+    }
+    return total;
   }
 
   int getRequiredStarsForChapter(int chapterId) {
     if (chapterId <= 1) return 0;
-    return (chapterId - 1) * 60;
+    return (chapterId - 1) * 30;
   }
 
   int getStarsNeededForChapter(int chapterId) {
@@ -154,6 +183,19 @@ class UserProgress {
     dailyPuzzleFoundWords[dateKey] = words;
   }
 
+  // ==================== ACHIEVEMENTS METHODS ====================
+  int getClaimedAchievementTier(String achievementId) {
+    return claimedAchievementTiers[achievementId] ?? 0;
+  }
+
+  void claimAchievementTier(String achievementId, int tierNumber) {
+    claimedAchievementTiers[achievementId] = tierNumber;
+  }
+
+  bool isAchievementTierClaimed(String achievementId, int tierNumber) {
+    return (claimedAchievementTiers[achievementId] ?? 0) >= tierNumber;
+  }
+
   Map<String, dynamic> toJson() {
     return {
       'coins': coins,
@@ -166,6 +208,8 @@ class UserProgress {
       'activeLevelWords': activeLevelWords,
       'completedDailyPuzzles': completedDailyPuzzles.toList(),
       'dailyPuzzleFoundWords': dailyPuzzleFoundWords,
+      'claimedAchievementTiers': claimedAchievementTiers,
+      'levelStars': levelStars,
     };
   }
 
@@ -190,6 +234,26 @@ class UserProgress {
       });
     }
 
+    Map<String, int> claimedTiersMap = {};
+    if (json['claimedAchievementTiers'] != null) {
+      final rawMap = json['claimedAchievementTiers'] as Map<String, dynamic>;
+      rawMap.forEach((key, value) {
+        if (value is num) {
+          claimedTiersMap[key] = value.toInt();
+        }
+      });
+    }
+
+    Map<String, int> levelStarsMap = {};
+    if (json['levelStars'] != null) {
+      final rawMap = json['levelStars'] as Map<String, dynamic>;
+      rawMap.forEach((key, value) {
+        if (value is num) {
+          levelStarsMap[key] = value.toInt();
+        }
+      });
+    }
+
     return UserProgress(
       coins: json['coins'] as int? ?? 50,
       hints: json['hints'] as int? ?? 3,
@@ -207,6 +271,8 @@ class UserProgress {
           .map((e) => e.toString())
           .toSet(),
       dailyPuzzleFoundWords: dailyWordsMap,
+      claimedAchievementTiers: claimedTiersMap,
+      levelStars: levelStarsMap,
     );
   }
 }

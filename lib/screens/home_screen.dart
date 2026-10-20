@@ -59,7 +59,6 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
     final progress = await UserProgress.load();
     final cleared = progress.completedLevels.length;
     final stars = progress.getTotalStars();
-    final nextOverall = cleared + 1;
     final todayKey = DailyPuzzleService.getTodayKey();
     final isDailyDone = progress.isDailyPuzzleCompleted(todayKey);
 
@@ -67,15 +66,50 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
     Chapter? targetChapter;
     PuzzleLevel? targetLevel;
 
-    for (final meta in LevelRepository.catalog) {
-      final chapter = await LevelRepository.loadChapter(meta.jsonFile);
-      final uncompleted = chapter.levels.where(
-        (lvl) => !progress.isLevelCompleted(chapter.id, lvl.levelNumber),
+    // 1. Try player's active chapter first
+    int activeId = progress.activeChapterId;
+    if (!progress.isChapterUnlocked(activeId)) {
+      activeId = 1;
+    }
+
+    final activeMeta = LevelRepository.catalog.firstWhere(
+      (c) => c.id == activeId,
+      orElse: () => LevelRepository.catalog.first,
+    );
+
+    final activeChapter = await LevelRepository.loadChapter(activeMeta.jsonFile);
+
+    // Check uncompleted levels in active chapter at or after activeLevelIndex
+    final uncompletedFromActive = activeChapter.levels.where(
+      (lvl) => lvl.levelNumber >= progress.activeLevelIndex && !progress.isLevelCompleted(activeChapter.id, lvl.levelNumber),
+    );
+
+    if (uncompletedFromActive.isNotEmpty) {
+      targetChapter = activeChapter;
+      targetLevel = uncompletedFromActive.first;
+    } else {
+      // Check any uncompleted level in active chapter
+      final anyUncompletedInActive = activeChapter.levels.where(
+        (lvl) => !progress.isLevelCompleted(activeChapter.id, lvl.levelNumber),
       );
-      if (uncompleted.isNotEmpty) {
-        targetChapter = chapter;
-        targetLevel = uncompleted.first;
-        break;
+
+      if (anyUncompletedInActive.isNotEmpty) {
+        targetChapter = activeChapter;
+        targetLevel = anyUncompletedInActive.first;
+      } else {
+        // Active chapter is 100% completed! Look for next unlocked chapter with uncompleted levels
+        for (final meta in LevelRepository.catalog) {
+          if (!progress.isChapterUnlocked(meta.id)) continue;
+          final chapter = await LevelRepository.loadChapter(meta.jsonFile);
+          final uncompleted = chapter.levels.where(
+            (lvl) => !progress.isLevelCompleted(chapter.id, lvl.levelNumber),
+          );
+          if (uncompleted.isNotEmpty) {
+            targetChapter = chapter;
+            targetLevel = uncompleted.first;
+            break;
+          }
+        }
       }
     }
 
@@ -93,7 +127,7 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
         _hints = progress.hints;
         _clearedLevels = cleared;
         _totalStars = stars;
-        _nextLevelOverall = nextOverall;
+        _nextLevelOverall = targetLevel?.levelNumber ?? 1;
         _isDailyCompleted = isDailyDone;
         _nextChapter = targetChapter;
         _nextLevel = targetLevel;
@@ -219,9 +253,8 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
                         // Primary Play / Continue Button
                         OrganicWoodButton(
                           width: double.infinity,
-                          height: 62,
+                          height: 64,
                           variant: WoodButtonVariant.primary,
-                          fontSize: 21,
                           leading: Container(
                             padding: const EdgeInsets.all(6),
                             decoration: const BoxDecoration(
@@ -234,8 +267,33 @@ class _HomeScreenState extends State<HomeScreen> with SingleTickerProviderStateM
                               size: 26,
                             ),
                           ),
-                          text: 'PLAY LEVEL $_nextLevelOverall',
                           onPressed: _continueGame,
+                          child: Column(
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              Text(
+                                'PLAY LEVEL ${_nextLevel?.levelNumber ?? _nextLevelOverall}',
+                                style: const TextStyle(
+                                  fontFamily: 'Fredoka',
+                                  fontSize: 19,
+                                  fontWeight: FontWeight.w900,
+                                  color: strokeDark,
+                                  letterSpacing: 0.5,
+                                ),
+                              ),
+                              if (_nextChapter != null)
+                                Text(
+                                  '${_nextChapter!.title.toUpperCase()} WORLD',
+                                  style: TextStyle(
+                                    fontFamily: 'Fredoka',
+                                    fontSize: 11,
+                                    fontWeight: FontWeight.w800,
+                                    color: strokeDark.withAlpha(190),
+                                    letterSpacing: 0.5,
+                                  ),
+                                ),
+                            ],
+                          ),
                         ),
 
                         const SizedBox(height: 14),

@@ -170,17 +170,17 @@ void main() {
 
         // Chapter 1 is always unlocked
         expect(progress.isChapterUnlocked(1), isTrue);
-        // Chapter 2 requires 60 stars (20 completed levels)
-        expect(progress.getRequiredStarsForChapter(2), equals(60));
+        // Chapter 2 requires 30 stars (10 completed levels at 3 stars)
+        expect(progress.getRequiredStarsForChapter(2), equals(30));
         expect(progress.isChapterUnlocked(2), isFalse);
-        expect(progress.getStarsNeededForChapter(2), equals(60));
+        expect(progress.getStarsNeededForChapter(2), equals(30));
 
-        // Complete 20 levels in Chapter 1 -> 60 stars
-        for (int i = 1; i <= 20; i++) {
+        // Complete 10 levels in Chapter 1 -> 30 stars
+        for (int i = 1; i <= 10; i++) {
           progress.completeLevel(1, i);
         }
 
-        expect(progress.getTotalStars(), equals(60));
+        expect(progress.getTotalStars(), equals(30));
         expect(progress.isChapterUnlocked(2), isTrue);
         expect(progress.getStarsNeededForChapter(2), equals(0));
       },

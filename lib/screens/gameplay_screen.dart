@@ -47,6 +47,7 @@ class _GameplayScreenState extends State<GameplayScreen> {
 
   int _coins = 150;
   int _hints = 3;
+  int _hintsUsedThisLevel = 0;
   bool _isLevelComplete = false;
 
   @override
@@ -133,6 +134,7 @@ class _GameplayScreenState extends State<GameplayScreen> {
     _foundWords.clear();
     _hintCoordinate = null;
     _isLevelComplete = false;
+    _hintsUsedThisLevel = 0;
   }
 
   void _onWordFound(PlacedWord placedWord, WordItem wordItem) {
@@ -173,18 +175,32 @@ class _GameplayScreenState extends State<GameplayScreen> {
     final bool isDaily = _currentChapter.id == 9999;
     final todayKey = DailyPuzzleService.getTodayKey();
 
+    // Determine stars based on hint booster usage:
+    // 0 hints used -> 3 stars (perfect solve)
+    // 1 hint used -> 2 stars
+    // 2+ hints used (or skipped) -> 1 star
+    final int starsEarned = isSkipped
+        ? 1
+        : (_hintsUsedThisLevel == 0
+            ? 3
+            : (_hintsUsedThisLevel == 1 ? 2 : 1));
+
     // Update user progress
     final progress = await UserProgress.load();
     if (isSkipped) {
       // Skipped level: DO NOT award 10 coins!
-      progress.completeLevel(_currentChapter.id, _currentLevel.levelNumber);
+      progress.completeLevel(_currentChapter.id, _currentLevel.levelNumber, stars: 1);
       progress.coins = _coins; // Ensure deducted coins are preserved
     } else if (isDaily) {
-      progress.addCoins(50); // Daily bonus reward
-      progress.completeDailyPuzzle(todayKey);
+      if (!progress.isDailyPuzzleCompleted(todayKey)) {
+        progress.addCoins(50); // Daily bonus reward
+        progress.completeDailyPuzzle(todayKey);
+      }
     } else {
       progress.addCoins(10);
-      progress.completeLevel(_currentChapter.id, _currentLevel.levelNumber);
+      progress.completeLevel(_currentChapter.id, _currentLevel.levelNumber, stars: starsEarned);
+      progress.activeChapterId = _currentChapter.id;
+      progress.activeLevelIndex = _currentLevel.levelNumber + 1;
     }
     await progress.save();
 
@@ -192,8 +208,12 @@ class _GameplayScreenState extends State<GameplayScreen> {
       setState(() {
         _coins = progress.coins;
       });
-      _showLevelCompleteDialog(isSkipped: isSkipped);
-      if (!isSkipped) {
+      _showLevelCompleteDialog(
+        isSkipped: isSkipped,
+        starsEarned: starsEarned,
+        isDaily: isDaily,
+      );
+      if (!isSkipped && !isDaily) {
         Future.delayed(const Duration(milliseconds: 600), () {
           InAppReviewService.instance.requestReviewRandomly(
             completedLevel: _currentLevel.levelNumber,
@@ -309,7 +329,7 @@ class _GameplayScreenState extends State<GameplayScreen> {
                 ),
                 const SizedBox(height: 10),
                 OrganicWoodButton(
-                  text: 'WATCH AD (+25 COINS)',
+                  text: 'WATCH AD +50 COINS',
                   icon: Icons.play_circle_outline_rounded,
                   variant: WoodButtonVariant.forest,
                   height: 44,
@@ -343,6 +363,7 @@ class _GameplayScreenState extends State<GameplayScreen> {
     }
 
     if (targetPlacedWord != null && targetPlacedWord.coordinates.isNotEmpty) {
+      _hintsUsedThisLevel++;
       SoundManager.instance.playHint();
 
       setState(() {
@@ -484,6 +505,11 @@ class _GameplayScreenState extends State<GameplayScreen> {
     );
 
     if (nextLevel.levelNumber != _currentLevel.levelNumber) {
+      UserProgress.load().then((p) {
+        p.activeChapterId = _currentChapter.id;
+        p.activeLevelIndex = nextLevel.levelNumber;
+        p.save();
+      });
       setState(() {
         _currentLevel = nextLevel;
         _generatePuzzle();
@@ -498,6 +524,11 @@ class _GameplayScreenState extends State<GameplayScreen> {
 
       if (nextMeta.id != _currentChapter.id) {
         final loadedChapter = await LevelRepository.loadChapter(nextMeta.jsonFile);
+        UserProgress.load().then((p) {
+          p.activeChapterId = loadedChapter.id;
+          p.activeLevelIndex = loadedChapter.levels.isNotEmpty ? loadedChapter.levels.first.levelNumber : 1;
+          p.save();
+        });
         if (mounted) {
           setState(() {
             _currentChapter = loadedChapter;
@@ -796,7 +827,11 @@ class _GameplayScreenState extends State<GameplayScreen> {
     );
   }
 
-  void _showLevelCompleteDialog({bool isSkipped = false}) {
+  void _showLevelCompleteDialog({
+    bool isSkipped = false,
+    int starsEarned = 3,
+    bool isDaily = false,
+  }) {
     showDialog(
       context: context,
       barrierDismissible: false,
@@ -818,7 +853,9 @@ class _GameplayScreenState extends State<GameplayScreen> {
                     gradient: LinearGradient(
                       colors: isSkipped
                           ? const [Color(0xFF29B6F6), Color(0xFF0288D1)]
-                          : const [Color(0xFFFFD54F), Color(0xFFFF9800)],
+                          : (isDaily
+                              ? const [Color(0xFFAB47BC), Color(0xFF7B1FA2)]
+                              : const [Color(0xFFFFD54F), Color(0xFFFF9800)]),
                     ),
                     border: Border.all(color: const Color(0xFF5D4037), width: 2.5),
                     boxShadow: [
@@ -830,15 +867,79 @@ class _GameplayScreenState extends State<GameplayScreen> {
                     ],
                   ),
                   child: Icon(
-                    isSkipped ? Icons.skip_next_rounded : Icons.emoji_events_rounded,
+                    isSkipped
+                        ? Icons.skip_next_rounded
+                        : (isDaily ? Icons.calendar_today_rounded : Icons.emoji_events_rounded),
                     color: Colors.white,
-                    size: 42,
+                    size: 40,
                   ),
                 ),
-                const SizedBox(height: 14),
+                const SizedBox(height: 12),
+
+                // 3-Star Rating Row (for normal levels)
+                if (!isDaily) ...[
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: List.generate(3, (index) {
+                      final bool isEarned = index < starsEarned;
+                      return Padding(
+                        padding: const EdgeInsets.symmetric(horizontal: 4),
+                        child: Icon(
+                          isEarned ? Icons.star_rounded : Icons.star_outline_rounded,
+                          size: 38,
+                          color: isEarned
+                              ? const Color(0xFFFFB300)
+                              : const Color(0xFFD7CCC8),
+                        ),
+                      );
+                    }),
+                  ),
+                  const SizedBox(height: 6),
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 4),
+                    decoration: BoxDecoration(
+                      color: starsEarned == 3
+                          ? const Color(0xFFE8F5E9)
+                          : starsEarned == 2
+                              ? const Color(0xFFFFF9C4)
+                              : const Color(0xFFF1F5F9),
+                      borderRadius: BorderRadius.circular(12),
+                      border: Border.all(
+                        color: starsEarned == 3
+                            ? const Color(0xFF2E7D32)
+                            : starsEarned == 2
+                                ? const Color(0xFFF57F17)
+                                : const Color(0xFF78909C),
+                        width: 1.2,
+                      ),
+                    ),
+                    child: Text(
+                      isSkipped
+                          ? '1 STAR (Level Skipped)'
+                          : starsEarned == 3
+                              ? '3 STARS (Flawless! 0 Hints Used)'
+                              : starsEarned == 2
+                                  ? '2 STARS (Great! 1 Hint Used)'
+                                  : '1 STAR ($_hintsUsedThisLevel Hints Used)',
+                      style: TextStyle(
+                        fontFamily: 'Fredoka',
+                        fontSize: 12,
+                        fontWeight: FontWeight.bold,
+                        color: starsEarned == 3
+                            ? const Color(0xFF1B5E20)
+                            : starsEarned == 2
+                                ? const Color(0xFFB78103)
+                                : const Color(0xFF37474F),
+                      ),
+                    ),
+                  ),
+                  const SizedBox(height: 12),
+                ],
 
                 Text(
-                  isSkipped ? 'LEVEL SKIPPED!' : 'LEVEL COMPLETE!',
+                  isDaily
+                      ? 'DAILY PUZZLE COMPLETE!'
+                      : (isSkipped ? 'LEVEL SKIPPED!' : 'LEVEL COMPLETE!'),
                   style: const TextStyle(
                     fontFamily: 'Fredoka',
                     fontSize: 22,
@@ -850,9 +951,11 @@ class _GameplayScreenState extends State<GameplayScreen> {
                 const SizedBox(height: 10),
 
                 Text(
-                  isSkipped
-                      ? 'You skipped ${_currentChapter.title} Level ${_currentLevel.levelNumber}.'
-                      : 'Magnificent job! You found all words in ${_currentChapter.title} Level ${_currentLevel.levelNumber}.',
+                  isDaily
+                      ? 'Awesome job! You completed today\'s daily word puzzle!'
+                      : (isSkipped
+                          ? 'You skipped ${_currentChapter.title} Level ${_currentLevel.levelNumber}.'
+                          : 'Magnificent job! You found all words in ${_currentChapter.title} Level ${_currentLevel.levelNumber}.'),
                   textAlign: TextAlign.center,
                   style: const TextStyle(
                     fontFamily: 'Fredoka',
@@ -881,7 +984,9 @@ class _GameplayScreenState extends State<GameplayScreen> {
                       ),
                       const SizedBox(width: 8),
                       Text(
-                        isSkipped ? '-50 COINS USED' : '+10 COINS EARNED',
+                        isSkipped
+                            ? '-50 COINS USED'
+                            : (isDaily ? '+50 COINS EARNED' : '+10 COINS EARNED'),
                         style: TextStyle(
                           fontFamily: 'Fredoka',
                           fontSize: 15,
@@ -895,15 +1000,19 @@ class _GameplayScreenState extends State<GameplayScreen> {
                 const SizedBox(height: 20),
 
                 OrganicWoodButton(
-                  text: 'NEXT LEVEL',
-                  icon: Icons.arrow_forward_rounded,
+                  text: isDaily ? 'BACK TO MENU' : 'NEXT LEVEL',
+                  icon: isDaily ? Icons.home_rounded : Icons.arrow_forward_rounded,
                   variant: WoodButtonVariant.forest,
                   height: 50,
                   onPressed: () {
                     Navigator.pop(ctx);
-                    AdManager.instance.showInterstitialIfEligible(
-                      onAdClosed: () => _loadNextLevel(),
-                    );
+                    if (isDaily) {
+                      Navigator.pop(context);
+                    } else {
+                      AdManager.instance.showInterstitialIfEligible(
+                        onAdClosed: () => _loadNextLevel(),
+                      );
+                    }
                   },
                 ),
               ],

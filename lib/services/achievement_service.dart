@@ -12,9 +12,9 @@ class AchievementService {
       title: 'Word Hunter',
       description: 'Find target words across puzzle levels',
       tiers: [
-        AchievementTier(tierNumber: 1, targetValue: 100, coinReward: 100),
-        AchievementTier(tierNumber: 2, targetValue: 1000, coinReward: 400),
-        AchievementTier(tierNumber: 3, targetValue: 5000, coinReward: 750),
+        AchievementTier(tierNumber: 1, targetValue: 100, coinReward: 10, hintReward: 1),
+        AchievementTier(tierNumber: 2, targetValue: 1000, coinReward: 25, hintReward: 1),
+        AchievementTier(tierNumber: 3, targetValue: 5000, coinReward: 40, hintReward: 2),
       ],
     ),
     Achievement(
@@ -22,9 +22,9 @@ class AchievementService {
       title: 'World Wanderer',
       description: 'Complete all 120 levels in different Worlds',
       tiers: [
-        AchievementTier(tierNumber: 1, targetValue: 1, coinReward: 200),
-        AchievementTier(tierNumber: 2, targetValue: 10, coinReward: 900),
-        AchievementTier(tierNumber: 3, targetValue: 30, coinReward: 2000),
+        AchievementTier(tierNumber: 1, targetValue: 1, coinReward: 15, hintReward: 1),
+        AchievementTier(tierNumber: 2, targetValue: 10, coinReward: 30, hintReward: 2),
+        AchievementTier(tierNumber: 3, targetValue: 30, coinReward: 50, hintReward: 3),
       ],
     ),
     Achievement(
@@ -32,9 +32,9 @@ class AchievementService {
       title: 'Level Champion',
       description: 'Complete unique puzzle levels',
       tiers: [
-        AchievementTier(tierNumber: 1, targetValue: 25, coinReward: 150),
-        AchievementTier(tierNumber: 2, targetValue: 250, coinReward: 500),
-        AchievementTier(tierNumber: 3, targetValue: 1000, coinReward: 1200),
+        AchievementTier(tierNumber: 1, targetValue: 25, coinReward: 10, hintReward: 1),
+        AchievementTier(tierNumber: 2, targetValue: 250, coinReward: 25, hintReward: 1),
+        AchievementTier(tierNumber: 3, targetValue: 1000, coinReward: 40, hintReward: 2),
       ],
     ),
     Achievement(
@@ -42,9 +42,9 @@ class AchievementService {
       title: 'Speed Demon',
       description: 'Find 3 words in under 20 seconds during fresh level victory',
       tiers: [
-        AchievementTier(tierNumber: 1, targetValue: 5, coinReward: 100),
-        AchievementTier(tierNumber: 2, targetValue: 25, coinReward: 400),
-        AchievementTier(tierNumber: 3, targetValue: 100, coinReward: 800),
+        AchievementTier(tierNumber: 1, targetValue: 5, coinReward: 10, hintReward: 1),
+        AchievementTier(tierNumber: 2, targetValue: 25, coinReward: 20, hintReward: 1),
+        AchievementTier(tierNumber: 3, targetValue: 100, coinReward: 35, hintReward: 2),
       ],
     ),
     Achievement(
@@ -52,9 +52,9 @@ class AchievementService {
       title: 'Sharp Mind',
       description: 'Clear levels without using any hints or skips',
       tiers: [
-        AchievementTier(tierNumber: 1, targetValue: 10, coinReward: 200),
-        AchievementTier(tierNumber: 2, targetValue: 50, coinReward: 600),
-        AchievementTier(tierNumber: 3, targetValue: 200, coinReward: 1200),
+        AchievementTier(tierNumber: 1, targetValue: 10, coinReward: 10, hintReward: 1),
+        AchievementTier(tierNumber: 2, targetValue: 50, coinReward: 25, hintReward: 1),
+        AchievementTier(tierNumber: 3, targetValue: 200, coinReward: 40, hintReward: 2),
       ],
     ),
     Achievement(
@@ -62,9 +62,9 @@ class AchievementService {
       title: 'Coin Tycoon',
       description: 'Amass lifetime gold coins through clever play',
       tiers: [
-        AchievementTier(tierNumber: 1, targetValue: 1000, coinReward: 200),
-        AchievementTier(tierNumber: 2, targetValue: 10000, coinReward: 800),
-        AchievementTier(tierNumber: 3, targetValue: 50000, coinReward: 1600),
+        AchievementTier(tierNumber: 1, targetValue: 500, coinReward: 10, hintReward: 1),
+        AchievementTier(tierNumber: 2, targetValue: 2000, coinReward: 20, hintReward: 1),
+        AchievementTier(tierNumber: 3, targetValue: 10000, coinReward: 35, hintReward: 2),
       ],
     ),
     Achievement(
@@ -72,9 +72,9 @@ class AchievementService {
       title: 'Star Collector',
       description: 'Collect gameplay stars across all levels',
       tiers: [
-        AchievementTier(tierNumber: 1, targetValue: 100, coinReward: 200),
-        AchievementTier(tierNumber: 2, targetValue: 1000, coinReward: 1000),
-        AchievementTier(tierNumber: 3, targetValue: 3000, coinReward: 2500),
+        AchievementTier(tierNumber: 1, targetValue: 100, coinReward: 10, hintReward: 1),
+        AchievementTier(tierNumber: 2, targetValue: 1000, coinReward: 25, hintReward: 2),
+        AchievementTier(tierNumber: 3, targetValue: 3000, coinReward: 45, hintReward: 2),
       ],
     ),
     Achievement(
@@ -82,9 +82,9 @@ class AchievementService {
       title: 'Daily Master',
       description: 'Solve daily challenge puzzle levels',
       tiers: [
-        AchievementTier(tierNumber: 1, targetValue: 3, coinReward: 150),
-        AchievementTier(tierNumber: 2, targetValue: 14, coinReward: 425),
-        AchievementTier(tierNumber: 3, targetValue: 60, coinReward: 1000),
+        AchievementTier(tierNumber: 1, targetValue: 3, coinReward: 15, hintReward: 1),
+        AchievementTier(tierNumber: 2, targetValue: 14, coinReward: 25, hintReward: 1),
+        AchievementTier(tierNumber: 3, targetValue: 60, coinReward: 45, hintReward: 2),
       ],
     ),
     Achievement(
@@ -92,9 +92,9 @@ class AchievementService {
       title: 'Vocab Scholar',
       description: 'Inspect unique dictionary word definitions in-game',
       tiers: [
-        AchievementTier(tierNumber: 1, targetValue: 10, coinReward: 100),
-        AchievementTier(tierNumber: 2, targetValue: 50, coinReward: 350),
-        AchievementTier(tierNumber: 3, targetValue: 200, coinReward: 600),
+        AchievementTier(tierNumber: 1, targetValue: 10, coinReward: 10, hintReward: 1),
+        AchievementTier(tierNumber: 2, targetValue: 50, coinReward: 20, hintReward: 1),
+        AchievementTier(tierNumber: 3, targetValue: 200, coinReward: 30, hintReward: 2),
       ],
     ),
     Achievement(
@@ -102,9 +102,9 @@ class AchievementService {
       title: 'Hint Strategist',
       description: 'Deploy hint boosters when facing tricky words',
       tiers: [
-        AchievementTier(tierNumber: 1, targetValue: 5, coinReward: 50, hintReward: 3),
-        AchievementTier(tierNumber: 2, targetValue: 25, coinReward: 150, hintReward: 10),
-        AchievementTier(tierNumber: 3, targetValue: 100, coinReward: 400, hintReward: 30),
+        AchievementTier(tierNumber: 1, targetValue: 5, coinReward: 10, hintReward: 1),
+        AchievementTier(tierNumber: 2, targetValue: 25, coinReward: 20, hintReward: 1),
+        AchievementTier(tierNumber: 3, targetValue: 100, coinReward: 35, hintReward: 2),
       ],
     ),
     Achievement(
@@ -112,9 +112,9 @@ class AchievementService {
       title: 'Master Chef',
       description: 'Complete levels in World 1 (Food)',
       tiers: [
-        AchievementTier(tierNumber: 1, targetValue: 20, coinReward: 100),
-        AchievementTier(tierNumber: 2, targetValue: 60, coinReward: 250),
-        AchievementTier(tierNumber: 3, targetValue: 120, coinReward: 350),
+        AchievementTier(tierNumber: 1, targetValue: 20, coinReward: 10, hintReward: 1),
+        AchievementTier(tierNumber: 2, targetValue: 60, coinReward: 20, hintReward: 1),
+        AchievementTier(tierNumber: 3, targetValue: 120, coinReward: 30, hintReward: 2),
       ],
     ),
     Achievement(
@@ -122,9 +122,9 @@ class AchievementService {
       title: 'Deep Diver',
       description: 'Complete levels in World 20 (Ocean)',
       tiers: [
-        AchievementTier(tierNumber: 1, targetValue: 20, coinReward: 100),
-        AchievementTier(tierNumber: 2, targetValue: 60, coinReward: 250),
-        AchievementTier(tierNumber: 3, targetValue: 120, coinReward: 350),
+        AchievementTier(tierNumber: 1, targetValue: 20, coinReward: 10, hintReward: 1),
+        AchievementTier(tierNumber: 2, targetValue: 60, coinReward: 20, hintReward: 1),
+        AchievementTier(tierNumber: 3, targetValue: 120, coinReward: 30, hintReward: 2),
       ],
     ),
     Achievement(
@@ -132,9 +132,9 @@ class AchievementService {
       title: 'Sky Watcher',
       description: 'Complete levels in World 18 (Birds)',
       tiers: [
-        AchievementTier(tierNumber: 1, targetValue: 20, coinReward: 100),
-        AchievementTier(tierNumber: 2, targetValue: 60, coinReward: 250),
-        AchievementTier(tierNumber: 3, targetValue: 120, coinReward: 350),
+        AchievementTier(tierNumber: 1, targetValue: 20, coinReward: 10, hintReward: 1),
+        AchievementTier(tierNumber: 2, targetValue: 60, coinReward: 20, hintReward: 1),
+        AchievementTier(tierNumber: 3, targetValue: 120, coinReward: 30, hintReward: 2),
       ],
     ),
     Achievement(
@@ -142,9 +142,9 @@ class AchievementService {
       title: 'Safari Ranger',
       description: 'Complete levels in World 26 (Wild Animals)',
       tiers: [
-        AchievementTier(tierNumber: 1, targetValue: 20, coinReward: 100),
-        AchievementTier(tierNumber: 2, targetValue: 60, coinReward: 250),
-        AchievementTier(tierNumber: 3, targetValue: 120, coinReward: 350),
+        AchievementTier(tierNumber: 1, targetValue: 20, coinReward: 10, hintReward: 1),
+        AchievementTier(tierNumber: 2, targetValue: 60, coinReward: 20, hintReward: 1),
+        AchievementTier(tierNumber: 3, targetValue: 120, coinReward: 30, hintReward: 2),
       ],
     ),
     Achievement(
@@ -152,9 +152,9 @@ class AchievementService {
       title: 'Flawless Streak',
       description: 'Win consecutive levels without quitting or failing',
       tiers: [
-        AchievementTier(tierNumber: 1, targetValue: 5, coinReward: 200),
-        AchievementTier(tierNumber: 2, targetValue: 15, coinReward: 600),
-        AchievementTier(tierNumber: 3, targetValue: 50, coinReward: 1200),
+        AchievementTier(tierNumber: 1, targetValue: 5, coinReward: 10, hintReward: 1),
+        AchievementTier(tierNumber: 2, targetValue: 15, coinReward: 20, hintReward: 1),
+        AchievementTier(tierNumber: 3, targetValue: 50, coinReward: 40, hintReward: 2),
       ],
     ),
     Achievement(
@@ -162,9 +162,9 @@ class AchievementService {
       title: 'Legend of Words',
       description: 'Complete all 3,600 unique levels across all 30 Worlds',
       tiers: [
-        AchievementTier(tierNumber: 1, targetValue: 500, coinReward: 1500),
-        AchievementTier(tierNumber: 2, targetValue: 1800, coinReward: 3500),
-        AchievementTier(tierNumber: 3, targetValue: 3600, coinReward: 7500),
+        AchievementTier(tierNumber: 1, targetValue: 500, coinReward: 20, hintReward: 1),
+        AchievementTier(tierNumber: 2, targetValue: 1800, coinReward: 40, hintReward: 2),
+        AchievementTier(tierNumber: 3, targetValue: 3600, coinReward: 60, hintReward: 3),
       ],
     ),
   ];

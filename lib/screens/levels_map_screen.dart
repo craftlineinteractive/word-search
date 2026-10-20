@@ -109,6 +109,8 @@ class _LevelsMapScreenState extends State<LevelsMapScreen> {
     }
 
     SoundManager.instance.playButtonClick();
+    _userProgress.activeChapterId = chapterMeta.id;
+    await _userProgress.save();
     final chapter = await LevelRepository.loadChapter(chapterMeta.jsonFile);
 
     if (mounted) {

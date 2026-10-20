@@ -45,9 +45,9 @@ class _AchievementsScreenState extends State<AchievementsScreen> {
     return stars;
   }
 
-  void _claimTier(Achievement achievement, int tierIndex) async {
+  void _claimTier(Achievement achievement, int tierNumber) async {
     if (_progress == null) return;
-    final tier = achievement.tiers[tierIndex];
+    final tier = achievement.tiers[tierNumber - 1];
     SoundManager.instance.playVictoryFanfare();
 
     setState(() {
@@ -55,14 +55,16 @@ class _AchievementsScreenState extends State<AchievementsScreen> {
       if (tier.hintReward > 0) {
         _progress!.hints += tier.hintReward;
       }
+      _progress!.claimAchievementTier(achievement.id, tierNumber);
     });
 
     await _progress!.save();
 
     if (mounted) {
+      final hintText = tier.hintReward > 0 ? ' & +${tier.hintReward} Hint${tier.hintReward > 1 ? 's' : ''}' : '';
       ScaffoldMessenger.of(context).showSnackBar(
         SnackBar(
-          content: Text('Claimed +${tier.coinReward} Coins! ★'),
+          content: Text('Claimed ★ Star $tierNumber: +${tier.coinReward} Coins$hintText!'),
           backgroundColor: const Color(0xFF15803D),
           duration: const Duration(seconds: 2),
         ),
@@ -97,6 +99,63 @@ class _AchievementsScreenState extends State<AchievementsScreen> {
             Navigator.pop(context);
           },
         ),
+        actions: [
+          if (_progress != null)
+            Padding(
+              padding: const EdgeInsets.only(right: 14.0),
+              child: Row(
+                children: [
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                    decoration: BoxDecoration(
+                      color: const Color(0xFFFFF9E6),
+                      borderRadius: BorderRadius.circular(14),
+                      border: Border.all(color: strokeDark, width: 1.2),
+                    ),
+                    child: Row(
+                      children: [
+                        const Icon(Icons.monetization_on_rounded, color: Color(0xFFFFB300), size: 16),
+                        const SizedBox(width: 3),
+                        Text(
+                          '${_progress!.coins}',
+                          style: const TextStyle(
+                            fontFamily: 'Fredoka',
+                            color: strokeDark,
+                            fontWeight: FontWeight.w900,
+                            fontSize: 12,
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                  const SizedBox(width: 6),
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                    decoration: BoxDecoration(
+                      color: const Color(0xFFE0F2FE),
+                      borderRadius: BorderRadius.circular(14),
+                      border: Border.all(color: strokeDark, width: 1.2),
+                    ),
+                    child: Row(
+                      children: [
+                        const Icon(Icons.lightbulb_rounded, color: Color(0xFF0284C7), size: 16),
+                        const SizedBox(width: 3),
+                        Text(
+                          '${_progress!.hints}',
+                          style: const TextStyle(
+                            fontFamily: 'Fredoka',
+                            color: strokeDark,
+                            fontWeight: FontWeight.w900,
+                            fontSize: 12,
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+                ],
+              ),
+            ),
+        ],
       ),
       body: _isLoading
           ? const Center(child: CircularProgressIndicator())
@@ -186,9 +245,12 @@ class _AchievementsScreenState extends State<AchievementsScreen> {
                           final currentVal =
                               AchievementService.instance.getStatValue(_progress!, ach.id);
                           final completedTier = ach.getCompletedTier(currentVal);
+                          final claimedTier = _progress!.getClaimedAchievementTier(ach.id);
                           final nextTarget = ach.getNextTierTarget(completedTier);
                           final double progressFraction =
                               (currentVal / (nextTarget > 0 ? nextTarget : 1)).clamp(0.0, 1.0);
+                          final bool canClaim = completedTier > claimedTier;
+                          final int tierToClaim = claimedTier + 1;
 
                           return ParchmentCard(
                             padding: const EdgeInsets.all(14.0),
@@ -277,18 +339,82 @@ class _AchievementsScreenState extends State<AchievementsScreen> {
                                   ],
                                 ),
 
-                                // Claimable Rewards Button if completed
-                                if (completedTier > 0) ...[
+
+                                // Claimable Rewards Button or Claimed Status Badge
+                                if (canClaim) ...[
                                   const SizedBox(height: 10),
                                   Align(
                                     alignment: Alignment.centerRight,
                                     child: OrganicWoodButton(
                                       height: 38,
                                       fontSize: 13,
-                                      variant: WoodButtonVariant.primary,
-                                      text:
-                                          'Claim +${ach.tiers[completedTier - 1].coinReward} Coins',
-                                      onPressed: () => _claimTier(ach, completedTier - 1),
+                                      variant: WoodButtonVariant.forest,
+                                      text: () {
+                                        final t = ach.tiers[tierToClaim - 1];
+                                        final hintPart = t.hintReward > 0
+                                            ? ', +${t.hintReward} Hint${t.hintReward > 1 ? 's' : ''}'
+                                            : '';
+                                        return 'Claim ★ Star $tierToClaim (+${t.coinReward} Coins$hintPart)';
+                                      }(),
+                                      onPressed: () => _claimTier(ach, tierToClaim),
+                                    ),
+                                  ),
+                                ] else if (claimedTier >= ach.tiers.length) ...[
+                                  const SizedBox(height: 10),
+                                  Align(
+                                    alignment: Alignment.centerRight,
+                                    child: Container(
+                                      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                                      decoration: BoxDecoration(
+                                        color: const Color(0xFFE8F5E9),
+                                        borderRadius: BorderRadius.circular(10),
+                                        border: Border.all(color: const Color(0xFF2E7D32), width: 1.2),
+                                      ),
+                                      child: const Row(
+                                        mainAxisSize: MainAxisSize.min,
+                                        children: [
+                                          Icon(Icons.check_circle_rounded, size: 16, color: Color(0xFF2E7D32)),
+                                          SizedBox(width: 4),
+                                          Text(
+                                            'All 3 Stars Claimed',
+                                            style: TextStyle(
+                                              fontFamily: 'Fredoka',
+                                              fontSize: 12,
+                                              fontWeight: FontWeight.bold,
+                                              color: Color(0xFF1B5E20),
+                                            ),
+                                          ),
+                                        ],
+                                      ),
+                                    ),
+                                  ),
+                                ] else if (claimedTier > 0) ...[
+                                  const SizedBox(height: 10),
+                                  Align(
+                                    alignment: Alignment.centerRight,
+                                    child: Container(
+                                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+                                      decoration: BoxDecoration(
+                                        color: const Color(0xFFF1F5F9),
+                                        borderRadius: BorderRadius.circular(10),
+                                        border: Border.all(color: const Color(0xFF94A3B8), width: 1.0),
+                                      ),
+                                      child: Row(
+                                        mainAxisSize: MainAxisSize.min,
+                                        children: [
+                                          const Icon(Icons.check_rounded, size: 14, color: Color(0xFF475569)),
+                                          const SizedBox(width: 4),
+                                          Text(
+                                            '★ Star $claimedTier of 3 Claimed',
+                                            style: const TextStyle(
+                                              fontFamily: 'Fredoka',
+                                              fontSize: 11,
+                                              fontWeight: FontWeight.bold,
+                                              color: Color(0xFF475569),
+                                            ),
+                                          ),
+                                        ],
+                                      ),
                                     ),
                                   ),
                                 ],
